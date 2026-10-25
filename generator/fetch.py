@@ -173,10 +173,15 @@ WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-
 
 def fetch_weather(url: str) -> tuple[dict | None, str | None]:
     """Today's Vilnius forecast with a short Lithuanian summary line, or the reason it failed."""
-    try:
-        data = json.loads(download(url))
-    except Exception as exc:
-        return None, f"{type(exc).__name__}: {exc}"
+    # The cloud's proxy sometimes times out on the TLS handshake with Open-Meteo, so try a few times.
+    for attempt in range(3):
+        try:
+            data = json.loads(download(url, timeout=40))
+            break
+        except Exception as exc:
+            error = f"{type(exc).__name__}: {exc}"
+    else:
+        return None, error
     daily = data["daily"]
     code = daily["weather_code"][0]
     rainy_hours = [t[11:16] for t, p in zip(data["hourly"]["time"], data["hourly"]["precipitation_probability"])
