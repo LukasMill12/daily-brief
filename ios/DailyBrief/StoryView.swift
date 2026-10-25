@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// One story opened from the index: headline, the lead photo, the summary, and a second photo if there is one.
+/// One story opened from the index: headline, summary and sources, then its photos.
 struct StoryView: View {
     var detail: Detail
     @Environment(\.dismiss) private var dismiss
@@ -24,25 +24,11 @@ struct StoryView: View {
                     .foregroundStyle(Theme.text)
                     .padding(.bottom, 18)
 
-                if let first = detail.images.first {
-                    Photo(url: first, aspect: 3 / 2)
-                        .padding(.bottom, 18)
-                }
-
                 Text(detail.body)
                     .font(Theme.helvetica(21))
                     .tracking(-0.5)
                     .foregroundStyle(Theme.text)
                     .padding(.bottom, 18)
-
-                if detail.images.count > 1 {
-                    HStack {
-                        Spacer()
-                        Photo(url: detail.images[1], aspect: 4 / 5)
-                            .containerRelativeFrame(.horizontal) { width, _ in width / 2 - 18 }
-                    }
-                    .padding(.bottom, 18)
-                }
 
                 if !detail.meta.isEmpty {
                     Text(detail.meta.uppercased())
@@ -63,6 +49,17 @@ struct StoryView: View {
                         }
                     }
                 }
+
+                // Photos close the page: centred, narrower than the text, with generous space around them.
+                VStack(spacing: 56) {
+                    ForEach(detail.images, id: \.self) { url in
+                        Photo(url: url)
+                            .containerRelativeFrame(.horizontal) { width, _ in width * 0.62 }
+                    }
+                }
+                .frame(maxWidth: .infinity)
+                .padding(.top, detail.images.isEmpty ? 0 : 64)
+                .padding(.bottom, 40)
             }
             .padding(18)
         }
@@ -71,21 +68,17 @@ struct StoryView: View {
     }
 }
 
-/// A photo cropped to a fixed shape; it simply stays empty if it can't load.
+/// A photo at its own proportions; a faint placeholder holds its place until it loads.
 private struct Photo: View {
     var url: String
-    var aspect: CGFloat
 
     var body: some View {
-        Color.white.opacity(0.04)
-            .aspectRatio(aspect, contentMode: .fit)
-            .overlay {
-                AsyncImage(url: URL(string: url)) { image in
-                    image.resizable().scaledToFill()
-                } placeholder: {
-                    Color.clear
-                }
+        AsyncImage(url: URL(string: url)) { phase in
+            if let image = phase.image {
+                image.resizable().scaledToFit()
+            } else {
+                Color.white.opacity(0.04).aspectRatio(4 / 3, contentMode: .fit)
             }
-            .clipped()
+        }
     }
 }

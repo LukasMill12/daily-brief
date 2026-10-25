@@ -41,7 +41,10 @@ struct BriefView: View {
     /// Opening the app in any way (icon, widget, notification) counts as reading today's brief.
     private func reload() async {
         if let fresh = await BriefLoader.load() { brief = fresh }
-        if let brief { SeenState.markSeen(brief) }
+        if let brief {
+            SeenState.markSeen(brief)
+            await BriefLoader.preloadImages(of: brief)
+        }
     }
 
     private func content(_ brief: Brief) -> some View {

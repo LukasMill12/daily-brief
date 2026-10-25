@@ -2,6 +2,7 @@
 
 `section` is only a hint for the editor step; a story can still end up in a
 different section (e.g. a world story with a Lithuanian angle).
+`source` overrides the outlet name shown to the reader when a feed is a second view of an outlet.
 `ranked` marks feeds ordered by importance (an editor's or Google's front page),
 so an item's position there is a second importance signal next to coverage.
 """
@@ -22,7 +23,7 @@ FEEDS = [
     {"name": "Google News Lithuania", "section": "lithuania", "limit": 50, "ranked": True,
      "url": f"{GOOGLE}/headlines/section/topic/NATION?hl=lt&gl=LT&ceid=LT:lt"},
     # World
-    {"name": "BBC Top Stories", "section": "world", "limit": 20, "ranked": True, "url": "https://feeds.bbci.co.uk/news/rss.xml"},
+    {"name": "BBC Top Stories", "source": "BBC", "section": "world", "limit": 20, "ranked": True, "url": "https://feeds.bbci.co.uk/news/rss.xml"},
     {"name": "Google News Top", "section": "world", "ranked": True, "url": f"{GOOGLE}?{EN}"},
     {"name": "Google News World", "section": "world", "ranked": True, "url": f"{GOOGLE}/headlines/section/topic/WORLD?{EN}"},
     {"name": "BBC", "section": "world", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},

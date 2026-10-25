@@ -84,7 +84,7 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             link = link_el.get("href") if link_el is not None else ""
             summary = node.findtext(f"{ATOM}summary") or node.findtext(f"{ATOM}content")
             published = node.findtext(f"{ATOM}published") or node.findtext(f"{ATOM}updated")
-            source = feed["name"]
+            source = feed.get("source", feed["name"])
             outlets: list[str] = []
             body = node.findtext(f"{ATOM}content") or summary
         else:
@@ -93,7 +93,7 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             summary = node.findtext("description")
             published = node.findtext("pubDate")
             source_el = node.find("source")
-            source = source_el.text if is_google and source_el is not None else feed["name"]
+            source = source_el.text if is_google and source_el is not None else feed.get("source", feed["name"])
             outlets = google_outlets(summary) if is_google else []
             body = (summary or "") + (node.findtext(f"{CONTENT}encoded") or "")
 

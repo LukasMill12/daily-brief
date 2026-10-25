@@ -2,6 +2,11 @@ import SwiftUI
 
 @main
 struct DailyBriefApp: App {
+    init() {
+        // Room for a day's photos, so preloaded images are still there when a story opens.
+        URLCache.shared = URLCache(memoryCapacity: 50_000_000, diskCapacity: 300_000_000)
+    }
+
     var body: some Scene {
         WindowGroup {
             #if DEBUG

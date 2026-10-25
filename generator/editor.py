@@ -18,8 +18,9 @@ STORY = {
         "coverage": {"type": "integer"},
         "why": {"type": "string"},
         "item_ids": SOURCE_IDS,
+        "photo_ids": SOURCE_IDS,
     },
-    "required": ["headline", "summary", "category", "highlight", "coverage", "why", "item_ids"],
+    "required": ["headline", "summary", "category", "highlight", "coverage", "why", "item_ids", "photo_ids"],
     "additionalProperties": False,
 }
 
@@ -30,8 +31,9 @@ ONGOING = {
         "title": {"type": "string"},
         "update": {"type": "string"},
         "item_ids": SOURCE_IDS,
+        "photo_ids": SOURCE_IDS,
     },
-    "required": ["id", "title", "update", "item_ids"],
+    "required": ["id", "title", "update", "item_ids", "photo_ids"],
     "additionalProperties": False,
 }
 
@@ -95,7 +97,8 @@ Rules
 - why: a few words on why it was picked, in the entry's language, e.g. "Covered by 9 outlets" or "Apie tai rašė 5 portalai".
 - highlight: true for stories about AI, tech, design or sports, in any section.
 - category: "general" for anything outside the reader's topics.
-- item_ids: cite every item that reports the story (all outlets, including Google News items), most important first, so the reader gets several sources and the full articles can be looked up."""
+- item_ids: cite every item that reports this story itself (all outlets, including Google News items), the main news report first, so the reader gets several sources and the full articles can be looked up. Leave out pieces that only touch the story from another angle: celebrity, lifestyle, opinion or reaction pieces.
+- photo_ids: up to 2 ids of items marked {photo} whose photo would show this story: its event, place or the people at its centre, as judged from that item's headline and outlet. Never pick photos from celebrity, lifestyle or unrelated pieces, and prefer the main news report's photo. An empty list is better than a photo that doesn't fit."""
 
 
 TYPES = {"object": dict, "array": list, "string": str, "integer": int, "boolean": bool}
@@ -135,6 +138,8 @@ def format_items(items: list[dict]) -> str:
             line += f" {{cluster: {len(item['outlets'])} outlets: {', '.join(item['outlets'][:8])}}}"
         if item.get("rank"):
             line += f" {{front page #{item['rank']} on {item['feed']}}}"
+        if item.get("image"):
+            line += " {photo}"
         lines.append(line)
     return "\n".join(lines)
 

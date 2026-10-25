@@ -115,6 +115,17 @@ enum BriefLoader {
         return cached()
     }
 
+    /// Downloads every story photo into the URL cache so story pages show them instantly.
+    static func preloadImages(of brief: Brief) async {
+        let urls = (brief.lithuania + brief.world + brief.interesting).flatMap { $0.images ?? [] }
+            + brief.ongoing.flatMap { $0.images ?? [] }
+        await withTaskGroup(of: Void.self) { group in
+            for case let url? in urls.map(URL.init(string:)) {
+                group.addTask { _ = try? await URLSession.shared.data(from: url) }
+            }
+        }
+    }
+
     static func cached() -> Brief? {
         guard let data = UserDefaults.standard.data(forKey: cacheKey) else { return nil }
         return try? JSONDecoder().decode(Brief.self, from: data)

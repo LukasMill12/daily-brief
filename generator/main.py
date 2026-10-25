@@ -59,7 +59,7 @@ def candidate_sources(ids: list[str], items: list[dict]) -> list[dict]:
 
 
 def story_images(ids: list[str], items: list[dict]) -> list[str]:
-    """Up to MAX_IMAGES distinct images from the items a story cites, most important item first."""
+    """Up to MAX_IMAGES distinct images from the items the editor chose as fitting photos."""
     images = []
     for raw in ids:
         key = raw.strip("[] ")
@@ -75,7 +75,7 @@ def finish(draft: dict, items: list[dict], now: datetime, problems: list[str], w
             ids = entry.pop("item_ids")
             entry["sources"] = candidate_sources(ids, items)[:MAX_SOURCES]
             if section != "events":
-                entry["images"] = story_images(ids, items)
+                entry["images"] = story_images(entry.pop("photo_ids", []), items)
     return {
         "date": now.astimezone(VILNIUS).date().isoformat(),
         "generated_at": now.isoformat(timespec="seconds"),
