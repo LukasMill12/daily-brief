@@ -17,7 +17,10 @@ struct BriefProvider: TimelineProvider {
 
     func getTimeline(in context: Context, completion: @escaping (Timeline<BriefEntry>) -> Void) {
         Task {
-            let brief = await BriefLoader.load()
+            async let loaded = BriefLoader.load()
+            async let weather = WeatherLoader.load()
+            var brief = await loaded
+            if let weather = await weather { brief?.weather = weather }
             completion(Timeline(entries: [BriefEntry(date: .now, brief: brief)], policy: .after(nextRefresh(for: brief))))
         }
     }

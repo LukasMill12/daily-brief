@@ -40,7 +40,11 @@ struct BriefView: View {
 
     /// Opening the app in any way (icon, widget, notification) counts as reading today's brief.
     private func reload() async {
-        if let fresh = await BriefLoader.load() { brief = fresh }
+        async let fresh = BriefLoader.load()
+        async let weather = WeatherLoader.load()
+        if let fresh = await fresh { brief = fresh }
+        // The phone's own forecast is current; the brief's 09:00 forecast is the fallback.
+        if let weather = await weather { brief?.weather = weather }
         if let brief {
             SeenState.markSeen(brief)
             await BriefLoader.preloadImages(of: brief)
@@ -127,8 +131,11 @@ struct BriefView: View {
                 Text(weather.text.uppercased())
             }
             Text("\(Theme.coordinates) · \(brief.stats?.itemsRead ?? 0) HEADLINES READ")
-            if let problems = brief.stats?.feedProblems, !problems.isEmpty {
-                Text("NOT WORKING TODAY: " + problems.map { $0.components(separatedBy: ":")[0] }.joined(separator: ", ").uppercased())
+            // The phone fetches weather itself, so the cloud's weather problems don't matter here.
+            let problems = (brief.stats?.feedProblems ?? []).map { $0.components(separatedBy: ":")[0] }
+                .filter { $0 != "weather" }
+            if !problems.isEmpty {
+                Text("NOT WORKING TODAY: " + problems.joined(separator: ", ").uppercased())
             }
         }
         .font(Theme.helvetica(11))
