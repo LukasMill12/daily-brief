@@ -77,7 +77,7 @@ function story(s, showTag) {
 
 function render(b) {
   const date = new Date(b.date + "T12:00:00").toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long" });
-  let html = `<header><h1>${esc(date)}</h1><p>Your daily brief</p></header>`;
+  let html = `<header><h1>${esc(date)}</h1><p>${b.weather ? esc(b.weather.text) : "Your daily brief"}</p></header>`;
   if (b.heads_up?.length) html += `<div class="heads-up">${b.heads_up.map(h => `<p>⏰ ${esc(h)}</p>`).join("")}</div>`;
 
   for (const [key, title] of SECTIONS) {
@@ -96,7 +96,9 @@ function render(b) {
          <p>${esc(e.when)}${e.where ? " · " + esc(e.where) : ""}</p><div class="meta">${sources(e.sources)}</div></div>`).join("") +
       `</section>`;
   }
-  html += `<footer>Picked from ${b.stats?.items_read ?? "?"} headlines across ${b.stats?.feeds ?? "?"} sources.</footer>`;
+  const problems = b.stats?.feed_problems || [];
+  html += `<footer>Picked from ${b.stats?.items_read ?? "?"} headlines across ${b.stats?.feeds ?? "?"} sources.` +
+    (problems.length ? `<br>⚠️ Not working today: ${problems.map(p => esc(p.split(":")[0])).join(", ")}` : "") + `</footer>`;
   document.getElementById("app").innerHTML = html;
 }
 

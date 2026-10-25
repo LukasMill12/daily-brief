@@ -10,7 +10,7 @@ A short personal news brief, written every morning: Lithuania, World, Ongoing st
 
 ## Who runs it
 
-- **Daily (default): a Claude Code routine** on the Claude plan, every day at 07:00 Vilnius time (08:00 in summer). It runs `main.py --dry-run`, writes `out/draft.json` from `out/editor-task.md`, publishes it with `main.py --from-draft out/draft.json` (which rejects a malformed draft), and pushes `docs/` to `main`. Manage it at claude.ai/code/routines.
+- **Daily (default): a Claude Code routine** on the Claude plan, every day at 09:00 Vilnius time (10:00 in summer). It runs `main.py --dry-run`, writes `out/draft.json` from `out/editor-task.md`, runs `main.py --articles out/draft.json` and rewrites the summaries from the full articles in `out/articles.md`, publishes with `main.py --from-draft out/draft.json` (which rejects a malformed draft), and pushes `docs/` to `main`. It runs in the "Daily brief" cloud environment, whose network allowlist must include every feed, article, event and weather domain. Manage it at claude.ai/code/routines.
 - **Backup: "Brief via API (manual backup)"** in GitHub Actions writes the brief through the paid API (`ANTHROPIC_API_KEY` secret).
 - **Notify** runs on every new `docs/brief.json` and sends an ntfy notification if `NTFY_TOPIC` is set.
 

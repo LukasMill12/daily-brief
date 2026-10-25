@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import json
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -100,6 +101,8 @@ def fetch_feed(feed: dict, now: datetime) -> tuple[dict, list[dict], str | None]
         items = parse_feed(download(feed["url"]), feed)
     except Exception as exc:  # one broken feed must not stop the brief
         return feed, [], f"{type(exc).__name__}: {exc}"
+    for position, item in enumerate(items, 1):
+        item["rank"] = position if feed.get("ranked") else None
     fresh = [i for i in items if i["published"] is None or now - i["published"] <= MAX_AGE]
     return feed, fresh[:feed.get("limit", MAX_ITEMS_PER_FEED)], None
 
@@ -116,8 +119,8 @@ def fetch_all(feeds: list[dict], now: datetime) -> tuple[list[dict], list[str]]:
     return items, problems
 
 
-def fetch_events_text(url: str, max_chars: int = 9000) -> str:
-    """The ticket site's visible text: event name, venue and date on separate lines."""
+def fetch_events_text(url: str, max_chars: int = 7000) -> str:
+    """A listing page's visible text: event name, venue and date on separate lines."""
     try:
         page = download(url).decode("utf-8", errors="ignore")
     except Exception:
@@ -125,3 +128,50 @@ def fetch_events_text(url: str, max_chars: int = 9000) -> str:
     page = re.sub(r"<script.*?</script>|<style.*?</style>", "", page, flags=re.S)
     lines = [l.strip() for l in html.unescape(re.sub(r"<[^>]+>", "\n", page)).split("\n")]
     return "\n".join(l for l in lines if l)[:max_chars]
+
+
+def fetch_article_text(url: str, max_chars: int = 3000) -> str:
+    """The body paragraphs of a news article, without menus and footers where possible."""
+    page = download(url).decode("utf-8", errors="ignore")
+    page = re.sub(r"<script.*?</script>|<style.*?</style>|<nav.*?</nav>|<footer.*?</footer>", "", page, flags=re.S)
+    article = re.search(r"<article[^>]*>(.*?)</article>", page, re.S)
+    body = article.group(1) if article and len(article.group(1)) > 2000 else page
+    paragraphs = [clean(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", body, re.S)]
+    # Real sentences only: menus and captions are short or have no full stop.
+    text = " ".join(p for p in paragraphs if len(p) > 60 and "." in p)
+    return text[:max_chars]
+
+
+WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-Meteo
+    (0, "giedra"), (2, "nedidelis debesuotumas"), (3, "debesuota"), (48, "rūkas"),
+    (57, "dulksna"), (67, "lietus"), (77, "sniegas"), (82, "protarpiais lyja"),
+    (86, "snygis"), (99, "perkūnija"),
+]
+
+
+def fetch_weather(url: str) -> dict | None:
+    """Today's Vilnius forecast, with a short Lithuanian summary line."""
+    try:
+        data = json.loads(download(url))
+    except Exception:
+        return None
+    daily = data["daily"]
+    code = daily["weather_code"][0]
+    rainy_hours = [t[11:16] for t, p in zip(data["hourly"]["time"], data["hourly"]["precipitation_probability"])
+                   if p is not None and p >= 50 and "07:00" <= t[11:16] <= "22:00"]
+    weather = {
+        "min": round(daily["temperature_2m_min"][0]),
+        "max": round(daily["temperature_2m_max"][0]),
+        "precipitation_mm": daily["precipitation_sum"][0],
+        "wind_max_kmh": round(daily["wind_speed_10m_max"][0]),
+        "code": code,
+        "rain_from": rainy_hours[0] if rainy_hours else None,
+    }
+    text = next(desc for top, desc in WMO_LT if code <= top)
+    line = f"Vilniuje {weather['min']}…{weather['max']} °C, {text}"
+    if weather["rain_from"]:
+        line += f", krituliai nuo {weather['rain_from']}"
+    if weather["wind_max_kmh"] >= 40:
+        line += f", vėjas iki {weather['wind_max_kmh']} km/h"
+    weather["text"] = line + "."
+    return weather
