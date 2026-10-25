@@ -48,16 +48,13 @@ struct WidgetFace: View {
             ZStack {
                 CurvedText(text: brief.shortHeadline, radius: 175 * s, top: 74 * s, size: 15 * s, medium: true,
                            tracking: -0.3 * s)
-                // Today's high closes the coordinates line, a weight heavier than the coordinates' degrees.
-                CurvedText(text: Theme.coordinates + (brief.weather == nil ? "" : " · "),
-                           emphasis: brief.weather.map { "\($0.max)°" } ?? "",
-                           radius: 163 * s, top: 96 * s, size: 11.5 * s, tracking: 0.1 * s)
+                CurvedText(text: Theme.coordinates, radius: 163 * s, top: 96 * s, size: 11.5 * s, tracking: 0.1 * s)
                 VStack {
                     Spacer()
                     HStack {
                         Text(brief.dayMonth)
                         Spacer()
-                        Text("+\(max(brief.storyCount - 1, 0))")
+                        Text(brief.weather.map { "\($0.min)…\($0.max)°" } ?? "+\(max(brief.storyCount - 1, 0))")
                     }
                     .font(Theme.helvetica(11 * s))
                     .tracking(0.4 * s)
