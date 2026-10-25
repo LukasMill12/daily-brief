@@ -4,7 +4,7 @@ import SwiftUI
 /// Decorative blue elements behind the reading view's text. Concepts under evaluation;
 /// a debug build picks one with the `-decor N` launch argument (1–6), release builds use `Decor.current`.
 enum Decor: Int, CaseIterable {
-    case none, grainGlow, giantDate, giantCurve, blueCover, weekdaySpine, issueGrain
+    case none, grainGlow, giantDate, giantCurve, blueCover, weekdaySpine, issueGrain, liquidFigures
 
     static var current: Decor {
         #if DEBUG
@@ -102,6 +102,74 @@ struct DecorView: View {
             }
             .frame(height: 520)
             .frame(maxHeight: .infinity, alignment: .bottom)
+
+        case .liquidFigures:
+            LiquidFigures()
+                .scaleEffect(0.78)
+                .offset(x: 80, y: -70)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+        }
+    }
+}
+
+/// Two liquid figures reaching for each other: blue with grain, dissolving into the dark at their edges.
+private struct LiquidFigures: View {
+    var body: some View {
+        ZStack {
+            RadialGradient(colors: [Color(red: 0.25, green: 0.38, blue: 1), Theme.blue],
+                           center: .center, startRadius: 0, endRadius: 240)
+            Grain(opacity: 0.3)
+        }
+        // Crisp silhouette, with the colour sinking back into the dark towards its edges.
+        .mask(LiquidShape().blur(radius: 22))
+        .mask(LiquidShape())
+        .frame(width: 420, height: 420)
+    }
+}
+
+/// Rounded limbs and heads drawn, blurred and thresholded so that touching parts melt together.
+private struct LiquidShape: View {
+    private struct Limb { var from: CGPoint; var to: CGPoint; var width: CGFloat }
+
+    private static let heads: [(CGPoint, CGFloat)] = [
+        (CGPoint(x: 90, y: 84), 20), (CGPoint(x: 205, y: 60), 19), (CGPoint(x: 320, y: 56), 20),
+    ]
+    private static let limbs: [Limb] = [
+        // left figure, bent forward
+        Limb(from: CGPoint(x: 105, y: 168), to: CGPoint(x: 150, y: 250), width: 78),
+        Limb(from: CGPoint(x: 140, y: 250), to: CGPoint(x: 70, y: 345), width: 30),
+        Limb(from: CGPoint(x: 160, y: 255), to: CGPoint(x: 175, y: 350), width: 26),
+        Limb(from: CGPoint(x: 120, y: 170), to: CGPoint(x: 205, y: 128), width: 30),
+        // middle figure, stretched between the two
+        Limb(from: CGPoint(x: 207, y: 128), to: CGPoint(x: 230, y: 245), width: 46),
+        Limb(from: CGPoint(x: 230, y: 245), to: CGPoint(x: 205, y: 330), width: 24),
+        Limb(from: CGPoint(x: 230, y: 250), to: CGPoint(x: 290, y: 235), width: 26),
+        // right figure, leaping away
+        Limb(from: CGPoint(x: 315, y: 132), to: CGPoint(x: 290, y: 235), width: 58),
+        Limb(from: CGPoint(x: 300, y: 130), to: CGPoint(x: 360, y: 108), width: 22),
+        Limb(from: CGPoint(x: 360, y: 108), to: CGPoint(x: 385, y: 85), width: 20),
+        Limb(from: CGPoint(x: 290, y: 235), to: CGPoint(x: 330, y: 300), width: 28),
+        Limb(from: CGPoint(x: 330, y: 300), to: CGPoint(x: 320, y: 345), width: 22),
+        Limb(from: CGPoint(x: 300, y: 135), to: CGPoint(x: 250, y: 150), width: 22),
+    ]
+
+    var body: some View {
+        Canvas { context, _ in
+            context.addFilter(.alphaThreshold(min: 0.5, color: .white))
+            context.addFilter(.blur(radius: 9))
+            context.drawLayer { layer in
+                for (center, radius) in Self.heads {
+                    layer.fill(Path(ellipseIn: CGRect(x: center.x - radius, y: center.y - radius,
+                                                      width: radius * 2, height: radius * 2)), with: .color(.white))
+                }
+                for limb in Self.limbs {
+                    var path = Path()
+                    path.move(to: limb.from)
+                    path.addLine(to: limb.to)
+                    layer.stroke(path, with: .color(.white),
+                                 style: StrokeStyle(lineWidth: limb.width, lineCap: .round))
+                }
+            }
         }
     }
 }
