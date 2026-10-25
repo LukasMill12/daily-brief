@@ -1,18 +1,39 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T11:39:20+00:00",
+  "generated_at": "2026-10-25T12:24:34+00:00",
   "heads_up": [
-    "Clocks went back one hour overnight; Lithuania is now on winter time. Lithuania hopes the EU will vote on ending seasonal clock changes in late June 2027.",
-    "A cyclone is expected to bring rain and stronger wind from Sunday evening."
+    "Lietuvoje įsigaliojo žiemos laikas: naktį į sekmadienį laikrodžiai persukti 1 valanda atgal."
   ],
   "lithuania": [
     {
-      "headline": "Airspace restrictions over Kaunas airport imposed, then lifted",
-      "summary": "Airspace restrictions were introduced over Kaunas airport on Saturday evening and later cancelled.",
+      "headline": "Seime – ginčai dėl 2027 m. biudžeto ir sparčiai augančios skolos",
+      "summary": "Opoziciniai liberalai skelbia nepalaikysiantys kitų metų biudžeto dėl per sparčiai augančios skolos, o Lietuvos skolinimosi kaina kyla. Pareigūnų profsąjungos užsimena apie protestus, keliams numatyta mažiau lėšų, o mokytojų algas siūloma didinti vidutiniškai 7,56 proc.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092073/liberalai-sako-nepalaikysiantys-kitu-metu-biudzeto-del-pernelyg-spartaus-skolos-augimo"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/auto/rinka/2026/10/25/news/kitamet-keliams-numatyta-maziau-pinigu-bet-laukiama-papildomu-lesu-44626277"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNG5WODlnNWZIMDJoRm5fYzFRczY0S2JKcjZWMU5DdkEyRndRWk0zcjFUTkJLcmZKdmNMcUJtMUYyTVd4TmxOZnFYUHFWejF0TlYzOWc3NGhxWnZ2ei1XWUZIbGxoRjctbVQzRWNIQkRNOUNBZ1lTaGN6TU04M3pSRmwyTG9rMVNwTmhlU2VRM3QtaVZqay1STHBPYkZrY2xlRWJpYWtpYklmM092eTJ3WjE3c0p4Y05xNExQY295VmtpMWVDbVp5c0lyMm94azJKV05r?oc=5"
+        }
+      ]
+    },
+    {
+      "headline": "Virš Kauno oro uosto buvo įvesti, vėliau atšaukti oro erdvės ribojimai",
+      "summary": "Šeštadienio vakarą virš Kauno oro uosto įvesti oro erdvės ribojimai vėliau buvo atšaukti.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
-      "why": "Covered by 5 Lithuanian outlets",
+      "why": "Apie tai rašė 5 portalai",
       "sources": [
         {
           "name": "Lrytas",
@@ -21,264 +42,122 @@
       ]
     },
     {
-      "headline": "Opposition Liberals will not back 2027 budget; officers' unions hint at protests",
-      "summary": "The Liberal Movement says it will not support next year's draft budget because debt is growing too fast. Police and other officers' unions say the budget lacks funding for pay and hint at planned protests.",
+      "headline": "Liberalai kelia kandidatus į merus 41 savivaldybėje",
+      "summary": "Liberalų sąjūdžio taryba nusprendė kelti kandidatus į merus 41-oje iš 60 savivaldybių 2027 m. rinkimuose; tarp jų yra ir „čekiukų“ bylose figūruojančių politikų.",
       "category": "general",
       "highlight": false,
-      "coverage": 1,
-      "why": "Main budget debate as Seimas starts review",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092073/liberalai-sako-nepalaikysiantys-kitu-metu-biudzeto-del-pernelyg-spartaus-skolos-augimo"
-        },
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092080/viktorija-cmilyte-nielsen-nacionalineje-politikoje-viska-uzgozia-valdanciuju-blaskymasis"
-        },
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092045/pareigunu-atstovai-biudzeto-projekte-pasigenda-valios-uzsimena-apie-planuojamus-protestus"
-        }
-      ]
-    },
-    {
-      "headline": "Liberals name mayoral candidates in 41 municipalities",
-      "summary": "The Liberal Movement council named candidates for mayor in 41 of 60 municipalities for the 2027 local elections. The list includes politicians implicated in the expense-receipt ('čekiukų') cases.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 1,
-      "why": "Start of the 2027 local election race",
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
       "sources": [
         {
           "name": "LRT",
           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092083/liberalai-iskele-kandidatus-i-merus-iskaitant-figuruojancius-cekiuku-bylose"
         },
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092007/liberalai-pristatys-savivaldos-rinkimu-programa-ir-kandidatus-i-merus"
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0Z0Qml1ZE5lenM4OWZDN1oyM3FEMW1xWHotQ3Uwc0JUc3lqVEhDTUpETmlvOGtvS2xyN01ra0llOXNmbUJQN3pKMERqUkJKd2dEZ0VYaXFvZVV3bExueU13Z0NVeC16a0xldktySktSRXNrOElRQXVMTmloUXBSNU1EQTljdTRjQlM2dTBFTnE2NlBOYVRmeEN3elllNFVpakJNRUVxMEdZR0t0WVk1YlpKOGtHWXlTMlpKQVVZdDl0OFkyQjMxbDcwTW1JbXpvNGU4MWFnUDJVeTBEbHFrWFN1aw?oc=5"
         }
       ]
     }
   ],
   "world": [
     {
-      "headline": "Mass protests across Europe; over 1,300 arrested in France",
-      "summary": "Hundreds of thousands marched in France over the weekend; police arrested 1,314 people and 53 officers were hurt. Protests also hit Italy, Spain and Albania, with 128 arrests after rioting in Barcelona and tear gas used in Tirana.",
+      "headline": "More than 1,300 arrested as protests sweep France and Europe",
+      "summary": "French police detained 1,314 people over the weekend and 53 officers were injured as hundreds of thousands marched; protests and clashes also hit Italy, Spain (Barcelona) and Albania.",
       "category": "general",
       "highlight": false,
-      "coverage": 18,
-      "why": "Covered by about 18 outlets",
+      "coverage": 14,
+      "why": "Covered by 14 outlets",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5"
-        },
-        {
-          "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunai-prancuzijoje-per-protestus-policija-sulaike-1-314-zmoniu-57-2792032?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093044/protestai-prancuzijoje-sulaikyta-1-314-zmoniu-bet-dideliu-neramumu-isvengta"
-        },
-        {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnhyNzZabDYxNG41QnJWeFhndU9zbVVNaGNlWmtKME1uWG5mS2VlUXZIbGtVUkZHNE5CUGxNYlR3Y2d2dVJMblJ2dlRUMmNLWDBoMXV1bnRMb3prME9xT3dGSHRlYTFVVk1uNmxuamtrOFdHOFBybjl4aVRVcXEyMmlOYldVQnFSM0ItRkhLWEJtYWRYaFRiaUZaTjJFc19XMExLcGNjd3hrOENKWndHQ1lHR2FIU2dKSE1NMjVCYlVrb0tkODdtaGhKTHlVcHM?oc=5"
-        },
-        {
-          "name": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXpjc1dIWmk3TUlEaVotOHQ5bjNTZnBlVnh0Z2l0VmNXS1h4NHh5YXRrNnBXYVhDNGllZHFZdzcyb05ZYXVqWkNOV2NUZWFQRGE2dHFVdUxvcDVxVklEZFJYQTVrRlc3RWhoTzU2RUphLXJmYTNtbWRLMjFoM1pudkpQS3Yta2hYbGc?oc=5"
-        },
-        {
-          "name": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1JReUEwREh2NkQ1a0pqMmE5dkVZOWZHZ09tUFRWQldvWk1GeUNHUmVNWDIzYzRkMHdtanVZdEJuaXhLUzZYa18tSTk0M3hhQzhzTWlncmlIUVBLSHo5OVo0TzFwa2tFVUtTeG5mTnpQaXlrRDVLQ1RHSS0zek8xUGhycE5paEtCSjE4YnhKMUp4Sm1Qa0V3ODVfUV9rODhjaGdPLUgxLUdabzBUMkJBYkNzd2tENms?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
         },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTV0UXBhNDhhVnpfQUw0b0VVWjBEN2tWMk1jRWdBelo5blBxazFVS1ZwRE1zdFB1NU9qcTdXQlpzTy1YejR3ZHp5TE04ZmF3ejB4bk9tZFg5VFNULUhaejJyQUgyM2NaN05KNWhWTlEzLWtfTk9MTS1QMEpwUjA5QlF1V04taHVxUFhBQ0cwNGw3Z2ZyeUlHeUpMU3gtT05aclNj?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5"
-        },
-        {
           "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunai-nakti-barselonoje-del-plesikavimo-sulaikyti-128-asmenys-57-2792024?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5"
-        },
-        {
-          "name": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHh5UlhVbktTLXFoQ0NjSXdJRXJyQ2JRT3lrWThzWGFOd2FTQ2s1ZlE2cndoSzV6U21pZ2FCN0ZXSjBYX3htMk1aNk9Cd3hGMFNVRGphNnNGRXlsY0FsQU9xQlVNTHQ2bmhKS1dkOTFGX3pYWWZ3WTV2MTZ0WUpka0tWTUc1N2d6ckQtUFNiYzVKd2ZFWEFiLXlNVy1HV21oWEtlN0xiVFBxNFd5T1B5bHlwTkk1bGZiaFpReUxqQUlCMFdv?oc=5"
-        },
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092175/naujoje-antivyriausybineje-demonstracijoje-albanijoje-susirinko-tukstanciai-zmoniu"
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunai-prancuzijoje-per-protestus-policija-sulaike-1-314-zmoniu-57-2792032?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ]
     },
     {
       "headline": "Brazil votes in Lula vs Flávio Bolsonaro runoff",
-      "summary": "Nearly 159 million Brazilians can vote in Sunday's presidential runoff between President Lula, seeking a fourth term, and Flávio Bolsonaro, son of the jailed ex-president, who led the first round. The race is seen as tight.",
+      "summary": "Nearly 159 million Brazilians are voting in a tight presidential runoff between President Lula, seeking a fourth term, and senator Flávio Bolsonaro, son of the imprisoned ex-president.",
       "category": "general",
       "highlight": false,
-      "coverage": 9,
-      "why": "Covered by about 9 outlets",
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
       "sources": [
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/luizas-inacio-lula-da-silva-ar-flavio-bolsonaro-brazilija-renka-prezidenta-57-2792048?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2dDQW5yVDVVYnk1ZzNMcVhCZEMxYUNyYkJxbE1vbkRuU20xVXRZVE9GdDRYQnBSY0Z3T3VIcDNmUFhub05LWS16LU9xdXdVc083b2ExNmJ0UXVCVzNLNzctOEMtUzYxX0xSVW1rMkNRWGVBMjEyRmVxTm13SXlmZDJoS3NlcG9uRHBzamVOZGl6STE4bW5vS1FUQjJSQ2hfN2Y5WXZyR1E4ZkN2ZWJ0djJrVDRnRXVhNWhnY0FKeUJVelBr?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5"
-        },
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093040/bolsonaro-ir-lulos-akistata-brazilijoje-vyksta-antrasis-prezidento-rinkimu-turas"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/luizas-inacio-lula-da-silva-ar-flavio-bolsonaro-brazilija-renka-prezidenta-57-2792048?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ]
     },
     {
-      "headline": "Serbia votes as students challenge Vučić's party",
-      "summary": "Serbia holds its most contested parliamentary election in over 14 years, with a student-led anti-corruption movement trying to oust Aleksandar Vučić's ruling party. Polls show a tight race.",
+      "headline": "Serbia holds election as students challenge Vučić",
+      "summary": "Serbia is voting in its most contested parliamentary election in over 14 years, with a student protest movement trying to unseat Aleksandar Vučić's ruling party.",
       "category": "general",
       "highlight": false,
-      "coverage": 10,
-      "why": "Covered by about 10 outlets",
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
       "sources": [
         {
           "name": "15min",
           "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/serbijoje-parlamento-rinkimai-valdanciajai-partijai-issuki-meta-studentu-judejimas-57-2792018?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlBYOHM3akJUeVVVS1U1bk96V0hIdlo0NHVqNzdnSlR2SFpLbk4xLW9zbmlfQWRxUGZVZGdrQTNBZDV2RlVvbmVuT05WejdHeVM2TFFpaWVwTEY1TExyX280VmVxR0NiT0VZT0tNREt3ZTJDTHloV2loYzB5cW5zT0lsLVM1RlFNYUNOSUhKbEVQN2FDWkZvdWdMc1p3YjhzOHU4QW5QdGZOQQ?oc=5"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093029/serbija-renka-parlamenta-vuciciui-issuki-meta-studentai"
         },
         {
           "name": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTZyWHFhamhrX1VNUjFBeEhCLXBfbUJsYmpkZVlkdHQyTnc3cndpS3lNOWZacEJpdVVTX2tELU1zZ3JMQmNReDBDVkpYSk5uaHNJREVTQnAyMDBwUFoxU1didGlZTUtxXzU4VEhJN1B2dE9HTk9hcVRGdDlQUlFlSlY2WWhid3E5OW05U3IzM3Bkc0RIcUdEVzQ4MGNsTkdDdEFBQjZtLXExOGRYWHBFSFJGUE5Bd9IBuwFBVV95cUxOOHhGSl84cS16WHQ5OXRLMWstQThSOUtralY0YnBKTmF4bDZIVURSTHJMb0VGXzZ4NElKQm9LeG83d0czMDBhSGpjSURONFpKMHpTWTBuSFV1NFBBQThkVHlzZkVXZlBfUmNzQUhDdDNBY1ltRHh0dmwwMVRGMHFaY3c1QWJtUEFQQldzdDFvakdHbkFIb1RkUXhCTUhOTG90dlNGdFhiaFlCTmxYaHRfcWFqX01tRW5uRjNv?oc=5"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5"
-        },
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093029/serbija-renka-parlamenta-vuciciui-issuki-meta-studentai"
         }
       ]
     },
     {
-      "headline": "Musk says he throttled Ukraine's Starlink; service now restored",
-      "summary": "Elon Musk says SpaceX restricted Ukraine's Starlink connection, accusing its military of breaking the terms of service. Ukraine's military says its connection is stable again.",
-      "category": "tech",
-      "highlight": true,
-      "coverage": 13,
-      "why": "Covered by about 13 outlets",
+      "headline": "Death toll rises to 9 in attack on church funeral in Jordan",
+      "summary": "Gunmen opened fire at a funeral at a Greek Orthodox church in Jordan, killing nine people and injuring 40 in a rare attack in the country.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
       "sources": [
         {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTZXNm1yaGxsQVpMZ29KTFdleWYtMG52SFN3SXRkam52YVJSRGRpOUFwbXZ5OVprSzJuWHo5ZF9KM2RPMTdyVS1qNkxTSlBLVXliU285N3hKT0UzRUxCNjM3Tlg1VE95cU9hU1JRUGxkMFkzNjRQX01iaWthOU1wUGJnR3lnMWNJMnpKVFdDakJNZmU3aDM3ZlpsR2pUWnpkN1lkbVA0Rzd2Q0FTeHVlcg?oc=5"
-        },
-        {
-          "name": "The Seattle Times",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkVsalZwb1d3eTlaOXl4UUxWdXlxTXpoVnIybGNFOGVzSklnUFpWUVNuZC0yOTVSc2RpaFFHQnYtTXhwLTRLMjBuRjRjeHZKXzZXR3pNbUFyRHE3bHViWFVmOVRIaUtCVk81UWZFZHVhdk50bXVNRXgtd0RReWhxZXYzd3A3b01ERVM0dGtRaWczNGFMZnplYnd2enJaQWlWdkU2eV9nMWVMT3FHQzEwMWZtVTNubU1TZGNaTmg1VjZfZEd3NkZ4QUY5VQ?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
         },
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5"
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREV6MkhmenJQN3lNbWlocWpjWGhJSXhqbTFlN2lsb0ZRakw0MU5ldGJpWnBaU2dxMmcxUGhnLXFoU2g2dkdrbUpyN1VUd0lhdm5ZRGx1UTNrMmZiM1cwVU5HNjRCLVplMEl6YkhEYUFoVVhXTEpyN0pNLUJaVC0wOW5tWWJhMFBpanBhMHBWSk1DemF6RVJKMTREU3R3SVJiQldBaG1DZEtqRkpuZ0c1bC1vLVZPckp3SUpKak93OGNHZzM1bGfSAcsBQVVfeXFMTmxZYzhQMW9xRjhvVmNZc0hBejd2TnREMzc2UHNqalRYOS1QSVZkaHpOM1VGWXBwa1BfbDJBS0RXWFBtTmphYVNLV2IzaVVDWG5zeGdVZGxyb0lyOEVqLVM1ZTY4MmxkUUFLaF9FaGItcWZESi1ZYW9SOXN6TjhvWmhKUFVPWDByNWNsX09rZ01PN0JjMDFPYnlJQlhsSHp6ZWIzckFDazQzUGtyN0x1dllqWVZqWFA3cHJRaXpzb2lHSFhJMGwyWmt0SkE?oc=5"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5"
         }
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "Antonelli on pole in Austin, could become youngest F1 champion",
-      "summary": "Championship leader Kimi Antonelli won qualifying for the US Grand Prix and can clinch the title on Sunday as the youngest F1 world champion.",
+      "headline": "Antonelli can become youngest F1 champion in Austin",
+      "summary": "Championship leader Kimi Antonelli starts the US Grand Prix from pole and can clinch the title on Sunday, becoming the youngest F1 world champion.",
       "category": "sports",
       "highlight": true,
       "coverage": 6,
-      "why": "Possible historic F1 result today",
+      "why": "Covered by 6 outlets",
       "sources": [
         {
           "name": "BBC Sport",
@@ -289,36 +168,32 @@
           "url": "https://www.lrt.lt/naujienos/sportas/10/3093017/formules-1-etape-jav-is-pirmos-pozicijos-startuos-antonelli"
         },
         {
-          "name": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2tOS2ZOUmpYYnBJVHN3R1Z4bzNRZHUzYmhvSENzSEJaQU92czI1dmxJNW1sZFhiZjNOeWVsLVdYbHRjcDZzZHlLc3lldzVPeXFBaUdhQlZTR3dSaF9qTzRFc1liS0VHRFhES3hmMzR3MkZONDhJU0dzOEpNTUZkUEgtTlZQcHYyRHdFcDlKUVo5SW9INWNZTGR0bTFjQ2FqY1oxWnhBMEljNEZN?oc=5"
+          "name": "RaceFans",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmQ0OXpGby1fZWRZWW9wTWVubHoxV3VRWWlnSmkwNzMtZ0dvZUtET0M2OHNRRjZkN3JrLXpOVDV2dHlYdlpZOHM0LWRCNi1CQTMyd3lkOUxVU0VidlBzaTBka18xcUZYV2xIMFkxQ3RaSEprZ2lSWi1ISjRBNFQ1M0tvemFjV0x0OXFkMzR5X3g0ZWpSMHMyNnVQM25GWWxTRUI1SHN6Y1pLTjRTM1VEcW5meG5UZw?oc=5"
         }
       ]
     },
     {
-      "headline": "Critical PHP bugs hit Palo Alto network products",
-      "summary": "Two critical PHP bugs threatened much of the web; Palo Alto confirmed the remote code execution flaws affect PAN-OS and several network products.",
+      "headline": "Owners report Apple's $2,000 foldable iPhone cracking",
+      "summary": "Owners of the iPhone Duo, Apple's first foldable, report display failures within hours of use.",
       "category": "tech",
       "highlight": true,
-      "coverage": 6,
-      "why": "Major security issue, 6 outlets",
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
       "sources": [
         {
-          "name": "CyberSecurityNews",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GNmpac0JVVm1IMWd3VGxaLW9CSWtYQ3JGVzVWSFBGV3N0MTRfQTFydTRsLVdlREFuVFhXYndXWGQzTGhBV0Y5c3k3cURhNXhoUmFfc05ha3lrVl9PYW1ocklnNHJ0a2pCQ3VZbnJsQzZaekFGMEc4dXcyUFg1QdIBgwFBVV95cUxPRFRqSjJjUC1aMzhVamxodUxaandhcktfQW9QdGd0LS1pWGVoM2xHdXBGclN0TkdEMllLbzRfZkhRdEFyZ2ZwZ0w3R19hWExTb05ZR3BHMFdGWnNlVE1lYXpmSms4NXg3TUV5VE5WYVQ4X1pZdXRIMW1xVmZlZTFzTGNUOA?oc=5"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+          "name": "Notebookcheck",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFRvR0ItRG9KYWRYTWEtai1waVQtNXNUWEhzcVBjQWwyYkJ0OERsd1V6U0dhMW9mRG83MGl5VGR4d1pRc0p1S2dmbXhNVGxGWVJyUzBWRk1TbHhOaVRMTFpvNWNTbVBOU0I5Z1BJUzZDcFFwZWZfRl9RYzFnb1pQMGJCaGpCSXcybVFoWV9uMmtIN1R1UTNfb1oteVVZOGk4M1gzc0tRRGVZRjZWOTJWZkdpTElfMVpRVm5uV1U4aXJSMTR2OG4yal9jSXZwdThTN2NTRG9B?oc=5"
         }
       ]
     },
     {
       "headline": "Study: Grok picks Republicans, ChatGPT picks Democrats",
-      "summary": "Asked to choose in nearly 500 US races, Grok overwhelmingly recommended Republicans while OpenAI's GPT favoured Democrats; they disagreed in over 90% of races.",
+      "summary": "Asked to choose in nearly 500 election races, xAI's Grok overwhelmingly recommended Republicans while OpenAI's GPT favoured Democrats; the two disagreed in over 90% of races.",
       "category": "ai",
       "highlight": true,
       "coverage": 1,
-      "why": "AI bias ahead of US midterms",
+      "why": "Substantive AI study",
       "sources": [
         {
           "name": "TechCrunch",
@@ -336,10 +211,6 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEU4T213STRwd1d2RGV6S3l2T0VESWdWTmZEclpGQmZON29FY3VYQzNxaGVzSlgzdEFYWGJndDBTamMwQVVJTml5TVRxend1b3cwUkpFZjY3Wl9fQlRxb1BGNHF2Y1FOUW1VLUNoMGFHdndURDBCMTRKRER1OU52S2ZHWVg4eE9tR3lqdDE2b1NPT0k00gGaAUFVX3lxTE5CMS1abUNNOG5QX3c0c0lZOTRHXzlkT2doX3RJdHhZcER2emNtVDR2WE9oWUU1NHZiQ0Q0dlJOeGpXQTE1bnFCQVJya050X0Nyc0Y3ZnFGUGhIeDZQUWF0RUFUOHZtRkZuZXNEeTJDUm9oZVNBNVNjR0xNZmxQMDZJZ1d1SFNQeDFpSlplOTA3cC1WRXphZkVndmc?oc=5"
-        },
-        {
-          "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
         },
         {
@@ -347,19 +218,15 @@
           "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss"
-        },
-        {
-          "name": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGRvNWRNOWZDWHhZUFZxaTNPZ3d6VXhYXzlMTG01aGdsdWQwTlU0VXp2cEtsbm9rNGJQNnp1UmFUdW1KeVh1Yk8tT1hJWmRodFI0UnVNMEh5YnoxMXh3elZuVEdwR254RlNQcVF5dmU4TW9MUTkwNWxxcUFzMmRBVUhZV05CU1hlWjYyWThNbw?oc=5"
+          "name": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaERTVlQ2SEhXTU4xOUFEUFJCcUk0QzlNX1g0X1NCS2dOQ2RXUFB3ZGFZMHBIN2lsMXlyYUpxQVZoYmVTY2ZXUVFESEpGeWlVU2lOZ1B0Qmo1T0ZpWlI1Unk0ZmhmU0F1OUFjVnVqTEdONXR1NlAxSTZSMVpsTTQzQWUwRDBjZXozSTVmMDZRalhwUl9oQmh3aHg5RmZOUDFxVUtGMS02Z1BoOHdhNElyMHk2MDlxeGvSAbwBQVVfeXFMTldSb3FJWXJlUlVGckxjN1NvQS02WVZTSzk3ZlAzay1mT00tM3luZTBwbmZFbVBVaDNxY2pnV3dSRG9tbFkwV0c2TVMtaG9EOGpmQXBxc3FvSTBQZHdXbnFnVDRPSzRaTnd0VjZHdU9HR21kbjFkZzk1bVA3Uk93UlVhdFg3cldtSllwRG9lUElxQ29nT2tXWno2X3VIWFloaU1OaEhSUW9GaUhVdHpzdXI4ck5uNGZtLWRQclA?oc=5"
         }
       ]
     },
     {
-      "title": "Käärijä – Eurodisko Tour 2026",
-      "when": "Tuesday, 27 October, 20:00",
-      "where": "Menų fabrikas LOFTAS",
+      "title": "KÄÄRIJÄ | EURODISKO-TOUR 2026",
+      "when": "Antradienis, spalio 27 d., 20:00",
+      "where": "Menų fabrikas LOFTAS, Vilnius",
       "scope": "vilnius",
       "sources": [
         {
@@ -369,9 +236,9 @@
       ]
     },
     {
-      "title": "Grand Balkanaktis",
-      "when": "Friday, 30 October, 20:00",
-      "where": "Halės turgus",
+      "title": "GRAND BALKANAKTIS",
+      "when": "Penktadienis, spalio 30 d., 20:00",
+      "where": "Halės turgus, Vilnius",
       "scope": "vilnius",
       "sources": [
         {
@@ -385,89 +252,53 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "A Russian drone hit an apartment block in Dnipropetrovsk region, killing 3 and injuring 12. A mass Ukrainian drone attack on Belgorod killed 3 and hit a shopping centre, and Ukraine reportedly struck targets 2,500 km from the border.",
+      "update": "Starlink is working normally again in Ukraine; Musk says he was behind the speed restriction and accuses Kyiv of breaching terms of use. A drone attack injured five in Russia's Perm region, and Russia says it hit a cargo vessel and Ukrainian logistics hubs.",
       "sources": [
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-dronui-smogus-daugiabuciui-dnipropetrovsko-srityje-zuvo-trys-zmones-12-suzeista-57-2792002?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-belgorode-per-masine-ukrainieciu-dronu-ataka-nukentejo-prekybos-centras-57-2791982?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
         },
         {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVVVVUtYNk01aW9fSlJ4bk5IdVZkdmRWWnFHS2cxTTNwRVdDVl96azJsb1YzTXpMYkY5RWFrQXdXZExzWE15SFN3emVCZXBvRjZveU5tbHMwczhyQlJ0azZocDk5SDY0Y0ZmQ2FkRkxUWVd5YWV1UE14Ny0zdUhuY3VjTWdxd1Q2bW1oTUwzV2Q0WGxzX1JiZnpNbmM1NDRtOWQ2cGtOUEhERTJvNnVtTFFYczdqZk16eTJVc1hJSlpHZHRSUS1LV1hLYVdIUXd2SXdv?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRUX2c1M1VjUTdxb1pfekVNSTlXNlpIQzFJRkZjSXhCVEZyaXZ3MHk0RWlKalZhVjhwTHNQYWU1V0pWRHAzZ3A5UkR5TXpPVzYyblFTcDFKNmdDNmh2NEU0T1lZMy1BSllDck9UeU5JbEpWeUdmdlhBTDNDZnpUaEx5M3hCS0lXVUUwblRWaU9TWS0xaGRnNUNVb0ZTS1BZU29KaDc0cnphWEJWVXJ4Y0dyWDg?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tvWFptSmJsT1Z6OERuX3EyU25sZDlDb1JreXFGV0dlUlNMMXJiLWZaVHJxR2w5MnA0MVRqMnZ2NS1GWmxxWVRYN1BWc2NZSWtCdWlJQlFYQkE2Vy1mM2FIRlJud0YtTmR5UGg2YkNjYUl2OGw1ODF1eDRZWF9INjhQLXpldUVCSDZCSmtodTg4M1pyTmNCSWtZdnYzUDNDLXpGUU5tcl83Wkk?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQlpoQ2lWbHFpTkRvZUpZV1ZOVFlJNjY3RDY4UHBmS01keXdDNndROG1PY2lRRjJGWG5zVjRadmRua1hJNU1kUHZ1RUxyVHA4Z213eWN4Z3VjMnc0bVM3aW41eG9ucUpyZXFpQmtRNzJHM012TXBIa2tnZU5teFhpTnNwMWljQ01JMHZSdHNPUHFzUk5abDJBWXJWcEZ1UTdDbThaUE9PWTlGc3dWVmdDS3FrbVE2UGdiSGY0OURUWQ?oc=5"
-        },
-        {
-          "name": "The Kyiv Independent",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlpMQjhFYzZKNlhmNjhBNC01S0NrcmpQTzVlOEpuTEcxVms4di15c0tMdm9HZ3lXOG5pNjFQeDJGUHFnenBYQ1ctUGI5SkFIRGdNR3V1bHpGd2hvamdzakRod0w2aU9hUHhHeXBIZDNiVGpfQUhaUGliaTNpZDh0N3dVUHpBSGtCRTMtLVlDbTBjZHpSeEVYU2tNd0sycE85MHRWOERUNlo5blps?oc=5"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
         }
       ]
     },
     {
       "id": "saudi-houthi-war",
       "title": "Saudi Arabia-Houthi fighting",
-      "update": "Explosions were heard in Riyadh as Saudi Arabia intercepted drones and missiles while preparing to reopen its international airport; the Houthis say they targeted Saudi oil sites.",
+      "update": "The Saudi-led coalition says it intercepted a drone and missile aimed at Riyadh and 10 missiles targeting the south; the Houthis report deadly Saudi air strikes on Sanaa, and Saudi and Egyptian stocks fell.",
       "sources": [
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/planuojant-atidaryti-oro-uosta-saudo-arabijos-sostineje-pasigirdo-sprogimai-57-2791990?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZlBscElxQnpreU9SMXFabEwwNHMwZm9xNEFqdWZVTVdSNzAwM21sbDFBOUNBMlJJMUhoZDR0bTZKX1JHSml0a3VSRWlPcU85dDJfbkpqV3ZYNGUtUldMZm5Oa3R3TkRhT1MzWUUyMmpBVE81bVE3b2tSNkhnTjdNWU9LbUlKeW9jUGEtcVE2M3FwYnY2a3VrODVHZVpaNEE4M2ljd0ZOTGQwOWlOTm05a0hBRnItX0p2UWZkWml1M2U1Z25IQk90TERmM1FIZw?oc=5"
-        },
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093014/saudo-arabijos-sostineje-nugriaudejo-sprogimai"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092105/husiai-saudo-arabijos-pajegos-surenge-mirtinus-smugius-jemene"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5"
         }
       ]
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Iran says it shot down a US drone over Bandar Abbas; a US memo warns Iran is in advanced stages of plots to kill US officials abroad, and Trump is reported to be preparing for escalation after the US and Israeli elections.",
+      "update": "Reports say CENTCOM has drawn up plans for Iran strikes after the midterms; Iran's foreign minister says renewed war would not change Tehran's position, while its envoy says Iran remains open to Pakistan-brokered talks.",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/25/news/iranas-atsinaujines-karas-nepakeistu-salies-pozicijos-44627115"
         },
         {
           "name": "LRT World",
@@ -478,35 +309,25 @@
     {
       "id": "israel-west-bank",
       "title": "Israeli operation in the West Bank",
-      "update": "Israeli troops levelled a neighbourhood in Hebron, displacing about 1,200 Palestinians, and Israel will close all West Bank crossings on Tuesday's election day.",
+      "update": "Israeli forces turned Hebron homes into military posts under a lockdown, and the Palestinian Authority called for international intervention.",
       "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092164/palestina-ragina-tarptautine-bendruomene-isikisti-del-izraelio-veiksmu-hebrone"
         }
       ]
     }
   ],
   "quiet_ongoing": [],
   "stats": {
-    "items_read": 483,
-    "feeds": 22,
-    "feed_problems": []
+    "items_read": 543,
+    "feeds": 23,
+    "feed_problems": [
+      "BBC Tech: no recent items"
+    ]
   }
 }
