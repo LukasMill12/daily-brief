@@ -36,6 +36,7 @@ enum Decor: Int, CaseIterable {
         case .blueCover: EdgeInsets(top: 190, leading: 0, bottom: 0, trailing: 0)
         case .weekdaySpine: EdgeInsets(top: 0, leading: 34, bottom: 0, trailing: 0)
         case .issueGrain: EdgeInsets(top: 0, leading: 0, bottom: 130, trailing: 0)
+        case .liquidFigures: EdgeInsets(top: 0, leading: 0, bottom: 120, trailing: 0)
         default: EdgeInsets()
         }
     }
@@ -119,70 +120,82 @@ struct DecorView: View {
 
         case .liquidFigures:
             LiquidFigures()
-                .scaleEffect(0.82)
-                .offset(y: 120)
-                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
+                .frame(width: 160, height: 107)
+                .padding(.trailing, 16)
+                .padding(.bottom, 22)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomTrailing)
         }
     }
 }
 
-/// Three liquid figures reaching for each other: grainy colour dissolving into the dark at their edges.
+/// Three liquid figures in grainy blue, after a hand-drawn, blobby style.
 private struct LiquidFigures: View {
     var body: some View {
-        let color = Decor.liquidColor
         ZStack {
-            RadialGradient(colors: [color.core, color.edge], center: .center, startRadius: 0, endRadius: 230)
+            Theme.blue
             Grain(opacity: 1, blend: .softLight)
-            Grain(opacity: 0.18)
+            Grain(opacity: 0.15)
         }
-        // Crisp silhouette, with the colour sinking back into the dark towards its edges.
-        .mask(LiquidShape().blur(radius: 34))
         .mask(LiquidShape())
-        .frame(width: 420, height: 420)
     }
 }
 
-/// Rounded limbs and heads drawn, blurred and thresholded so that touching parts melt together.
+/// Limbs drawn as chains of slightly uneven circles, with holes cut into the bodies, then blurred and
+/// thresholded so everything melts into one wobbly silhouette. Coordinates are on a 300×200 canvas.
 private struct LiquidShape: View {
-    private struct Limb { var from: CGPoint; var to: CGPoint; var width: CGFloat }
+    /// A limb: points along its centre line with the thickness at each point.
+    private struct Stroke { var points: [(CGFloat, CGFloat, CGFloat)] }
 
-    private static let heads: [(CGPoint, CGFloat)] = [
-        (CGPoint(x: 90, y: 84), 20), (CGPoint(x: 205, y: 60), 19), (CGPoint(x: 320, y: 56), 20),
+    private static let heads: [(CGFloat, CGFloat, CGFloat)] = [(66, 30, 11), (162, 20, 10.5), (256, 16, 11)]
+
+    private static let strokes: [Stroke] = [
+        // left figure: a hunched, heavy body with a trailing leg and a loose foot
+        Stroke(points: [(38, 74, 30), (62, 64, 38), (96, 70, 40), (128, 62, 30), (150, 50, 22)]),
+        Stroke(points: [(48, 84, 40), (54, 106, 46), (70, 122, 34), (110, 124, 26), (136, 112, 20)]),
+        Stroke(points: [(44, 112, 24), (32, 140, 18), (18, 160, 13), (12, 164, 10)]),
+        Stroke(points: [(96, 148, 11), (102, 160, 13), (108, 166, 9)]),
+        // middle figure: a tall, thin body rising out of the first, sagging into the third
+        Stroke(points: [(150, 52, 20), (164, 44, 18), (170, 70, 22), (168, 100, 18), (176, 124, 14)]),
+        Stroke(points: [(176, 124, 14), (192, 136, 12), (206, 126, 13), (220, 104, 15), (232, 84, 17)]),
+        Stroke(points: [(160, 118, 12), (156, 140, 10), (152, 152, 9)]),
+        // right figure: running, one arm reaching back, one forward
+        Stroke(points: [(254, 44, 26), (246, 66, 26), (236, 84, 22), (232, 92, 18)]),
+        Stroke(points: [(250, 46, 13), (226, 50, 13), (206, 56, 11), (198, 64, 9)]),
+        Stroke(points: [(258, 44, 13), (276, 46, 12), (290, 40, 11), (294, 30, 9)]),
+        Stroke(points: [(242, 74, 16), (262, 92, 15), (270, 110, 13), (262, 132, 11), (262, 140, 9)]),
     ]
-    private static let limbs: [Limb] = [
-        // left figure, bent forward
-        Limb(from: CGPoint(x: 105, y: 168), to: CGPoint(x: 150, y: 250), width: 78),
-        Limb(from: CGPoint(x: 140, y: 250), to: CGPoint(x: 70, y: 345), width: 30),
-        Limb(from: CGPoint(x: 160, y: 255), to: CGPoint(x: 175, y: 350), width: 26),
-        Limb(from: CGPoint(x: 120, y: 170), to: CGPoint(x: 205, y: 128), width: 30),
-        // middle figure, stretched between the two
-        Limb(from: CGPoint(x: 207, y: 128), to: CGPoint(x: 230, y: 245), width: 46),
-        Limb(from: CGPoint(x: 230, y: 245), to: CGPoint(x: 205, y: 330), width: 24),
-        Limb(from: CGPoint(x: 230, y: 250), to: CGPoint(x: 290, y: 235), width: 26),
-        // right figure, leaping away
-        Limb(from: CGPoint(x: 315, y: 132), to: CGPoint(x: 290, y: 235), width: 58),
-        Limb(from: CGPoint(x: 300, y: 130), to: CGPoint(x: 360, y: 108), width: 22),
-        Limb(from: CGPoint(x: 360, y: 108), to: CGPoint(x: 385, y: 85), width: 20),
-        Limb(from: CGPoint(x: 290, y: 235), to: CGPoint(x: 330, y: 300), width: 28),
-        Limb(from: CGPoint(x: 330, y: 300), to: CGPoint(x: 320, y: 345), width: 22),
-        Limb(from: CGPoint(x: 300, y: 135), to: CGPoint(x: 250, y: 150), width: 22),
+
+    private static let holes: [CGRect] = [
+        CGRect(x: 76, y: 63, width: 30, height: 15), CGRect(x: 58, y: 94, width: 36, height: 20),
     ]
 
     var body: some View {
-        Canvas { context, _ in
+        Canvas { context, size in
+            let k = size.width / 300
             context.addFilter(.alphaThreshold(min: 0.5, color: .white))
-            context.addFilter(.blur(radius: 9))
+            context.addFilter(.blur(radius: 4 * k))
             context.drawLayer { layer in
-                for (center, radius) in Self.heads {
-                    layer.fill(Path(ellipseIn: CGRect(x: center.x - radius, y: center.y - radius,
-                                                      width: radius * 2, height: radius * 2)), with: .color(.white))
+                func dot(_ x: CGFloat, _ y: CGFloat, _ r: CGFloat) {
+                    layer.fill(Path(ellipseIn: CGRect(x: (x - r) * k, y: (y - r) * k, width: 2 * r * k, height: 2 * r * k)),
+                               with: .color(.white))
                 }
-                for limb in Self.limbs {
-                    var path = Path()
-                    path.move(to: limb.from)
-                    path.addLine(to: limb.to)
-                    layer.stroke(path, with: .color(.white),
-                                 style: StrokeStyle(lineWidth: limb.width, lineCap: .round))
+                for (x, y, r) in Self.heads { dot(x, y, r) }
+                for stroke in Self.strokes {
+                    for (a, b) in zip(stroke.points, stroke.points.dropFirst()) {
+                        let steps = max(Int(hypot(b.0 - a.0, b.1 - a.1) / 2), 1)
+                        for i in 0...steps {
+                            let t = CGFloat(i) / CGFloat(steps)
+                            let x = a.0 + (b.0 - a.0) * t, y = a.1 + (b.1 - a.1) * t
+                            // Uneven thickness, like a brush or a blob of ink, rather than a clean tube.
+                            let wobble = 1 + 0.12 * sin(x * 0.37 + y * 0.23) + 0.06 * sin(x * 1.3 - y * 0.9)
+                            dot(x, y, (a.2 + (b.2 - a.2) * t) / 2 * wobble)
+                        }
+                    }
+                }
+                layer.blendMode = .clear
+                for hole in Self.holes {
+                    layer.fill(Path(ellipseIn: CGRect(x: hole.minX * k, y: hole.minY * k,
+                                                      width: hole.width * k, height: hole.height * k)), with: .color(.white))
                 }
             }
         }
