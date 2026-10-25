@@ -1,8 +1,8 @@
 import CoreImage
 import SwiftUI
 
-/// Decorative blue elements behind the reading view's text. Concepts under evaluation;
-/// a debug build picks one with the `-decor N` launch argument (1–7), release builds use `Decor.current`.
+/// Decorative blue elements in the reading view. The footer figures are the chosen look; the other concepts
+/// stay available in debug builds with the `-decor N` launch argument (0 = none, 1–7).
 enum Decor: Int, CaseIterable {
     case none, grainGlow, giantDate, giantCurve, blueCover, weekdaySpine, issueGrain, liquidFigures
 
@@ -13,7 +13,7 @@ enum Decor: Int, CaseIterable {
             return decor
         }
         #endif
-        return .none
+        return .liquidFigures
     }
 
     /// The liquid figures' colour, kept away from the blue accents. Debug builds choose with `-liquidColor N`.
@@ -130,17 +130,12 @@ struct FooterFigures: View {
     }
 }
 
-/// Three liquid figures (traced from Lukas's reference image, `figures.png`) in grainy blue.
+/// Three liquid figures (traced from Lukas's reference image, `figures.png`) in solid blue.
 private struct LiquidFigures: View {
     private static let shape = UIImage(named: "figures")
 
     var body: some View {
-        ZStack {
-            Theme.blue
-            Grain(opacity: 1, blend: .softLight)
-            Grain(opacity: 0.15)
-        }
-        .mask {
+        Theme.blue.mask {
             if let shape = Self.shape {
                 Image(uiImage: shape).resizable().scaledToFit()
             }
