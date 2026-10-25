@@ -2,7 +2,7 @@ import CoreImage
 import SwiftUI
 
 /// Decorative blue elements behind the reading view's text. Concepts under evaluation;
-/// a debug build picks one with the `-decor N` launch argument (1–6), release builds use `Decor.current`.
+/// a debug build picks one with the `-decor N` launch argument (1–7), release builds use `Decor.current`.
 enum Decor: Int, CaseIterable {
     case none, grainGlow, giantDate, giantCurve, blueCover, weekdaySpine, issueGrain, liquidFigures
 
@@ -14,6 +14,20 @@ enum Decor: Int, CaseIterable {
         }
         #endif
         return .none
+    }
+
+    /// The liquid figures' colour, kept away from the blue accents. Debug builds choose with `-liquidColor N`.
+    static var liquidColor: (core: Color, edge: Color) {
+        var choice = 1
+        #if DEBUG
+        let args = ProcessInfo.processInfo.arguments
+        if let i = args.firstIndex(of: "-liquidColor"), i + 1 < args.count, let n = Int(args[i + 1]) { choice = n }
+        #endif
+        switch choice {
+        case 2: return (Color(red: 0.62, green: 0.36, blue: 1), Color(red: 0.42, green: 0.18, blue: 0.85))  // violet
+        case 3: return (Color(red: 0.78, green: 0.79, blue: 0.82), Color(red: 0.5, green: 0.52, blue: 0.56))  // silver grey
+        default: return (Color(red: 1, green: 0.45, blue: 0.16), Color(red: 0.85, green: 0.27, blue: 0.08))  // burnt orange
+        }
     }
 
     /// Extra room the text needs so it doesn't collide with the decoration.
@@ -105,23 +119,24 @@ struct DecorView: View {
 
         case .liquidFigures:
             LiquidFigures()
-                .scaleEffect(0.78)
-                .offset(x: 80, y: -70)
-                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+                .scaleEffect(0.82)
+                .offset(y: 120)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
         }
     }
 }
 
-/// Two liquid figures reaching for each other: blue with grain, dissolving into the dark at their edges.
+/// Three liquid figures reaching for each other: grainy colour dissolving into the dark at their edges.
 private struct LiquidFigures: View {
     var body: some View {
+        let color = Decor.liquidColor
         ZStack {
-            RadialGradient(colors: [Color(red: 0.25, green: 0.38, blue: 1), Theme.blue],
-                           center: .center, startRadius: 0, endRadius: 240)
-            Grain(opacity: 0.3)
+            RadialGradient(colors: [color.core, color.edge], center: .center, startRadius: 0, endRadius: 230)
+            Grain(opacity: 1, blend: .softLight)
+            Grain(opacity: 0.18)
         }
         // Crisp silhouette, with the colour sinking back into the dark towards its edges.
-        .mask(LiquidShape().blur(radius: 22))
+        .mask(LiquidShape().blur(radius: 34))
         .mask(LiquidShape())
         .frame(width: 420, height: 420)
     }
@@ -177,6 +192,8 @@ private struct LiquidShape: View {
 /// Fine film grain: white noise rendered once and tiled.
 private struct Grain: View {
     var opacity: Double
+    /// `.screen` lifts dark areas; `.softLight` keeps a coloured shape saturated.
+    var blend: BlendMode = .screen
 
     private static let tile: UIImage? = {
         guard let noise = CIFilter(name: "CIRandomGenerator")?.outputImage?
@@ -192,7 +209,7 @@ private struct Grain: View {
 
     var body: some View {
         if let tile = Self.tile {
-            Image(uiImage: tile).resizable(resizingMode: .tile).opacity(opacity).blendMode(.screen)
+            Image(uiImage: tile).resizable(resizingMode: .tile).opacity(opacity).blendMode(blend)
         }
     }
 }
