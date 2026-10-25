@@ -48,7 +48,8 @@ struct WidgetFace: View {
             ZStack {
                 CurvedText(text: brief.shortHeadline, radius: 175 * s, top: 74 * s, size: 15 * s, medium: true,
                            tracking: -0.3 * s)
-                CurvedText(text: Theme.coordinates, radius: 163 * s, top: 96 * s, size: 11.5 * s, tracking: 0.1 * s)
+                CurvedText(text: "Vilnius · " + Theme.coordinates, radius: 163 * s, top: 96 * s, size: 11.5 * s,
+                           tracking: 0.1 * s)
                 VStack {
                     Spacer()
                     HStack {

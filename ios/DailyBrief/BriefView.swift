@@ -15,6 +15,8 @@ struct Detail: Identifiable {
 struct BriefView: View {
     @State private var brief: Brief? = BriefLoader.cached()
     @State private var open: Detail?
+    /// The phone's own forecast; kept across refreshes so the temperature never blinks out.
+    @State private var liveWeather: Weather?
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
@@ -43,11 +45,10 @@ struct BriefView: View {
         async let fresh = BriefLoader.load()
         async let weather = WeatherLoader.load()
         if let fresh = await fresh { brief = fresh }
-        // The phone's own forecast is current; the brief's 09:00 forecast is the fallback.
-        if let weather = await weather { brief?.weather = weather }
+        if let weather = await weather { liveWeather = weather }  // a failed fetch keeps the last forecast
         if let brief {
             SeenState.markSeen(brief)
-            await BriefLoader.preloadImages(of: brief)
+            Task.detached { await BriefLoader.preloadImages(of: brief) }
         }
     }
 
@@ -58,7 +59,7 @@ struct BriefView: View {
                 Spacer()
                 Text(brief.date.split(separator: "-").reversed().joined(separator: "."))
                 Spacer()
-                Text(brief.weather.map { "\($0.min)…\($0.max)°" } ?? " ")
+                Text(weather(brief).map { "\($0.min)…\($0.max)°" } ?? " ")
             }
             .font(Theme.helvetica(11))
             .tracking(0.5)
@@ -127,8 +128,8 @@ struct BriefView: View {
 
     private func footer(_ brief: Brief) -> some View {
         VStack(alignment: .leading, spacing: 4) {
-            if let weather = brief.weather {
-                Text(weather.text.uppercased())
+            if let forecast = weather(brief) {
+                Text(forecast.text.uppercased())
             }
             Text("\(Theme.coordinates) · \(brief.stats?.itemsRead ?? 0) HEADLINES READ")
             // The phone fetches weather itself, so the cloud's weather problems don't matter here.
@@ -176,6 +177,11 @@ struct BriefView: View {
     private func detail(_ story: Story, label: String) -> Detail {
         Detail(label: label, line: story.headline, title: story.headline, body: story.summary,
                meta: story.why, sources: story.sources, images: story.images ?? [])
+    }
+
+    /// The phone's current forecast, or the brief's 09:00 forecast as a fallback.
+    private func weather(_ brief: Brief) -> Weather? {
+        liveWeather ?? brief.weather
     }
 
     private func label(for section: String?) -> String {
