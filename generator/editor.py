@@ -88,6 +88,32 @@ Rules
 - category: "general" for anything outside the reader's topics."""
 
 
+TYPES = {"object": dict, "array": list, "string": str, "integer": int, "boolean": bool}
+
+
+def validate(value, schema: dict, path: str = "brief") -> list[str]:
+    """Check a draft against SCHEMA; only the keywords SCHEMA uses are supported."""
+    expected = TYPES[schema["type"]]
+    if not isinstance(value, expected) or (expected is int and isinstance(value, bool)):
+        return [f"{path}: expected {schema['type']}"]
+    if "enum" in schema and value not in schema["enum"]:
+        return [f"{path}: {value!r} is not one of {schema['enum']}"]
+    errors = []
+    if expected is dict:
+        for key in schema["required"]:
+            if key not in value:
+                errors.append(f"{path}.{key}: missing")
+        for key in value:
+            if key not in schema["properties"]:
+                errors.append(f"{path}.{key}: unexpected field")
+            else:
+                errors += validate(value[key], schema["properties"][key], f"{path}.{key}")
+    elif expected is list:
+        for i, entry in enumerate(value):
+            errors += validate(entry, schema["items"], f"{path}[{i}]")
+    return errors
+
+
 def format_items(items: list[dict]) -> str:
     lines = []
     for i, item in enumerate(items):
