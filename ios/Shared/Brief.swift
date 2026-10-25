@@ -80,12 +80,6 @@ struct Weather: Codable, Equatable {
     var min: Int
     var max: Int
     var text: String
-
-    /// "debesuota" from "Vilniuje 8…13 °C, debesuota, krituliai nuo 15:00."
-    var condition: String? {
-        guard let rest = text.components(separatedBy: "°C, ").last, rest != text else { return nil }
-        return rest.components(separatedBy: CharacterSet(charactersIn: ",.")).first
-    }
 }
 
 struct Stats: Codable, Equatable {
