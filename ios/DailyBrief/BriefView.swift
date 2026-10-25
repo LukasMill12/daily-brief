@@ -17,6 +17,7 @@ struct BriefView: View {
     @State private var open: Detail?
     /// The phone's own forecast; kept across refreshes so the temperature never blinks out.
     @State private var liveWeather: Weather?
+    private let decor = Decor.current
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
@@ -63,8 +64,8 @@ struct BriefView: View {
             }
             .font(Theme.helvetica(11))
             .tracking(0.5)
-            .foregroundStyle(Theme.accent)
-            .padding(.bottom, 18)
+            .foregroundStyle(decor == .blueCover || decor == .grainGlow ? .white : Theme.accent)
+            .padding(.bottom, 18 + decor.contentInsets.top)
 
             ForEach(brief.headsUp, id: \.self) { note in
                 Text(note.uppercased())
@@ -121,9 +122,11 @@ struct BriefView: View {
             footer(brief)
                 .padding(.top, 36)
         }
+        .padding(.leading, decor.contentInsets.leading)
         .padding(.horizontal, 18)
         .padding(.top, 12)
-        .padding(.bottom, 32)
+        .padding(.bottom, 32 + decor.contentInsets.bottom)
+        .background(alignment: .top) { DecorView(decor: decor, brief: brief) }
     }
 
     private func footer(_ brief: Brief) -> some View {
@@ -141,7 +144,7 @@ struct BriefView: View {
         }
         .font(Theme.helvetica(11))
         .tracking(0.3)
-        .foregroundStyle(Theme.accent.opacity(0.7))
+        .foregroundStyle(decor == .issueGrain ? Color.white.opacity(0.8) : Theme.accent.opacity(0.7))
     }
 
     // MARK: - Content shaping
