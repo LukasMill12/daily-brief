@@ -1,0 +1,50 @@
+name: Daily brief
+
+on:
+  schedule:
+    # 05:00 UTC = 07:00 in Vilnius in winter, 08:00 in summer. GitHub may start it a few minutes late.
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Write today's brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generator/main.py
+
+      - name: Publish
+        run: |
+          git config user.name "daily-brief-bot"
+          git config user.email "daily-brief-bot@users.noreply.github.com"
+          git add docs
+          git commit -m "Brief for $(date -u +%F)" || echo "Nothing new"
+          git push
+
+      - name: Notify phone (optional, needs NTFY_TOPIC secret)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then echo "No NTFY_TOPIC set, skipping"; exit 0; fi
+          TOP=$(python -c "import json; b=json.load(open('docs/brief.json')); print((b['world'] or b['lithuania'])[0]['headline'])")
+          curl -s -H "Title: Your daily brief" -H "Click: $PAGE_URL" -d "$TOP" "https://ntfy.sh/$NTFY_TOPIC"

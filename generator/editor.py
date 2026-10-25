@@ -1,0 +1,154 @@
+"""The editor step: Claude picks, ranks and writes the brief from the fetched items."""
+
+from __future__ import annotations
+
+import json
+
+MODEL = "claude-opus-5-5"
+
+SOURCE_IDS = {"type": "array", "items": {"type": "string"}}
+
+STORY = {
+    "type": "object",
+    "properties": {
+        "headline": {"type": "string"},
+        "summary": {"type": "string"},
+        "category": {"type": "string", "enum": ["general", "ai", "tech", "design", "sports", "science", "culture"]},
+        "highlight": {"type": "boolean"},
+        "coverage": {"type": "integer"},
+        "why": {"type": "string"},
+        "item_ids": SOURCE_IDS,
+    },
+    "required": ["headline", "summary", "category", "highlight", "coverage", "why", "item_ids"],
+    "additionalProperties": False,
+}
+
+ONGOING = {
+    "type": "object",
+    "properties": {
+        "id": {"type": "string"},
+        "title": {"type": "string"},
+        "update": {"type": "string"},
+        "item_ids": SOURCE_IDS,
+    },
+    "required": ["id", "title", "update", "item_ids"],
+    "additionalProperties": False,
+}
+
+EVENT = {
+    "type": "object",
+    "properties": {
+        "title": {"type": "string"},
+        "when": {"type": "string"},
+        "where": {"type": "string"},
+        "scope": {"type": "string", "enum": ["vilnius", "global"]},
+        "item_ids": SOURCE_IDS,
+    },
+    "required": ["title", "when", "where", "scope", "item_ids"],
+    "additionalProperties": False,
+}
+
+SCHEMA = {
+    "type": "object",
+    "properties": {
+        "heads_up": {"type": "array", "items": {"type": "string"}},
+        "lithuania": {"type": "array", "items": STORY},
+        "world": {"type": "array", "items": STORY},
+        "interesting": {"type": "array", "items": STORY},
+        "events": {"type": "array", "items": EVENT},
+        "ongoing": {"type": "array", "items": ONGOING},
+        "quiet_ongoing": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["heads_up", "lithuania", "world", "interesting", "events", "ongoing", "quiet_ongoing"],
+    "additionalProperties": False,
+}
+
+SYSTEM = """You are the editor of a short, personal daily news brief for one reader who lives in Vilnius, Lithuania. It is read on a phone in 3-5 minutes. Write in plain, neutral English.
+
+You get today's raw headlines from many outlets (some in Lithuanian; translate them). Each item has an id like [12]. Pick and write the brief from these items only. Never add facts that are not in the items, and cite the ids each entry is based on.
+
+How to choose stories
+- Importance comes from coverage: a story carried by many different outlets or feeds, or with a large Google News cluster ("cluster: N outlets"), is big news. Group items that report the same story and count the distinct outlets; put that number in `coverage`.
+- The biggest stories always come first and are never pushed out by the reader's interests.
+- Drop soft content: horoscopes, recipes, celebrity gossip, lifestyle filler, advertorials.
+
+Sections
+- lithuania: exactly 3 of the most important Lithuanian stories, ranked.
+- world: 3 or 4 of the most important world stories, ranked.
+- interesting: 2 or 3 picks from AI, tech, design and sports (science or culture if something stands out). Prefer substance over hype; mix categories when possible.
+- events: 1 to 3 things worth knowing about. Vilnius events (scope "vilnius") must come from the ticket listing, take place in Vilnius in the next 7 days, and use [events] as their only item id. Global events (scope "global") are notable dated happenings from the news, e.g. an election tomorrow or a big match tonight.
+- ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
+- heads_up: at most 2 short practical notes that affect daily life in Lithuania (clock change, strikes, severe weather, transport disruption), only if the items mention them. Usually empty.
+
+Rules
+- Every story appears once. If a story belongs to an ongoing event, it goes in ongoing, not in lithuania or world.
+- headline: short and factual, no clickbait. summary: one or two sentences, the key facts and numbers.
+- why: a few words on why it was picked, e.g. "Covered by 9 outlets" or "Top Lithuanian story on 3 sites".
+- highlight: true for stories about AI, tech, design or sports, in any section.
+- category: "general" for anything outside the reader's topics."""
+
+
+def format_items(items: list[dict]) -> str:
+    lines = []
+    for i, item in enumerate(items):
+        published = item["published"].strftime("%a %H:%M UTC") if item["published"] else "?"
+        line = f"[{i}] ({item['source']} | {item['section']} | {published}) {item['title']}"
+        if item["summary"]:
+            line += f" — {item['summary']}"
+        if len(item["outlets"]) > 1:
+            line += f" {{cluster: {len(item['outlets'])} outlets: {', '.join(item['outlets'][:8])}}}"
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def build_prompt(date_label: str, items: list[dict], events_text: str, previous: dict | None) -> str:
+    tracked = "none yet"
+    if previous and previous.get("ongoing"):
+        tracked = "\n".join(f"- {o['id']}: {o['title']} (last update: {o['update']})" for o in previous["ongoing"])
+        tracked += "".join(f"\n- {t} (quiet last time)" for t in previous.get("quiet_ongoing", []))
+
+    return f"""Today is {date_label} in Vilnius.
+
+<previously_tracked_ongoing_stories>
+{tracked}
+</previously_tracked_ongoing_stories>
+
+<headlines>
+{format_items(items)}
+</headlines>
+
+<events>
+Vilnius ticket listing (name, venue, date on consecutive lines; it also includes other cities, ignore those):
+{events_text or "unavailable today"}
+</events>
+
+Write today's brief."""
+
+
+def write_brief(prompt: str) -> dict:
+    import anthropic  # only needed for a full run, so --dry-run works without the SDK
+
+    client = anthropic.Anthropic()
+    with client.beta.messages.stream(
+        model=MODEL,
+        max_tokens=32000,
+        betas=["server-side-fallback-2026-07-01"],
+        fallbacks="default",
+        output_config={
+            "effort": "medium",
+            "format": {"type": "json_schema", "schema": SCHEMA},
+        },
+        system=SYSTEM,
+        messages=[{"role": "user", "content": prompt}],
+    ) as stream:
+        message = stream.get_final_message()
+
+    if message.stop_reason == "refusal":
+        raise RuntimeError(f"Editor step was declined: {message.stop_details}")
+    if message.stop_reason == "max_tokens":
+        raise RuntimeError("Editor step ran out of output tokens")
+
+    text = next(b.text for b in message.content if b.type == "text")
+    usage = message.usage
+    print(f"Claude usage: {usage.input_tokens} in, {usage.output_tokens} out")
+    return json.loads(text)
