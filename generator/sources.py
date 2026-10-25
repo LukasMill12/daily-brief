@@ -14,7 +14,11 @@ FEEDS = [
     # Delfi's own feeds stopped updating in Aug 2026, so read it through Google News.
     {"name": "Delfi", "section": "lithuania", "url": f"{GOOGLE}/search?q=site:delfi.lt+when:1d&hl=lt&gl=LT&ceid=LT:lt"},
     {"name": "15min", "section": "lithuania", "url": "https://www.15min.lt/rss"},
-    {"name": "Google News LT", "section": "lithuania", "url": f"{GOOGLE}?hl=lt&gl=LT&ceid=LT:lt"},
+    {"name": "Lrytas", "section": "lithuania", "url": "https://www.lrytas.lt/rss"},
+    # Google's Lithuania section groups each story with every outlet covering it,
+    # which is the best importance signal for Lithuanian news.
+    {"name": "Google News Lithuania", "section": "lithuania", "limit": 50,
+     "url": f"{GOOGLE}/headlines/section/topic/NATION?hl=lt&gl=LT&ceid=LT:lt"},
     # World
     {"name": "Google News Top", "section": "world", "url": f"{GOOGLE}?{EN}"},
     {"name": "Google News World", "section": "world", "url": f"{GOOGLE}/headlines/section/topic/WORLD?{EN}"},

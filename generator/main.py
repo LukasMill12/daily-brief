@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,21 +23,33 @@ DOCS = ROOT / "docs"
 VILNIUS = ZoneInfo("Europe/Vilnius")
 
 
+MAX_SOURCES = 3
+
+
+def outlet_key(name: str) -> str:
+    """'15min.lt', '15min' and 'AP News', 'AP' count as the same outlet."""
+    return re.sub(r"\.(lt|com|co\.uk)$|\s+news$", "", name.strip().lower())
+
+
 def resolve_sources(ids: list[str], items: list[dict]) -> list[dict]:
-    sources, seen = [], set()
+    candidates = []
     for raw in ids:
         key = raw.strip("[] ")
         if key == "events":
-            name, url = "bilietai.lt", EVENTS_URL
+            candidates.append({"name": "bilietai.lt", "url": EVENTS_URL})
         elif key.isdigit() and int(key) < len(items):
             item = items[int(key)]
-            name, url = item["source"], item["link"]
-        else:
-            continue
-        if url and url not in seen:
-            seen.add(url)
-            sources.append({"name": name, "url": url})
-    return sources
+            if item["link"]:
+                candidates.append({"name": item["source"], "url": item["link"]})
+
+    # Direct article links first; Google News redirect links only as a fallback.
+    candidates.sort(key=lambda s: "news.google.com" in s["url"])
+    sources, seen = [], set()
+    for source in candidates:
+        if outlet_key(source["name"]) not in seen:
+            seen.add(outlet_key(source["name"]))
+            sources.append(source)
+    return sources[:MAX_SOURCES]
 
 
 def finish(draft: dict, items: list[dict], now: datetime, problems: list[str]) -> dict:

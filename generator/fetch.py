@@ -46,7 +46,8 @@ def parse_date(value: str | None) -> datetime | None:
 def google_outlets(description: str) -> list[str]:
     """Google News items list every outlet in the story cluster as <font> tags."""
     raw = html.unescape(description or "")
-    return [clean(o) for o in re.findall(r"<font[^>]*>(.*?)</font>", raw, re.S) if clean(o)]
+    outlets = [clean(o) for o in re.findall(r"<font[^>]*>(.*?)</font>", raw, re.S)]
+    return list(dict.fromkeys(o for o in outlets if o))  # one outlet can appear twice in a cluster
 
 
 def parse_feed(data: bytes, feed: dict) -> list[dict]:
@@ -100,7 +101,7 @@ def fetch_feed(feed: dict, now: datetime) -> tuple[dict, list[dict], str | None]
     except Exception as exc:  # one broken feed must not stop the brief
         return feed, [], f"{type(exc).__name__}: {exc}"
     fresh = [i for i in items if i["published"] is None or now - i["published"] <= MAX_AGE]
-    return feed, fresh[:MAX_ITEMS_PER_FEED], None
+    return feed, fresh[:feed.get("limit", MAX_ITEMS_PER_FEED)], None
 
 
 def fetch_all(feeds: list[dict], now: datetime) -> tuple[list[dict], list[str]]:

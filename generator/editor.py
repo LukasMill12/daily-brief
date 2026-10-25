@@ -73,7 +73,7 @@ How to choose stories
 - Drop soft content: horoscopes, recipes, celebrity gossip, lifestyle filler, advertorials.
 
 Sections
-- lithuania: exactly 3 of the most important Lithuanian stories, ranked.
+- lithuania: exactly 3 of the most important Lithuanian stories, ranked. Lithuanian outlets give the same event very different headlines, so translate first and group by the underlying event (same people, place, decision or number), not by wording. Cluster counts on lithuania items are the strongest signal here; add matching items from other outlets to the count. Prefer national news (government, Seimas, security, economy, major incidents) over local crime, accidents and celebrity stories. A story carried by only one outlet makes the cut only if nothing better covered is left.
 - world: 3 or 4 of the most important world stories, ranked.
 - interesting: 2 or 3 picks from AI, tech, design and sports (science or culture if something stands out). Prefer substance over hype; mix categories when possible.
 - events: 1 to 3 things worth knowing about. Vilnius events (scope "vilnius") must come from the ticket listing, take place in Vilnius in the next 7 days, and use [events] as their only item id. Global events (scope "global") are notable dated happenings from the news, e.g. an election tomorrow or a big match tonight.
