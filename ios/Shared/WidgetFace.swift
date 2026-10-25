@@ -5,6 +5,7 @@ import SwiftUI
 struct WidgetFace: View {
     var brief: Brief
     var isNew = false
+    var figures: WidgetFigures = .none
 
     var body: some View {
         if isNew { newFace } else { baseFace }
@@ -50,20 +51,55 @@ struct WidgetFace: View {
                            tracking: -0.3 * s)
                 CurvedText(text: "Vilnius · " + Theme.coordinates, radius: 163 * s, top: 96 * s, size: 11.5 * s,
                            tracking: 0.1 * s)
+                let temperature = brief.weather.map { "\($0.min)…\($0.max)°" } ?? "+\(max(brief.storyCount - 1, 0))"
+                // The large figures take the bottom, so the date and temperature move to the top corners.
                 VStack {
-                    Spacer()
+                    if figures == .large { Spacer().frame(height: 14 * s) } else { Spacer() }
                     HStack {
-                        Text(brief.dayMonth)
+                        if figures == .replaceDate { Spacer().frame(width: 1) } else { Text(brief.dayMonth) }
                         Spacer()
-                        Text(brief.weather.map { "\($0.min)…\($0.max)°" } ?? "+\(max(brief.storyCount - 1, 0))")
+                        Text(temperature)
                     }
                     .font(Theme.helvetica(11 * s))
                     .tracking(0.4 * s)
                     .foregroundStyle(.white)
                     .padding(.horizontal, 18 * s)
                     .padding(.bottom, 14 * s)
+                    if figures == .large { Spacer() }
+                }
+                if let placement = figures.placement {
+                    FiguresMark(color: .white)
+                        .frame(width: placement.width * s)
+                        .position(x: placement.x * s, y: placement.y * s)
                 }
             }
+        }
+    }
+}
+
+/// Where the white figures sit on the widget, if anywhere. Positions are on the 190pt canvas.
+enum WidgetFigures: Int, CaseIterable {
+    case none, topLeft, topCenter, bottomCenter, replaceDate, large
+
+    var placement: (x: CGFloat, y: CGFloat, width: CGFloat)? {
+        switch self {
+        case .none: nil
+        case .topLeft: (40, 30, 44)
+        case .topCenter: (95, 36, 56)
+        case .bottomCenter: (95, 166, 46)
+        case .replaceDate: (40, 166, 44)
+        case .large: (95, 150, 118)
+        }
+    }
+
+    var label: String {
+        switch self {
+        case .none: "Now"
+        case .topLeft: "1 — Top left"
+        case .topCenter: "2 — Top centre"
+        case .bottomCenter: "3 — Bottom centre"
+        case .replaceDate: "4 — Instead of date"
+        case .large: "5 — Large"
         }
     }
 }

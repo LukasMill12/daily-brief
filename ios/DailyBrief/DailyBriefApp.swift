@@ -35,13 +35,15 @@ private struct WidgetPreview: View {
     @State private var brief = BriefLoader.cached() ?? .sample
 
     var body: some View {
-        VStack(spacing: 40) {
-            WidgetFace(brief: brief, isNew: true)
-                .frame(width: 170, height: 170)
-                .background(Theme.blue, in: RoundedRectangle(cornerRadius: 26, style: .continuous))
-            WidgetFace(brief: brief)
-                .frame(width: 170, height: 170)
-                .background(Theme.blue, in: RoundedRectangle(cornerRadius: 26, style: .continuous))
+        LazyVGrid(columns: [GridItem(.fixed(160)), GridItem(.fixed(160))], spacing: 22) {
+            ForEach(WidgetFigures.allCases, id: \.self) { figures in
+                VStack(spacing: 6) {
+                    WidgetFace(brief: brief, figures: figures)
+                        .frame(width: 160, height: 160)
+                        .background(Theme.blue, in: RoundedRectangle(cornerRadius: 24, style: .continuous))
+                    Text(figures.label).font(.caption).foregroundStyle(.black)
+                }
+            }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color(white: 0.85))

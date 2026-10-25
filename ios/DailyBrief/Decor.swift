@@ -126,20 +126,7 @@ struct DecorView: View {
 /// The figures as a small mark at the end of the footer, level with its lines.
 struct FooterFigures: View {
     var body: some View {
-        LiquidFigures().frame(width: 84, height: 48)
-    }
-}
-
-/// Three liquid figures (traced from Lukas's reference image, `figures.png`) in solid blue.
-private struct LiquidFigures: View {
-    private static let shape = UIImage(named: "figures")
-
-    var body: some View {
-        Theme.blue.mask {
-            if let shape = Self.shape {
-                Image(uiImage: shape).resizable().scaledToFit()
-            }
-        }
+        FiguresMark(color: Theme.blue).frame(width: 84, height: 48)
     }
 }
 
