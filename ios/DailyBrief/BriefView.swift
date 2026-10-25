@@ -130,6 +130,14 @@ struct BriefView: View {
     }
 
     private func footer(_ brief: Brief) -> some View {
+        HStack(alignment: .center, spacing: 12) {
+            footerLines(brief)
+            Spacer(minLength: 0)
+            if decor == .liquidFigures { FooterFigures() }
+        }
+    }
+
+    private func footerLines(_ brief: Brief) -> some View {
         VStack(alignment: .leading, spacing: 4) {
             if let forecast = weather(brief) {
                 Text(forecast.text.uppercased())

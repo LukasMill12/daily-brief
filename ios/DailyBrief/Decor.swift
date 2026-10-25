@@ -36,7 +36,6 @@ enum Decor: Int, CaseIterable {
         case .blueCover: EdgeInsets(top: 190, leading: 0, bottom: 0, trailing: 0)
         case .weekdaySpine: EdgeInsets(top: 0, leading: 34, bottom: 0, trailing: 0)
         case .issueGrain: EdgeInsets(top: 0, leading: 0, bottom: 130, trailing: 0)
-        case .liquidFigures: EdgeInsets(top: 0, leading: 0, bottom: 120, trailing: 0)
         default: EdgeInsets()
         }
     }
@@ -119,16 +118,19 @@ struct DecorView: View {
             .frame(maxHeight: .infinity, alignment: .bottom)
 
         case .liquidFigures:
-            LiquidFigures()
-                .frame(width: 160, height: 107)
-                .padding(.trailing, 16)
-                .padding(.bottom, 22)
-                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomTrailing)
+            EmptyView()  // shown in the footer instead, see FooterFigures
         }
     }
 }
 
-/// Three liquid figures in grainy blue, after a hand-drawn, blobby style.
+/// The figures as a small mark at the end of the footer, level with its lines.
+struct FooterFigures: View {
+    var body: some View {
+        LiquidFigures().frame(width: 84, height: 56)
+    }
+}
+
+/// Three small people holding hands, in grainy blue with a hand-drawn wobble.
 private struct LiquidFigures: View {
     var body: some View {
         ZStack {
@@ -140,34 +142,39 @@ private struct LiquidFigures: View {
     }
 }
 
-/// Limbs drawn as chains of slightly uneven circles, with holes cut into the bodies, then blurred and
-/// thresholded so everything melts into one wobbly silhouette. Coordinates are on a 300×200 canvas.
+/// Limbs drawn as chains of slightly uneven circles, then blurred and thresholded so joints and joined
+/// hands melt together into one soft silhouette. Coordinates are on a 300×200 canvas.
 private struct LiquidShape: View {
     /// A limb: points along its centre line with the thickness at each point.
     private struct Stroke { var points: [(CGFloat, CGFloat, CGFloat)] }
 
-    private static let heads: [(CGFloat, CGFloat, CGFloat)] = [(66, 30, 11), (162, 20, 10.5), (256, 16, 11)]
+    private static let heads: [(CGFloat, CGFloat, CGFloat)] = [(64, 16, 12), (158, 10, 12), (258, 8, 12)]
 
+    // Three people holding hands: one walking in from the left, one jumping, one running off to the right.
     private static let strokes: [Stroke] = [
-        // left figure: a hunched, heavy body with a trailing leg and a loose foot
-        Stroke(points: [(38, 74, 30), (62, 64, 38), (96, 70, 40), (128, 62, 30), (150, 50, 22)]),
-        Stroke(points: [(48, 84, 40), (54, 106, 46), (70, 122, 34), (110, 124, 26), (136, 112, 20)]),
-        Stroke(points: [(44, 112, 24), (32, 140, 18), (18, 160, 13), (12, 164, 10)]),
-        Stroke(points: [(96, 148, 11), (102, 160, 13), (108, 166, 9)]),
-        // middle figure: a tall, thin body rising out of the first, sagging into the third
-        Stroke(points: [(150, 52, 20), (164, 44, 18), (170, 70, 22), (168, 100, 18), (176, 124, 14)]),
-        Stroke(points: [(176, 124, 14), (192, 136, 12), (206, 126, 13), (220, 104, 15), (232, 84, 17)]),
-        Stroke(points: [(160, 118, 12), (156, 140, 10), (152, 152, 9)]),
-        // right figure: running, one arm reaching back, one forward
-        Stroke(points: [(254, 44, 26), (246, 66, 26), (236, 84, 22), (232, 92, 18)]),
-        Stroke(points: [(250, 46, 13), (226, 50, 13), (206, 56, 11), (198, 64, 9)]),
-        Stroke(points: [(258, 44, 13), (276, 46, 12), (290, 40, 11), (294, 30, 9)]),
-        Stroke(points: [(242, 74, 16), (262, 92, 15), (270, 110, 13), (262, 132, 11), (262, 140, 9)]),
+        // walking
+        Stroke(points: [(68, 52, 32), (62, 104, 26)]),
+        Stroke(points: [(66, 60, 14), (46, 82, 12), (38, 100, 11)]),
+        Stroke(points: [(72, 60, 14), (96, 72, 12), (118, 64, 11)]),
+        Stroke(points: [(60, 104, 17), (44, 138, 14), (30, 166, 12)]),
+        Stroke(points: [(66, 104, 17), (84, 136, 14), (88, 170, 12)]),
+        // jumping
+        Stroke(points: [(158, 44, 30), (160, 96, 24)]),
+        Stroke(points: [(154, 54, 14), (134, 64, 12), (118, 64, 11)]),
+        Stroke(points: [(164, 54, 14), (186, 46, 12), (204, 40, 11)]),
+        Stroke(points: [(156, 96, 16), (138, 124, 14), (144, 156, 12)]),
+        Stroke(points: [(164, 96, 16), (182, 122, 14), (188, 150, 12)]),
+        // running
+        Stroke(points: [(254, 42, 30), (242, 94, 24)]),
+        Stroke(points: [(250, 52, 14), (226, 48, 12), (204, 40, 11)]),
+        Stroke(points: [(258, 52, 14), (280, 66, 12), (294, 52, 11)]),
+        Stroke(points: [(240, 94, 16), (222, 114, 14), (218, 140, 12)]),
+        Stroke(points: [(246, 94, 16), (268, 120, 14), (262, 162, 12)]),
     ]
 
-    private static let holes: [CGRect] = [
-        CGRect(x: 76, y: 63, width: 30, height: 15), CGRect(x: 58, y: 94, width: 36, height: 20),
-    ]
+    private static let holes: [CGRect] = []
+    /// Bodies are drawn this much lower than listed, leaving a clear gap between head and shoulders.
+    private static let bodyDrop: CGFloat = 12
 
     var body: some View {
         Canvas { context, size in
@@ -181,13 +188,14 @@ private struct LiquidShape: View {
                 }
                 for (x, y, r) in Self.heads { dot(x, y, r) }
                 for stroke in Self.strokes {
-                    for (a, b) in zip(stroke.points, stroke.points.dropFirst()) {
+                    let points = stroke.points.map { ($0.0, $0.1 + Self.bodyDrop, $0.2) }
+                    for (a, b) in zip(points, points.dropFirst()) {
                         let steps = max(Int(hypot(b.0 - a.0, b.1 - a.1) / 2), 1)
                         for i in 0...steps {
                             let t = CGFloat(i) / CGFloat(steps)
                             let x = a.0 + (b.0 - a.0) * t, y = a.1 + (b.1 - a.1) * t
                             // Uneven thickness, like a brush or a blob of ink, rather than a clean tube.
-                            let wobble = 1 + 0.12 * sin(x * 0.37 + y * 0.23) + 0.06 * sin(x * 1.3 - y * 0.9)
+                            let wobble = 1 + 0.07 * sin(x * 0.37 + y * 0.23) + 0.03 * sin(x * 1.3 - y * 0.9)
                             dot(x, y, (a.2 + (b.2 - a.2) * t) / 2 * wobble)
                         }
                     }
