@@ -26,6 +26,7 @@ DOCS = ROOT / "docs"
 OUT = ROOT / "out"
 VILNIUS = ZoneInfo("Europe/Vilnius")
 MAX_SOURCES = 3
+MAX_IMAGES = 2
 ARTICLES_PER_STORY = 2
 EVENTS_BY_ID = {e["id"]: e for e in EVENT_SOURCES}
 
@@ -57,10 +58,24 @@ def candidate_sources(ids: list[str], items: list[dict]) -> list[dict]:
     return sources
 
 
+def story_images(ids: list[str], items: list[dict]) -> list[str]:
+    """Up to MAX_IMAGES distinct images from the items a story cites, most important item first."""
+    images = []
+    for raw in ids:
+        key = raw.strip("[] ")
+        image = items[int(key)].get("image") if key.isdigit() and int(key) < len(items) else None
+        if image and image not in images:
+            images.append(image)
+    return images[:MAX_IMAGES]
+
+
 def finish(draft: dict, items: list[dict], now: datetime, problems: list[str], weather: dict | None) -> dict:
     for section in ("lithuania", "world", "interesting", "events", "ongoing"):
         for entry in draft[section]:
-            entry["sources"] = candidate_sources(entry.pop("item_ids"), items)[:MAX_SOURCES]
+            ids = entry.pop("item_ids")
+            entry["sources"] = candidate_sources(ids, items)[:MAX_SOURCES]
+            if section != "events":
+                entry["images"] = story_images(ids, items)
     return {
         "date": now.astimezone(VILNIUS).date().isoformat(),
         "generated_at": now.isoformat(timespec="seconds"),
@@ -171,7 +186,7 @@ def main() -> int:
             "fetched_at": now.isoformat(),
             "problems": problems,
             "weather": weather,
-            "items": [{"source": i["source"], "link": i["link"]} for i in items],
+            "items": [{"source": i["source"], "link": i["link"], "image": i["image"]} for i in items],
         }
         (OUT / "run.json").write_text(json.dumps(run, ensure_ascii=False))
         task = OUT / "editor-task.md"

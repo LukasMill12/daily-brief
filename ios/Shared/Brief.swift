@@ -27,17 +27,10 @@ struct Brief: Codable, Equatable {
         leadSection == "world" ? (world.first ?? lithuania.first) : (lithuania.first ?? world.first)
     }
 
+    /// Briefs written before the widget headline existed get a neutral label rather than a cut-off sentence.
     var shortHeadline: String {
         if let short = widgetHeadline, !short.isEmpty { return short }
-        // Older briefs have no short headline: keep whole words up to what fits on the curve.
-        guard let headline = lead?.headline else { return "" }
-        var short = ""
-        for word in headline.split(separator: " ") {
-            let next = short.isEmpty ? String(word) : short + " " + word
-            if next.count > 22 { break }
-            short = next
-        }
-        return short.trimmingCharacters(in: CharacterSet(charactersIn: ",:–-"))
+        return "Today's brief"
     }
 
     var storyCount: Int { lithuania.count + world.count + interesting.count + ongoing.count }
@@ -57,6 +50,7 @@ struct Story: Codable, Equatable, Identifiable {
     var coverage: Int
     var why: String
     var sources: [Source]
+    var images: [String]?
     var id: String { headline }
 }
 
@@ -65,6 +59,7 @@ struct Ongoing: Codable, Equatable, Identifiable {
     var title: String
     var update: String
     var sources: [Source]
+    var images: [String]?
 }
 
 struct Event: Codable, Equatable, Identifiable {
@@ -97,7 +92,15 @@ struct Stats: Codable, Equatable {
 }
 
 enum BriefLoader {
-    static let url = URL(string: "https://lukasmill12.github.io/daily-brief/brief.json")!
+    static let url: URL = {
+        #if DEBUG
+        // Lets a debug build read a local test brief: launch with BRIEF_URL=file:///path/to/brief.json.
+        if let override = ProcessInfo.processInfo.environment["BRIEF_URL"], let url = URL(string: override) {
+            return url
+        }
+        #endif
+        return URL(string: "https://lukasmill12.github.io/daily-brief/brief.json")!
+    }()
     private static let cacheKey = "lastBrief"
 
     /// Fetches the latest brief, falling back to the last one that loaded.

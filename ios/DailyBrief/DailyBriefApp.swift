@@ -31,10 +31,10 @@ private struct WidgetPreview: View {
 
     var body: some View {
         VStack(spacing: 40) {
-            WidgetFace(brief: brief)
+            WidgetFace(brief: brief, isNew: true)
                 .frame(width: 170, height: 170)
                 .background(Theme.blue, in: RoundedRectangle(cornerRadius: 26, style: .continuous))
-            WidgetFace(brief: .sample)
+            WidgetFace(brief: brief)
                 .frame(width: 170, height: 170)
                 .background(Theme.blue, in: RoundedRectangle(cornerRadius: 26, style: .continuous))
         }

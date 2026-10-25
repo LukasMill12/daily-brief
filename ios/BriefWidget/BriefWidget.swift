@@ -38,7 +38,8 @@ struct BriefWidgetView: View {
     var entry: BriefEntry
 
     var body: some View {
-        WidgetFace(brief: entry.brief ?? .sample)
+        let brief = entry.brief ?? .sample
+        WidgetFace(brief: brief, isNew: entry.brief != nil && SeenState.isNew(brief))
             .containerBackground(Theme.blue, for: .widget)
     }
 }

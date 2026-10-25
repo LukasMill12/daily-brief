@@ -17,6 +17,7 @@ MAX_ITEMS_PER_FEED = 30
 SUMMARY_CHARS = 220
 
 ATOM = "{http://www.w3.org/2005/Atom}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 
 
 def download(url: str, timeout: int = 25) -> bytes:
@@ -51,6 +52,24 @@ def google_outlets(description: str) -> list[str]:
     return list(dict.fromkeys(o for o in outlets if o))  # one outlet can appear twice in a cluster
 
 
+def find_image(node: ET.Element, html_body: str | None) -> str | None:
+    """The largest image a feed item offers: media/enclosure tags first, then the first <img> in its body."""
+    best, best_width = None, -1
+    for child in node:
+        tag = child.tag.split("}")[-1]
+        url = child.get("url")
+        if tag in ("content", "thumbnail", "enclosure") and url and "image" in (child.get("type") or child.get("medium") or "image"):
+            width = int(child.get("width") or 0)
+            if width > best_width:
+                best, best_width = url, width
+    if not best and html_body:
+        match = re.search(r'<img[^>]+src="([^"]+)"', html.unescape(html_body))
+        best = match.group(1) if match else None
+    if best and "ichef.bbci.co.uk" in best:
+        best = best.replace("/standard/240/", "/standard/976/")  # BBC feeds link small thumbnails
+    return html.unescape(best) if best else None
+
+
 def parse_feed(data: bytes, feed: dict) -> list[dict]:
     root = ET.fromstring(data)
     is_google = "news.google.com" in feed["url"]
@@ -67,6 +86,7 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             published = node.findtext(f"{ATOM}published") or node.findtext(f"{ATOM}updated")
             source = feed["name"]
             outlets: list[str] = []
+            body = node.findtext(f"{ATOM}content") or summary
         else:
             title = node.findtext("title")
             link = node.findtext("link")
@@ -75,6 +95,7 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             source_el = node.find("source")
             source = source_el.text if is_google and source_el is not None else feed["name"]
             outlets = google_outlets(summary) if is_google else []
+            body = (summary or "") + (node.findtext(f"{CONTENT}encoded") or "")
 
         title = clean(title)
         if is_google:
@@ -92,6 +113,7 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             "link": (link or "").strip(),
             "published": parse_date(published),
             "outlets": outlets,
+            "image": None if is_google else find_image(node, body),
         })
     return items
 

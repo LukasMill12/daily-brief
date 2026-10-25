@@ -8,6 +8,7 @@ struct Detail: Identifiable {
     var body: String
     var meta: String
     var sources: [Source]
+    var images: [String] = []
     var id: String { label + line }
 }
 
@@ -37,8 +38,10 @@ struct BriefView: View {
         .sheet(item: $open) { StoryView(detail: $0) }
     }
 
+    /// Opening the app in any way (icon, widget, notification) counts as reading today's brief.
     private func reload() async {
         if let fresh = await BriefLoader.load() { brief = fresh }
+        if let brief { SeenState.markSeen(brief) }
     }
 
     private func content(_ brief: Brief) -> some View {
@@ -65,16 +68,17 @@ struct BriefView: View {
 
             if let lead = brief.lead {
                 Button { open = detail(lead, label: label(for: brief.leadSection)) } label: {
-                    VStack(alignment: .leading, spacing: 10) {
-                        (Text(headline(lead)).foregroundStyle(Theme.text)
-                            + Text(" " + lead.summary).foregroundStyle(Theme.muted))
-                            .font(Theme.helvetica(22, medium: true))
-                            .tracking(-0.7)
-                            .multilineTextAlignment(.leading)
-                        Text(meta(lead))
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text("TOP STORY")
                             .font(Theme.helvetica(11))
-                            .tracking(0.4)
+                            .tracking(0.5)
                             .foregroundStyle(Theme.accent)
+                        Text(lead.headline)
+                            .font(Theme.helvetica(30, medium: true))
+                            .tracking(-1)
+                            .foregroundStyle(Theme.text)
+                            .multilineTextAlignment(.leading)
+                            .frame(maxWidth: .infinity, alignment: .leading)
                     }
                 }
                 .buttonStyle(.plain)
@@ -137,7 +141,8 @@ struct BriefView: View {
             list.filter { $0 != lead }.map { detail($0, label: label) }
         }
         let ongoing = brief.ongoing.map {
-            Detail(label: "ONGOING", line: $0.title, title: $0.title, body: $0.update, meta: "", sources: $0.sources)
+            Detail(label: "ONGOING", line: $0.title, title: $0.title, body: $0.update, meta: "", sources: $0.sources,
+                   images: $0.images ?? [])
         }
         let vilnius = brief.events.filter { $0.scope == "vilnius" }.map(eventDetail)
         let worldEvents = brief.events.filter { $0.scope != "vilnius" }.map(eventDetail)
@@ -160,20 +165,10 @@ struct BriefView: View {
 
     private func detail(_ story: Story, label: String) -> Detail {
         Detail(label: label, line: story.headline, title: story.headline, body: story.summary,
-               meta: story.why, sources: story.sources)
+               meta: story.why, sources: story.sources, images: story.images ?? [])
     }
 
     private func label(for section: String?) -> String {
         section == "world" ? "WORLD" : "LIETUVA"
-    }
-
-    private func headline(_ story: Story) -> String {
-        let headline = story.headline.trimmingCharacters(in: .whitespaces)
-        return headline.last.map { ".!?".contains($0) } == true ? headline : headline + "."
-    }
-
-    private func meta(_ story: Story) -> String {
-        let names = story.sources.map(\.name).joined(separator: " · ")
-        return [names, story.why].filter { !$0.isEmpty }.joined(separator: " — ").uppercased()
     }
 }

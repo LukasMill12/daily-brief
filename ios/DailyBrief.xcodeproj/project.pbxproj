@@ -282,9 +282,10 @@
 		A1000000000000000000001A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = DailyBrief.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -307,9 +308,10 @@
 		A1000000000000000000001B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = DailyBrief.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -332,9 +334,10 @@
 		A1000000000000000000001D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BriefWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BriefWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
@@ -356,9 +359,10 @@
 		A1000000000000000000001E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BriefWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BriefWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
