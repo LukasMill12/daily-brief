@@ -1,222 +1,244 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T12:42:03+00:00",
+  "generated_at": "2026-10-25T14:51:26+00:00",
   "weather": null,
+  "lead_section": "world",
+  "widget_headline": "Brazil runoff vote",
   "heads_up": [
-    "Lietuvoje jau galioja žiemos laikas: naktį į sekmadienį laikrodžiai persukti 1 valanda atgal.",
-    "Dešimtyje savivaldybių vyksta kariuomenės ir NATO sąjungininkų pratybos „Budri pelėda“, o Alytaus ir Varėnos rajonuose – trijų dienų pratybos „Geležinis žvalgas“."
+    "Lietuvoje įsigaliojo žiemos laikas: naktį laikrodžiai persukti 1 valanda atgal."
   ],
   "lithuania": [
     {
-      "headline": "Lietuvos skolinimosi kaina artėja prie 2008 m. krizės lygio",
-      "summary": "Lietuvos skolinimosi kaina kyla ir artėja prie Kubiliaus Vyriausybės laikų lygio, o 2027 m. biudžeto projekte numatytas 3,8 proc. BVP deficitas ir valstybės skolos augimas iki 54,3 proc. BVP 2029 m. Opoziciniai liberalai pareiškė tokio biudžeto nepalaikysiantys.",
+      "headline": "Dėl kontrabandinių balionų ribota oro erdvė virš Kauno oro uosto",
+      "summary": "Naktį iš šeštadienio į sekmadienį dėl kontrabandinių balionų grėsmės buvo įvesti oro erdvės ribojimai virš Kauno oro uosto; netoliese gyvenantys žmonės pasakojo girdėję neįprastą garsą danguje.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
       "why": "Apie tai rašė 5 portalai",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092073/liberalai-sako-nepalaikysiantys-kitu-metu-biudzeto-del-pernelyg-spartaus-skolos-augimo"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/zmones/veidai-ir-vardai/2026/10/25/news/nakti-gerda-zemaite-prizadino-neiprastas-garsas-danguje-nepanasu-i-lektuva--44633054"
         },
         {
           "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNG5WODlnNWZIMDJoRm5fYzFRczY0S2JKcjZWMU5DdkEyRndRWk0zcjFUTkJLcmZKdmNMcUJtMUYyTVd4TmxOZnFYUHFWejF0TlYzOWc3NGhxWnZ2ei1XWUZIbGxoRjctbVQzRWNIQkRNOUNBZ1lTaGN6TU04M3pSRmwyTG9rMVNwTmhlU2VRM3QtaVZqay1STHBPYkZrY2xlRWJpYWtpYklmM092eTJ3WjE3c0p4Y05xNExQY295VmtpMWVDbVp5c0lyMm94azJKV05r?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2xlZktseTJlOFIwcUF5WnNwSWtyTmh5MW15T3JKZTZUYXRjcmhGWGswdGV6MlNFT08yUnZITEFTR1NsTkZwWUthMjFhQXBuYzFNaVFCWnhHWHJVMk5hUFZCNHB4V0VqMWVObUZMeXpYUGEyMWRpc19zeXhnTzZjVlhGVktfLWVHU19ybVFMV3hSN1paTkZvdnVrSllfampod3BMYm5HaVB4SzJNRjc3b3pEZHdkR2NQcUhzYUdycTR3bkpSQjFGOEVoZk5tZWJaRk1aZzhB?oc=5"
         }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/10/25/140847375-888971ab-c42b-4483-84d6-87ae5fa5664d.jpg"
       ]
     },
     {
-      "headline": "Gyventojams prognozuojamas dujų, šildymo ir maisto brangimas",
-      "summary": "Svarstoma, ar gyventojams ruoštis dujų kainų šokui, o ekspertai įvardijo, kiek Lietuvoje gali brangti maisto prekės ir šildymas.",
+      "headline": "Liberalai kelia kandidatus į merus 41 savivaldybėje ir nepalaikys biudžeto",
+      "summary": "Liberalų sąjūdis kels kandidatus į merus 41-oje iš 60 savivaldybių: Simonas Gentvilas sieks Vilniaus, Simonas Kairys – Kauno mero posto, o tarp kandidatų yra ir „čekiukų“ bylose figūruojantys Trakų bei Kaišiadorių merai. Partija taip pat pareiškė nepalaikysianti kitų metų biudžeto dėl per sparčiai augančios skolos.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
       "sources": [
         {
           "name": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2tBMXBYdXBPeXBoZ0xPbzBQZ2o4cVdEQWk3dHRBWEhfbklVejJjdWJ6RTBjSDl0ZldqbzF0MWlFUUw2RjZpQ0htSF8yZ05EdXhYWVY5VmZmSGwzQXdEelRyeURwa2hZWGREWEVHQ1lsem5PUHlHdGVkelIzU2dmNGtoR1ZmWk90?oc=5"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3092083/liberalai-iskele-kandidatus-i-merus-iskaitant-figuruojancius-cekiuku-bylose"
         },
         {
-          "name": "tv3.lt",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmdaak56cUQyVUdfc1ZCRXpFVWE2a1dtWV9Va0VKNUEtbXlVRnIxNWw0TmtpQ28wOXkweWFDd3Vlc3VwdEZCOU1RNkFERGJKRlVGZnBIdk9ZWkkwdUVSREF0U1psY2c3LVVjeVJPVTI2aFFibWp3SGJ3U282bjlnejd5SnNpT1lpaF93SWp2Vk1IWUxQdWVpMl8wYVN2ZXBJRWZ3Y0RKN1RpaXB1bDNFLVVtVUVNLWk0dVNqZmdMaWV6ejFvNTBqMjRBSQ?oc=5"
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0Z0Qml1ZE5lenM4OWZDN1oyM3FEMW1xWHotQ3Uwc0JUc3lqVEhDTUpETmlvOGtvS2xyN01ra0llOXNmbUJQN3pKMERqUkJKd2dEZ0VYaXFvZVV3bExueU13Z0NVeC16a0xldktySktSRXNrOElRQXVMTmloUXBSNU1EQTljdTRjQlM2dTBFTnE2NlBOYVRmeEN3elllNFVpakJNRUVxMEdZR0t0WVk1YlpKOGtHWXlTMlpKQVVZdDl0OFkyQjMxbDcwTW1JbXpvNGU4MWFnUDJVeTBEbHFrWFN1aw?oc=5"
         }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/24/2520121-745591-1287x836.jpg",
+        "https://www.lrt.lt/img/2026/07/07/2434144-968685-1287x836.jpg"
       ]
     },
     {
-      "headline": "85 vilniečiai neteko teisių dėl dviratininkų lenkimo",
-      "summary": "Vilniuje 85 vairuotojai neteko vairuotojo pažymėjimų už dviratininkų lenkimą, ir keliami klausimai dėl dviračių gatvių teisėtumo.",
+      "headline": "Tebelaukiama žinių apie dvi Irane dingusias lietuves",
+      "summary": "Artimieji negali susisiekti su Daiva Zakažauskaite ir Erika Šlimaite nuo spalio 11 dienos; Užsienio reikalų ministerija neatmeta, kad jos gali būti sulaikytos.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
       "why": "Apie tai rašė 5 portalai",
       "sources": [
         {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaW1TOWxCRWdBQnp3Z210WnR3X0MyTVpvTXNZVXE4anVxRVRFWVZBWXVnazdLXzBWSW01ZlI2MFlGZ1J4R2o5SVZocXkxS3c5d3BRVjdhSGlsdUpOb0pmRVg2T2M0b212cUZlUlJtYlQ4TVd3Rmd6c1pfNUFCMldnODlRQ0tEMXZHYnp6OVA4cUdLQ2RjdUJyQlVHQUFULW9RMGt2UGlNLXdBOGg3R0szU3dUSVc0ZGp2UEdnQ0xhdzFBa0ZZYnplQkdSS0ZYT00wdWN4UEZpT0JHZjJPc0FpMHVJWQ?oc=5"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/gyvenimo-budas/likimai/2026/10/25/news/sukrecianti-irane-kalejusios-brites-istorija-mamai-pasake-kad-grisiu-jau-kita-ryta--44628245"
         }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/10/25/102224422-aada0594-4d61-440c-b243-c5fbee9b049b.jpg"
       ]
     }
   ],
   "world": [
     {
-      "headline": "Obama attacks Trump while campaigning for Democrats",
-      "summary": "Ten days before the 3 November midterms, Barack Obama told rallies in Ohio and Michigan that Trump had started \"an unnecessary war\" with Iran that pushed up oil and diesel prices, calling his term \"two years of chaos and cruelty and corruption and incompetence\". Trump, rallying in Georgia, said America is in a \"golden age\".",
+      "headline": "Brazil votes in tight Lula–Bolsonaro runoff",
+      "summary": "Brazilians are choosing between 80-year-old President Lula, seeking a fourth term, and senator Flávio Bolsonaro, 45, son of the jailed ex-president, who came top in the 4 October first round. No candidate trailing after round one has ever won a Brazilian runoff.",
       "category": "general",
       "highlight": false,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
+      "coverage": 9,
+      "why": "Covered by 9 outlets, top of front pages",
       "sources": [
         {
+          "name": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/25/news/barackas-obama-kritikavo-donalda-trumpa-ir-ragino-balsuoti-uz-demokratus-44626271"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
         }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a1af/live/aa5e3cd0-d080-11f1-93e1-3b657b665bcf.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"
       ]
     },
     {
-      "headline": "Kim Jong Un visits China and opens new border bridge",
-      "summary": "Kim Jong Un crossed the newly opened 3km New Yalu River bridge to Dandong on his sixth trip to China and first since September 2025, meeting senior Communist Party official Wang Huning and pledging to expand cooperation.",
+      "headline": "Serbia votes as students challenge Vučić",
+      "summary": "Serbia is holding a snap parliamentary election, its most contested in over 14 years, with a student-led list born from two years of protests over the deadly 2024 Novi Sad canopy collapse challenging Aleksandar Vučić's ruling SNS; 18 lists compete for 250 seats and turnout among 6.4 million voters is expected to be high.",
       "category": "general",
       "highlight": false,
       "coverage": 8,
       "why": "Covered by 8 outlets",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/serbijoje-parlamento-rinkimai-valdanciajai-partijai-issuki-meta-studentu-judejimas-57-2792018?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
           "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092069/pietu-korejos-ziniasklaida-kim-jong-unas-atvyko-i-kinijos-pasienio-miesta"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GRnUtMW9jYjJsZ3dJTElQYnpHVUJBRVpjT0dRbDhNZmFzTWlJZ2V3U3JlVVN1UEUtUE1uLVFreWdSWDd0aHBNUnlKY1IxdDZqdTAzZGJoMXE3U1dhMkZNX0NENnVhM1ZfYlgyY3FsX2JLRmlPSDZzckhuTlU?oc=5"
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093029/serbija-renka-parlamenta-vuciciui-issuki-meta-studentai"
         }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5MzI3MDgmZGF0ZT0yMDI2JTJGMTAlMkYyNSwzMDA2OTM4MTgz/belgradas-andrej-isakovic-afp-6addd0d36895a.jpg",
+        "https://www.lrt.lt/img/2026/10/25/2520573-509929-1287x836.jpg"
       ]
     },
     {
-      "headline": "Eleven shot near Florida A&M University",
-      "summary": "A fight at a homecoming party near the Tallahassee campus on Saturday night escalated into gunfire that wounded 11 people, including children; three are seriously injured.",
+      "headline": "Musk says SpaceX throttled Ukraine's Starlink",
+      "summary": "Elon Musk now says SpaceX restricted Ukraine's Starlink, accusing its military of using it for offensive drone strikes, after Kyiv said the week-long disruption was over and Trump said he told Musk to \"put it back\". A Ukrainian adviser called the claim \"very strange\", saying Starlink-linked drones are speed-limited and don't work over Russia.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 8,
+      "why": "Covered by 8 outlets, BBC front page #1",
+      "sources": [
+        {
+          "name": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg"
+      ]
+    },
+    {
+      "headline": "Gunmen kill nine at church funeral in Jordan",
+      "summary": "Three gunmen opened fire on a funeral at St George's Greek Orthodox church in Karak governorate, killing nine and injuring 40 in a rare attack on Jordan's Christian minority; the government called it terrorism and the attackers are still being hunted.",
       "category": "general",
       "highlight": false,
-      "coverage": 6,
-      "why": "Covered by 6 outlets",
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
         },
         {
-          "name": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXVwdFpORWtWdWgzWjR5OW91aktPQmNnc0k1WlBKdm1xdUpJejJaREVaOFRoX1JsZnRjYXktTkhBZzJlV18zMVp3TWlGLVFkM3hfMDc1RWVMZnp2UEtCMXNlT19fSDJ2RFFIcVo3RW51d3l2ZEpuVFJwTWN4VWZKenE0dHp4aTM3eFFQSzM2elJyVTRnRDNVRkVjTnF3MWc?oc=5"
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREV6MkhmenJQN3lNbWlocWpjWGhJSXhqbTFlN2lsb0ZRakw0MU5ldGJpWnBaU2dxMmcxUGhnLXFoU2g2dkdrbUpyN1VUd0lhdm5ZRGx1UTNrMmZiM1cwVU5HNjRCLVplMEl6YkhEYUFoVVhXTEpyN0pNLUJaVC0wOW5tWWJhMFBpanBhMHBWSk1DemF6RVJKMTREU3R3SVJiQldBaG1DZEtqRkpuZ0c1bC1vLVZPckp3SUpKak93OGNHZzM1bGfSAcsBQVVfeXFMTmxZYzhQMW9xRjhvVmNZc0hBejd2TnREMzc2UHNqalRYOS1QSVZkaHpOM1VGWXBwa1BfbDJBS0RXWFBtTmphYVNLV2IzaVVDWG5zeGdVZGxyb0lyOEVqLVM1ZTY4MmxkUUFLaF9FaGItcWZESi1ZYW9SOXN6TjhvWmhKUFVPWDByNWNsX09rZ01PN0JjMDFPYnlJQlhsSHp6ZWIzckFDazQzUGtyN0x1dllqWVZqWFA3cHJRaXpzb2lHSFhJMGwyWmt0SkE?oc=5"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5"
         }
-      ]
-    },
-    {
-      "headline": "Fire destroys Hitler's Eagle's Nest retreat; suspect held",
-      "summary": "The Kehlsteinhaus above Berchtesgaden was largely destroyed in a Friday-night blaze fought by about 200 emergency workers; police detained a 33-year-old German man on a motorcycle nearby, and prosecutors say he shows signs of possible mental illness.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 6,
-      "why": "Covered by 6 outlets",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
-        },
-        {
-          "name": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHFrRDBSMlc3QU1KbUNNa0t2dS1wUXpRZjRKeWpLUjExMzFLMWlmeDVDc2hQdDVYQTFDbDRsOU9Rb21Vdl9iZXhxQ3Rpbk96dmh1dUlDYkE5QVk4OGxXdVlXS294ZGZ5UzJpeXdvQ2lBUFYwNXNJZE9BeTdDNkRPQnNrMHNyV2J5WkxWaHM3NWJUbzJCVnFkQ3JPeXZEdFo5S2s4Ti1Xb0RkbzjSAbABQVVfeXFMTm9yYThTQXYxY2NwSTctQno0dXFvRHlVc0gzeVplaWpoRFhNV2tOTTg4MndtVkRNOUtYZ2hwOEVxbzFPWlVrejdfelotNUxmUUtUa2ZYb2ppaVV5MnZoSGF6UzFGbmpfOXgtZUU1Q2N3MU5XSHd2ZWR5dGI1RVgya2FKSEptVThkRm80bmdWTUlCcDg0YnhBaDVTdThXeEZYNnRBVmUyams2QUh0Z01OYXE?oc=5"
-        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/c5dd22b7faaff144d117160192cbbd75a914bf8f/1009_0_7240_5792/master/7240.jpg?width=700&quality=85&auto=format&fit=max&s=4d620298dc3b9bde347a5b667f6ddcb0"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "Žalgiris owner buys Spain's Joventut",
-      "summary": "Paulius Motiejūnas, owner of Kaunas Žalgiris, closed several days of talks and bought the historic Badalona club Joventut, which the Spanish club has officially announced.",
+      "headline": "Moscow to host 2030 weightlifting world championships",
+      "summary": "The International Weightlifting Federation awarded Moscow its 2030 world championships, the first world event in an Olympic sport in Russia since the 2022 invasion of Ukraine; the event will also be a qualifier for the 2032 Olympics.",
       "category": "sports",
       "highlight": true,
-      "coverage": 1,
-      "why": "Lithuanian sports business story",
+      "coverage": 2,
+      "why": "Covered by BBC and Lrytas",
       "sources": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Lrytas",
-          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/10/25/news/p-motiejuno-isigytas-istorinis-ispanijos-klubas-kas-yra-joventut-ir-kuo-tapo-legendinis-r-rubio-44631429"
+          "url": "https://www.lrytas.lt/sportas/startai/2026/10/25/news/visiskas-dugnas-tarptautine-olimpine-federacija-rusijoje-rengs-pasaulio-cempionata-44632872"
         }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg",
+        "https://media.lrytas.lt/images/2026/10/25/134316999-9f881a24-239a-450a-a8d7-d7f3a3f34aee.jpg"
       ]
     },
     {
-      "headline": "Pennsylvania requires labels on AI-generated ads",
-      "summary": "Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act, requiring disclosures on AI-generated ads, as campaigns use dozens of AI ads in the US midterms.",
+      "headline": "Google may use Gmail and Photos data shared with AI search for ads",
+      "summary": "Google says data from Gmail and Google Photos shared with its AI search could be used to target ads.",
       "category": "ai",
       "highlight": true,
-      "coverage": 2,
-      "why": "AI regulation in action",
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qRDRfVDhHUXo1V2dlTDA3c1NMWmJabkRmRTVzYkdRSEo4cUEtNUZSdXhVenpUVTNSbW4tMW5IdmlITVFlN0lLWlNBa0lpLW9SUjRnZnZxVVc1c2J2WFZaLUVvREhzQUtxUzVCWDl4cDFtM0d3RzVJUEcyYzA?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "r/opensource bans AI projects",
+      "summary": "Reddit's r/opensource moderators banned any project that uses, is made by or is intended for AI, also requiring projects to be at least a year old with multiple contributors and telling non-English speakers to leave; the rules sparked a revolt and a rival subreddit.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Top of Google News Tech",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
         }
-      ]
-    },
-    {
-      "headline": "Aston Villa end Manchester City's perfect start",
-      "summary": "Nicolas Jackson scored twice as Aston Villa beat Manchester City 2-1, ending City's run of seven straight league wins; Arsenal's 2-0 win over Everton took them level on points at the top.",
-      "category": "sports",
-      "highlight": true,
-      "coverage": 2,
-      "why": "Top Premier League result",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "LRT Sport",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3092118/premier-lygos-lydere-manchester-city-prarado-pirmuosius-sio-sezono-taskus"
-        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100"
       ]
     }
   ],
   "events": [
     {
-      "title": "Käärijä – Eurodisko Tour 2026",
-      "when": "Antradienis, spalio 27 d., 20:00",
-      "where": "Menų fabrikas LOFTAS, Vilnius",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "bilietai.lt",
-          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
-        }
-      ]
-    },
-    {
       "title": "Literatūros ir diskusijų festivalis OPEN BOOKS",
-      "when": "Iki spalio 28 d.",
-      "where": "Nacionalinė dailės galerija ir kitos vietos, Vilnius",
+      "when": "iki spalio 28 d.",
+      "where": "Nacionalinė dailės galerija ir kitos vietos",
       "scope": "vilnius",
       "sources": [
         {
@@ -226,22 +248,34 @@
       ]
     },
     {
-      "title": "Israel general election",
-      "when": "Tuesday, 27 October",
-      "where": "Israel",
+      "title": "KÄÄRIJÄ koncertas (Eurodisko-Tour 2026)",
+      "when": "spalio 27 d., 20:00",
+      "where": "Menų fabrikas LOFTAS",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "US Grand Prix: Antonelli on pole, could become youngest F1 champion",
+      "when": "Sunday 25 October",
+      "where": "Austin, USA",
       "scope": "global",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaERTVlQ2SEhXTU4xOUFEUFJCcUk0QzlNX1g0X1NCS2dOQ2RXUFB3ZGFZMHBIN2lsMXlyYUpxQVZoYmVTY2ZXUVFESEpGeWlVU2lOZ1B0Qmo1T0ZpWlI1Unk0ZmhmU0F1OUFjVnVqTEdONXR1NlAxSTZSMVpsTTQzQWUwRDBjZXozSTVmMDZRalhwUl9oQmh3aHg5RmZOUDFxVUtGMS02Z1BoOHdhNElyMHk2MDlxeGvSAbwBQVVfeXFMTldSb3FJWXJlUlVGckxjN1NvQS02WVZTSzk3ZlAzay1mT00tM3luZTBwbmZFbVBVaDNxY2pnV3dSRG9tbFkwV0c2TVMtaG9EOGpmQXBxc3FvSTBQZHdXbnFnVDRPSzRaTnd0VjZHdU9HR21kbjFkZzk1bVA3Uk93UlVhdFg3cldtSllwRG9lUElxQ29nT2tXWno2X3VIWFloaU1OaEhSUW9GaUhVdHpzdXI4ck5uNGZtLWRQclA?oc=5"
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3093017/formules-1-etape-jav-is-pirmos-pozicijos-startuos-antonelli"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5"
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lZWpGSG03eVRUVF9PNXhDNmVUbUpkYWkwZ2RXRk83cmlXZ1JHTmxPckVIWktKMWFFMnYxSlBLb2FoWlRwbm1iMWllTklrZ21kc3J1MTdvMk0wbHJKTGk4R2dn?oc=5"
         }
       ]
     }
@@ -250,107 +284,118 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "A Russian drone hit an apartment block in Synelnykove, Dnipropetrovsk region, killing three and injuring at least 12, including an 11-year-old girl; a mass Ukrainian drone attack on Russia's Belgorod region killed three and injured 14, its governor says.",
+      "update": "Ukraine struck the Avisma titanium plant in Perm region and the Energiya missile and drone components plant in Lipetsk region; Trump said the US would do business with both Kyiv and Moscow after the war, and Melania Trump announced a local ceasefire in occupied Oleshky.",
       "sources": [
         {
           "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-dronui-smogus-daugiabuciui-dnipropetrovsko-srityje-zuvo-trys-zmones-12-suzeista-57-2792002?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/ukraina-smoge-rusijos-titano-gamyklai-ir-raketu-bei-dronu-komponentu-imonei-57-2792084?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093015/trumpas-po-karo-jav-pasirengusios-pletoti-verslo-rysius-su-ukraina-ir-rusija"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRUX2c1M1VjUTdxb1pfekVNSTlXNlpIQzFJRkZjSXhCVEZyaXZ3MHk0RWlKalZhVjhwTHNQYWU1V0pWRHAzZ3A5UkR5TXpPVzYyblFTcDFKNmdDNmh2NEU0T1lZMy1BSllDck9UeU5JbEpWeUdmdlhBTDNDZnpUaEx5M3hCS0lXVUUwblRWaU9TWS0xaGRnNUNVb0ZTS1BZU29KaDc0cnphWEJWVXJ4Y0dyWDg?oc=5"
-        },
-        {
-          "name": "The Kyiv Independent",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmh0VVFpaWJhdGhtR1ZQMjZCcmlPTi1uOTgyVGpZRXhjNVgwdVV2MEFWNmkzTlVvamU4TVFVaHlNR1h4N1BfbllSUTNCM21ndDVoRXF3eUtuUFFwX1Y3ZC1yNUQ3R1BiWG9SdWJiRURZLXk1dHUxbXRFV0t0LVFDSGxZbFhFWlh0dXd5VUw1QVN2Q1FDWWREeUhtSnFBQUVuZEZUcVRIMGJMdzJfeHllWnpUbTMwN3R6SHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQlpoQ2lWbHFpTkRvZUpZV1ZOVFlJNjY3RDY4UHBmS01keXdDNndROG1PY2lRRjJGWG5zVjRadmRua1hJNU1kUHZ1RUxyVHA4Z213eWN4Z3VjMnc0bVM3aW41eG9ucUpyZXFpQmtRNzJHM012TXBIa2tnZU5teFhpTnNwMWljQ01JMHZSdHNPUHFzUk5abDJBWXJWcEZ1UTdDbThaUE9PWTlGc3dWVmdDS3FrbVE2UGdiSGY0OURUWQ?oc=5"
         }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5MzI4NjQmZGF0ZT0yMDI2JTJGMTAlMkYyNSwyMTYwMTExNzQ2/timon-schneider-alamy-6ade0b2ab344e.jpg",
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5MzI4NDQmZGF0ZT0yMDI2JTJGMTAlMkYyNSwyOTI4NzAzNzQ2/d-trumpas-ap-6addfe853c3de.jpg"
       ]
     },
     {
       "id": "saudi-houthi-war",
       "title": "Saudi Arabia-Houthi fighting",
-      "update": "Riyadh's airport resumed flights after a two-week closure even as explosions were heard in the city and the coalition said it downed a ballistic missile and two drones; the Houthis warn the airport remains a military target.",
+      "update": "Saudi defences intercepted a Houthi barrage including 10 ballistic missiles, with shrapnel falling in Jeddah, Taif and elsewhere in Mecca province, and the Houthis claimed seven operations against Saudi oil facilities and bases.",
       "sources": [
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/planuojant-atidaryti-oro-uosta-saudo-arabijos-sostineje-pasigirdo-sprogimai-57-2791990?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
         },
         {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093014/saudo-arabijos-sostineje-nugriaudejo-sprogimai"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5"
         }
-      ]
+      ],
+      "images": []
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "A memo from US intelligence director Jay Clayton warns Iranian plots to kill Americans are at an advanced stage, Iran's army says it shot down a US drone over Bandar Abbas, and Tehran vows US warships will never enter the Gulf.",
+      "update": "US media report CENTCOM has plans ready for renewed strikes on Iran after the 3 November midterms, while Trump suggested an attack could come \"tomorrow\" and Iran's foreign minister said renewed war would not change Tehran's position.",
       "sources": [
         {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/25/news/iranas-atsinaujines-karas-nepakeistu-salies-pozicijos-44627115"
+        },
+        {
           "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092056/jav-zvalgybos-vadovas-iranas-artimuosiuose-rytuose-taikosi-i-amerikiecius"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5"
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093041/iranas-atsinaujines-karas-nepakeistu-salies-pozicijos"
         }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/10/25/093949932-b752841a-ad8d-4ffb-aaa8-f3e9b1819182.jpg",
+        "https://www.lrt.lt/img/2026/10/25/2520597-555189-1287x836.jpg"
       ]
     },
     {
       "id": "israel-west-bank",
       "title": "Israeli operation in the West Bank",
-      "update": "Israeli forces have razed homes in Hebron's Ein Deir Baha district, displacing about 1,500-2,000 people after two soldiers were killed at a checkpoint, and all West Bank crossings will close on Tuesday's election day.",
+      "update": "Israeli forces are using Hebron homes as barracks and observation posts under a citywide lockdown; a Palestinian NGO says 293 families (about 2,200 people) have been displaced and 47 people detained since Friday.",
       "sources": [
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
         },
         {
-          "name": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/25/news/artejant-rinkimams-izraelio-kariuomene-vakaru-krante-vykdo-didelio-masto-operacija-44632632"
         }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d181b09b713f6179e6102ffce648ec9",
+        "https://media.lrytas.lt/images/2026/10/25/124302627-631f47c5-1bd2-4054-80b0-4a839354a1f0.jpg"
       ]
     },
     {
       "id": "europe-protests",
       "title": "Protests across France and Europe",
-      "update": "On a second weekend of cost-of-living protests, France's interior ministry reported 1,314 arrests, 53 officers injured, 75 fires and 24 shops looted; Barcelona police arrested 128 overnight.",
+      "update": "Portuguese police baton-charged and cleared a 100-tent housing protest camp in Lisbon, arresting 25, and about 250,000 people marched in Madrid to defend state pensions.",
       "sources": [
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunai-prancuzijoje-per-protestus-policija-sulaike-1-314-zmoniu-57-2792032?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/25/news/neramumai-prancuzijoje-per-protestus-sulaikyta-1-314-zmoniu-44630938"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss"
         },
         {
           "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3093044/protestai-prancuzijoje-sulaikyta-1-314-zmoniu-bet-dideliu-neramumu-isvengta"
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3092127/madrido-gatvese-250-tukst-protestuotoju-del-valstybiniu-pensiju-garantiju"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUl8tRDdjZWRsQkljV3FheHEtN2dyWUtJb2dhY1JmNmhGSU5ZaVZRYnF6SDhIaDN4eVZVd19JSFRlWW9MSm1jQ1NYTEtWOU5Eb2RrVE9Ua2lZLUJCSC1Ya1BEYVFkX0tNVkh1d2RFZzZfX19ZQTEyQ0pYSEs5eEJfcXF6ODk1Y293SUMwWW5TZVhRNWZTaTlxQXdHcGNuX2ZXbjU3ckNfMXNkTDNfWTQ0Zm5INA?oc=5"
         }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/24/2520226-103767-1287x836.jpg"
       ]
     }
   ],
   "quiet_ongoing": [],
   "stats": {
-    "items_read": 562,
+    "items_read": 564,
     "feeds": 24,
     "feed_problems": [
       "BBC Tech: no recent items",
-      "LKL (Lithuanian basketball league schedule; RYT is Vilnius Rytas): unavailable",
-      "weather: unavailable"
+      "weather: URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
     ]
   }
 }
