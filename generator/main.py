@@ -151,12 +151,12 @@ def main() -> int:
     now = datetime.now(timezone.utc)
     items, problems = fetch_all(FEEDS, now)
     events = [{**e, "text": fetch_events_text(e["url"])} for e in EVENT_SOURCES]
-    weather = fetch_weather(WEATHER_URL)
+    weather, weather_error = fetch_weather(WEATHER_URL)
     print(f"Fetched {len(items)} items from {len(FEEDS)} feeds; "
           f"event listings: {[len(e['text']) for e in events]} chars; weather: {weather['text'] if weather else 'unavailable'}")
     problems += [f"{e['name']} ({e['about'].split(',')[0]}): unavailable" for e in events if not e["text"]]
-    if not weather:
-        problems.append("weather: unavailable")
+    if weather_error:
+        problems.append(f"weather: {weather_error}")
     for problem in problems:
         print(f"  ! {problem}")
 

@@ -49,8 +49,6 @@ EVENT_SOURCES = [
      "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"},
     {"id": "ev2", "name": "bilietai.lt", "about": "exhibitions, conferences and festivals (also other cities)",
      "url": "https://www.bilietai.lt/lit/renginiai/parodos"},
-    {"id": "ev3", "name": "LKL", "about": "Lithuanian basketball league schedule; RYT is Vilnius Rytas",
-     "url": "https://www.lkl.lt/tvarkarastis"},
 ]
 
 # Open-Meteo, free and keyless.

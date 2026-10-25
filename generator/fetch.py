@@ -149,12 +149,12 @@ WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-
 ]
 
 
-def fetch_weather(url: str) -> dict | None:
-    """Today's Vilnius forecast, with a short Lithuanian summary line."""
+def fetch_weather(url: str) -> tuple[dict | None, str | None]:
+    """Today's Vilnius forecast with a short Lithuanian summary line, or the reason it failed."""
     try:
         data = json.loads(download(url))
-    except Exception:
-        return None
+    except Exception as exc:
+        return None, f"{type(exc).__name__}: {exc}"
     daily = data["daily"]
     code = daily["weather_code"][0]
     rainy_hours = [t[11:16] for t, p in zip(data["hourly"]["time"], data["hourly"]["precipitation_probability"])
@@ -174,4 +174,4 @@ def fetch_weather(url: str) -> dict | None:
     if weather["wind_max_kmh"] >= 40:
         line += f", vėjas iki {weather['wind_max_kmh']} km/h"
     weather["text"] = line + "."
-    return weather
+    return weather, None
