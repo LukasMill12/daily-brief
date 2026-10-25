@@ -165,7 +165,7 @@ def fetch_article_text(url: str, max_chars: int = 3000) -> str:
 
 
 WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-Meteo
-    (0, "giedra"), (2, "nedidelis debesuotumas"), (3, "debesuota"), (48, "rūkas"),
+    (0, "giedra"), (2, "mažai debesų"), (3, "debesuota"), (48, "rūkas"),
     (57, "dulksna"), (67, "lietus"), (77, "sniegas"), (82, "protarpiais lyja"),
     (86, "snygis"), (99, "perkūnija"),
 ]

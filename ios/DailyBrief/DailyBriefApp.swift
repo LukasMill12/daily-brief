@@ -45,7 +45,10 @@ private struct WidgetPreview: View {
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color(white: 0.85))
-        .task { if let fresh = await BriefLoader.load() { brief = fresh } }
+        .task {
+            if let fresh = await BriefLoader.load() { brief = fresh }
+            if let weather = await WeatherLoader.load() { brief.weather = weather }
+        }
     }
 }
 #endif

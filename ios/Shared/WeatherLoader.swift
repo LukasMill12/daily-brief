@@ -25,7 +25,7 @@ enum WeatherLoader {
 
     /// (highest WMO weather code, description)
     private static let descriptions: [(Int, String)] = [
-        (0, "giedra"), (2, "nedidelis debesuotumas"), (3, "debesuota"), (48, "rūkas"),
+        (0, "giedra"), (2, "mažai debesų"), (3, "debesuota"), (48, "rūkas"),
         (57, "dulksna"), (67, "lietus"), (77, "sniegas"), (82, "protarpiais lyja"),
         (86, "snygis"), (99, "perkūnija"),
     ]
