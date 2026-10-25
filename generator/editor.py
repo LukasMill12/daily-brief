@@ -51,6 +51,8 @@ EVENT = {
 SCHEMA = {
     "type": "object",
     "properties": {
+        "lead_section": {"type": "string", "enum": ["lithuania", "world"]},
+        "widget_headline": {"type": "string"},
         "heads_up": {"type": "array", "items": {"type": "string"}},
         "lithuania": {"type": "array", "items": STORY},
         "world": {"type": "array", "items": STORY},
@@ -59,7 +61,8 @@ SCHEMA = {
         "ongoing": {"type": "array", "items": ONGOING},
         "quiet_ongoing": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["heads_up", "lithuania", "world", "interesting", "events", "ongoing", "quiet_ongoing"],
+    "required": ["lead_section", "widget_headline", "heads_up", "lithuania", "world", "interesting", "events",
+                 "ongoing", "quiet_ongoing"],
     "additionalProperties": False,
 }
 
@@ -82,6 +85,8 @@ Sections
 - interesting: 2 or 3 picks from AI, tech, design and sports (science or culture if something stands out). Prefer substance over hype; mix categories when possible.
 - events: 1 to 3 things worth knowing about. Vilnius events (scope "vilnius") must come from one of the event listings, take place in Vilnius in the next 7 days, and cite that listing's id (e.g. "ev1") as their only item id. Mix kinds when possible (a concert, an exhibition or a festival). Global events (scope "global") are notable dated happenings from the news, e.g. an election tomorrow or a big match tonight.
 - ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
+- lead_section: "lithuania" or "world", whichever section's first story is the single most important story of the day. The app shows that story as a large lead paragraph.
+- widget_headline: the lead story in at most 24 characters, in the lead story's language, no final period, e.g. "Skolinimosi kaina kyla". It is set on a small curved line on the home screen widget, so make it short, concrete and readable at a glance.
 - heads_up: at most 2 short practical notes that affect daily life in Lithuania (clock change, strikes, severe weather warnings, transport disruption), only if the items mention them. Usually empty. The daily forecast is shown separately, so don't repeat ordinary weather here.
 
 Rules
