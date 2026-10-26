@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A10000000000000000000030 /* BriefNotification.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A10000000000000000000031 /* BriefNotification.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		A10000000000000000000013 /* BriefWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A10000000000000000000005 /* BriefWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		A10000000000000000000030 /* BriefNotification.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A10000000000000000000031 /* BriefNotification.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A10000000000000000000032 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = A10000000000000000000001 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A10000000000000000000034;
-			remoteInfo = BriefNotification;
-		};
 		A10000000000000000000014 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = A10000000000000000000001 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A1000000000000000000000B;
 			remoteInfo = BriefWidget;
+		};
+		A10000000000000000000032 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000034;
+			remoteInfo = BriefNotification;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -44,19 +44,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A10000000000000000000031 /* BriefNotification.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = BriefNotification.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		A10000000000000000000004 /* DailyBrief.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyBrief.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A10000000000000000000005 /* BriefWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = BriefWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		A10000000000000000000031 /* BriefNotification.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = BriefNotification.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A10000000000000000000035 /* Exceptions for "BriefNotification" folder in "BriefNotification" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = A10000000000000000000034 /* BriefNotification */;
-		};
 		A10000000000000000000009 /* Exceptions for "BriefWidget" folder in "BriefWidget" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -64,17 +57,16 @@
 			);
 			target = A1000000000000000000000B /* BriefWidget */;
 		};
+		A10000000000000000000035 /* Exceptions for "BriefNotification" folder in "BriefNotification" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A10000000000000000000034 /* BriefNotification */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A10000000000000000000036 /* BriefNotification */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A10000000000000000000035 /* Exceptions for "BriefNotification" folder in "BriefNotification" target */,
-			);
-			path = BriefNotification;
-			sourceTree = "<group>";
-		};
 		A10000000000000000000006 /* DailyBrief */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = DailyBrief;
@@ -93,16 +85,17 @@
 			path = Shared;
 			sourceTree = "<group>";
 		};
+		A10000000000000000000036 /* BriefNotification */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A10000000000000000000035 /* Exceptions for "BriefNotification" folder in "BriefNotification" target */,
+			);
+			path = BriefNotification;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A10000000000000000000037 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		A1000000000000000000000D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -111,6 +104,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		A10000000000000000000011 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000037 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -144,27 +144,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A10000000000000000000034 /* BriefNotification */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = A1000000000000000000003C /* Build configuration list for PBXNativeTarget "BriefNotification" */;
-			buildPhases = (
-				A10000000000000000000038 /* Sources */,
-				A10000000000000000000037 /* Frameworks */,
-				A10000000000000000000039 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				A10000000000000000000036 /* BriefNotification */,
-				A10000000000000000000008 /* Shared */,
-			);
-			name = BriefNotification;
-			productName = BriefNotification;
-			productReference = A10000000000000000000031 /* BriefNotification.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
 		A1000000000000000000000A /* DailyBrief */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A10000000000000000000019 /* Build configuration list for PBXNativeTarget "DailyBrief" */;
@@ -210,6 +189,27 @@
 			productReference = A10000000000000000000005 /* BriefWidget.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
+		A10000000000000000000034 /* BriefNotification */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A1000000000000000000003C /* Build configuration list for PBXNativeTarget "BriefNotification" */;
+			buildPhases = (
+				A10000000000000000000038 /* Sources */,
+				A10000000000000000000037 /* Frameworks */,
+				A10000000000000000000039 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A10000000000000000000008 /* Shared */,
+				A10000000000000000000036 /* BriefNotification */,
+			);
+			name = BriefNotification;
+			productName = BriefNotification;
+			productReference = A10000000000000000000031 /* BriefNotification.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -253,13 +253,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A10000000000000000000039 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		A1000000000000000000000E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -274,16 +267,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXResourcesBuildPhase section */
-
-/* Begin PBXSourcesBuildPhase section */
-		A10000000000000000000038 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
+		A10000000000000000000039 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
 		A1000000000000000000000C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -298,72 +291,29 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A10000000000000000000038 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A10000000000000000000033 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = A10000000000000000000034 /* BriefNotification */;
-			targetProxy = A10000000000000000000032 /* PBXContainerItemProxy */;
-		};
 		A10000000000000000000015 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = A1000000000000000000000B /* BriefWidget */;
 			targetProxy = A10000000000000000000014 /* PBXContainerItemProxy */;
 		};
+		A10000000000000000000033 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A10000000000000000000034 /* BriefNotification */;
+			targetProxy = A10000000000000000000032 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		A1000000000000000000003A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = BriefNotification.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = FT89DGVACP;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BriefNotification/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		A1000000000000000000003B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = BriefNotification.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = FT89DGVACP;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BriefNotification/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
 		A10000000000000000000017 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -512,18 +462,59 @@
 			};
 			name = Release;
 		};
+		A1000000000000000000003A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BriefNotification.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FT89DGVACP;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BriefNotification/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A1000000000000000000003B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BriefNotification.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FT89DGVACP;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BriefNotification/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1000000000000000000003C /* Build configuration list for PBXNativeTarget "BriefNotification" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A1000000000000000000003A /* Debug */,
-				A1000000000000000000003B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		A10000000000000000000016 /* Build configuration list for PBXProject "DailyBrief" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -547,6 +538,15 @@
 			buildConfigurations = (
 				A1000000000000000000001D /* Debug */,
 				A1000000000000000000001E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A1000000000000000000003C /* Build configuration list for PBXNativeTarget "BriefNotification" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A1000000000000000000003A /* Debug */,
+				A1000000000000000000003B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

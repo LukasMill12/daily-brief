@@ -13,7 +13,10 @@ struct Detail: Identifiable {
 }
 
 struct BriefView: View {
-    @State private var brief: Brief? = BriefLoader.cached()
+    @State private var today: Brief? = BriefLoader.cached()
+    /// A past day picked from the archive; nil shows today.
+    @State private var past: Brief?
+    @State private var showArchive = false
     @State private var open: Detail?
     /// The phone's own forecast; kept across refreshes so the temperature never blinks out.
     @State private var liveWeather: Weather?
@@ -22,8 +25,9 @@ struct BriefView: View {
 
     var body: some View {
         ScrollView {
-            if let brief {
+            if let brief = past ?? today {
                 content(brief)
+                    .id(brief.date)  // a new day starts at the top
             } else {
                 Text("LOADING")
                     .font(Theme.helvetica(11))
@@ -39,15 +43,31 @@ struct BriefView: View {
             if phase == .active { Task { await reload() } }
         }
         .sheet(item: $open) { StoryView(detail: $0) }
+        .sheet(isPresented: $showArchive) {
+            ArchiveView(current: (past ?? today)?.date) { day in
+                showArchive = false
+                Task { await show(day) }
+            }
+        }
+    }
+
+    /// Shows a past day, or today again when `day` is today's date.
+    private func show(_ day: BriefLoader.ArchiveDay) async {
+        if day.date == today?.date {
+            past = nil
+        } else if let brief = await BriefLoader.loadArchived(day.date) {
+            past = brief
+            Task.detached { await BriefLoader.preloadImages(of: brief) }
+        }
     }
 
     /// Opening the app in any way (icon, widget, notification) counts as reading today's brief.
     private func reload() async {
         async let fresh = BriefLoader.load()
         async let weather = WeatherLoader.load()
-        if let fresh = await fresh { brief = fresh }
+        if let fresh = await fresh { today = fresh }
         if let weather = await weather { liveWeather = weather }  // a failed fetch keeps the last forecast
-        if let brief {
+        if let brief = today {
             SeenState.markSeen(brief)
             Task.detached { await BriefLoader.preloadImages(of: brief) }
         }
@@ -56,12 +76,17 @@ struct BriefView: View {
     private func content(_ brief: Brief) -> some View {
         VStack(alignment: .leading, spacing: 0) {
             HStack {
-                Text("THE BRIEF")
-                    #if DEBUG
-                    .onLongPressGesture { DailyNotification.sendTest() }  // test the notification; lock the phone
-                    #endif
+                if past != nil {
+                    Button("← TODAY") { past = nil }
+                } else {
+                    Text("THE BRIEF")
+                        #if DEBUG
+                        .onLongPressGesture { DailyNotification.sendTest() }  // test the notification; lock the phone
+                        #endif
+                }
                 Spacer()
-                Text(brief.date.split(separator: "-").reversed().joined(separator: "."))
+                // Tapping the date opens the archive.
+                Button(brief.date.split(separator: "-").reversed().joined(separator: ".")) { showArchive = true }
                 Spacer()
                 Text(weather(brief).map { "\($0.min)…\($0.max)°" } ?? " ")
             }
@@ -150,7 +175,7 @@ struct BriefView: View {
             let problems = (brief.stats?.feedProblems ?? []).map { $0.components(separatedBy: ":")[0] }
                 .filter { $0 != "weather" }
             if !problems.isEmpty {
-                Text("NOT WORKING TODAY: " + problems.joined(separator: ", ").uppercased())
+                Text((brief.date == today?.date ? "NOT WORKING TODAY: " : "NOT WORKING THAT DAY: ") + problems.joined(separator: ", ").uppercased())
             }
         }
         .font(Theme.helvetica(11))
@@ -195,7 +220,7 @@ struct BriefView: View {
 
     /// The phone's current forecast, or the brief's 09:00 forecast as a fallback.
     private func weather(_ brief: Brief) -> Weather? {
-        liveWeather ?? brief.weather
+        brief.date == today?.date ? (liveWeather ?? brief.weather) : brief.weather
     }
 
     private func label(for section: String?) -> String {

@@ -91,7 +91,21 @@ def save(brief: dict) -> None:
     archive = DOCS / "archive" / f"{brief['date']}.json"
     archive.parent.mkdir(parents=True, exist_ok=True)
     archive.write_text(text)
+    write_archive_index()
     print(f"Saved docs/brief.json and {archive.relative_to(ROOT)}")
+
+
+def write_archive_index() -> None:
+    """docs/archive/index.json: every archived day, newest first, with the labels the app's archive list shows."""
+    days = []
+    for path in sorted((DOCS / "archive").glob("????-??-??.json"), reverse=True):
+        brief = json.loads(path.read_text())
+        lead = (brief["world"] if brief.get("lead_section") == "world" else brief["lithuania"]) or brief["world"]
+        days.append({
+            "date": brief["date"],
+            "label": brief.get("widget_headline") or (lead[0]["headline"] if lead else ""),
+        })
+    (DOCS / "archive" / "index.json").write_text(json.dumps(days, ensure_ascii=False, indent=2))
 
 
 def load_draft(path: Path) -> tuple[dict | None, list[str]]:

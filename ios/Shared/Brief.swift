@@ -117,6 +117,37 @@ enum BriefLoader {
         return cached()
     }
 
+    struct ArchiveDay: Codable, Identifiable, Hashable {
+        var date: String
+        var label: String
+        var id: String { date }
+    }
+
+    private static let archiveBase: URL = {
+        #if DEBUG
+        // A debug build can read a local archive folder: launch with ARCHIVE_URL=file:///path/to/archive/.
+        if let override = ProcessInfo.processInfo.environment["ARCHIVE_URL"], let url = URL(string: override) {
+            return url
+        }
+        #endif
+        return URL(string: "https://lukasmill12.github.io/daily-brief/archive/")!
+    }()
+
+    /// Every archived day, newest first.
+    static func loadArchiveIndex() async -> [ArchiveDay] {
+        let request = URLRequest(url: archiveBase.appendingPathComponent("index.json"),
+                                 cachePolicy: .reloadIgnoringLocalCacheData, timeoutInterval: 20)
+        guard let (data, _) = try? await URLSession.shared.data(for: request) else { return [] }
+        return (try? JSONDecoder().decode([ArchiveDay].self, from: data)) ?? []
+    }
+
+    /// The brief of one past day ("2026-10-25"). Past briefs don't change, so the URL cache is fine.
+    static func loadArchived(_ date: String) async -> Brief? {
+        guard let (data, _) = try? await URLSession.shared.data(from: archiveBase.appendingPathComponent("\(date).json"))
+        else { return nil }
+        return try? JSONDecoder().decode(Brief.self, from: data)
+    }
+
     /// Downloads every story photo into the URL cache so story pages show them instantly.
     static func preloadImages(of brief: Brief) async {
         let urls = (brief.lithuania + brief.world + brief.interesting).flatMap { $0.images ?? [] }
