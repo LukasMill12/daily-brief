@@ -9,7 +9,7 @@
 			<key>UNNotificationExtensionCategory</key>
 			<string>daily-brief</string>
 			<key>UNNotificationExtensionInitialContentSizeRatio</key>
-			<real>1.065</real>
+			<real>1.12</real>
 			<key>UNNotificationExtensionDefaultContentHidden</key>
 			<true/>
 		</dict>
