@@ -12,6 +12,8 @@ struct DailyBriefApp: App {
             #if DEBUG
             if ProcessInfo.processInfo.arguments.contains("-widgetPreview") {
                 WidgetPreview()
+            } else if ProcessInfo.processInfo.arguments.contains("-iconPreview") {
+                IconPreview()
             } else {
                 main
             }
