@@ -133,11 +133,23 @@ enum BriefLoader {
         return URL(string: "https://lukasmill12.github.io/daily-brief/archive/")!
     }()
 
-    /// Every archived day, newest first.
+    private static let archiveKey = "archiveIndex"
+
+    /// Every archived day, newest first; the last list that loaded if the network fails.
     static func loadArchiveIndex() async -> [ArchiveDay] {
         let request = URLRequest(url: archiveBase.appendingPathComponent("index.json"),
                                  cachePolicy: .reloadIgnoringLocalCacheData, timeoutInterval: 20)
-        guard let (data, _) = try? await URLSession.shared.data(for: request) else { return [] }
+        if let (data, _) = try? await URLSession.shared.data(for: request),
+           let days = try? JSONDecoder().decode([ArchiveDay].self, from: data) {
+            defaults.set(data, forKey: archiveKey)
+            return days
+        }
+        return cachedArchiveIndex()
+    }
+
+    /// The archive list from the last time it loaded, so the archive opens instantly.
+    static func cachedArchiveIndex() -> [ArchiveDay] {
+        guard let data = defaults.data(forKey: archiveKey) else { return [] }
         return (try? JSONDecoder().decode([ArchiveDay].self, from: data)) ?? []
     }
 

@@ -71,6 +71,7 @@ struct BriefView: View {
             SeenState.markSeen(brief)
             Task.detached { await BriefLoader.preloadImages(of: brief) }
         }
+        _ = await BriefLoader.loadArchiveIndex()  // keeps the archive list ready to open instantly
     }
 
     private func content(_ brief: Brief) -> some View {

@@ -4,7 +4,10 @@ import SwiftUI
 struct ArchiveView: View {
     var current: String?
     var pick: (BriefLoader.ArchiveDay) -> Void
-    @State private var days: [BriefLoader.ArchiveDay]?
+    @State private var days: [BriefLoader.ArchiveDay]? = {
+        let cached = BriefLoader.cachedArchiveIndex()
+        return cached.isEmpty ? nil : cached
+    }()
     @Environment(\.dismiss) private var dismiss
 
     var body: some View {
@@ -47,7 +50,10 @@ struct ArchiveView: View {
         }
         .background(Theme.background.ignoresSafeArea())
         .presentationBackground(Theme.background)
-        .task { days = await BriefLoader.loadArchiveIndex() }
+        .task {
+            let fresh = await BriefLoader.loadArchiveIndex()
+            if !fresh.isEmpty { days = fresh }
+        }
     }
 
     /// "SK 25.10"
