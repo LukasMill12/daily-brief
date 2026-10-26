@@ -57,6 +57,9 @@ struct BriefView: View {
         VStack(alignment: .leading, spacing: 0) {
             HStack {
                 Text("THE BRIEF")
+                    #if DEBUG
+                    .onLongPressGesture { DailyNotification.sendTest() }  // test the notification; lock the phone
+                    #endif
                 Spacer()
                 Text(brief.date.split(separator: "-").reversed().joined(separator: "."))
                 Spacer()

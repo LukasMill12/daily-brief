@@ -102,6 +102,8 @@ enum BriefLoader {
         return URL(string: "https://lukasmill12.github.io/daily-brief/brief.json")!
     }()
     private static let cacheKey = "lastBrief"
+    /// Shared by the app, the widget and the notification view through the App Group.
+    private static let defaults = UserDefaults(suiteName: "group.lt.lukas.dailybrief") ?? .standard
 
     /// Fetches the latest brief, falling back to the last one that loaded.
     static func load() async -> Brief? {
@@ -109,7 +111,7 @@ enum BriefLoader {
         request.setValue("no-cache", forHTTPHeaderField: "Cache-Control")
         if let (data, _) = try? await URLSession.shared.data(for: request),
            let brief = try? JSONDecoder().decode(Brief.self, from: data) {
-            UserDefaults.standard.set(data, forKey: cacheKey)
+            defaults.set(data, forKey: cacheKey)
             return brief
         }
         return cached()
@@ -127,7 +129,7 @@ enum BriefLoader {
     }
 
     static func cached() -> Brief? {
-        guard let data = UserDefaults.standard.data(forKey: cacheKey) else { return nil }
+        guard let data = defaults.data(forKey: cacheKey) else { return nil }
         return try? JSONDecoder().decode(Brief.self, from: data)
     }
 }

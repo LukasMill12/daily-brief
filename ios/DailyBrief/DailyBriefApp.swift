@@ -14,6 +14,8 @@ struct DailyBriefApp: App {
                 WidgetPreview()
             } else if ProcessInfo.processInfo.arguments.contains("-iconPreview") {
                 IconPreview()
+            } else if ProcessInfo.processInfo.arguments.contains("-notificationPreview") {
+                NotificationPreview()
             } else {
                 main
             }
@@ -53,6 +55,23 @@ private struct WidgetPreview: View {
             if let fresh = await BriefLoader.load() { brief = fresh }
             if let weather = await WeatherLoader.load() { brief.weather = weather }
         }
+    }
+}
+
+/// The long-press notification design at phone width. Launch with `-notificationPreview`.
+private struct NotificationPreview: View {
+    @State private var brief = BriefLoader.cached() ?? .sample
+
+    var body: some View {
+        NotificationFace(brief: brief)
+            .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+            .padding(.horizontal, 10)
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Color(white: 0.25))
+            .task {
+                if let fresh = await BriefLoader.load() { brief = fresh }
+                if let weather = await WeatherLoader.load() { brief.weather = weather }
+            }
     }
 }
 #endif
