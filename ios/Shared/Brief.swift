@@ -15,9 +15,10 @@ struct Brief: Codable, Equatable {
     var ongoing: [Ongoing]
     var quietOngoing: [String]
     var stats: Stats?
+    var fact: Fact?
 
     enum CodingKeys: String, CodingKey {
-        case date, weather, lithuania, world, interesting, events, ongoing, stats
+        case date, weather, lithuania, world, interesting, events, ongoing, stats, fact
         case generatedAt = "generated_at", leadSection = "lead_section", widgetHeadline = "widget_headline"
         case headsUp = "heads_up", quietOngoing = "quiet_ongoing"
     }
@@ -51,7 +52,13 @@ struct Story: Codable, Equatable, Identifiable {
     var why: String
     var sources: [Source]
     var images: [String]?
+    var context: String?
     var id: String { headline }
+}
+
+struct Fact: Codable, Equatable {
+    var text: String
+    var sources: [Source]
 }
 
 struct Ongoing: Codable, Equatable, Identifiable {
@@ -60,6 +67,7 @@ struct Ongoing: Codable, Equatable, Identifiable {
     var update: String
     var sources: [Source]
     var images: [String]?
+    var context: String?
 }
 
 struct Event: Codable, Equatable, Identifiable {

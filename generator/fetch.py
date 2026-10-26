@@ -164,6 +164,20 @@ def fetch_article_text(url: str, max_chars: int = 3000) -> str:
     return text[:max_chars]
 
 
+def fetch_on_this_day(url_template: str, month: int, day: int) -> tuple[list[dict], str | None]:
+    """Wikipedia's curated anniversaries for a date: year, sentence and the article it links to."""
+    try:
+        data = json.loads(download(url_template.format(month=month, day=day)))
+    except Exception as exc:
+        return [], f"{type(exc).__name__}: {exc}"
+    events = []
+    for event in data.get("selected", []):
+        pages = event.get("pages") or []
+        link = pages[0]["content_urls"]["desktop"]["page"] if pages else ""
+        events.append({"year": event.get("year"), "text": clean(event.get("text")), "link": link})
+    return events, None
+
+
 WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-Meteo
     (0, "giedra"), (2, "mažai debesų"), (3, "debesuota"), (48, "rūkas"),
     (57, "dulksna"), (67, "lietus"), (77, "sniegas"), (82, "protarpiais lyja"),

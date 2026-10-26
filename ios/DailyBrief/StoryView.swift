@@ -30,6 +30,21 @@ struct StoryView: View {
                     .foregroundStyle(Theme.text)
                     .padding(.bottom, 18)
 
+                if !detail.context.isEmpty {
+                    VStack(alignment: .leading, spacing: 6) {
+                        Text("CONTEXT")
+                            .font(Theme.helvetica(11))
+                            .tracking(0.5)
+                            .foregroundStyle(Theme.accent)
+                        Text(detail.context)
+                            .font(Theme.helvetica(16))
+                            .tracking(-0.2)
+                            .foregroundStyle(Theme.muted)
+                    }
+                    .padding(.top, 6)
+                    .padding(.bottom, 22)
+                }
+
                 if !detail.meta.isEmpty {
                     Text(detail.meta.uppercased())
                         .font(Theme.helvetica(11))

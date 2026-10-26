@@ -9,6 +9,7 @@ struct Detail: Identifiable {
     var meta: String
     var sources: [Source]
     var images: [String] = []
+    var context = ""
     var id: String { label + line }
 }
 
@@ -148,6 +149,11 @@ struct BriefView: View {
                 }
             }
 
+            if let fact = brief.fact {
+                factBlock(fact)
+                    .padding(.top, 44)
+            }
+
             footer(brief)
                 .padding(.top, 36)
         }
@@ -156,6 +162,30 @@ struct BriefView: View {
         .padding(.top, 12)
         .padding(.bottom, 32 + decor.contentInsets.bottom)
         .background(alignment: .top) { DecorView(decor: decor, brief: brief) }
+    }
+
+    /// A quiet closing note: the day's fact, linking to its source.
+    private func factBlock(_ fact: Fact) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Text("FACT OF THE DAY")
+                .font(Theme.helvetica(11))
+                .tracking(0.5)
+                .foregroundStyle(Theme.accent)
+            if let url = fact.sources.first.flatMap({ URL(string: $0.url) }) {
+                Link(destination: url) { factText(fact) }
+            } else {
+                factText(fact)
+            }
+        }
+    }
+
+    private func factText(_ fact: Fact) -> some View {
+        Text(fact.text)
+            .font(Theme.helvetica(17))
+            .tracking(-0.3)
+            .foregroundStyle(Theme.text)
+            .multilineTextAlignment(.leading)
+            .frame(maxWidth: .infinity, alignment: .leading)
     }
 
     private func footer(_ brief: Brief) -> some View {
@@ -193,7 +223,7 @@ struct BriefView: View {
         }
         let ongoing = brief.ongoing.map {
             Detail(label: "ONGOING", line: $0.title, title: $0.title, body: $0.update, meta: "", sources: $0.sources,
-                   images: $0.images ?? [])
+                   images: $0.images ?? [], context: $0.context ?? "")
         }
         let vilnius = brief.events.filter { $0.scope == "vilnius" }.map(eventDetail)
         let worldEvents = brief.events.filter { $0.scope != "vilnius" }.map(eventDetail)
@@ -216,7 +246,8 @@ struct BriefView: View {
 
     private func detail(_ story: Story, label: String) -> Detail {
         Detail(label: label, line: story.headline, title: story.headline, body: story.summary,
-               meta: story.why, sources: story.sources, images: story.images ?? [])
+               meta: story.why, sources: story.sources, images: story.images ?? [],
+               context: story.context ?? "")
     }
 
     /// The phone's current forecast, or the brief's 09:00 forecast as a fallback.

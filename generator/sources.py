@@ -58,3 +58,6 @@ WEATHER_URL = (
     "&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,weather_code,wind_speed_10m_max"
     "&hourly=precipitation_probability&timezone=Europe%2FVilnius&forecast_days=1"
 )
+
+# Wikipedia's curated "On this day" selection for the fact of the day; {month}/{day} are filled in.
+ON_THIS_DAY_URL = "https://en.wikipedia.org/api/rest_v1/feed/onthisday/selected/{month:02d}/{day:02d}"

@@ -18,8 +18,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from editor import SCHEMA, SYSTEM, build_prompt, validate, write_brief
-from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_weather
-from sources import EVENT_SOURCES, FEEDS, WEATHER_URL
+from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_on_this_day, fetch_weather
+from sources import EVENT_SOURCES, FEEDS, ON_THIS_DAY_URL, WEATHER_URL
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -36,14 +36,16 @@ def outlet_key(name: str) -> str:
     return re.sub(r"\.(lt|com|co\.uk)$|\s+news$", "", name.strip().lower())
 
 
-def candidate_sources(ids: list[str], items: list[dict]) -> list[dict]:
+def candidate_sources(ids: list[str], items: list[dict], on_this_day: list[dict] = ()) -> list[dict]:
     """One source per outlet, direct article links before Google News redirect links."""
     candidates = []
     for raw in ids:
         key = raw.strip("[] ")
         if key == "events":  # older drafts cited the ticket listing this way
             key = "ev1"
-        if key in EVENTS_BY_ID:
+        if key.startswith("d") and key[1:].isdigit() and int(key[1:]) < len(on_this_day):
+            candidates.append({"name": "Wikipedia", "url": on_this_day[int(key[1:])]["link"]})
+        elif key in EVENTS_BY_ID:
             candidates.append({"name": EVENTS_BY_ID[key]["name"], "url": EVENTS_BY_ID[key]["url"]})
         elif key.isdigit() and int(key) < len(items) and items[int(key)]["link"]:
             item = items[int(key)]
@@ -69,7 +71,10 @@ def story_images(ids: list[str], items: list[dict]) -> list[str]:
     return images[:MAX_IMAGES]
 
 
-def finish(draft: dict, items: list[dict], now: datetime, problems: list[str], weather: dict | None) -> dict:
+def finish(draft: dict, items: list[dict], now: datetime, problems: list[str], weather: dict | None,
+           on_this_day: list[dict]) -> dict:
+    fact = draft["fact"]
+    fact["sources"] = candidate_sources(fact.pop("item_ids"), items, on_this_day)[:1]
     for section in ("lithuania", "world", "interesting", "events", "ongoing"):
         for entry in draft[section]:
             ids = entry.pop("item_ids")
@@ -148,7 +153,8 @@ def fetch_articles(path: Path) -> int:
         "# Articles behind today's picks\n\n"
         "Use these to make each summary accurate and specific: correct anything the headline got wrong and add "
         "the key facts, numbers and why it matters. Keep summaries to one or two sentences and keep the language "
-        "rules. Change a pick only if its article shows it is wrong or trivial.\n\n" + "\n\n".join(sections) + "\n"
+        "rules. Write each entry's context (background and what is at stake) from these articles too. "
+        "Change a pick only if its article shows it is wrong or trivial.\n\n" + "\n\n".join(sections) + "\n"
     )
     print(f"Articles for {len(stories)} stories saved to {out.relative_to(ROOT)} ({len(out.read_text())} chars)")
     return 0
@@ -161,7 +167,8 @@ def publish_draft(path: Path) -> int:
         print("Draft does not match the format:", *errors[:20], sep="\n  - ")
         return 1
     run = json.loads((OUT / "run.json").read_text())
-    save(finish(draft, run["items"], datetime.fromisoformat(run["fetched_at"]), run["problems"], run["weather"]))
+    save(finish(draft, run["items"], datetime.fromisoformat(run["fetched_at"]), run["problems"], run["weather"],
+                run.get("on_this_day", [])))
     return 0
 
 
@@ -181,18 +188,22 @@ def main() -> int:
     items, problems = fetch_all(FEEDS, now)
     events = [{**e, "text": fetch_events_text(e["url"])} for e in EVENT_SOURCES]
     weather, weather_error = fetch_weather(WEATHER_URL)
+    local = now.astimezone(VILNIUS)
+    on_this_day, on_this_day_error = fetch_on_this_day(ON_THIS_DAY_URL, local.month, local.day)
     print(f"Fetched {len(items)} items from {len(FEEDS)} feeds; "
           f"event listings: {[len(e['text']) for e in events]} chars; weather: {weather['text'] if weather else 'unavailable'}")
     problems += [f"{e['name']} ({e['about'].split(',')[0]}): unavailable" for e in events if not e["text"]]
     if weather_error:
         problems.append(f"weather: {weather_error}")
+    if on_this_day_error:
+        problems.append(f"Wikipedia: {on_this_day_error}")
     for problem in problems:
         print(f"  ! {problem}")
 
     latest = DOCS / "brief.json"
     previous = json.loads(latest.read_text()) if latest.exists() else None
     date_label = now.astimezone(VILNIUS).strftime("%A, %d %B %Y")
-    prompt = build_prompt(date_label, items, events, previous, weather)
+    prompt = build_prompt(date_label, items, events, previous, weather, on_this_day)
 
     if args.dry_run:
         OUT.mkdir(exist_ok=True)
@@ -200,6 +211,7 @@ def main() -> int:
             "fetched_at": now.isoformat(),
             "problems": problems,
             "weather": weather,
+            "on_this_day": on_this_day,
             "items": [{"source": i["source"], "link": i["link"], "image": i["image"]} for i in items],
         }
         (OUT / "run.json").write_text(json.dumps(run, ensure_ascii=False))
@@ -208,14 +220,15 @@ def main() -> int:
             "# Daily brief editor task\n\n"
             f"## Instructions\n\n{SYSTEM}\n\n"
             "## Output\n\nWrite out/draft.json: one JSON object that matches this JSON Schema exactly "
-            "(item ids are the numbers in square brackets, as strings, e.g. \"12\"; event listings use their id, e.g. \"ev1\").\n\n"
+            "(item ids are the numbers in square brackets, as strings, e.g. \"12\"; event listings and anniversaries use "
+            "their id, e.g. \"ev1\" or \"d3\").\n\n"
             f"```json\n{json.dumps(SCHEMA, indent=2)}\n```\n\n"
             f"## Today's material\n\n{prompt}\n"
         )
         print(f"Editor task saved to {task.relative_to(ROOT)} ({len(task.read_text())} chars)")
         return 0
 
-    save(finish(write_brief(prompt), items, now, problems, weather))
+    save(finish(write_brief(prompt), items, now, problems, weather, on_this_day))
     return 0
 
 

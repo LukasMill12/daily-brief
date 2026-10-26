@@ -17,10 +17,12 @@ STORY = {
         "highlight": {"type": "boolean"},
         "coverage": {"type": "integer"},
         "why": {"type": "string"},
+        "context": {"type": "string"},
         "item_ids": SOURCE_IDS,
         "photo_ids": SOURCE_IDS,
     },
-    "required": ["headline", "summary", "category", "highlight", "coverage", "why", "item_ids", "photo_ids"],
+    "required": ["headline", "summary", "category", "highlight", "coverage", "why", "context", "item_ids",
+                 "photo_ids"],
     "additionalProperties": False,
 }
 
@@ -30,10 +32,11 @@ ONGOING = {
         "id": {"type": "string"},
         "title": {"type": "string"},
         "update": {"type": "string"},
+        "context": {"type": "string"},
         "item_ids": SOURCE_IDS,
         "photo_ids": SOURCE_IDS,
     },
-    "required": ["id", "title", "update", "item_ids", "photo_ids"],
+    "required": ["id", "title", "update", "context", "item_ids", "photo_ids"],
     "additionalProperties": False,
 }
 
@@ -50,9 +53,17 @@ EVENT = {
     "additionalProperties": False,
 }
 
+FACT = {
+    "type": "object",
+    "properties": {"text": {"type": "string"}, "item_ids": SOURCE_IDS},
+    "required": ["text", "item_ids"],
+    "additionalProperties": False,
+}
+
 SCHEMA = {
     "type": "object",
     "properties": {
+        "fact": FACT,
         "lead_section": {"type": "string", "enum": ["lithuania", "world"]},
         "widget_headline": {"type": "string"},
         "heads_up": {"type": "array", "items": {"type": "string"}},
@@ -63,7 +74,7 @@ SCHEMA = {
         "ongoing": {"type": "array", "items": ONGOING},
         "quiet_ongoing": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["lead_section", "widget_headline", "heads_up", "lithuania", "world", "interesting", "events",
+    "required": ["fact", "lead_section", "widget_headline", "heads_up", "lithuania", "world", "interesting", "events",
                  "ongoing", "quiet_ongoing"],
     "additionalProperties": False,
 }
@@ -89,6 +100,8 @@ Sections
 - ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
 - lead_section: "lithuania" or "world", whichever section's first story is the single most important story of the day. The app shows that story as a large lead paragraph.
 - widget_headline: a 2–3 word label for the lead story, at most 22 characters, in the lead story's language, no final period. It sits alone on a small curved line on the home screen widget, so the reader must understand what happened from these words alone. Read the story and write the label fresh: name the core subject and what happened (e.g. "Skola brangsta", "Brazil decides", "Kaunas sky closed", "Biudžetas be liberalų"). Never use the first words of the headline, a truncated phrase, or a label that only makes sense with more context.
+- fact: one fact of the day in English, one or two sentences, citing the id it comes from. Take it from the "on this day" list ([d0], [d1], …; start with the year, e.g. "In 1977, …") or from a surprising, verifiable detail in today's items. It must make a well-read adult think "huh, I didn't know that": consequential, strange or revealing, ideally connected to something in today's news. Never trivia-quiz material, records, celebrity birthdays, cute animal facts or anything cheesy, and never anything that isn't stated in the material. Rewrite it in your own plain words.
+- context (on every lithuania, world, interesting and ongoing entry): one to three sentences of background a reader needs to understand the story and why it matters: who the actors are, how it got here, what is at stake. Write it in the entry's language, from the material only, without repeating the summary or update. Use an empty string when the story explains itself.
 - heads_up: at most 2 short practical notes that affect daily life in Lithuania (clock change, strikes, severe weather warnings, transport disruption), only if the items mention them. Usually empty. The daily forecast is shown separately, so don't repeat ordinary weather here.
 
 Rules
@@ -145,7 +158,7 @@ def format_items(items: list[dict]) -> str:
 
 
 def build_prompt(date_label: str, items: list[dict], events: list[dict], previous: dict | None,
-                 weather: dict | None) -> str:
+                 weather: dict | None, on_this_day: list[dict]) -> str:
     tracked, yesterday = "none yet", "none"
     if previous:
         if previous.get("ongoing"):
@@ -157,6 +170,8 @@ def build_prompt(date_label: str, items: list[dict], events: list[dict], previou
         f"[{e['id']}] {e['name']}: {e['about']} (name, venue, date on consecutive lines)\n{e['text'] or 'unavailable today'}"
         for e in events
     )
+
+    anniversaries = "\n".join(f"[d{i}] {e['year']}: {e['text']}" for i, e in enumerate(on_this_day)) or "unavailable today"
 
     return f"""Today is {date_label} in Vilnius.
 Forecast (shown to the reader separately): {weather['text'] if weather else "unavailable"}
@@ -176,6 +191,11 @@ Forecast (shown to the reader separately): {weather['text'] if weather else "una
 <event_listings>
 {listings}
 </event_listings>
+
+<on_this_day>
+Wikipedia's curated anniversaries for today's date:
+{anniversaries}
+</on_this_day>
 
 Write today's brief."""
 
