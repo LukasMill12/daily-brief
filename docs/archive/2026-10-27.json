@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:05:43+00:00",
+  "weather": {
+    "min": 7,
+    "max": 11,
+    "precipitation_mm": 0.1,
+    "wind_max_kmh": 7,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 7…11 °C, dulksna."
+  },
+  "fact": {
+    "text": "In 1914 the British dreadnought HMS Audacious sank after hitting a mine, and the Royal Navy kept its loss secret for four years.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/World_War_I"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Israel votes",
+  "heads_up": [],
+  "lithuania": [
+    {
+      "headline": "Nausėda ragina valdančiuosius mažinti deficitą jau dabar",
+      "summary": "Prezidentas Gitanas Nausėda sako, kad koalicija turi moralinę pareigą deficitą sumažinti bent 1 procentiniu punktu jau dabar, mažinant šešėlinę ekonomiką ir apkarpant viešąjį sektorių, o ne keliant mokesčius; ekonomistas Vytautas Šapoka perspėja, kad deficitas peržengia raudonas linijas.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Apie tai rašė 7 portalai",
+      "context": "Sinkevičiaus Vyriausybė ką tik minėjo 100 dienų ir derina 2027 m. biudžetą, o finansų ministrą Taurimą Valį kritikuoja ir opozicija, ir koalicijos partneriai. Prezidentas taip pat sako, kad 5 proc. BVP gynybai kitąmet nepakanka.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/prezidentas-valdantieji-turi-rupintis-deficito-mazinimu-mokesciu-reforma-diskredituota-savoka-56-2793114?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/verslas/rinkos-pulsas/2026/10/27/news/g-nauseda-atskleide-kas-trukdo-sparciau-kelti-pareigunu-atlyginimus-44653651"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3093061/100-dienu-isgyvenusioje-vyriausybeje-silpniausia-grandis-finansu-ministras"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsNDY0eDQwMyw3NDY2MTAsb3JpZ2luYWwsLGlkPTEwOTI4MDU2JmRhdGU9MjAyNiUyRjEwJTJGMjIsMjk3ODg0NTQ1/gitanas-nauseda-prieme-i-lietuva-atvykusi-juodkalnijos-prezidenta-jakova-milatoviciu-6ad9d27d933ea.jpg"
+      ]
+    },
+    {
+      "headline": "Lenkas Kuršių nerija nuėjo į Rusiją ir buvo sulaikytas",
+      "summary": "Sekmadienį Kuršių nerijoje pakrante ėjęs Lenkijos pilietis nepaisė pasienio zonos ženklų, perėjo į Rusiją ir buvo ten sulaikytas; VSAT sprendžia dėl ikiteisminio tyrimo dėl neteisėto sienos perėjimo.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Pasak VSAT, toks sienos kirtimas palei jūrą itin retas: paskutinį kartą iš Lietuvos į Rusiją taip pereita 2018 m.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3094287/ispejamuju-zenklu-pajuryje-nepaises-vyras-izenge-i-rusijos-teritorija"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3094319/polish-man-detained-after-wandering-into-russia-from-lithuania"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWxXZEg3T1piQnBSOW5Ga1lRSC16M3NqdnByVzliNDdwcGtXelQyYW9JQ21vWVFvNVJaWWQ1eVZPT2o5WjUyVk5DcG5mclRxcWRDUnBWb3pZUERsaElDZ2RlUDg3bkdsN3pRTUJyd0FZV09OSnpSNUNiVVBOd3ZFVjMzOGROeDd6cFhXcG5valdoaHNFQ2dPc244dy1QNTQzU2xXLVEtQlJfVEp6TDVpNmlJYnhoNExxdzlvNU45Rk1iWEJGQjFhZnQxOW5hd2JfcTdNR3k2LTgyTDhtUWZRMVdBWW1LM2VS?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/26/2521235-506385-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Valdas Adamkus išleistas iš ligoninės",
+      "summary": "Prezidentas Valdas Adamkus pirmadienį išleistas iš Santaros klinikų ir toliau sveiks namuose.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Buvęs šalies vadovas į klinikas paguldytas rugsėjo 26 d. dėl staigaus sveikatos sutrikimo ir ten buvo operuotas.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3094209/valdas-adamkus-isleistas-is-santaros-kliniku"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/06/12/2415942-446727-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Israel votes in election that could end Netanyahu's rule",
+      "summary": "Polls opened in Israel's first election since the 7 October 2023 attacks; surveys show Netanyahu roughly level with ex-army chief Gadi Eisenkot, with neither bloc expected to reach the 61 seats needed for a majority. Exit polls come at 20:00 GMT.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets, top of front pages",
+      "context": "Netanyahu, on trial for corruption, needs his far-right and ultra-Orthodox allies again, while Eisenkot leads a 'change bloc' including Bennett, Lieberman and Golan. The vote is widely seen as a referendum on his leadership after the Gaza war and this year's war on Iran.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
+      ]
+    },
+    {
+      "headline": "Bolsonaro's party accepts Lula's win; Flávio ordered to hand in passports",
+      "summary": "Flávio Bolsonaro's Liberal Party accepted Lula's 51.8% to 48.2% runoff win but demanded answers on the vote, while Bolsonaro switched to seeking to block Lula's inauguration over alleged abuse of state funds; Brazil's Supreme Court ordered him to surrender his passports in a money-laundering inquiry.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "Bolsonaro had called the result unacceptable after a court extended voting by two hours. Trump called the election 'rigged' without evidence but signalled he would not intervene.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3095008/bolsonaro-partija-pripazino-lulos-pergale-rinkimuose-taciau-reikalauja-paaiskinimu"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/flavio-bolsonaro-partija-pripazista-luizo-inacio-lula-da-silvos-pergale-brazilijos-rinkimuose-57-2793034?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/0de4d058b50f7c1ef96360807b8a7d704ff3313e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=32dc48b0607bc1081e1e220a9a605a8a"
+      ]
+    },
+    {
+      "headline": "James Comey charged for a third time",
+      "summary": "Prosecutors filed two counts accusing the former FBI director of leaking national defence information to the New York Times in October 2016; Comey calls it an 'appalling abuse' and his lawyers say two earlier probes declined to charge.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "It is the Trump Justice Department's third attempt to prosecute Comey: a 2025 case over Congress testimony was dismissed, and an April 2026 case concerned a social media post. A former prosecutor says the 10-year statute of limitations may have expired.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3095026/trumpo-administracija-iskele-nauja-byla-buvusiam-ftb-vadovui-comey"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
+      ]
+    },
+    {
+      "headline": "Jordan strikes Syria after church attack",
+      "summary": "Jordanian jets struck what it called terrorist groups in Syria's Daraa province after Friday's attack on a church funeral in Karak killed nine; Syria says five civilians died, denies being notified, and closed the Nassib crossing, the only border crossing between the two countries.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Jordan arrested three Jordanian suspects, two brothers and a brother-in-law, after a dawn shootout; police say they acted alone.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHczRE5EVXZodk5OdjV1Q21qSVFOWjlpTlF5clVZUVNVaXdQY3pSQVlSTmh5UWFxOFAxY0U0YTlzNDl3aTN3TkVMb25kX3p3SUtxVnZVYzRpbXlsX2pXd0lIZ2Z2eDlydVpkMWVXYXQwaXVOV250TnFneVNzMnZrRVhhUzZpaGZ6eE41OVdLQ2l6d3BETHJFcjlrOW45YWg0VVBUdWNwS3hIdGZ0Skk3NnRZSkFndUxDSF9xNC1vM0ZaTVBwQ3VUQlZ4YlRndFBSR2c?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/64332ec0d49e7efed321c759c9a426f587b9848b/461_0_4610_3688/master/4610.jpg?width=700&quality=85&auto=format&fit=max&s=6fb9069ffe078b3272478e5550f29cf0"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Anthropic files for what could be the biggest IPO ever",
+      "summary": "Anthropic filed to list on Nasdaq as 'ANT', reporting $16.3bn revenue in the first half of 2026, up from $1.2bn, and a $80.7bn net loss driven mostly by accounting for convertible debt; it warns AI could pose 'catastrophic or existential risks'.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "Its valuation is expected to top SpaceX's record listing at about $1.8 trillion. The seven co-founders will hold 50.1% of voting power, which the company says protects its safety mission; share price and size are not yet set.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "Harry Kane wins the Ballon d'Or",
+      "summary": "Bayern striker Harry Kane, 33, is the first Englishman to win since Michael Owen in 2001 after scoring 61 goals in 51 Bayern games; Mbappé was second and Lamine Yamal third, and Alexia Putellas won the women's award for a record-equalling third time.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "Kane won despite losing in the World Cup and Champions League semi-finals; he is the first Bayern player to win since Rummenigge in 1981.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"
+      ]
+    },
+    {
+      "headline": "Microsoft offers buyouts to a quarter of its staff",
+      "summary": "Microsoft is offering voluntary buyouts to about 60,000 employees in the US, Canada, India and the UK, including Xbox, Windows and Copilot teams, on terms similar to its standard severance.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "The company has been cutting costs while spending heavily on AI data centres; in April about 30% of 8,750 staff accepted a retirement offer, and Xbox cut 3,200 jobs in July.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldBUWstVmdxYTcxUVFWbWVEazFJU01MLUZJQzdKNkhDeWxnM01KVmVGQzZ0MnhCZFZUeURFR3c3NHJiU19CUGJFSXlWcUlhRkphS0hENkRRT2d4aUVaVTFCTDBXYmpHd3A3MEJMeC1ucl93MlEyTldwNzRENjZLVUI1MmwyRkxKMHpWTE5rNFZHRGd6NlE?oc=5"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "KÄÄRIJÄ koncertas „Eurodisko“",
+      "when": "Šiandien, 20:00",
+      "where": "Menų fabrikas LOFTAS",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Festivalio OPEN BOOKS uždarymo renginys",
+      "when": "Trečiadienį, spalio 28 d., 18:00",
+      "where": "Royal Theatre",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/parodos"
+        }
+      ]
+    },
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Pirmadienį, lapkričio 2 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "A local truce brokered by Melania Trump began in occupied Oleshky at 01:00 GMT Tuesday to let aid in and civilians out, lasting at least until Saturday; overnight Russian missiles hit a Kyiv university campus, killing at least one and injuring 14.",
+      "context": "",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-okupuotame-ukrainos-olesku-mieste-isigaliojo-jav-tarpininkaujant-pasiektos-paliaubos-57-2793044?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"
+      ]
+    },
+    {
+      "id": "saudi-houthi-war",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Saudi-led coalition said it intercepted three ballistic missiles aimed at the Eastern Province and seven drones since Monday evening, with no casualties; Egypt's parliament authorised military aid for Saudi Arabia.",
+      "context": "",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3094426/saudo-arabija-pranesa-rijado-regione-ir-salies-pietuose-peremusi-tris-dronus"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/25/2520543-417153-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran and the Mecca pact countries Saudi Arabia, Turkey and Pakistan agreed after Tehran talks to keep negotiating to prevent renewed war, while Iran said the US is 'not serious' about talks.",
+      "context": "",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3094458/irano-valstybine-ziniasklaida-iranas-ir-mekos-susitarimo-salys-sutare-testi-derybas"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX25oaTlpMF8wR0VNVzlzNGtjVmZocTlRSWNyLXBRNlE5Z2g4NjFIVXUtMUduV2ZoU1hId3djQWZYYlpoLXkzT3VxSjJxcmRqNklNcFpsTXgyVnlmdURNU29PbWxmVFJBbWpPcHU5RzVSVXJrdzA4ME5CdzBqX1lWd2RPQWpCVV9uOUZHTXFOeGtuODBEZFRFTmQtMDJGazJwY1RRb3lFNWpiYWhGTU5Da2dZUUJTaUZLc09Ub2R0enQwclQx?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/26/2521602-454929-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "France pledged €4bn for school repairs, class caps of 28 and to replace the Parcoursup university admissions system by 2028, but pupil leaders urged continued school blockades; Macron called the turmoil 'abnormal'.",
+      "context": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3094282/macronas-tokia-suirute-prancuzijoje-likus-pusmeciui-iki-rinkimu-yra-nenormali"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/1a843df104a1b72942001aff9f86ead1736774c8/481_0_4796_3839/master/4796.jpg?width=700&quality=85&auto=format&fit=max&s=8d79c6aed6551a978f008b9716ae1c4b"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 596,
+    "feeds": 24,
+    "feed_problems": []
+  }
+}
