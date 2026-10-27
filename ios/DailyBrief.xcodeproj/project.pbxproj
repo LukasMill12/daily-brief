@@ -470,7 +470,15 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
+				ENABLE_DEBUG_DYLIB = NO;
 				INFOPLIST_FILE = BriefNotification/Info.plist;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					UserNotifications,
+					"-framework",
+					UserNotificationsUI,
+				);
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -495,7 +503,15 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT89DGVACP;
 				GENERATE_INFOPLIST_FILE = YES;
+				ENABLE_DEBUG_DYLIB = NO;
 				INFOPLIST_FILE = BriefNotification/Info.plist;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					UserNotifications,
+					"-framework",
+					UserNotificationsUI,
+				);
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

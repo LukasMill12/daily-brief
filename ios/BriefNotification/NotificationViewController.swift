@@ -10,8 +10,8 @@ final class NotificationViewController: UIViewController, UNNotificationContentE
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = UIColor(Theme.blue)
+        // The height comes from UNNotificationExtensionInitialContentSizeRatio in Info.plist (matching NotificationFace).
         show(BriefLoader.cached() ?? .sample)
-        preferredContentSize = CGSize(width: view.bounds.width, height: view.bounds.width / NotificationFace.aspect)
     }
 
     func didReceive(_ notification: UNNotification) {

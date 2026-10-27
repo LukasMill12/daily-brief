@@ -151,11 +151,11 @@ struct BriefView: View {
 
             if let fact = brief.fact {
                 factBlock(fact)
-                    .padding(.top, 44)
+                    .padding(.top, 30)
             }
 
             footer(brief)
-                .padding(.top, 36)
+                .padding(.top, 28)
         }
         .padding(.leading, decor.contentInsets.leading)
         .padding(.horizontal, 18)
@@ -166,7 +166,7 @@ struct BriefView: View {
 
     /// A quiet closing note: the day's fact, linking to its source.
     private func factBlock(_ fact: Fact) -> some View {
-        VStack(alignment: .leading, spacing: 8) {
+        VStack(alignment: .leading, spacing: 5) {
             Text("FACT OF THE DAY")
                 .font(Theme.helvetica(11))
                 .tracking(0.5)
@@ -181,8 +181,8 @@ struct BriefView: View {
 
     private func factText(_ fact: Fact) -> some View {
         Text(fact.text)
-            .font(Theme.helvetica(17))
-            .tracking(-0.3)
+            .font(Theme.helvetica(13))
+            .tracking(-0.1)
             .foregroundStyle(Theme.text)
             .multilineTextAlignment(.leading)
             .frame(maxWidth: .infinity, alignment: .leading)
