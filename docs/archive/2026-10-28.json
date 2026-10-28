@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T07:04:42+00:00",
+  "weather": {
+    "min": 8,
+    "max": 12,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 6,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje 8…12 °C, debesuota."
+  },
+  "fact": {
+    "text": "In 1707, the Hōei earthquake in Japan ruptured every segment of the Nankai megathrust at once – the only recorded quake ever to do so.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1707_H%C5%8Dei_earthquake"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Israel deadlocked",
+  "heads_up": [
+    "Prieš Vėlines prie didžiųjų kapinių prašoma rinktis viešąjį transportą, o ne asmeninius automobilius.",
+    "Nuo lapkričio 20 d. išmaniųjų telefonų pirkimas išsimokėtinai per operatorius taps sudėtingesnis dėl griežtesnio kreditingumo vertinimo."
+  ],
+  "lithuania": [
+    {
+      "headline": "URM patvirtino: dvi lietuvės sulaikytos Irane",
+      "summary": "URM patvirtino, kad dvi praėjusią savaitę dingusiomis paskelbtos lietuvės (gimusios 1992 ir 1983 m.), spalio pradžioje per Turkiją nuvykusios į Iraną, yra ten sulaikytos; premjeras Mindaugas Sinkevičius sako, kad vyksta aktyvus diplomatinis darbas jas išlaisvinti.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Artimieji su moterimis negalėjo susisiekti nuo spalio 11 d.; URM ragina nevykti į Iraną, o ten esančius – nedelsiant išvykti.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3095074/two-lithuanian-women-detained-in-iran-foreign-ministry-confirms"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/10/28/news/advokatas-sureagavo-i-irane-dingusiu-moteru-istorija-del-ko-galejo-uzkliuti-lietuves--44665110"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/20/2516824-851407-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Į Lietuvą atvyksta daugiau nei 200 JAV karių",
+      "summary": "Prie maždaug 120 Lietuvoje esančių JAV karių nuo antradienio prisijungia dar daugiau nei 200; iki lapkričio vidurio turėtų atvykti du batalionai – per 1 000 karių. Krašto apsaugos ministras Robertas Kaunas sako, kad lapkritį rotacijos pradžia bus pažymėta oficialia ceremonija.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "JAV kariai Lietuvoje rotuojami kas devynis mėnesius nuo 2014 m., kai Rusija aneksavo Krymą. Šią vasarą, Vašingtonui peržiūrint pajėgas Europoje, išvykus per 1 000 karių, jų liko vos apie 100, o kita rotacija buvo atidėta; rugsėjį paskelbta, kad spalio pabaigoje atvyks du batalionai.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3095043/nauseda-siandien-i-lietuva-atvyksta-dar-daugiau-nei-200-jav-kariu"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3095090/more-than-200-us-troops-to-arrive-in-lithuania-as-rotations-resume"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/05/21/2395484-394102-1287x836.jpg",
+        "https://www.lrt.lt/img/2021/11/11/1106689-41481-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Kasčiūnas siūlo visuotinį šaukimą nuo 2030 m.",
+      "summary": "TS-LKD pirmininkas Laurynas Kasčiūnas įregistravo pataisas, kuriomis nuo 2030 m. sausio 1 d. siūloma atsisakyti šauktinių loterijos ir pašaukti beveik visus į sąrašą įrašytus vaikinus (šiemet sąraše – 42 556, pašaukti planuota 5 000). Socialdemokratų seniūnė Orinta Leiputė sako, kad galimybių tam dabar nėra, bet judama ta kryptimi.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Lietuva šauktinių kariuomenę atkūrė 2015 m., po Rusijos įsiveržimo į Ukrainą, tačiau šaukiama tik dalis jaunuolių, atrenkamų atsitiktinai pagal metinę kvotą. Konservatoriai, valdę 2020–2024 m., visuotinio šaukimo neįvedė, bet leido šaukti daugiau jaunuolių.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3095126/kasciunas-siulo-nuo-2030-metu-ivesti-visuotini-saukima"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3095225/lithuanian-conservative-leader-proposes-universal-conscription-from-2030"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/orinta-leipute-siuo-metu-galimybiu-ivesti-visuotini-saukima-neturime-bet-judame-ta-kryptimi-56-2794022?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2024/05/01/1763010-958811-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Israel's election ends in deadlock",
+      "summary": "With counting under way, neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's appears to reach the 61 seats needed for a majority, though Netanyahu's Likud is set to be the largest party; Arab parties are projected to win up to 18 seats, up from 10, on turnout above 77%, the highest in over 20 years. Both leaders vow to form a government, and final results are expected in a day or two once soldiers' ballots are counted.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets, top story on every front page",
+      "context": "Netanyahu has led Israel for most of the past 17 years. The Hamas attack of 7 October 2023 and the Gaza war that followed shook the country and his standing, and this is the first election since. Eisenkot, a former army chief, may need Arab parties to govern, which Netanyahu calls 'shameful'; President Isaac Herzog will pick who tries to build a coalition.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=af098e57fb3bd73dd8c3b406e4d96f2a",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c2b/live/e44a9b80-d299-11f1-b255-6fc3b99d1334.jpg"
+      ]
+    },
+    {
+      "headline": "Flávio Bolsonaro flees Brazil, gets US visa",
+      "summary": "Flávio Bolsonaro, who lost Sunday's run-off to Lula, left Brazil via Argentina on a private flight to Ecuador and reportedly reached the US after missing a Supreme Court deadline to hand in his passports in a money-laundering probe; the State Department says he and his family will get US visas. Lula called the escape 'shameful'.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Flávio is a senator and son of former president Jair Bolsonaro, who was convicted of plotting a coup and is under house arrest. He had been expected to win, then demanded the result be annulled while Donald Trump called it rigged; his party later accepted Lula's win, and on Monday the court ordered his passports seized.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8385/live/d2ce76e0-d232-11f1-93e1-3b657b665bcf.jpg",
+        "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=700&quality=85&auto=format&fit=max&s=52f2da863a3db293ac4b82b5ac862c10"
+      ]
+    },
+    {
+      "headline": "Trump scraps Biden-era methane rules",
+      "summary": "At a rally in Lubbock, Texas, Donald Trump said he is 'terminating' Biden-era rules on methane leaks from oil and gas sites; the EPA claims the change saves $45bn and adds 210 million barrels of oil, and it ends the programme that flagged large 'super emitter' leaks.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The 2024 rule was the first nationwide limit on methane from existing oil and gas facilities and was expected to cut those emissions by 80% over 14 years. Methane is up to 80 times as potent as CO2 over 20 years. The move comes as Trump faces criticism over fuel prices driven up by the war with Iran, days before the midterms.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"
+        },
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTW5taTFPNlhJYmtnTGxZR3B5bGFTVkktR0I0bzB3WHBkRGxIZDJwZlBRNENDMEUtS3ZTRGJoNkh3WGFmWlAtVjUzUUFvTGtEbWpYNmc0U2EzRW1EZTE4Z1hza0xEb2tYeTUxZ0JaMmN5eWFxS0FvdjR4anFta0pJU2RyRWJQMUhaX3hKYlJHVnVDeUpnUy1Ydw?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=700&quality=85&auto=format&fit=max&s=a1a523fed66165a57f8960fdffb1f0f9"
+      ]
+    },
+    {
+      "headline": "Grand jury declines to indict Cassidy Hutchinson",
+      "summary": "A grand jury declined to indict Cassidy Hutchinson, a former White House aide to Donald Trump, according to sources cited by AP and Reuters.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Hutchinson gave damaging testimony about Trump to the congressional committee investigating the 6 January 2021 Capitol attack. Since returning to office in 2025, Trump's Justice Department has pursued several of his critics, including former FBI director James Comey, who was charged for a third time this week.",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN080UWt5OGpaWGdHclZVWFhCSGRVemFhTlJSX1hSWGh2NmxqdkM4VGozOWZWWlZHMnNSMG1LWGJRZE5nYnlpSW9VOEpRaTBkZDVlQ0d6eFIwTVBxNmdFbGVBc2o4bkNtZGV2SFhRVGJWZ2Zqa09rM3VudWx5LW5lYnVjNUhwYlF1cURTQVBfUldhdk5oSjFkdkxaWQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEEtdXNuQzdWYmJsM3R1M29Ka29aVmZhNk1nSk1EVlNzQS1mUHMwMi1kcU52cVVMQUNxeTJsMmtOTDY4VzdkanUtVW5md3hpLVFLZTdNSEkxQjRQVlJLd19qT095VUVUa3RuV05aVHUzZ05YaENjbE9Ed0lEai00MFg2WEFLRTRxMFkxTEtQc3V1TUpLXzNYSUtzUHEtQWxoalFlUzZVZGQ0bWtmdWNfakNsc21pSDZmQmhpTWFFVDRwNGFRVnJhNA?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "OpenAI and Anthropic say AI refuted a core computing conjecture",
+      "summary": "OpenAI released AI-generated results on three major problems in maths, computer science and physics, including a refutation of the Exponential Time Hypothesis, a key assumption about what is hard to compute; Anthropic published its own refutation hours later. Experts call the results potentially huge but are frustrated by OpenAI's staggered release.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The hypothesis, proposed in 1999, underpins much of complexity theory and is linked to the P versus NP problem.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Apple's foldable iPhone Duo hit by cracking screens",
+      "summary": "Within hours of last Friday's launch, owners of Apple's $2,000 foldable iPhone Duo reported broken inner screens; Apple acknowledged the issue and is replacing units. iFixit's teardown suggests a hinge support bar presses on the screen when it closes.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "The iPhone Duo is Apple's first foldable phone; a replacement screen reportedly costs half the price of the device.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Fourth-tier Fleetwood knock Arsenal out of League Cup",
+      "summary": "Fleetwood Town, 18th in League Two, drew 1-1 with Premier League champions Arsenal and won 5-3 on penalties to reach the League Cup quarter-finals; Mikel Arteta had made nine changes, and 16-year-old Max Dowman was sent off.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The match was also halted for eight minutes when a drone was spotted above the stadium.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/sportas/futbolas/2026/10/28/news/milziniska-sensacija-anglijoje-ketvirtosios-lygos-klubas-eliminavo-galingaji-arsenal--44670101"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Festivalio OPEN BOOKS uždarymo renginys",
+      "when": "Šiandien, 18:00",
+      "where": "Royal Theatre, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/parodos"
+        }
+      ]
+    },
+    {
+      "title": "GRAND BALKANAKTIS",
+      "when": "Penktadienis, spalio 30 d., 20:00",
+      "where": "Halės turgus, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Pirmadienis, lapkričio 2 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "UK chancellor John Healey delivers his first Budget",
+      "when": "Today, midday",
+      "where": "London",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending"
+        }
+      ]
+    },
+    {
+      "title": "Russia–Africa summit with nearly 20 African leaders",
+      "when": "Wed–Thu, 28–29 October",
+      "where": "Moscow",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/virsuniu-susitikime-maskvoje-rusija-siekia-patraukti-afrikos-lyderius-57-2793950?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ]
+    },
+    {
+      "title": "US midterm elections",
+      "when": "Tuesday, 3 November",
+      "where": "United States",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3095047/jav-rinkimai-470-mandatu-12-mlrd-doleriu-ir-vienas-nekandidatuojantis-prezidentas"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHJQS08yRGQzVWR2anRtYU8xVUxEWUJIRHI2TGM2T3RzM3AwTG8yaHRQdmhpMi1TQTZVdlRUQTBONVBZWmdPZVJzQzNmYUQtN1NMWmZZLThKTVJwTHJ1akNjTVdiVFNvYmFuLXNPd1oxTG5POFJJRlRxbHZ6QVpJc0VWaEtGN2ZQU3pFa0FORi13aEJXNGNnbzQ3UndRQ3FQdmgxT0tjd2thVmdDcDVVMFk0YS1uTVpiQ01jdXI0QkQya3dxNWc?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "The Oleshky truce held with no breaches reported and was widened across the Kherson region, with evacuations planned for Friday and the pause due to last until Sunday night; Finland's and Norway's leaders held a rare 'frank' call with Putin ahead of US-Russia-Ukraine talks expected in Abu Dhabi next month, and Trump said a Putin–Zelensky meeting will come 'very soon'.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and later Kharkiv and Kherson, but the front then hardened into a war of attrition. US-led peace efforts since 2025 have produced talks but no settlement.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-labai-greitai-bus-surengtas-rusijos-ir-ukrainos-lyderiu-susitikimas-57-2793958?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "The US warned Gulf states of a possible short, intense renewal of the war after the midterms, and Trump said 'anything possible'; Gulf states are drafting a deal under which Iran would reopen the Strait of Hormuz four days after sanctions are lifted, while the Pentagon puts US war costs at over $47bn.",
+      "context": "Tensions date back to the 1979 revolution, and the US quit the nuclear deal in 2018. After Israeli and US strikes on Iran's nuclear sites in 2025, open war between the US and Iran broke out this year, disrupting shipping through Hormuz; a pause has held amid talks led by regional mediators.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=700&quality=85&auto=format&fit=max&s=1f6dfb0e51d7c971cc831a2865c0e4a3"
+      ]
+    },
+    {
+      "id": "saudi-houthi-war",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Saudi air defences intercepted Houthi missiles over Riyadh, and an attack on a Saudi refinery pushed oil prices up over 1%; AP reports Russian satellite data is helping Iran's allies strike Saudi Arabia.",
+      "context": "Saudi Arabia led a coalition into Yemen's civil war in 2015 against the Iran-backed Houthis, who had seized the capital Sanaa. A truce from 2022 largely held until fighting reignited alongside this year's US-Iran war, with Houthi missiles and drones again targeting Saudi territory.",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sudan-war",
+      "title": "Sudan civil war",
+      "update": "A Sudanese rights group said an army drone attack on a market killed more than 100 people, as Western governments warned of famine risk.",
+      "context": "Sudan's war began in April 2023, when the army and the paramilitary Rapid Support Forces turned on each other in a power struggle. The fighting has killed tens of thousands and displaced millions, creating one of the world's worst hunger crises.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTZWWWdRcTJOdFJpbHlUYVYxZ2p5MmlnT2x3YnRfS0RQOVBER3h0NHowMXp4MWNvOUwybGhFT2pNQUtteVNVd1FmMDhTZ3BpTlJmYTE3dlNfdktyb0I3VG1wRGJsTTQ3S2hEQTI4eFp4c2hhdEl2UkFiaUpINzJVSGtWeURKS3UtUnRUQl9jS0duQ1A5eFQ4?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/609e/live/8fffe6c0-d208-11f1-b3b6-c1e79e957e40.jpg"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Protests across France and Europe",
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 573,
+    "feeds": 24,
+    "feed_problems": []
+  }
+}
