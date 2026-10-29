@@ -1,0 +1,443 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:05:36+00:00",
+  "weather": {
+    "min": 9,
+    "max": 12,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 7,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje 9…12 °C, debesuota."
+  },
+  "fact": {
+    "text": "85 years ago this week, in a single day, 9,200 residents of the Kaunas ghetto were shot at the city's Ninth Fort; about half of them were children.",
+    "sources": [
+      {
+        "name": "LRT",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3096305/pagerbtos-didziosios-akcijos-aukos-ix-forto-muziejus-pristate-trumpametrazi-filma"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Spain train crash",
+  "heads_up": [
+    "Lapkričio 1–2 d. – ilgasis Visų šventųjų ir Vėlinių savaitgalis; policija perspėja apie sustiprintą kontrolę keliuose."
+  ],
+  "lithuania": [
+    {
+      "headline": "Koalicija sutarė didinti mokesčius, biudžetas strigo komitetuose",
+      "summary": "Premjeras Mindaugas Sinkevičius paskelbė, kad koalicija sutarė dėl mokesčių didinimo, tačiau 2027 m. biudžeto projektas, numatantis 3,8 proc. BVP deficitą ir 48,2 proc. BVP skolą, stringa Seimo komitetuose. Koalicijos partneriai demokratai sako, kad kol kas už jį nebalsuos, kol Finansų ministerija nepateiks deficito mažinimo plano.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Finansų ministras Taurimas Valys šį rudenį Seimui pateikė 2027 m. biudžetą su 3,8 proc. BVP deficitu. Prezidentas Gitanas Nausėda kritikavo Vyriausybę, kad ši nepateikė plano, kaip mažinti deficitą, ir tikisi, kad jis neviršys 3 proc. BVP. Nuo to laiko koalicijos partneriai ir Seimo komitetai kelia savo sąlygas.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3096226/virginijus-sinkevicius-demokratai-uz-dabartini-biudzeto-projekta-nebalsuos"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWd6M3RObmpIYUdmRTdEZWxuTFNibmpNSlc4Z0tPeVdNandsR0NNbWlWZWp6MTRkelJoUl9FLWIzSGNsUTFFV3FpdXlxc3A1OWhGd1ZtaU84UE4wYlhRRXNvU21YOFFkT0J1ZUVtdjNTS2tKLTVQT3BMcXNwY0wwa1c0ZG9Wd29fZURpaDMwY1JXdWdiQkRtTE42U2tYNExLRHJkLUs4a3ltamlrS2JvUlNmNFM5RkxHVlJFT1ZDZnk2ODljbUcwcldBeE1odw?oc=5"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQW80QktzN3RYS1d2ZTBGWVBBdUVfeGJmUkkzRmlncmRyQ1NRODA5OFI2RllxbVlsXzNOOFB3UE44bVZaVjhkZzlVRDhYZ014M2pCOU9YVEh5MWRmZ1RyS1lLNUZTZ2RDTVRRMUtOeGpuekRqaDc2NE9ZcUF6QWIxTjhXVi1UTnVHaGlFbHJwTzI3UndDYS05M3JReURUWmV6dnkwSHNoYlhvVEVpOE1SNUpONlBXcjc2UUs0UVhtRU5HOF9BLWk0OWRtUQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/06/26/2425699-621152-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Valstybės gynimo taryba svarsto oro gynybą ir visuotinį šaukimą",
+      "summary": "Prezidentas Gitanas Nausėda ketvirtadienį šaukia Valstybės gynimo tarybos posėdį, kuriame bus aptarta integruota oro erdvės gynyba, įspėjimo apie oro atakas sistemos pakeitimai po šį mėnesį nukritusio drono ir perėjimas prie visuotinio šaukimo. Krašto apsaugos ministras Robertas Kaunas sako, kad visuotinis šaukimas nuo 2030 m. įmanomas, bet turi rizikų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Lietuva šauktinių kariuomenę atkūrė 2015 m., po Rusijos įvykdytos Krymo aneksijos; šiemet planuota pašaukti 5 tūkst. jaunuolių. Rugsėjį prezidento vadovaujama taryba pranešė siūlysianti paspartinti visuotinio šaukimo įvedimą, o šią savaitę konservatorių lyderis Laurynas Kasčiūnas pasiūlė jį įvesti 2030 m. Kitų metų biudžete gynybai numatyta 5 proc. BVP, arba 4,8 mlrd. eurų.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/valstybes-gynimo-taryba-aptars-integruotos-oro-erdves-gynybos-igyvendinima-visuotini-saukima-56-2794824?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3097008/posedziaus-valstybes-gynimo-taryba-aptars-integruotos-oro-erdves-gynybos-igyvendinima"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXFiMVh1OGZzcVM0bW4tODV6bTdCN29tUTREaFlBVDdCX3lCOFNrNEVlajBMZ204aWwzTjR4UWN6NWxublVCT1FpOUFqNWdjUVIxeDlTcmlJRlNjSWwtaURoS2VTVWlFUnlld3FXR3owRnVYczctdURhbHM1Ul9rWnlrSmtXbGswakdEYWtiZEU0OU85SlQzV1ZVX2d3c0M4M0Fwd0dmTk9QeVhDSTlxazREOS0?oc=5"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDExODg3NjAsb3JpZ2luYWwsLGlkPTEwODY2ODAwJmRhdGU9MjAyNiUyRjA5JTJGMTYsNDA3NzI5NzQwMg==/valstybes-gynimo-tarybos-spaudos-konferencija-6aaa6217bdf5a.jpg"
+      ]
+    },
+    {
+      "headline": "Vytautas Landsbergis paguldytas į Santaros klinikas",
+      "summary": "94-erių Vytautas Landsbergis antradienį atvežtas į Santaros klinikas, LRT duomenimis – į intensyviosios terapijos skyrių. Sūnaus teigimu, būklė stabili ir gerėja, o sveikatos pablogėjimas greičiausiai susijęs su infekcija.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Landsbergis 1990 m. vadovavo Aukščiausiajai Tarybai, paskelbusiai Lietuvos nepriklausomybės atkūrimą; balandį jam buvo atliktos dvi akių operacijos.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3096174/sunus-apie-ligonineje-atsidurusio-v-landsbergio-sveikata-situacija-stabili"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3096071/lithuania-s-former-leader-vytautas-landsbergis-hospitalised-in-vilnius"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/03/10/2341558-199448-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "High-speed train crash kills at least 68 in Spain",
+      "summary": "A Renfe train carrying 397 passengers ploughed into the back of a stationary Iryo train with 147 on board near Urda, south of Madrid, killing at least 68 and sending 107 to hospital. The transport minister said a control centre made an 'inexplicable' decision to let the trains move again without speed limits after a computer failure; Spain began three days of mourning.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets, top of front pages",
+      "context": "It is Spain's second deadly high-speed crash this year: in January, 46 people died when Renfe and Iryo trains collided on the same line near Adamuz.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg"
+      ]
+    },
+    {
+      "headline": "UK budget gives households £100 energy payment",
+      "summary": "Chancellor John Healey's first budget gives 20 million households a one-off £100 energy payment in January, offers low-carbon upgrade loans of up to £35,000 and promises to end gas standing charges, as energy prices rise over the Middle East war. The fiscal watchdog cut next year's growth forecast to 1% and raised its inflation forecast to 3.4%.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets, BBC front page",
+      "context": "It is the first budget since Andy Burnham became prime minister, with household energy bills at their highest in three years.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNEMUZVaDJlZW9WTkxYLUZhOUp3M0Y1SE4xSXpjR1RWT3k2Q2Y0VTAwMkNieUZCaVV5cWlYRU1wb1hFSWFYdVF6UVVMVW10cDU3LS00LXd1dXRVWmYxNVpTamlvZC04azF3X1NCWi1QZ2ZWaUZkOU1jRG56NzRha1Vn?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "EU backs away from 'associate member' offer to Canada",
+      "summary": "As an EU-Canada summit opened in Montreal, the EU dropped its offer to start 'associate membership' talks with Canada after objections from member states; the draft statement instead promises to define 'an ever closer association, short of full membership' by 2027.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Canada has sought closer ties with Europe since Donald Trump's tariffs and annexation talk strained relations, and in January PM Mark Carney urged 'middle powers' to work together. Last month Commission president Ursula von der Leyen surprised EU capitals by floating associate membership, prompting political and legal pushback.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/29/news/es-atsisako-minties-suteikti-kanadai-asocijuotosios-nares-statusa-44690902"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/virsuniu-susitikime-monrealyje-es-ir-kanada-zada-pradeti-nauja-skyriu-aljanse-57-2794848?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/24a585605577afb5808339f59d266142de719b65/295_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=9476a4fb1168d4d3ec098ece684c466f"
+      ]
+    },
+    {
+      "headline": "Hackers leak data on 41,000 US Homeland Security staff",
+      "summary": "A hacker group called the Department of Peace took names, job titles, work phones, emails and office locations of more than 41,000 DHS staff, including 21,000 border agents and about 6,600 ICE agents, via the department's Okta login system; it was published online by DDoSecrets.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "It is the third leak or hack of a US government agency in recent weeks, after breaches of FBI and Pentagon personnel data.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Apple launches touchscreen OLED MacBook Pro",
+      "summary": "Apple's first touchscreen MacBook Pro has an OLED display and M5 Pro or Max chips and starts at $2,899 (14-inch) and $3,399 (16-inch); fully specced with 16TB of storage it costs $14,549. Preorders open on 30 October.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets, top of tech news",
+      "context": "Steve Jobs once called a touchscreen Mac 'ergonomically terrible'.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Google releases Gemini 4 Carbon model",
+      "summary": "Google says Gemini 4 Carbon tops the Artificial Analysis Intelligence Index ahead of Claude Opus 5.5 and GPT-6 Astra, with big gains in finding and fixing security bugs. For now it is only available to selected cybersecurity defence companies.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Covered by 2 outlets",
+      "context": "It comes just two weeks after Google released Gemini 4 Argon.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Brewers win first World Series in franchise history",
+      "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 4-1 in Game 5 to take the series; catcher William Contreras was named MVP after hitting .381.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets, top of sports news",
+      "context": "",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tSHZxeTZyWW55UU9jbU9EX3RyVFU3cEZ0c2h3YzBKSngzOHVraDNKZXZXaUlkZjZLMEhtbEpRVmNMT2RWQXJhZV9DaHBmUGxFeExVT21TUE9xaXNvR2VNTzUwMC04WmktN0Q2NmlnT2R0bG9m?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFZ2anRlVUNUajFKLW1RSnltNXo3dWs2U1NRWms5a2pQTkxGNHJBTzJIVjhQRjlGX0p3OG11U2NISlBvdjJjZnMySnpzZ3haUUI3aVp4b1E1VnNTZkIyYjhUYWNsVjYydzFPWWJ5OWpiSDFlOS1ydGlpdUcxWGRQWEJJcVM0eG8wV2NLaGptamJKMFVvWVpR?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0cwRmxPV3JrbURRLU5SNHJ6dkdZM1hvRGVhM3VyYVZYa0lDSk5FbGx4Q0Vva19fZHBqOENCaHVjU0hDaE5EUk5maVFHTW9KOGI5UXdIa3FZQlhwX1lLNEVvODBxX3gzcXRxTGtMSzFyWmZicXplV3pvNWhvMjZ0TVZaREtpVVJ5QWo4MURFRFNCM0N4cVZJWENuWQ?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "events": [
+    {
+      "title": "GRAND BALKANAKTIS",
+      "when": "Pn, spalio 30 d., 20:00",
+      "where": "Halės turgus",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Halloween Legends: Maceo Plex",
+      "when": "Spalio 30–31 d.",
+      "where": "LITEXPO",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Pr, lapkričio 2 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "European Central Bank interest rate decision",
+      "when": "Thursday, 29 October",
+      "where": "Frankfurt",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "US midterm elections",
+      "when": "Next Tuesday, 3 November",
+      "where": "United States",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3097036/kanzaso-valstija-respublikoniska-bet-demokratai-turi-sansa-kas-lemia-rinkeju-nuotaikas"
+        },
+        {
+          "name": "The Columbus Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGJ1UDB3OFZhODc4R2FKRG92MTBEWmZXMzlpYUo4bHNjaG1NTEgtb2liclJNUjdSWlRxV0VGVlhsLVY4UG5faDNpeG40UTBmZjRCcXd4UXJ0MFppdmRBZktwVTFvQkstNkQyTjJtNjBPcVZPcUZGelUzZkVsbTVsMUpjbW15UGo4aVlZem1hMGtYZXZtVHlvNG91ZHdnOHVQNWZOak9KQ2stV2xfSmd1UXNnS2Q0R1ZKaGxMVVltdUhObjR0bGZ2TTBxVEZqSXhfbmJ6N1dIYVR2akRMNEtjMDlqQjYzdw?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Russia said 613 Ukrainian drones flew towards Moscow overnight, 231 of them shot down near the city, and restricted flights at Vnukovo and Domodedovo airports; Russia hit Kharkiv, damaging an educational building.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Kyiv pushed Russian forces back from the capital and later in the north-east and Kherson, but the front has since largely stalled. This month a US-brokered truce began in occupied Oleshky and was widened across the Kherson region, ahead of planned US-Russia-Ukraine talks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/karas-ukrainoje-57-2794820?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3096412/karas-ukrainoje-maskva-masiskai-atakavo-dronai-dalyje-oro-uostu-atsaukti-skrydziai"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsOTY0eDgxNCw5OTksb3JpZ2luYWwsLGlkPTEwOTI3NjMyJmRhdGU9MjAyNiUyRjEwJTJGMjIsMjc4NTQ3NzU5Ng==/stringer-afp-6ad9b388c53a1.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran said it is discussing with mediators how to implement its seven-day plan to end the war and reopen the Strait of Hormuz, while rejecting 'unacceptable' ideas in a new Qatari draft; Defence Secretary Pete Hegseth fired the Pentagon's top military planner as Trump weighs new strikes.",
+      "context": "Tensions date back to the 1979 Islamic Revolution and grew over Iran's nuclear programme. In February the US and Israel went to war with Iran, which took control of the Strait of Hormuz, prompting a US naval blockade of Iranian ports. A June deal on a path to settlement collapsed, and Qatar is now mediating ahead of the US midterms on 3 November.",
+      "sources": [
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/10/29/news/iranas-teigia-kad-su-tarpininkais-derasi-del-plano-uzbaigti-kara-ir-atverti-hormuzo-sasiauri-44690908"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3097017/iranas-sako-kad-su-tarpininkais-derasi-del-plano-baigti-kara-ir-atverti-hormuzo-sasiauri"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaldzakpwdnNPdVBvcUw2WmlXOGFPU0hSaktBa0RtLUFscVVkZGV1QmtNbDZXQks3UGVQNWlxTmQ1VFJqNUlCT2tZeHpMTGxOemgxN1J2M3JJWTJnUTFZUURrNEpjTGJ2Q1JoMmVPVUVkSE1Qb0NIRlhqMWFVbFpmVlhtXzBsa1o5UlctX2U0Y18yemFBWUROQmNWV2g?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/25/2520597-555189-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "saudi-houthi-war",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Houthis struck Aden airport in Yemen after issuing an evacuation warning.",
+      "context": "Yemen's Houthi rebels seized the capital Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to back the government. A truce from 2022 largely held, but fighting with Saudi Arabia reignited during the regional war with Iran, with Houthi missile strikes on Riyadh and Saudi oil sites.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "UN experts condemned 'excessive use of force' against French student protests, where several thousand people, mostly minors, have been arrested; Albania introduced fines of up to €5,500, six times the average monthly salary, for anyone present at a protest that turns violent.",
+      "context": "French students began protesting in mid-September over run-down schools and later the cost of living, and youth-led protests have since spread across Europe, including months of anti-government rallies in Albania. Under-35s hold just 2.8% of European household wealth.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wOE1PQ3FOZW84ejZqN3lwWjJob1piUDU5a2FCYmNQak93NnA0MUlxRVNBSExNZ3hfLWJwQjVFUXdFMDJZTFVmYnc1ekVRdXEwLVRpZmFwZkJDVVU?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Sudan civil war",
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 605,
+    "feeds": 24,
+    "feed_problems": [
+      "Wikipedia: HTTPError: HTTP Error 429: Too Many Requests"
+    ]
+  }
+}
