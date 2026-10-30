@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T07:09:53+00:00",
+  "weather": {
+    "min": 7,
+    "max": 11,
+    "precipitation_mm": 0.1,
+    "wind_max_kmh": 10,
+    "code": 51,
+    "rain_from": "20:00",
+    "text": "Vilniuje 7…11 °C, dulksna, krituliai nuo 20:00."
+  },
+  "fact": {
+    "text": "In 1968, 120 North Korean commandos landed by boat along a 25-mile stretch of South Korea's east coast, trying to topple Park Chung Hee's dictatorship and reunify Korea by force. The raid failed.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Korean_People's_Army"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Record crypto heist",
+  "heads_up": [
+    "Per ilgąjį Vėlinių savaitgalį policija stiprina pajėgas keliuose ir prie kapinių.",
+    "„m.Ticket“ ir „m.Parking“ programėlės nustos veikti – verta pasirūpinti kitu būdu mokėti už viešąjį transportą ir stovėjimą."
+  ],
+  "lithuania": [
+    {
+      "headline": "Visuotinis vaikinų šaukimas – nuo 2032 metų",
+      "summary": "Valstybės gynimo taryba sutarė visuotinį vaikinų šaukimą įvesti nuo 2032 m.: vietoj dabartinių per 5 tūkst. kasmet būtų šaukiama apie 7,5 tūkst. jaunuolių, o merginos tarnautų savanoriškai. Iki tol reikia parengti per 300 instruktorių ir įrengti patalpas; opozicinė liberalų lyderė kritikuoja, kad atsisakyta 2030-ųjų termino.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Lietuva šaukimą buvo atšaukusi siekdama profesionalios kariuomenės, tačiau 2015 m., Rusijai aneksavus Krymą, grąžino dalinį šaukimą. Augant grėsmėms dėl Rusijos karo Ukrainoje, pastaraisiais metais svarstyta pereiti prie visuotinio šaukimo, o anksčiau kalbėta apie 2030-uosius.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3097261/valstybes-gynimo-taryba-sutare-del-visuotinio-vaikinu-saukimo-ivedimo-nuo-2032-metu"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3097267/lithuania-to-introduce-universal-military-conscription-in-2032-president-says"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/liberalu-lydere-nesuprantu-kodel-buvo-atsitraukta-nuo-plano-ivesti-visuotini-saukima-nuo-2030-uju-56-2795758?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/29/2523957-645722-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Briuselis nedavė Baltijos šalims prašytų 500 mln. eurų antidronams",
+      "summary": "Europos Komisija atsakė, kad papildomo finansavimo Lietuvos, Latvijos ir Estijos prašytai bendrai antidroninei sistemai neskirs, ir siūlo pasinaudoti SAFE paskolų priemone, kurioje liko 21 mlrd. eurų. Lietuvai SAFE paskolų skirta iki 6,375 mlrd. eurų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Šiemet į Baltijos šalių oro erdvę ne kartą įskrido paklydę dronai iš Ukrainos ir Rusijos oro karo. Rugsėjo pabaigoje trijų šalių gynybos ministrai laišku paprašė ES skubios paramos sistemai, jungiančiai dronų aptikimą, dirbtinį intelektą ir perėmimą.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3097170/brussels-rejects-baltic-states-eur500-million-anti-drone-request-suggests-borrowing"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSnk3QlZQZkZhdjF0U29IdkR3Z1FnakRlTE81MzJrRm1SSGJxZjRwU2s2NEdpdnpsYmM1aV9fRXNWSDJPd09mVE83TnJNOW9nd0lmcmxVa0VDX05NeGpCVkNNUWdJcXVDR0taV0lfRHZDc1Z4ckpyM0NCWEFZdFQ4MjBmX0ZNZk84UUlkQWRjTGpEOFkwRDYxdWYwRlBrSC1fclIySVVqbGhad3JlelY2UnFFcUM3bDdRSy1ad1BEQWdRZXhQS0lGbklDelRrSWs?oc=5"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0lKSThZWjFtdExMbkxoTmE2TEJ4Z2VDYzB1aFFtTEUtanF1bXRVcXZpUEMwb2c3SDJWX1NXUmt2R1BYbTVtdFpudDlQMDgwbEYybkxZeXRzRXEwTlBEMy1EV3B6X1VrbnJSNU9ndjBhRE4zeFpDdGhWVHFDOC1ZV0g5VXBRODFzY2tTaGVvSjBYWlRmQjFWUUIxSUt0UlZINDk0U3RMZmc3ZE5iQlNET1hTS2ZKbkpzWTdyeEowWlp2RFg4LURpVHd2WVhXbjQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/29/2523809-133729-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "„Starlink“ įrangą Vilniuje bandę padegti vyrai įtariami terorizmu",
+      "summary": "Du apie 20 metų Vokietijoje gyvenantys vyrai (Turkijos-Vokietijos ir Serbijos-Vokietijos piliečiai), įtariami spalio 18-ąją Vilniuje bandę padegti „Starlink“ įrangą, sulaikyti Vokietijoje; jie įtariami ir panašiais išpuoliais Bulgarijoje bei Lenkijoje. Jiems gresia iki 15 metų kalėjimo, tiriami galimi ryšiai su Rusija.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Gaisras kilo „Delska“ patalpose Aukštuosiuose Paneriuose, kur „SpaceX“ laiko „Starlink“ įrangą; apsaugos darbuotojas jį greitai užgesino, ir įranga veikė toliau.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3097097/starlink-iranga-bande-padegti-vyrai-itariami-terorizmu-taikesi-i-iranga-ir-bulgarijoje"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3097187/two-german-citizens-arrested-over-suspected-starlink-equipment-arson-attempt-in-vilnius"
+        },
+        {
+          "name": "Respublika",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa29uR1lvQV9Wa3FuXzVDeE43bGtDWGtBbXVCSThlVDhEd1hSbGM3UW1GR0dfVlRlR282NDV6SUJaTHVCYzVoUVNUN1RvS3ktNUI1VmtxcFNSMnhIOG14d09xSzdjR0VhR2loakFaNjRDS2pWNXR1YVpxY2dkbmJudVItT3c2WGljeGZWSS1iNkZCeFNuUVh5Ym9KWDVURE10N2h6RFd3LTQwZlJaX1FCSHpKd1pRYi1YYXZqQzQ1U1QzaFNSUVl1dWNFUUphTmxlc2ZPT2hXeTVKVUxiNzNtaFRKNGNmeFkwQkdGRDIyRmNpWDI4R0toeA?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/29/2523759-444016-1287x836.png"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Binance hit by $6.3bn hack, the biggest crypto heist ever",
+      "summary": "The world's largest crypto exchange said $6.3bn in assets were hit after an engineer's compromised laptop let attackers make withdrawals; about half has been frozen and Binance says it will cover all losses. Analytics firms TRM and Chainalysis blame North Korea's TraderTraitor unit, and Bitcoin fell about 5% to below $77,000.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 8,
+      "why": "Covered by 8 outlets, top of BBC",
+      "context": "The previous record was North Korea's $1.5bn theft from the Bybit exchange in 2025.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg"
+      ]
+    },
+    {
+      "headline": "Netanyahu bloc falls short of majority in Israel's final results",
+      "summary": "Netanyahu's right-wing bloc won 53 of 120 Knesset seats against 48 for Gadi Eisenkot's opposition, while two Arab parties took 19 and could decide who governs. Netanyahu's camp has made unproven claims of Qatari-funded vote fraud; President Herzog gets the results on Wednesday and coalition talks could take weeks.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Netanyahu, Israel's longest-serving prime minister, has led a right and far-right coalition since late 2022 through the Gaza war and his own corruption trial. Israel has held repeated snap elections in recent years when no bloc could form a stable majority, and this vote has ended his coalition's majority.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3098004/oficialus-rezultatai-netanyahu-blokas-laimejo-izraelio-rinkimus-bet-daugumos-negavo"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-rinkimu-izraelyje-pirmauja-benjamino-netanyahu-blokas-bet-daugumos-neuzsitikrino-57-2795714?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
+      ]
+    },
+    {
+      "headline": "Google loses $500bn in a day as AI costs spook investors",
+      "summary": "Alphabet shares fell almost 13% after it said AI search summaries are hurting ad sales, profit fell 25% and it burned over $9bn in cash despite revenue up 25% to $127.6bn. Amazon also slid after reporting negative cash flow of $42bn from AI spending.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Big Tech firms are pouring record sums into AI data centres, and investors are questioning whether the spending will pay off.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tULWRvRHZoRUxrM1Z6NnVOUUo5LUJWRVo2Z05nbmhDSFhjRjgtb3ZJUzF1TXJzdWYxWG1Sa0EtcHl1Wmd5M09ZcWVORWpNQzNuX2FnRUoxcUVHbmlwYUNmTWtVMlQ4TC0xR1hQVmpvQU5PM2NtaG1jcmdvRE1xODdKWTFHcHplNGVKUVdXaUhtOTBLb2xIOHZUa2hJZW5EdGc?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "China expels record 33 members from Communist Party leadership",
+      "summary": "A record 33 Central Committee members, 16 of them from the military, were expelled at the party's fifth plenum, which only 279 members attended, the fewest ever. Those removed include ex-top general Zhang Youxia and former Xinjiang chief Ma Xingrui.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Xi Jinping launched an anti-corruption campaign when he took power in 2012, and over two million people have since been disciplined. In his third term it has reached the top of the military, and observers see it as a way to enforce loyalty; only Xi and one other member remain on the Central Military Commission.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Reddit will require users to log in as AI search cuts traffic",
+      "summary": "Reddit is moving to a logged-in-only site, starting with tests in some non-US markets this quarter, after search referrals fell by over 1 million a week in October. The CEO warned daily users could drop by a low double-digit percentage from 130 million.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "For two decades Reddit could be read freely without an account.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Mistral releases weights of its trillion-parameter model",
+      "summary": "France's Mistral made its open model Mistral Large 4 downloadable on Hugging Face, pitching it for cyber defence. It says it matches China's GLM-5.3 while using 47% fewer tokens per task.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Major open-weight AI release",
+      "context": "Mistral is Europe's leading AI lab and argues for models organisations can run themselves.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Zverev to become tennis world No. 1",
+      "summary": "Alexander Zverev, 29, will replace Jannik Sinner at the top on Monday after reaching the Vienna quarter-finals, the second German ever after Boris Becker. He won the French and US Opens this year as injuries sidelined Sinner and Alcaraz.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Tennis ranking milestone",
+      "context": "Sinner and Alcaraz had split all eight Grand Slam titles in 2024 and 2025.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6651/live/755ec310-d3d7-11f1-9c32-1532a6164171.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Halloween Legends: Maceo Plex",
+      "when": "Spalio 30–31 d.",
+      "where": "LITEXPO, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Lapkričio 2 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "WNBA Finals Game 7: Atlanta Dream vs Golden State Valkyries (with Justė Jocytė)",
+      "when": "Sunday",
+      "where": "USA",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3097460/wnba-finalo-serijoje-dream-vel-iveike-jocytes-kluba-ir-isplese-lemiamas-rungtynes"
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZFZEeExJSnR1RmN2RHF6cEszRzVxZGFqb1pITkxNRm5FZ0pfQzB2dUJtWFJuV0xWRjJtUlpHakdJTm1JN0ZEVVBwbDliSnZGUC1tWFVvQ0lCNE5DaDdLeFE5X3lKTk50Vy1nZEsyRUNSWFlpb2U0aW85NUhoWHBrSTU0bWR4NjBxcEctVW9BQ0s5YXVRWnBQTWdWcHRkR2NyZDgzODhHeHYzcU54c09JOUdOOFhtWTdfVllXelhfd3ExMVhaQnRGblRiUzZ5UnRRRnBwVXRxek9TcVBOWkMzeDBFa0tLWWFs?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "G20 foreign ministers meet, Lavrov attending",
+      "when": "Coming days",
+      "where": "Atlanta, USA",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/dalyvauti-g20-susitikime-i-jav-atvyko-rusijos-urm-vadovas-sergejus-lavrovas-57-2795710?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/10/30/news/v-putino-patiketinis-s-lavrovas-jau-jav-44701391"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05KUnNfZG1OODZTY3RxWXpQTFozVkVHUkp1Sk9NVTVjWG1NVjlCM1hwY2VjSEZaSzJmaWZXNllQZVJUZWdCbkJlc2lBZFZMem5COUNVT2RidUdBTV9RUXZOVC15OFVmUWVnOVotRW5xVzZ3S1VCeWZPTUZoN2tLaVMweVl2NVRaV3l0RHg5ZFA0TXUxOVVTcw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "US midterm elections",
+      "when": "Tuesday, 3 November",
+      "where": "United States",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3097475/jav-kadencijos-vidurio-rinkimai-svarbiausios-kovos"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "A Russian drone hit a crowded platform at Dnipro's main station, killing at least 14, while strikes killed two teenage girls in Chernihiv and three in Kremenchuk. The WSJ reports Ukraine has quietly paused strikes on Russian refineries under Trump's pressure until at least the US midterms; Zelensky denies an order was given.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022. After Kyiv pushed Russian forces back that year, the front largely froze into a war of attrition fought with drones and missiles. Ukraine has since struck Russian oil refineries deep inside Russia, while US-brokered peace efforts have repeatedly stalled.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3098016/ziniasklaida-po-trumpo-spaudimo-ukraina-sustabde-atakas-rusijos-gamykloms"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/per-rusijos-atakas-pries-ukraina-kyjive-zuvo-zmogus-dnipro-apylinkese-dingo-elektra-57-2795742?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran says four tankers hit mines and caught fire in the Strait of Hormuz on a route it calls unauthorised, a day after the US said it had cleared the main lanes. Tehran has received but not yet answered a letter from JD Vance offering sanctions relief for nuclear commitments.",
+      "context": "Tensions over Iran's nuclear programme turned into open war on 28 February, when fighting between the US and Iran began. Iran then sharply restricted traffic through the Strait of Hormuz, which carries about a fifth of the world's oil, and the US answered with a blockade of Iranian ports. Qatar-led mediation has produced competing peace plans.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/hormuzo-sasiauryje-po-susidurimo-su-minomis-dega-keturi-tanklaiviai-skelbia-iranas-57-2795720?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3097416/irano-ziniasklaida-teheranas-gavo-jav-viceprezidento-laiska-bet-dar-neatsake"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-war",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Houthis claimed six missile and drone attacks on Saudi refineries and airports, including Ras Tanura, Abqaiq and Riyadh's airport, despite Saudi-Iranian talks in Tehran this week. The Saudi-led coalition said it downed a Houthi drone over the Mecca region.",
+      "context": "The Iran-backed Houthis seized Yemen's capital Sanaa in 2014, and a Saudi-led coalition intervened in 2015. Fighting cooled after a 2022 truce, but has flared again amid the wider US-Iran war, with cross-border strikes on Saudi territory.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3098039/saudo-arabijos-vadovaujama-koalicija-pranese-mekos-regione-numususi-husiu-drona"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "France will deploy 70,000 police for Saturday's Halloween protests called by the yellow vests and student unions, warning of a 'very high risk' of disorder; protests will be barred from city centres.",
+      "context": "Protests over the rising cost of living spread across France this autumn, some turning into looting and riots. Last Saturday about 410,000 people marched and more than 2,700 were arrested a week earlier, while student protests drew UN criticism of police force.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Sudan civil war",
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 606,
+    "feeds": 24,
+    "feed_problems": []
+  }
+}
