@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T07:04:17+00:00",
+  "weather": {
+    "min": 8,
+    "max": 9,
+    "precipitation_mm": 1.4,
+    "wind_max_kmh": 13,
+    "code": 53,
+    "rain_from": null,
+    "text": "Vilniuje 8…9 °C, dulksna."
+  },
+  "fact": {
+    "text": "In 1973, three IRA members escaped from Mountjoy Prison in Dublin aboard a hijacked helicopter that simply landed in the prison's exercise yard.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Poland court standoff",
+  "heads_up": [
+    "Nuo lapkričio 1 d. Vilniuje nebeveiks „m.Ticket“ ir „m.Parking“: viešojo transporto bilietus galima pirkti tik JUDU programėlėje.",
+    "Nuo šeštadienio keičiasi eismas automagistralėje ties Kruonio tiltu."
+  ],
+  "lithuania": [
+    {
+      "headline": "Premjero disertacijoje rastas plagiatas",
+      "summary": "ISM universiteto Etikos komisija premjero Mindaugo Sinkevičiaus 2015 m. disertacijoje apie alkoholio vartojimą nustatė penkis plagiato ir du netinkamo teksto naudojimo atvejus ir davė pusmetį juos ištaisyti, laipsnio iš karto neatimdama. Sinkevičius pažeidimų neginčija ir žada pataisas; atsisakius taisyti, gali būti pradėta laipsnio panaikinimo procedūra.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Įtarimai dėl plagiato premjero disertacijoje kilo liepą, o universitetas pirmąjį skundą pradėjo nagrinėti rugpjūtį, vėliau gavęs dar du. Sinkevičius ne kartą tvirtino darbą rengęs etiškai.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3098108/ism-universiteto-komisija-nustate-plagiato-atveju-m-sinkeviciaus-disertacijoje"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3098136/university-finds-plagiarism-in-lithuanian-pm-s-doctoral-thesis-gives-6-months-to-correct"
+        },
+        {
+          "name": "Alfa.lt",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzMwNHJvMl94MUJ2bUdBMG55RWZnQXdRRkljRi1QTlVIOXlGWWdTT3JWMlc3SVNFS2tVVHI0MVljbW8tZW1oTDFCSHBaNnRKS1RZTk1McUdkWHNiZXB4bVJoMHNQeGxwZ1hGUXYwT2N5MEp0RnVUZ3lvejBCT01lbG1RZ1psRFZGaGQ5Qml6dXZNUUNUc0szdFZ5MUcyR2Zibm1aRG9XWm9Xd1NRNHVoUENCeTg4bUNTZ2pDR0tnMHVNNE00TE80Q2szM3BXQkdRYVJpRDUyS2d5YVQ2RjdvSWtjTDhuYVNDS3lJ?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/27/2521947-288886-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Pentagonas ragina Baltijos šalis švelninti retoriką apie Rusiją",
+      "summary": "„Reuters“ duomenimis, Pentagono politikos vadovas Elbridge'as Colby ir kiti pareigūnai ragino Lietuvą, Latviją, Estiją ir kitas NATO šalis švelninti viešus pareiškimus apie Rusijos grėsmę, kad ji nebūtų provokuojama. Premjeras Sinkevičius, Prezidentūra ir ministras Robertas Kaunas teigia jokių tokių prašymų negavę.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Apie tai rašė 7 leidiniai",
+      "context": "Nuo 2022 m. Rusijos invazijos į Ukrainą Baltijos šalys yra vienos garsiausiai apie Rusijos grėsmę kalbančių NATO narių; rugsėjį Estijos premjeras Putiną pavadino „į kampą įvaryta žiurke“. Donaldo Trumpo administracija dabar vėl siekia derybomis užbaigti karą Ukrainoje ir neseniai sušvelnino kai kurias sankcijas Maskvai.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3098101/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia-media"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3098281/sinkevicius-sako-prasymo-svelninti-retorika-rusijos-atzvilgiu-nesulaukes"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWhSbjVsbU1NWjNhTm40aDBQemlrQ1ZLVzJaSkFhV0lrb2x2dkxrZnN0NUtNNXhwX3Bwb09VNGEtMEtFcGk0Q0xXZ3FmaWUtZ08wdFNnbm5TeFkxSUQ0ZGlxOF9PV0VtQmozeUxMZTNTb2hQclFwb2hsSHhId2o2bkktMGlaYi04WktuTWZqMzRCWE9sTTQxaWVnWi0tdTZra2tRRnJ2Q1pTaFUydVpVSkhNejJHOUZnUkZtVUtWMzRQdHJ4UkZzODZXb0VKUHc?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/30/2524722-849502-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "JAV spaudžia atverti Klaipėdos uostą baltarusiškoms trąšoms",
+      "summary": "„Politico“ duomenimis, JAV specialusis pasiuntinys Baltarusijai Johnas Coale'as ragina Lietuvą leisti Baltarusijos kalio trąšas gabenti per Klaipėdos uostą, nes Trumpas siekia pigiai pirkti trąšas iš Minsko. Premjeras Sinkevičius sako spaudimo nejaučiantis ir sankcijų politikos keisti neketinantis.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Baltarusijos kalio trąšų tranzitas per Klaipėdą sustojo 2022 m., įsigaliojus JAV, o vėliau ir ES sankcijoms Lukašenkos režimui. ES sankcijos draudžia ne tik importą, bet ir tranzitą, o Baltarusija tiekia apie 20 proc. pasaulio kalio trąšų.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3098186/us-pressures-lithuania-to-reopen-port-for-belarusian-potash-exports-politico"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTB1NGgwUXNUanEycWxGdGx4dnJoajByYzZuanl3RmtXcHhlS2E4WlgxY0MzV3VIMWN5TTVYOGRFZm93c1liOXdzbDVPZTdPeUlueUlpSXE4VTV2Mnd3LUUwdDdSbVk3cVJZUHFFVVg1U25PYTJsUHctbHNxZy1SMW9SWmF2WmlJVGpINWRad3ByaUtscmFsMzZRblg0STZfTkZmOXVmQ0tidEtBa1JNZnJPQmVMZG9ZSWhsWGNHWk9CNDJBYWxTbVF5NUk1SEtIV3l3UlNn?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2021/04/02/872721-252900-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Riot police guard Poland's top court in standoff over its chief",
+      "summary": "Riot police surrounded Poland's Constitutional Tribunal after government-appointed judges suspended its contested president Bogdan Święczkowski and his deputy, whom the justice minister wants to prosecute. President Karol Nawrocki turned his plane back from Senegal and forced his way into the building overnight, calling it a seizure of a constitutional body by force.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "The dispute began in 2015, when the Law and Justice (PiS) government packed the Constitutional Tribunal with loyal judges; European courts later ruled it was no longer an independent tribunal. Donald Tusk's centrist coalition took power in 2023 promising to undo this, but PiS-backed presidents Andrzej Duda and Karol Nawrocki vetoed its reforms, and Nawrocki refused to swear in five judges elected by parliament.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
+        "https://i.guim.co.uk/img/media/b595186b872d72d05a5c01e8ce0be90bb9af8d06/1355_185_5926_4743/master/5926.jpg?width=700&quality=85&auto=format&fit=max&s=7ecb1b96c9e306301f1aa37a3e111ccf"
+      ]
+    },
+    {
+      "headline": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "summary": "The US cancelled the traditional 'family photo' at the G20 foreign ministers' meeting in Atlanta after about a third of countries, including EU states, the UK and Australia, refused to pose with Russia's Sergei Lavrov. UK Foreign Secretary Ed Miliband told Lavrov to his face that 'we all know who the aggressor in this war is'.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Russia has been shunned by most Western governments since its full-scale invasion of Ukraine in February 2022 but remains a G20 member. The Trump administration, which hosts the G20 this year, has been trying to bring Moscow back in from the cold and recently eased some sanctions on it.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGNaZzRWSTJvYl9ad1drWldtbzFGOGRJOFBjVEdEODBIRVlSMGRtbmlmeEVqQ24zYWptNmU3TVZSTklPaUVPRWd4QmMwYVU2WGN6aTZESjVKVzdSVnFmb3RiUHFSU045VEVpc1g3ZXNGc2VWa0NLYzFDaVZBTVpRNzJwNGRYbVRXQ2ZQNkpESlV1RmlyWDd0anh2bjRxX2VSUkZoTTZYSdIBrAFBVV95cUxOZU1xa0wwcmlKX19CamoyNE0xUU82ZERWRnhLa1RzQWFhMy1yNWZfUkp4OUZMUzVRRzI2WE1YSGVaUTlRVXNnYmpNV2dhSE9ya1RSR0NKM1hLVHk3TllrdDRUM2JSekM4OTc0OVNiMHlDYlE1UTQ3LThfVjNMT0VTenJkeVdRV21lalpwVjVyZkJwYWk5OGlFS1F1bHZfYm1xSGt0NmtDWmQ2Yi1z?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
+        "https://i.guim.co.uk/img/media/94e76fb3f040c70be5f1c43fa81c443afb9943dd/1924_1239_3101_2483/master/3101.jpg?width=700&quality=85&auto=format&fit=max&s=528f4077bbd03caaff8cbb43e8e6c563"
+      ]
+    },
+    {
+      "headline": "Traffic control errors caused Spain's deadly train crash",
+      "summary": "A Renfe high-speed train hit a stationary Iryo train near Urda in Toledo province on Wednesday at 160–200 km/h, killing at least 69 and injuring over 100; officials say a control-centre failure let it move on after a computer fault had halted six trains. Transport minister Óscar Puente refuses to resign.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "It is Spain's second deadly high-speed crash this year: in January, 46 people died in a collision on the same Madrid–Seville line near Adamuz. The disaster comes weeks before a snap general election and hurts PM Pedro Sánchez.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONG9IMk5FWFBRU05QQmxucGZiTC1ZZng4X2pmTTU2M2ZZWXl3RW0zdVlKMnJEQkxQSEI1emZXSHYyM1loWXJDMWk1UjJKbS13UnhvbUUyY09sX0RuZXhPYUx5Ulg2NVRBMXJRcHkzYUtQWDl0RVYwS1lINk5tNEZKWk52MzU1X2dj?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "Russia's Novaya Gazeta shuts down under state pressure",
+      "summary": "Novaya Gazeta, Russia's best-known independent newspaper, will close permanently next month after being evicted from its newsroom, stripped of its licence and cut off from reader donations. The UN called it a crushing blow to independent media in Russia.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Founded in the 1990s with help from Mikhail Gorbachev, the paper lost six journalists to killings, including Anna Politkovskaya in 2006, and its editor Dmitry Muratov shared the 2021 Nobel Peace Prize. After Russia invaded Ukraine in 2022 it stopped printing under new censorship laws and kept working under growing pressure.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Google's first AI satellite comes online in orbit",
+      "summary": "Google's Project Suncatcher satellite, carrying four TPU chips and launched this month, booted up its AI and had a Gemma 4 model write a haiku about space, its first response from orbit. Tests of how the chips handle heat and radiation follow, with two linked satellites planned for 2027.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Google is testing whether AI data centres could one day run in space on solar power.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Astronomers find a large new dwarf planet beyond Pluto",
+      "summary": "Scientists have discovered an enormous new dwarf planet in the outer solar system beyond Pluto, and say there could be many more.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC Sky at Night Magazine",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQ2ZYZFRHbERod2J1MjQ2UVJLYmJHQmVkeDJzbTBJRzJEWURic2RSMDl3dy1pNDJZRE9UM2dCNVhsM196bG5TOGUwR0dnRnJKcTJ4ZUJFM0wxUnNPbU5sVE5rbGZacFlwd3B6TQ?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Russia readmitted to ice hockey world championships",
+      "summary": "A sports court ruling lets Russia return to the ice hockey world championships; Canada's PM Mark Carney called the return 'unwelcome'.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Russia was banned from international hockey in 2022 after its invasion of Ukraine.",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVdEQXZRcldlS21feHQ0ODMyTXVMTG9IM2ptRTB3V05CS3Rzd0NSNWxQNlpvWjI1bUZySGY5bXRjTDN0akhXUzF5NDZHdWZkZTdueV9QTWsxS0VuR095Q0FiVjAzZ3BiM1doMEVzSlJoRGU3UE5vd1M0ZzJ6Yk9aSUQ3MjdTQ09E?oc=5"
+        },
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcEQ2Ym5feVc3RU5mdUQ1d0ZvejRVNmtxRGRrdzlqWFU5MjQ1dnNVeDRlUDRKcEV5VU9OaDMtTkhmRU53TlRTQm56Q2hpYVlrRkVxY0FyaVl0NHBydHJWQUxxWTVFR1oxaUNtSWtFSm5BQTBNR1FyM0podjRjV0djbHpjd21Mb2VjSG9Ec2s4ZnpHZGNlNWNBM3lTeE5nUFJiUHZQbFBNRmctZlRNWGpCY3Nld00yQnNuYWl3QVgxanhxdw?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "events": [
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Lapkričio 2 d., pirmadienis",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Akordeonininkė Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "„Magiškas miškas. Pradžia“ – patyrimų spektaklis vaikams",
+      "when": "Iki lapkričio 9 d.",
+      "where": "VU Botanikos sodas",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "US midterm elections decide control of Congress",
+      "when": "Tuesday, 3 November",
+      "where": "United States",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXdZcE80bTFBOFMwWVd2bFdSWHVNNVlUbWRqNG9LcnFpVlM3ZmhYT0dGT1pHZURaUld6Nnp0YVhmV2ZObWJyMmpVMENHUXlEbnh3R1dJRFE5N1lDREhoT2tadnViQ2VGUldxNGRKSm5kdXh4V2dwZU44bFVtZTV3OE9DMzBLYXFubmpYNTJmd2xfYVBx?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Mexico City Grand Prix (Formula 1)",
+      "when": "Sunday, 1 November",
+      "where": "Mexico City",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVXlveXFIRWNTOFJyRzlDTTg2OFdYdWsxRExKQXNEQlZ3QUN0c04za1lLY3JWZXRla3FKZHhZQ0xPVTQxX3lXZlBvT3k0Mml5SDdPWUcyWjRKanJWdlVIZXZ5VUpHTkVuMDhBZ0JKWUtTUHd1MG1sVVFxVmlyUQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "The US approved a $2.1bn sale of 500 Patriot PAC-3 interceptors to Ukraine, paid for by Europe and Canada, but Zelensky warned deliveries may take years and asked for missiles now as Russia hits the power grid daily. Hundreds of civilians were evacuated from Russian-occupied Oleshky under a rare local ceasefire brokered by Melania Trump.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and Kharkiv in 2022, but the front has since largely stalled into a war of attrition with heavy drone and missile strikes. Since returning to office in 2025, Donald Trump has pushed both sides toward a peace deal.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Qatari mediators held marathon talks in Tehran seeking a US-Iran deal before the midterms, and Pakistan's military says it is 'cautiously optimistic' about its own mediation. Iran warned of an 'earth-shattering blow' while Trump said the war would 'get wrapped up soon'.",
+      "context": "The US and Iran have been at odds since the 1979 revolution, with the nuclear programme at the centre since the 2000s. Trump pulled out of the 2015 nuclear deal in 2018, and in 2025 the US struck Iranian nuclear sites. This year the confrontation escalated into open war, with fighting spreading to shipping in the Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss"
+        },
+        {
+          "name": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTg1UTZmdFFiVndiNS1OTnU2cUhBSk1lTVJDMWFOTEdKNmhtLV9wc0hJSlBqaEk0d2Z3UTdqQTRpbE1UMjV3WG1kaUE5TEFrOWp2clJGTTBFc2JkN0tXNXR5dnd3RGdjWlNhTkFRRFRwSmo5YW1Val83VWZuN3VYQnUteDFtdw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG4zX0dQOXRZdkNCLTVnaWQ4bm1Wem53VEh1cjZvYmdqQkx5SVZzZUlzQUkzT0w3UEc2a1Zhb3I5UDhreVlGYVZWR2NhYTMydlkzNDZWMnJvQlVCLUZkY01ZaWRaMm1WNjVmckZOZEpIRXZ4UzRLNjIxOUtTdnp2Y2hLSmNlbEZId0cxNGg4LWw5TWNEejVCUW1zdy0td3FoUm9STVJ1OVB2SUljWmtid25B?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-war",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Saudi-led coalition said it destroyed a Houthi drone over Riyadh province and a ballistic missile fired at the south, a day after two missiles were intercepted over Riyadh. The US ordered non-emergency staff to leave Saudi Arabia over security risks.",
+      "context": "Saudi Arabia intervened in Yemen's civil war in 2015 against the Iran-backed Houthis, who had seized the capital Sanaa. A 2022 truce largely halted cross-border attacks, but fighting flared again amid this year's US-Iran war; earlier this month a missile strike on Riyadh's airport killed 13 people.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/saudo-arabijos-koalicija-pranesa-apie-perimta-drona-virs-rijado-regiono-raketa-pietuose-57-2796432?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cmwy721wd7x6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "About 150,000 people have registered for Gen Z protests in some 30 German cities on Saturday, and Italy's PM deployed troops as a national strike brought mass protests and port blockades. France has 70,000 police on duty and closed over 40 Paris metro stations, expecting violence like the 17 October riots.",
+      "context": "Youth-led protests over rising prices, run-down schools and a lack of prospects have convulsed French cities for three weekends; on 17 October they turned into widespread looting and riots. The movement has since spread to Germany and Italy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/vrm-saltinis-prancuzijoje-sestadieni-laukiama-i-spalio-17-osios-neramumus-panasaus-smurto-57-2796424?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Sudan civil war",
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 574,
+    "feeds": 24,
+    "feed_problems": []
+  }
+}
