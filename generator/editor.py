@@ -13,7 +13,7 @@ STORY = {
     "properties": {
         "headline": {"type": "string"},
         "summary": {"type": "string"},
-        "category": {"type": "string", "enum": ["general", "ai", "tech", "design", "sports", "science", "culture"]},
+        "category": {"type": "string", "enum": ["general", "ai", "tech", "design", "sports", "film", "science", "culture"]},
         "highlight": {"type": "boolean"},
         "coverage": {"type": "integer"},
         "why": {"type": "string"},
@@ -95,8 +95,8 @@ How to choose stories
 Sections
 - lithuania: exactly 3 of the most important Lithuanian stories, ranked. Lithuanian outlets give the same event very different headlines, so translate first and group by the underlying event (same people, place, decision or number), not by wording. Cluster counts on lithuania items are the strongest signal here; add matching items from other outlets to the count. Prefer national news (government, Seimas, security, economy, major incidents) over local crime, accidents and celebrity stories. A story carried by only one outlet makes the cut only if nothing better covered is left.
 - world: 3 or 4 of the most important world stories, ranked.
-- interesting: 2 or 3 picks from AI, tech, design and sports (science or culture if something stands out). Prefer substance over hype; mix categories when possible.
-- events: 1 to 3 Vilnius events plus 1 to 3 global events, so both kinds appear every day; use 3 only when there are that many worth knowing about. Vilnius events (scope "vilnius") must come from one of the event listings, take place in Vilnius in the next 7 days, and cite that listing's id (e.g. "ev1") as their only item id. Mix kinds when possible (a concert, an exhibition or a festival). Global events (scope "global") are notable dated happenings in the coming days from the news, e.g. an election tomorrow, a summit, a court ruling, a launch or a big match tonight; there is almost always one. Don't repeat the top story as an event.
+- interesting: 2 to 4 picks from AI, tech, design, sports and film (science or culture if something stands out). Prefer substance over hype; mix categories when possible. Include one film story whenever there is real film news: a major release or trailer, a festival or awards result, a record-breaking review score or box office, a notable director or casting announcement. Skip film gossip and routine marketing.
+- events: 1 to 3 Vilnius events plus 1 to 3 global events, so both kinds appear every day; use 3 only when there are that many worth knowing about. Vilnius events (scope "vilnius") must come from one of the event listings, take place in Vilnius in the next 7 days, and cite that listing's id (e.g. "ev1") as their only item id. Mix kinds when possible (a concert, an exhibition, a festival, or a special screening or premiere at Pasaka). Global events (scope "global") are notable dated happenings in the coming days from the news, e.g. an election tomorrow, a summit, a court ruling, a launch or a big match tonight; there is almost always one. Don't repeat the top story as an event.
 - ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
 - lead_section: "lithuania" or "world", whichever section's first story is the single most important story of the day. The app shows that story as a large lead paragraph.
 - widget_headline: a 2–3 word label for the lead story, at most 22 characters, in the lead story's language, no final period. It sits alone on a small curved line on the home screen widget, so the reader must understand what happened from these words alone. Read the story and write the label fresh: name the core subject and what happened (e.g. "Skola brangsta", "Brazil decides", "Kaunas sky closed", "Biudžetas be liberalų"). Never use the first words of the headline, a truncated phrase, or a label that only makes sense with more context.
@@ -112,7 +112,7 @@ Rules
 - Every story appears once. If a story belongs to an ongoing event, it goes in ongoing, not in lithuania or world.
 - headline: short and factual, no clickbait. summary: one or two sentences, the key facts and numbers.
 - why: a few words on why it was picked, in the entry's language, e.g. "Covered by 9 outlets" or "Apie tai rašė 5 portalai".
-- highlight: true for stories about AI, tech, design or sports, in any section.
+- highlight: true for stories about AI, tech, design, sports or film, in any section.
 - category: "general" for anything outside the reader's topics.
 - item_ids: cite every item that reports this story itself (all outlets, including Google News items), the main news report first, so the reader gets several sources and the full articles can be looked up. Leave out pieces that only touch the story from another angle: celebrity, lifestyle, opinion or reaction pieces.
 - photo_ids: up to 2 ids of items marked {photo} whose photo would show this story: its event, place or the people at its centre, as judged from that item's headline and outlet. Never pick photos from celebrity, lifestyle or unrelated pieces, and prefer the main news report's photo. An empty list is better than a photo that doesn't fit."""

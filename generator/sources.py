@@ -39,6 +39,9 @@ FEEDS = [
     {"name": "Ars Technica", "section": "interesting", "url": "https://feeds.arstechnica.com/arstechnica/index"},
     {"name": "BBC Tech", "section": "interesting", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
     {"name": "Dezeen", "section": "interesting", "url": "https://www.dezeen.com/feed/"},
+    {"name": "Variety", "section": "interesting", "url": "https://variety.com/v/film/feed/"},
+    {"name": "The Hollywood Reporter", "section": "interesting", "url": "https://www.hollywoodreporter.com/c/movies/feed/"},
+    {"name": "IndieWire", "section": "interesting", "url": "https://www.indiewire.com/c/film/feed/"},
     {"name": "Google News Sports", "section": "interesting", "ranked": True, "url": f"{GOOGLE}/headlines/section/topic/SPORTS?{EN}"},
     {"name": "BBC Sport", "section": "interesting", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
     {"name": "LRT Sport", "section": "interesting", "url": "https://www.lrt.lt/naujienos/sportas?rss"},
@@ -50,6 +53,9 @@ EVENT_SOURCES = [
      "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"},
     {"id": "ev2", "name": "bilietai.lt", "about": "exhibitions, conferences and festivals (also other cities)",
      "url": "https://www.bilietai.lt/lit/renginiai/parodos"},
+    {"id": "ev3", "name": "Pasaka", "about": "Vilnius cinema: films now showing, premieres (Premjera) and special "
+     "series or festivals; it has no screening dates, so present these as now showing or this week",
+     "url": "https://www.pasaka.lt/repertuaras"},
 ]
 
 # Open-Meteo, free and keyless.
