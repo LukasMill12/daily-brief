@@ -22,13 +22,21 @@ struct BriefView: View {
     /// The phone's own forecast; kept across refreshes so the temperature never blinks out.
     @State private var liveWeather: Weather?
     private let decor = Decor.current
+    /// How much the page is tightened so the day's content fits on one screen (0 = roomiest).
+    @State private var density = 0
+    @State private var screenHeight: CGFloat = 0
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
         ScrollView {
             if let brief = past ?? today {
-                content(brief)
+                content(brief, layout: Layout(level: density))
                     .id(brief.date)  // a new day starts at the top
+                    .onGeometryChangeCompat { height in
+                        // Step down one level at a time until the page fits; a long day may still scroll.
+                        if screenHeight > 0, height > screenHeight + 1, density < Layout.tightest { density += 1 }
+                    }
+                    .onChange(of: brief.date) { _, _ in density = 0 }
             } else {
                 Text("LOADING")
                     .font(Theme.helvetica(11))
@@ -38,6 +46,11 @@ struct BriefView: View {
             }
         }
         .background(Theme.background.ignoresSafeArea())
+        .background(GeometryReader { proxy in
+            Color.clear
+                .onAppear { screenHeight = proxy.size.height }
+                .onChange(of: proxy.size.height) { _, height in screenHeight = height; density = 0 }
+        })
         .refreshable { await reload() }
         .task { await reload() }
         .onChange(of: scenePhase) { _, phase in
@@ -75,7 +88,7 @@ struct BriefView: View {
         _ = await BriefLoader.loadArchiveIndex()  // keeps the archive list ready to open instantly
     }
 
-    private func content(_ brief: Brief) -> some View {
+    private func content(_ brief: Brief, layout: Layout) -> some View {
         VStack(alignment: .leading, spacing: 0) {
             HStack {
                 if past != nil {
@@ -95,7 +108,7 @@ struct BriefView: View {
             .font(Theme.helvetica(11))
             .tracking(0.5)
             .foregroundStyle(decor == .blueCover || decor == .grainGlow ? .white : Theme.accent)
-            .padding(.bottom, 18 + decor.contentInsets.top)
+            .padding(.bottom, layout.headerBottom + decor.contentInsets.top)
 
             ForEach(brief.headsUp, id: \.self) { note in
                 Text(note.uppercased())
@@ -113,7 +126,7 @@ struct BriefView: View {
                             .tracking(0.5)
                             .foregroundStyle(Theme.accent)
                         Text(lead.headline)
-                            .font(Theme.helvetica(30, medium: true))
+                            .font(Theme.helvetica(layout.leadSize, medium: true))
                             .tracking(-1)
                             .foregroundStyle(Theme.text)
                             .multilineTextAlignment(.leading)
@@ -122,14 +135,14 @@ struct BriefView: View {
                 }
                 .buttonStyle(.plain)
                 .padding(.top, brief.headsUp.isEmpty ? 0 : 12)
-                .padding(.bottom, 28)
+                .padding(.bottom, layout.leadBottom)
             }
 
             LazyVGrid(columns: [GridItem(.flexible(), alignment: .topLeading), GridItem(.flexible(), alignment: .topLeading)],
-                      alignment: .leading, spacing: 22) {
+                      alignment: .leading, spacing: layout.sectionSpacing) {
                 ForEach(columns(brief), id: \.0) { label, details in
                     if !details.isEmpty {
-                        VStack(alignment: .leading, spacing: 5) {
+                        VStack(alignment: .leading, spacing: layout.lineSpacing) {
                             Text(label)
                                 .foregroundStyle(Theme.accent)
                                 .padding(.bottom, 2)
@@ -150,38 +163,38 @@ struct BriefView: View {
             }
 
             if let fact = brief.fact {
-                factBlock(fact)
-                    .padding(.top, 30)
+                factBlock(fact, size: layout.factSize)
+                    .padding(.top, layout.factTop)
             }
 
             footer(brief)
-                .padding(.top, 28)
+                .padding(.top, layout.footerTop)
         }
         .padding(.leading, decor.contentInsets.leading)
         .padding(.horizontal, 18)
         .padding(.top, 12)
-        .padding(.bottom, 32 + decor.contentInsets.bottom)
+        .padding(.bottom, layout.bottom + decor.contentInsets.bottom)
         .background(alignment: .top) { DecorView(decor: decor, brief: brief) }
     }
 
     /// A quiet closing note: the day's fact, linking to its source.
-    private func factBlock(_ fact: Fact) -> some View {
+    private func factBlock(_ fact: Fact, size: CGFloat) -> some View {
         VStack(alignment: .leading, spacing: 5) {
             Text("FACT OF THE DAY")
                 .font(Theme.helvetica(11))
                 .tracking(0.5)
                 .foregroundStyle(Theme.accent)
             if let url = fact.sources.first.flatMap({ URL(string: $0.url) }) {
-                Link(destination: url) { factText(fact) }
+                Link(destination: url) { factText(fact, size: size) }
             } else {
-                factText(fact)
+                factText(fact, size: size)
             }
         }
     }
 
-    private func factText(_ fact: Fact) -> some View {
+    private func factText(_ fact: Fact, size: CGFloat) -> some View {
         Text(fact.text)
-            .font(Theme.helvetica(13))
+            .font(Theme.helvetica(size))
             .tracking(-0.1)
             .foregroundStyle(Theme.text)
             .multilineTextAlignment(.leading)
@@ -257,5 +270,34 @@ struct BriefView: View {
 
     private func label(for section: String?) -> String {
         section == "world" ? "WORLD" : "LIETUVA"
+    }
+}
+
+/// Spacing and sizes for the reading view, from roomiest (level 0) to tightest.
+private struct Layout {
+    static let tightest = 3
+    var level: Int
+
+    private func pick(_ values: CGFloat...) -> CGFloat { values[min(level, values.count - 1)] }
+
+    var headerBottom: CGFloat { pick(18, 14, 12, 10) }
+    var leadSize: CGFloat { pick(30, 27, 25, 23) }
+    var leadBottom: CGFloat { pick(28, 22, 18, 14) }
+    var sectionSpacing: CGFloat { pick(22, 17, 14, 11) }
+    var lineSpacing: CGFloat { pick(5, 4, 3, 2) }
+    var factTop: CGFloat { pick(30, 22, 18, 14) }
+    var factSize: CGFloat { pick(13, 13, 12, 12) }
+    var footerTop: CGFloat { pick(28, 20, 16, 12) }
+    var bottom: CGFloat { pick(32, 20, 12, 8) }
+}
+
+private extension View {
+    /// Reports the view's height whenever it changes (iOS 17 compatible).
+    func onGeometryChangeCompat(_ action: @escaping (CGFloat) -> Void) -> some View {
+        background(GeometryReader { proxy in
+            Color.clear
+                .onAppear { action(proxy.size.height) }
+                .onChange(of: proxy.size.height) { _, height in action(height) }
+        })
     }
 }

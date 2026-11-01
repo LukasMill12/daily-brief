@@ -12,7 +12,6 @@ enum DailyNotification {
     /// Sends the morning notification in 10 seconds, to try the long-press view without waiting until 09:15.
     /// Also triggered by launching with `-sendTestNotification` (e.g. from the Mac with devicectl).
     static func sendTest() {
-        DebugLog.write("test notification scheduled")
         let content = UNMutableNotificationContent()
         content.title = "The Brief"
         content.body = "Your brief is ready"
