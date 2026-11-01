@@ -18,7 +18,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from editor import SCHEMA, SYSTEM, build_prompt, validate, write_brief
-from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_on_this_day, fetch_weather
+from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_forum_premieres, fetch_on_this_day, fetch_weather
 from sources import EVENT_SOURCES, FEEDS, ON_THIS_DAY_URL, WEATHER_URL
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -186,7 +186,8 @@ def main() -> int:
 
     now = datetime.now(timezone.utc)
     items, problems = fetch_all(FEEDS, now)
-    events = [{**e, "text": fetch_events_text(e["url"])} for e in EVENT_SOURCES]
+    events = [{**e, "text": fetch_forum_premieres(e["url"], now.astimezone(VILNIUS)) if e.get("kind") == "forum"
+               else fetch_events_text(e["url"])} for e in EVENT_SOURCES]
     weather, weather_error = fetch_weather(WEATHER_URL)
     local = now.astimezone(VILNIUS)
     on_this_day, on_this_day_error = fetch_on_this_day(ON_THIS_DAY_URL, local.month, local.day)

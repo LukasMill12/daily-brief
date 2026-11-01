@@ -135,7 +135,7 @@ def fetch_all(feeds: list[dict], now: datetime) -> tuple[list[dict], list[str]]:
         for feed, feed_items, error in pool.map(lambda f: fetch_feed(f, now), feeds):
             if error:
                 problems.append(f"{feed['name']}: {error}")
-            elif not feed_items:
+            elif not feed_items and not feed.get("quiet"):
                 problems.append(f"{feed['name']}: no recent items")
             items.extend(feed_items)
     return items, problems
@@ -150,6 +150,40 @@ def fetch_events_text(url: str, max_chars: int = 7000) -> str:
     page = re.sub(r"<script.*?</script>|<style.*?</style>", "", page, flags=re.S)
     lines = [l.strip() for l in html.unescape(re.sub(r"<[^>]+>", "\n", page)).split("\n")]
     return "\n".join(l for l in lines if l)[:max_chars]
+
+
+def fetch_forum_premieres(url: str, today: datetime) -> str:
+    """Forum Cinemas films premiering from 3 days ago to 10 days ahead, one line each, soonest first."""
+    try:
+        movies = json.loads(download(url))
+    except Exception:
+        return ""
+    lines = []
+    for movie in movies:
+        fields = movie.get("custom_fields") or {}
+        raw = fields.get("movie_raw_data") or {}
+        if isinstance(raw, str):
+            try:
+                raw = json.loads(raw)
+            except ValueError:
+                raw = {}
+        premiere = str(raw.get("premiereDate") or "")[:10]
+        try:
+            days = (datetime.fromisoformat(premiere).date() - today.date()).days
+        except ValueError:
+            continue
+        if not -3 <= days <= 10:
+            continue
+        title = clean(fields.get("title") or movie["title"]["rendered"])
+        original = clean(fields.get("title_original") or "")
+        details = [d for d in (
+            clean(str(fields.get("genres") or "")),
+            f"rež. {clean(fields['movie_regie'])}" if fields.get("movie_regie") else "",
+            f"IMDb {fields['imdb_rating']}" if fields.get("imdb_rating") else "",
+        ) if d and d != "-"]
+        name = title + (f" ({original})" if original and original != title else "")
+        lines.append((premiere, f"Premjera {premiere}: {name}" + (f" — {'; '.join(details)}" if details else "")))
+    return "\n".join(line for _, line in sorted(set(lines)))
 
 
 def fetch_article_text(url: str, max_chars: int = 3000) -> str:

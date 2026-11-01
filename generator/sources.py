@@ -3,6 +3,7 @@
 `section` is only a hint for the editor step; a story can still end up in a
 different section (e.g. a world story with a Lithuanian angle).
 `source` overrides the outlet name shown to the reader when a feed is a second view of an outlet.
+`quiet` marks feeds that often have nothing new in a day, so that isn't reported as a problem.
 `ranked` marks feeds ordered by importance (an editor's or Google's front page),
 so an item's position there is a second importance signal next to coverage.
 """
@@ -41,7 +42,8 @@ FEEDS = [
     {"name": "Dezeen", "section": "interesting", "url": "https://www.dezeen.com/feed/"},
     {"name": "Variety", "section": "interesting", "url": "https://variety.com/v/film/feed/"},
     {"name": "The Hollywood Reporter", "section": "interesting", "url": "https://www.hollywoodreporter.com/c/movies/feed/"},
-    {"name": "IndieWire", "section": "interesting", "url": "https://www.indiewire.com/c/film/feed/"},
+    {"name": "IndieWire", "section": "interesting", "quiet": True, "url": "https://www.indiewire.com/c/film/feed/"},
+    {"name": "Kino pavasaris", "section": "interesting", "quiet": True, "url": "https://kinopavasaris.lt/naujienos/feed/"},
     {"name": "Google News Sports", "section": "interesting", "ranked": True, "url": f"{GOOGLE}/headlines/section/topic/SPORTS?{EN}"},
     {"name": "BBC Sport", "section": "interesting", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
     {"name": "LRT Sport", "section": "interesting", "url": "https://www.lrt.lt/naujienos/sportas?rss"},
@@ -56,6 +58,8 @@ EVENT_SOURCES = [
     {"id": "ev3", "name": "Pasaka", "about": "Vilnius cinema: films now showing, premieres (Premjera) and special "
      "series or festivals; it has no screening dates, so present these as now showing or this week",
      "url": "https://www.pasaka.lt/repertuaras"},
+    {"id": "ev4", "name": "Forum Cinemas", "about": "national premieres in Lithuanian cinemas with exact dates",
+     "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=60&orderby=date&order=desc", "kind": "forum"},
 ]
 
 # Open-Meteo, free and keyless.
