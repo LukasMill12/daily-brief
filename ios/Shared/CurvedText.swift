@@ -15,12 +15,21 @@ struct CurvedText: View {
 
     var body: some View {
         GeometryReader { proxy in
+            // A zero radius (e.g. laid out at zero width) would divide by zero below.
+            if radius > 1, size > 1, proxy.size.width > 1 {
+                glyphRing(width: proxy.size.width)
+            }
+        }
+    }
+
+    private func glyphRing(width: CGFloat) -> some View {
+        Group {
             let glyphs = text.map { (String($0), medium) } + emphasis.map { (String($0), true) }
             let widths = glyphs.map { glyph, isMedium in
                 (glyph as NSString).size(withAttributes: [.font: Theme.uiHelvetica(size, medium: isMedium)]).width + tracking
             }
             let total = widths.reduce(0, +)
-            let center = CGPoint(x: proxy.size.width / 2, y: top + radius)
+            let center = CGPoint(x: width / 2, y: top + radius)
 
             ZStack {
                 ForEach(Array(glyphs.enumerated()), id: \.offset) { index, glyph in

@@ -469,16 +469,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT89DGVACP;
-				GENERATE_INFOPLIST_FILE = YES;
 				ENABLE_DEBUG_DYLIB = NO;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BriefNotification/Info.plist;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-framework",
-					UserNotifications,
-					"-framework",
-					UserNotificationsUI,
-				);
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -486,6 +479,13 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					UserNotifications,
+					"-framework",
+					UserNotificationsUI,
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -502,16 +502,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT89DGVACP;
-				GENERATE_INFOPLIST_FILE = YES;
 				ENABLE_DEBUG_DYLIB = NO;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BriefNotification/Info.plist;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-framework",
-					UserNotifications,
-					"-framework",
-					UserNotificationsUI,
-				);
 				INFOPLIST_KEY_CFBundleDisplayName = "The Brief";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -519,6 +512,13 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					UserNotifications,
+					"-framework",
+					UserNotificationsUI,
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = lt.lukas.dailybrief.notification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;

@@ -1,8 +1,23 @@
 import SwiftUI
+import UserNotifications
+
+/// Shows the notification as a banner even while the app is open, so it can be long-pressed right away.
+final class NotificationPresenter: NSObject, UNUserNotificationCenterDelegate {
+    static let shared = NotificationPresenter()
+
+    func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification)
+        async -> UNNotificationPresentationOptions {
+        [.banner, .sound]
+    }
+}
 
 @main
 struct DailyBriefApp: App {
     init() {
+        UNUserNotificationCenter.current().delegate = NotificationPresenter.shared
+        #if DEBUG
+        if ProcessInfo.processInfo.arguments.contains("-sendTestNotification") { DailyNotification.sendTest() }
+        #endif
         // Room for a day's photos, so preloaded images are still there when a story opens.
         URLCache.shared = URLCache(memoryCapacity: 50_000_000, diskCapacity: 300_000_000)
     }
