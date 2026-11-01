@@ -284,7 +284,7 @@ private struct Layout {
     var leadSize: CGFloat { pick(30, 27, 25, 23) }
     var leadBottom: CGFloat { pick(28, 22, 18, 14) }
     var sectionSpacing: CGFloat { pick(22, 17, 14, 11) }
-    var lineSpacing: CGFloat { pick(5, 4, 3, 2) }
+    var lineSpacing: CGFloat { 5 }  // the gap between stories stays readable at every level
     var factTop: CGFloat { pick(30, 22, 18, 14) }
     var factSize: CGFloat { pick(13, 13, 12, 12) }
     var footerTop: CGFloat { pick(28, 20, 16, 12) }
