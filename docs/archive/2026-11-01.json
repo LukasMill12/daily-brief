@@ -1,0 +1,404 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:04:06+00:00",
+  "weather": {
+    "min": 6,
+    "max": 8,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 10,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje 6…8 °C, debesuota."
+  },
+  "fact": {
+    "text": "In 1998, Karl Bushby set off from Punta Arenas in Chile to walk around the world back home to England. Twenty-eight years and jungles, deserts and visa fights later, he is nearly home.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karl_Bushby"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Record crypto heist",
+  "heads_up": [
+    "Nuo lapkričio 1 d. iki kovo pabaigos automagistralėse ir greitkeliuose leistinas greitis – 110 km/val.",
+    "Vėlinių savaitgalį prie Vilniaus ir Klaipėdos kapinių ribojamas eismas, dažniau kursuoja viešasis transportas."
+  ],
+  "lithuania": [
+    {
+      "headline": "Visuotinis šaukimas – tik nuo 2032-ųjų, gynybai trūksta pinigų",
+      "summary": "Valstybės gynimo tarybos sprendimas visuotinį vaikinų šaukimą įvesti tik nuo 2032-ųjų sulaukė kritikos; krašto apsaugos ministras Robertas Kaunas sako, kad įvedus jį dabar kristų kariuomenės parengtis. Premjeras kitąmet gynybai siūlo 5 proc. BVP, nors trimetis planas numatė 5,44 proc., tad apie 400 mln. eurų gali pritrūkti, ir jau peržiūrimi įsigijimai.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Lietuva šaukimą atkūrė 2015 m., po Rusijos įvykdytos Krymo aneksijos, tačiau šaukiama tik dalis jaunuolių. Rusijai 2022 m. pradėjus plataus masto karą Ukrainoje, Lietuva ėmė sparčiai didinti gynybos išlaidas, o strateginis planas iki 2030-ųjų numato suformuoti nacionalinę diviziją, paruošti infrastruktūrą Vokietijos brigadai ir pasirengti visuotiniam šaukimui. Pernai dėl gynybos biudžeto dydžio pareigas prarado ministrė Dovilė Šakalienė.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3098377/divizija-visuotinis-saukimas-ir-mazejantis-biudzetas-nauji-issukiai-lietuvos-gynybai"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUktOZjYyVFR2SUJTQkc3Y09kY0JndlFmYXI1VzVzdlN6b01kam56VDZHUDU2Qm82QlE0YnVKYjhFOGl5WEpMT1BhdjJWWGVuN3lxbDBmemVWRVRvaVAtdmppdTdVSEZTcnBCVWd0NTVacUZBZ3VsSDROWF9IUXZhaW9HcUtwajZJTVZhTFZPLURfSXRmZXhhZ0JjeXBHQU5VbjZreDF1UDg0alpfZU15QVR6S3lmVElVa0lwS3p1am4ya0s1QjZ5N3Y0MTRzQ3hGSmRnZTFB?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2023/10/09/1603763-997579-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Seimo nariai parlamentinei veiklai išleido beveik 2 mln. eurų",
+      "summary": "Per pirmus devynis metų mėnesius Seimo nariai parlamentinei veiklai išleido 1,94 mln. eurų – 233 tūkst. daugiau nei pernai, daugiausia transportui. Daugiausia išleido „aušrietis“ Tomas Domarkas (18 181 eurą), o Ingrida Šimonytė ir Gintarė Skaistė šių lėšų nenaudojo visai.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Kiekvienam Seimo nariui kas mėnesį parlamentinei veiklai skiriama 0,8 vidutinio darbo užmokesčio – transportui, biurams ir kitoms išlaidoms.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3099025/seimo-nariai-parlamentinei-veiklai-isleido-beveik-2-mln-euru-daugiausiai-ausrieciai"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW1KN0tVWWU3Nzd5NnlLdVEwZmxGTENHMWJSX21sME85b0RCSzBpM1JjMVhtc29UOVMwdG9WWVppVDM1TEc4dVE2ZnlBNTdYeC0xckFmeFlRd3U3VWpCbm9LQnpLdFBhUE0xWHNqeWc4Mzl1VGxEZDhyV0l1anlrVjN6NEpmOXBmV2w5c3otV21Ec24tQ2Nud1FkSjF6enpXQ0dqV09jTnBXUnh4V0VfbnFQa3l3T21wQ1AzWWJmcWdKdmFsYWc?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/03/10/2340941-749507-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Keičiasi leidimų laikinai gyventi išdavimo tvarka",
+      "summary": "Nuo lapkričio 1 d. užsieniečiai, atvykę su Šengeno ar kitos šalies nacionaline viza, nebegalės Lietuvoje pateikti prašymų leidimui laikinai gyventi darbo ar bakalauro studijų pagrindu – jie turės kreiptis į „VFS Global“ centrus užsienyje. Tvarka netaikoma aukštos kvalifikacijos darbuotojams, o baltarusiai galės kreiptis Armėnijoje ir Sakartvele.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 2,
+      "why": "Apie tai rašė 2 portalai",
+      "context": "Leidimai laikinai gyventi darbo pagrindu – pagrindinis būdas užsieniečiams legaliai įsidarbinti Lietuvoje.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/keiciasi-leidimu-laikinai-gyventi-lietuvoje-isdavimo-tvarka-56-2796826?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsMTEzOHg1MTAsNjE2MzQ0LG9yaWdpbmFsLCxpZD0xMDYxMDM4NiZkYXRlPTIwMjYlMkYwMyUyRjMwLDM0NjM5NzEyNjk=/0e4a385120260329-69ca5a2ed0666.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "FBI blames North Korea for record $6.3bn Binance hack",
+      "summary": "The FBI says North Korea's TraderTraitor group, part of the Lazarus hackers, stole more than $6bn from Binance on 29 October, the biggest crypto theft ever, far above the $1.5bn Bybit hack in 2025. Binance says it has replaced 90% of the stolen funds from its own reserves, has frozen about $3bn, and is resuming withdrawals in phases on Sunday.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 8,
+      "why": "Covered by 8+ outlets",
+      "context": "Binance is the world's largest crypto exchange. North Korea's state hackers have stolen billions in crypto in recent years, including the previous record Bybit heist.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+      ]
+    },
+    {
+      "headline": "US midterms enter final weekend amid ballot fights",
+      "summary": "A record 50.5 million early votes have been cast ahead of Tuesday's midterms, nearly 5 million more than in all of 2022, with Republicans defending a 53-47 Senate majority in races stretching to Texas and Alaska. The Trump administration is pressing states over ballots: Alaska called its demand to set aside Senate ballots 'impossible', and an analysis found over 40% of names on its California 'non-citizen' list are not even on the voter rolls.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8+ outlets",
+      "context": "Midterms, held halfway through a president's four-year term, decide all 435 House seats and a third of the Senate. Trump, who has long falsely claimed his 2020 defeat was rigged, has fears of impeachment if Republicans lose Congress, and his administration has sued states over alleged non-citizen voting.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3o5aVhFT2pLeG9XZUxMUDNqUk84dV85a19teWE4bVJpOURmYmphRWNnMTJ1X011YktNSm44MHhPWUx6U0lVbFVIaFdYdEoyaWw0MnFiUUI5Y2NrWFVwbEJyZjBIb3VGa0Q2Xy16a1pYdkdMTGNZVnVEajludk9lSHBLV192Vk40NkJJbk45ZWJxd2VCRFJzbFVBMXM3TDZUOHZZMWlBcXdpWUFOU2xDOU9XcFlHNkdhVE56NENTZWFmRHY0eUpJ?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "Ebola deaths in DR Congo pass 5,000",
+      "summary": "More than 5,000 people have died and over 10,300 cases have been confirmed in DR Congo's Ebola outbreak, which began in May and has spread to eight of 26 provinces; there is no vaccine or treatment for this Bundibugyo strain. Nigeria, which had its first case in a decade on 20 October, is testing two more suspected cases.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "Ebola spreads through bodily fluids and kills about half of those infected in this outbreak; DR Congo's previous worst outbreak, in 2018-2020, killed 2,299.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2dLZS1NaklPODk2amZTY2YtUG5obEdwWW1hSWx1RFpQQWdWNDZFQkxFM3JxU2ZhaTVMdFI2X25GV1FfeVZTRkhoNUlNc3plQXQ5SWtqZEx4M0llYUhzeGVVMHE5cGZaczF5V2JDRTN6eXF3RGF1azU0TUlIUVg0aEp1TC1XY3R1cmJj?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
+      ]
+    },
+    {
+      "headline": "Poland's court standoff deepens as Tusk refuses to back down",
+      "summary": "In a TV address, PM Donald Tusk vowed 'no compromise' on overhauling the constitutional court after government-backed judges suspended its PiS-appointed chief, Bogdan Święczkowski, on Friday. President Karol Nawrocki held crisis talks the governing party boycotted, and ex-PM Mateusz Morawiecki called for a no-confidence vote.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The fight began in 2015, when the nationalist Law and Justice (PiS) party took power and filled the constitutional court with loyal judges, leading to years of rule-of-law clashes with the EU. Tusk returned to power in 2023 promising to undo those changes but has been blocked by PiS-aligned presidents; this year Nawrocki refused to swear in five judges elected by parliament.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/lenkijos-premjeras-donaldas-tuskas-kaltina-opozicija-siekiu-sunaikinti-demokratija-57-2796810?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/3b129224829f45ad8165dd6ba27eac4f0f3868d3/1836_207_4200_3362/master/4200.jpg?width=700&quality=85&auto=format&fit=max&s=d5a8eff36e4f3bb0529283c34a4deea9"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Valkyries win WNBA title in second season, with Lithuania's Jocytė",
+      "summary": "The Golden State Valkyries beat the Atlanta Dream 68-63 in the WNBA's first-ever Finals Game 7 to win the title in only their second season; MVP Gabby Williams scored 28 of her 30 points in the second half. Lithuanian Justė Jocytė plays for the champions.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/11/01/news/istorinis-triumfas-juste-jocyte-wnba-cempione-44726343"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5"
+        }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/11/01/055822670-5a14cbf8-969c-4858-8512-ef69b4108c67.jpg"
+      ]
+    },
+    {
+      "headline": "Backdoored Claude extension hit up to 5,000 developers",
+      "summary": "Attackers posted a malicious version of Anthropic's official Claude VS Code extension through its verified account on Cursor's marketplace for nearly 12 hours, reaching at most 5,000 users. It tried to install a hidden SSH backdoor and harvest cloud credentials; how the account was taken over is still unknown.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Cursor is an AI-assisted code editor whose extensions auto-update by default and run with wide access to developers' files.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+      ]
+    },
+    {
+      "headline": "Cracks show in the AI spending boom",
+      "summary": "Alphabet, Amazon, Meta and Microsoft plan over $740bn in capital spending this year, but investors balked: Alphabet had negative free cash flow of $9.1bn and the Nasdaq fell 2.9% on Friday. Debt-laden data-centre firms are hit hardest, with CoreWeave, holding $35.1bn of debt, down a quarter in a month.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "LKL: Vilniaus „Rytas“ – Kauno „Žalgiris“",
+      "when": "Pirmadienį, lapkričio 2 d.",
+      "where": "„Arena Vilnius“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Penktadienį, lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "US midterm elections",
+      "when": "Tuesday, 3 November",
+      "where": "United States",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+        }
+      ]
+    },
+    {
+      "title": "Mexico City Grand Prix, Hamilton on pole",
+      "when": "Today, 1 November",
+      "where": "Mexico City",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Oleshky evacuees reached Ukrainian-held territory via Russia and Belarus on Saturday under a local truce in Kherson region lasting until Sunday evening, many describing starvation and minefields. Russia's human rights commissioner said both sides agreed to regular humanitarian missions, while Ukraine hit a large refinery east of Moscow and says it never agreed to stop such strikes.",
+      "context": "Russia invaded Ukraine in February 2022 after seizing Crimea in 2014. Kyiv pushed Russian forces back from the capital and in a 2022 counter-offensive, but the front has since become a grinding war of attrition, with Russia striking Ukraine's energy grid and Ukraine hitting Russian oil facilities.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/d01eca2e3bd5425fbe339ec6bf3d96bf17aa6ec0/622_0_6959_5567/master/6959.jpg?width=700&quality=85&auto=format&fit=max&s=6437ef6b269d6336ae3b4ac45adf9bed"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Supreme Leader Khamenei warned the US and Israel that any response to a new attack would have 'no geographic limits'. Iran's top diplomat said Iran and Qatar have a plan to reopen the Strait of Hormuz within two days if the US meets Tehran's conditions.",
+      "context": "Tensions date back to the 1979 revolution. After years of sanctions and clashes over Iran's nuclear programme, the US and Israel struck Iran and the conflict escalated into open war, with Iran hitting US bases and disrupting shipping through Hormuz while Qatar and Pakistan mediate.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "Youth-led cost-of-living protests across some 34 German cities turned violent at night: rioters looted shops in Frankfurt, and police used water cannon in Berlin, Cologne and Hamburg. More than 320,000 people marched in France on a third straight weekend, with clashes in Paris and Marseille.",
+      "context": "Youth-led protests against the high cost of living, spending cuts and poor public services began in France in October and spread across Europe; riots in Paris on 17 October raised fears of violence. In Germany they also target compulsory military service, and Italy deployed troops during a national strike on Friday.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/prie-z-kartos-protestu-bangos-europoje-prisidejo-ir-vokieciai-57-2796788?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Saudi Arabia-Houthi fighting",
+    "Sudan civil war",
+    "Israeli operation in the West Bank"
+  ],
+  "stats": {
+    "items_read": 513,
+    "feeds": 24,
+    "feed_problems": []
+  }
+}
