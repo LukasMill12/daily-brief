@@ -5,7 +5,7 @@ import SwiftUI
 struct WidgetFace: View {
     var brief: Brief
     var isNew = false
-    var figures: WidgetFigures = .none
+    var figures: WidgetFigures = .middle
 
     var body: some View {
         if isNew { newFace } else { baseFace }
