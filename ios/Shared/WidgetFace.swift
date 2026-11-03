@@ -18,7 +18,7 @@ struct WidgetFace: View {
             ZStack {
                 CurvedText(text: "Today's brief is ready", radius: 175 * s, top: 74 * s, size: 15 * s, medium: true,
                            tracking: -0.3 * s)
-                CurvedText(text: "\(brief.dayMonth) · \(Theme.coordinates)", radius: 163 * s, top: 96 * s,
+                CurvedText(text: "\(brief.dayMonth) · \(Theme.coordinates)", radius: 161 * s, top: 88 * s,
                            size: 11.5 * s, tracking: 0.1 * s)
                 Text("1")
                     .font(Theme.helvetica(13 * s, medium: true))
@@ -49,7 +49,7 @@ struct WidgetFace: View {
             ZStack {
                 CurvedText(text: brief.shortHeadline, radius: 175 * s, top: 74 * s, size: 15 * s, medium: true,
                            tracking: -0.3 * s)
-                CurvedText(text: "Vilnius · " + Theme.coordinates, radius: 163 * s, top: 96 * s, size: 11.5 * s,
+                CurvedText(text: "Vilnius · " + Theme.coordinates, radius: 161 * s, top: 88 * s, size: 11.5 * s,
                            tracking: 0.1 * s)
                 let temperature = brief.weather.map { "\($0.min)…\($0.max)°" } ?? "+\(max(brief.storyCount - 1, 0))"
                 // The large figures take the bottom, so the date and temperature move to the top corners.
