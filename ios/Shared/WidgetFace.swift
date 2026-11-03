@@ -79,7 +79,7 @@ struct WidgetFace: View {
 
 /// Where the white figures sit on the widget, if anywhere. Positions are on the 190pt canvas.
 enum WidgetFigures: Int, CaseIterable {
-    case none, topLeft, topCenter, bottomCenter, replaceDate, large
+    case none, topLeft, topCenter, bottomCenter, middle, replaceDate, large
 
     var placement: (x: CGFloat, y: CGFloat, width: CGFloat)? {
         switch self {
@@ -87,6 +87,7 @@ enum WidgetFigures: Int, CaseIterable {
         case .topLeft: (40, 30, 44)
         case .topCenter: (95, 36, 56)
         case .bottomCenter: (95, 166, 46)
+        case .middle: (95, 134, 46)
         case .replaceDate: (40, 166, 44)
         case .large: (95, 150, 118)
         }
@@ -98,6 +99,7 @@ enum WidgetFigures: Int, CaseIterable {
         case .topLeft: "1 — Top left"
         case .topCenter: "2 — Top centre"
         case .bottomCenter: "3 — Bottom centre"
+        case .middle: "Middle (new)"
         case .replaceDate: "4 — Instead of date"
         case .large: "5 — Large"
         }
