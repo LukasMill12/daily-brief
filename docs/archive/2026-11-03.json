@@ -1,0 +1,417 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:04:05+00:00",
+  "weather": {
+    "min": 5,
+    "max": 9,
+    "precipitation_mm": 0.1,
+    "wind_max_kmh": 13,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 5…9 °C, dulksna."
+  },
+  "fact": {
+    "text": "In 2002, a CIA drone strike in Yemen killed six militants. It was the first targeted killing of the US war on terror.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2002_Marib_airstrike"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "US midterms today",
+  "heads_up": [],
+  "lithuania": [
+    {
+      "headline": "Valdui Adamkui – 100 metų",
+      "summary": "Buvęs prezidentas Valdas Adamkus šiandien švenčia 100-ąjį gimtadienį; jį sveikina prezidentas Gitanas Nausėda ir premjeras Mindaugas Sinkevičius, o Lietuvos paštas išleido jam skirtą pašto ženklą. Jubiliejaus interviu Adamkus Lietuvos priėmimą į NATO ir ES pavadino didžiausiu savo gyvenimo džiaugsmu.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai, pirma vieta Google News",
+      "context": "Adamkus gimė 1926 m. Kaune, po Antrojo pasaulinio karo pasitraukė į JAV ir ten dirbo aplinkosaugos srityje. Lietuvos prezidentu jis buvo 1998–2003 ir 2004–2009 m., kai šalis įstojo į NATO ir ES.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/valdas-adamkus-lietuvos-istojimas-i-nato-ir-es-didziausias-mano-gyvenimo-dziaugsmas-56-2797480?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/03/news/v-adamkus-lietuvos-priemimas-i-es-ir-nato-didziausias-mano-gyvenimo-dziaugsmas-44763242"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3101102/prezidento-simtmetis-100-valdo-adamkaus-gyvenimo-ivykiu"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsMTA3NHg0MzQsNjE2MzQzLG9yaWdpbmFsLCxpZD0xMDA5MzM1NCZkYXRlPTIwMjUlMkYwNSUyRjA2LDM1ODk2NTQ0MTQ=/prezidento-valdo-adamkaus-lengvosios-atletikos-maniezo-atidarymas-6819d8fd4d1a5.jpg",
+        "https://s1.15min.lt/images/photos/2026/11/03/original/pasto-zenklas-valdui-adamkui-100-metu-6ae985fee7e5b.jpg"
+      ]
+    },
+    {
+      "headline": "Budrys Berlyne: Lietuvos ir Vokietijos ryšys svarbus Europos saugumui",
+      "summary": "Užsienio reikalų ministras Kęstutis Budrys Berlyne pabrėžė Lietuvos ir Vokietijos bendradarbiavimo svarbą Europos saugumui. Prezidento patarėjas Deividas Matulionis sako, kad Vokietijos brigados elektroninės žvalgybos sistemos, iš anksto perspėsiančios apie karinę veiklą Kaliningrade ir Baltarusijoje, sustiprins ir Lietuvos gebėjimą atpažinti grėsmes.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Po Rusijos invazijos į Ukrainą 2022 m. Vokietija įsipareigojo nuolat dislokuoti Lietuvoje brigadą – pirmą tokį savo karinį dalinį užsienyje nuo Antrojo pasaulinio karo. Brigada formuojama palaipsniui ir visiškai turėtų būti parengta iki 2027 m.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/deividas-matulionis-vokietijos-brigados-zvalgybos-pajegumai-pades-ir-mums-56-2797484?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/03/news/d-matulionis-vokietijos-brigados-zvalgybos-pajegumai-sustiprins-lietuvos-gebejima-atpazinti-gresmes-44763480"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTm94VkZpMVJmTlZNNTZaM25Wczd5OWRURVlkN0VYaTNoUzZQZjJqbk1YakpncXlaaVU0a2x2WHdGWDRCdVdZSG9CYkxkSnpoenZ2bkV5T3lEX01LTGFfeEgwRVc4ZHdscnNpQ0ljS1JJeFNlU2NGMGk1SDlIay1LV2IzbWhVRTNvN3J3NDRrUUJLOHZBWUlfQWhLZDBjcC1rM2ozT211aW8yWXB3RzZwYnM1TWpCOUZJVnRyM2JTNEpKX1Zab1dBM2FsZw?oc=5"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsOTU3eDU5MSwxMDcxNjIwLG9yaWdpbmFsLCxpZD0xMDc1NjQ0MCZkYXRlPTIwMjYlMkYwNyUyRjAxLDM1ODQxMDg0MDY=/martynas-katelynas-6a45241ae4f61.jpg"
+      ]
+    },
+    {
+      "headline": "Konservatoriai nekels kandidatų Šalčininkuose ir Visagine",
+      "summary": "TS-LKD savivaldos rinkimuose nekels kandidatų į merus ir tarybas Šalčininkuose bei Visagine, o Švenčionių rajone kels tik tarybos sąrašą, nors nuolat kalba apie tautinių mažumų regionų įtrauktį. Partijos pirmininkas Laurynas Kasčiūnas sako, kad ten nepavyksta suburti stiprių komandų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Savivaldybių tarybų ir merų rinkimai Lietuvoje vyks 2027 m. pavasarį.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3101020/konservatoriai-nekels-kandidatu-rajonuose-kuriu-itraukti-noretu-stiprinti"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/09/13/2487787-536421-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Americans vote in midterms that will shape Trump's last years",
+      "summary": "Americans elect the whole House and a third of the Senate today, with Trump's approval at 32% in a Reuters/Ipsos poll, Democrats leading the generic ballot 46% to 38%, and final forecasts pointing to big Democratic gains. On the eve of the vote, the Supreme Court refused Trump's bid to set aside about 20,000 disputed California ballots.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5+ outlets, top of BBC front page",
+      "context": "Trump won back the White House and both chambers of Congress in November 2024. Since the US-Israel war on Iran began on 28 February, fuel prices and inflation have risen and his approval has sunk; the president's party usually loses ground in midterms.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97bc/live/a5a46a40-d74f-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "Fresh cyber-attack hits supermarket freezers across Europe",
+      "summary": "Fridges and freezers in supermarkets in seven countries, including around 40 Delhaize stores in Belgium and Luxembourg, were hacked overnight and heated to as much as 50C, forcing shops to throw out food. It follows an October attack on up to 700 French supermarkets; the EU called it a deliberate attempt to disrupt the food supply.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Many shop cooling systems can be controlled remotely over the internet, which officials fear makes them targets for state-backed hybrid attacks.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "UK and EU agree draft deal to cut Brexit red tape on food",
+      "summary": "A 200-page draft deal would scrap post-Brexit checks and fees on food and farm trade, such as £200 export health certificates, in return for the UK following EU food rules; London says it will bring £5.1bn a year. EU ambassadors discuss it on Wednesday ahead of a UK-EU summit later this month.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 1,
+      "why": "No. 3 on BBC front page",
+      "context": "The UK left the EU in January 2020, and its trade deal brought customs and food checks at the border. Since 2024 London has sought a 'reset' with Brussels to remove some of them.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/89f8/live/9e311b90-d750-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "North Korea denies record $6.3bn Binance hack",
+      "summary": "Kim Yo Jong, sister of leader Kim Jong Un, called US claims that North Korea stole $6.3bn from crypto exchange Binance 'absurd rhetoric'; the FBI blames its state-backed TraderTraitor group for the largest crypto hack ever. Users have withdrawn a net $5.27bn since trading resumed on Sunday.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "North Korea is accused of using cyber-theft to fund its sanctioned economy; the same group was blamed for a $1.5bn hack of the Bybit exchange in 2025.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/siaures-koreja-atmeta-ftb-kaltinimus-del-kriptovaliutu-vagystes-is-binance-bando-naujas-raketas-57-2797434?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Anthropic reports $17bn quarterly revenue in IPO filing",
+      "summary": "Anthropic posted $17bn in quarterly revenue but continued losses in a fresh IPO filing, as investors push for a valuation closer to $1.5 trillion.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Anthropic is the AI company behind the Claude models.",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDhmTmZkVWhzazBUYVdXNUx1OTRkRDFidXNnblM1R0lFNVQ2OS1zRFV2aTFtS2drOEhOVEVSSjZzZDN0Z053X3NrMnJEVTRGQm1EOHh6aDJYWC16bTVPdlpxVk10Vkh0ZkNrdkx1YzFodGc1WVQ4NkpPanN3TnZPZjcxYmcwS0xaSk1DelBQUzM4RFpNNVdubXR5WlRZZXA2b3paamIwdkcwVEpUTWFNSDBuWGQ?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Marvell to buy Lumentum for $115bn",
+      "summary": "Chip designer Marvell agreed to buy optical-chip maker Lumentum in an all-stock deal worth $115bn including debt, one of the largest tech takeovers ever, to lead in AI data-centre connectivity. Nvidia owns stakes in both; the deal is due to close in the first half of 2028.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 1,
+      "why": "One of the biggest tech deals ever",
+      "context": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Netflix buys Joel Coen's 'Jack of Spades'",
+      "summary": "Netflix bought worldwide rights to Joel Coen's gothic mystery 'Jack of Spades', set in the Scottish Highlands and co-written with Ethan Coen, starring Patsy Ferran, Josh O'Connor, Damian Lewis and Lesley Manville. It will open in cinemas in autumn 2027 as a major Oscar contender.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Major film acquisition",
+      "context": "",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-acquires-joel-coen-jack-of-spades-1236745492/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Red blood cells found in 115m-year-old dinosaur bone",
+      "summary": "Scientists found structures resembling red blood cells and traces of heme, the compound that lets blood carry oxygen, in the leg bones of Aratasaurus, a small meat-eater that lived in Brazil 115m years ago. If confirmed, it would be the first such find in any fossil, though such claims are controversial.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 2,
+      "why": "Covered by The Guardian and Reuters",
+      "context": "Soft tissues and molecules normally break down quickly, so they rarely survive in fossils.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYng2emNYbzh4ckJ5Sy02X0x6V3YycjloVHRaQ0VRRE5iWE4yaVRaYklrUklKYkEyMXFfWWFSSTVTN2o2Rl90Y1lrS1Fsb29LQ2FoWjlZTHZYOHUtQjFLbzdLamlwd1VIYkh2RjF4Y2x3R1p5Y2pYendVVlJlUk41cDRvdVVYcnhvOTNKOHRfUzdHUEhXMnhzb3M1U3U?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/808d3d6670b293910bf2e300b7328a07c2c4872c/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=e03c53f0c9527d90dd3d172b7f4ba5a5"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Penktadienis, lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Nuo ketvirtadienio, lapkričio 5 d.",
+      "where": "Kino teatras „Pasaka“ ir kiti kino teatrai, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Forum Cinemas",
+          "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=60&orderby=date&order=desc"
+        }
+      ]
+    },
+    {
+      "title": "US-mediated Ukraine-Russia talks",
+      "when": "Next week",
+      "where": "Abu Dhabi",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5"
+        },
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Nationwide strike in France",
+      "when": "Thursday, 5 November",
+      "where": "France",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "At least 26 people were killed when at least nine 3,000kg Russian bombs hit a school used as an aid centre and then a shelter in Komyshuvakha, Zaporizhzhia region. US envoy Steve Witkoff said US-Ukraine-Russia peace talks, suspended since February, will resume in Abu Dhabi next week, and thousands of European troops are to rehearse a possible post-peace deployment.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and Kherson in 2022, but the front has since largely frozen into a war of attrition with drone and missile strikes. Repeated US-led peace efforts have so far brought only short truces, most recently a six-day ceasefire in Kherson.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "The US carried out limited strikes on Iran's Qeshm Island in the Strait of Hormuz, saying it was responding to the Revolutionary Guards firing on a US aircraft, the first publicly known US strike in weeks. Vice-President Vance said a negotiated deal looks possible, Iran offered to reopen the strait on conditions, and Brent crude fell more than 6% to $105.55.",
+      "context": "On 28 February the US and Israel attacked Iran over its nuclear programme. Iran responded by closing the Strait of Hormuz, a key route for the world's oil, sending prices above $100 a barrel. Attacks paused in recent weeks, and indirect, Qatar-mediated talks are trying to trade frozen Iranian assets for reopening the strait.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+        "https://i.guim.co.uk/img/media/a507f65a0fdc95194e0fcde19ff9269175f70390/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1adf312aefb9ea2a14412c6a54d37753"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Yemen's Houthis have advanced to within 80 km of the southern port city of Aden, sources say.",
+      "context": "Yemen's civil war began in 2014, when the Iran-backed Houthis seized the capital Sanaa. A Saudi-led coalition intervened in 2015 to back the government, which moved to Aden. A long truce from 2022 has broken down, and fighting in the west has displaced more than 300,000 people in two months.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "Dozens of French high schools were blockaded again on Monday as pupils returned from holidays, defying Macron's call to stop; unions have called a nationwide strike on Thursday, and the education minister warned that pupils' final exams are at risk.",
+      "context": "In September French pupils began blockading schools over a lack of teachers, crumbling buildings and the cost of living, growing into one of the biggest protest movements of Macron's presidency. The unrest spread to other countries, with violent youth protests in Germany, and weekly French marches have led to hundreds of arrests.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmIyNllhTkFrTXZlQ3ZqZkhUczVpY0ZqZzlONFdfUXdpWU95VkxfMy1oazdjclhEYlJSRVRac0MtcTAyak5GNGNsNXBER0Y2Vk1uRm95aDBZX292LVJDb0dlVzJLR1k0VW04Q01Cb0FaR05ZUG81WnFHZ2tWbW16YjBraU5pcVZKV0IzNGxIZzZ4MmVzRG5KeXN1YzlmN2MwdURPVXJMUDRlT1NfSExn?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/a2e2132d3e04846091f71be5fa7932ef1dcd20b9/0_0_4069_3255/master/4069.jpg?width=700&quality=85&auto=format&fit=max&s=3fce89e0204ae41568f154a6dd44f52f"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 572,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}

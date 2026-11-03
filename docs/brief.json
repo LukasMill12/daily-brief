@@ -1,283 +1,279 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:06:43+00:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:04:05+00:00",
   "weather": {
-    "min": 6,
-    "max": 7,
+    "min": 5,
+    "max": 9,
     "precipitation_mm": 0.1,
-    "wind_max_kmh": 9,
+    "wind_max_kmh": 13,
     "code": 51,
     "rain_from": null,
-    "text": "Vilniuje 6…7 °C, dulksna."
+    "text": "Vilniuje 5…9 °C, dulksna."
   },
   "fact": {
-    "text": "In 1880, James A. Garfield was elected US president in what is still the closest American presidential race by popular-vote margin.",
+    "text": "In 2002, a CIA drone strike in Yemen killed six militants. It was the first targeted killing of the US war on terror.",
     "sources": [
       {
         "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/James_A._Garfield"
+        "url": "https://en.wikipedia.org/wiki/2002_Marib_airstrike"
       }
     ]
   },
   "lead_section": "world",
-  "widget_headline": "Midterms on Tuesday",
+  "widget_headline": "US midterms today",
   "heads_up": [],
   "lithuania": [
     {
-      "headline": "„Valstietis“ Gaižauskas ragina premjerą trauktis dėl plagiato disertacijoje",
-      "summary": "Valdančiosios LVŽS frakcijos narys Dainius Gaižauskas sako, kad premjeras Mindaugas Sinkevičius turi atsistatydinti, net jei tai reikštų pirmalaikius rinkimus, nes toks elgesys mažina pasitikėjimą valdžia. Premjeras pažeidimus pripažino, bet teigia nekvestionuojantis darbo mokslinės vertės.",
+      "headline": "Valdui Adamkui – 100 metų",
+      "summary": "Buvęs prezidentas Valdas Adamkus šiandien švenčia 100-ąjį gimtadienį; jį sveikina prezidentas Gitanas Nausėda ir premjeras Mindaugas Sinkevičius, o Lietuvos paštas išleido jam skirtą pašto ženklą. Jubiliejaus interviu Adamkus Lietuvos priėmimą į NATO ir ES pavadino didžiausiu savo gyvenimo džiaugsmu.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai, pirma vieta Google News",
+      "context": "Adamkus gimė 1926 m. Kaune, po Antrojo pasaulinio karo pasitraukė į JAV ir ten dirbo aplinkosaugos srityje. Lietuvos prezidentu jis buvo 1998–2003 ir 2004–2009 m., kai šalis įstojo į NATO ir ES.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/valdas-adamkus-lietuvos-istojimas-i-nato-ir-es-didziausias-mano-gyvenimo-dziaugsmas-56-2797480?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/03/news/v-adamkus-lietuvos-priemimas-i-es-ir-nato-didziausias-mano-gyvenimo-dziaugsmas-44763242"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3101102/prezidento-simtmetis-100-valdo-adamkaus-gyvenimo-ivykiu"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsMTA3NHg0MzQsNjE2MzQzLG9yaWdpbmFsLCxpZD0xMDA5MzM1NCZkYXRlPTIwMjUlMkYwNSUyRjA2LDM1ODk2NTQ0MTQ=/prezidento-valdo-adamkaus-lengvosios-atletikos-maniezo-atidarymas-6819d8fd4d1a5.jpg",
+        "https://s1.15min.lt/images/photos/2026/11/03/original/pasto-zenklas-valdui-adamkui-100-metu-6ae985fee7e5b.jpg"
+      ]
+    },
+    {
+      "headline": "Budrys Berlyne: Lietuvos ir Vokietijos ryšys svarbus Europos saugumui",
+      "summary": "Užsienio reikalų ministras Kęstutis Budrys Berlyne pabrėžė Lietuvos ir Vokietijos bendradarbiavimo svarbą Europos saugumui. Prezidento patarėjas Deividas Matulionis sako, kad Vokietijos brigados elektroninės žvalgybos sistemos, iš anksto perspėsiančios apie karinę veiklą Kaliningrade ir Baltarusijoje, sustiprins ir Lietuvos gebėjimą atpažinti grėsmes.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
       "why": "Apie tai rašė 5 portalai",
-      "context": "ISM Vadybos ir ekonomikos universiteto Etikos komisija premjero disertacijoje nustatė reikšmingų citavimo ir šaltinių priskyrimo pažeidimų, įskaitant plagiato atvejus. Komisija laipsnio naikinti nesiūlė, bet įpareigojo darbą ištaisyti per pusmetį.",
+      "context": "Po Rusijos invazijos į Ukrainą 2022 m. Vokietija įsipareigojo nuolat dislokuoti Lietuvoje brigadą – pirmą tokį savo karinį dalinį užsienyje nuo Antrojo pasaulinio karo. Brigada formuojama palaipsniui ir visiškai turėtų būti parengta iki 2027 m.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3100090/gaizauskas-nustacius-plagiata-premjero-disertacijoje-sis-turetu-trauktis-is-pareigu"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/deividas-matulionis-vokietijos-brigados-zvalgybos-pajegumai-pades-ir-mums-56-2797484?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
           "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/01/news/d-gaizauskas-mano-kad-nustacius-plagiata-m-sinkeviciaus-disertacijoje-sis-turetu-trauktis-is-pareigu-44731569"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2026/10/12/2510298-391245-1287x836.jpg"
-      ]
-    },
-    {
-      "headline": "Prezidento patarėjas: 5 proc. BVP gynybai – tik minimumas",
-      "summary": "Kitų metų biudžeto projekte gynybai numatyta daugiau kaip 4,8 mlrd. eurų, arba 5 proc. BVP – mažiau nei šiemet skirti 5,38 proc.; prezidento patarėjas Deividas Matulionis sako, kad pirkimai gali vėluoti, bet tikslo iki 2030 m. sukurti sausumos diviziją neatsisakoma. Valstybės kontrolierė skaičiuoja, kad planams reikėtų 5,44 proc. BVP, o liberalų lyderė Viktorija Čmilytė-Nielsen teigia, kad „nuodėmių mokesčiai“ biudžeto neišgelbės.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 7,
-      "why": "Apie tai rašė 7 portalai",
-      "context": "Po Rusijos invazijos į Ukrainą 2022 m. Lietuva sparčiai didino išlaidas gynybai, iki tol joms skirtas palyginti mažas. Šiemet skirta 5,38 proc. BVP, tačiau rengiant 2027 m. biudžetą lėšų trūksta, ir Vyriausybė Seimui pateikė projektą su 5 proc. BVP. Prezidentas Gitanas Nausėda pripažino, kad to nepakanka.",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3100148/matulionis-apie-gynybos-biudzeta-5-proc-bvp-minimali-suma"
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/03/news/d-matulionis-vokietijos-brigados-zvalgybos-pajegumai-sustiprins-lietuvos-gebejima-atpazinti-gresmes-44763480"
         },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/01/news/d-matulionis-apie-gynybos-biudzeta-5-proc-bvp-minimali-suma-bet-pasispaudus-imanoma-judeti-i-prieki-44731571"
-        },
-        {
-          "name": "Respublika",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUURSdnA3dkVhSHU3a2JrZzA2UFR3czNQcmhXdUw0ekswQ3RGYjlOZlpPTjZ6VXhGbXZLYUt3bzFEU1RVSWFrc0pXeEhZc29HbDVacUVIbTlBS0w2RDZxZml4TG45X1p4WENXMV9YYTBlbm1BeDZkVVluVFI3bjEzLXdkR1VqeWlXQk8zbkZtbTNoUGhMX25tVXpTa3VvNFgwSWJ1aW42Sko1bXphV0h1dFpmOE9kWDRHV3dLYW83d25RRHMyUzVUUVh1TU1MUVFERUQ4N2t3?oc=5"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2026/04/30/2379585-405960-1287x836.jpg"
-      ]
-    },
-    {
-      "headline": "Nuo lapkričio 1 d. – mokestis siuntoms iš „Temu“, nauji KET ir Darbo kodekso reikalavimai",
-      "summary": "Nuo sekmadienio už pirkinius iš „Temu“ ar „AliExpress“ reikia papildomai mokėti, įsigaliojo vairuotojams svarbūs KET pakeitimai, o pakeistas Darbo kodeksas didina delspinigius ir ilgina bandomąjį laikotarpį daugiau uždirbantiems. Pokyčiai įsigaliojo ir pacientams.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 9,
-      "why": "Apie tai rašė 9 portalai",
-      "context": "",
-      "sources": [
         {
           "name": "tv3.lt",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGFMeENSYTFHY3JwQlQwazBBREtxbTZFckQ2YkZ3eVRGODBNRXRMODBmTjE1MHdTS2xRZWNTYmxoSUdjS1FZd19wODIyS3lmdTVuLXFzYkxiNFRqWTNwVGhMbE9HdlJjcDBGd1pfRVNob19taDlBUnFMN3lBVFlwVTdiX293ZDhqWDQ4dC1xMURLd2FfMVZmRmtrRzFvTWFwbF90X0FPNlY0azJaaG4ybjZCVzlxelV0UUE?oc=5"
-        },
-        {
-          "name": "Alfa.lt",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWx6ajhZSlVzcnpWVlNnSl9JdTY4cHI2TzhWNzZ4WDctc3lyOUhMaUF2VnFNNGlJRDc5aUlJUHZCTU56ZEJCR2x6UUZRa2dWWkZqVkk0VEdnZU9KNzZ4YzdzbGl1TnJ3MThzcllfbjVFc05MSzRvdkU2RHB0cjZ1SHIxQklyV3hxTFJ1N1o4d2ZwYlNaX1laMlc3M18wb0NxVkRWeGYxLVpjcmZLcHI5cA?oc=5"
-        },
-        {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVh0N3lzM21ocWV0WGl2YXlzbVJ2djZtN3NzNUN2eHgwemxFd0U2czdPSGgwTUFxSWRuaE1XMnhfR0tBQVFLdUxhNmJlZFRVaV9VNHJBeFl2OURXNnIxU3JFUENJcFZ4TXFpbF9lcUtPdWxrNTZQOWQ5aFgweWwyaFI5QnRmZEFOcXVEVTczLUgya1ROZElfS25GVTBZSThmMGptRkZBWjJOWGlWS0o4UEZFREF0andMdXhONWJhVWVVX2dMQ2VjNnl5MFRaQS1kVmE4ajl6eGFNdkcwemhBanZOSWItUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTm94VkZpMVJmTlZNNTZaM25Wczd5OWRURVlkN0VYaTNoUzZQZjJqbk1YakpncXlaaVU0a2x2WHdGWDRCdVdZSG9CYkxkSnpoenZ2bkV5T3lEX01LTGFfeEgwRVc4ZHdscnNpQ0ljS1JJeFNlU2NGMGk1SDlIay1LV2IzbWhVRTNvN3J3NDRrUUJLOHZBWUlfQWhLZDBjcC1rM2ozT211aW8yWXB3RzZwYnM1TWpCOUZJVnRyM2JTNEpKX1Zab1dBM2FsZw?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsOTU3eDU5MSwxMDcxNjIwLG9yaWdpbmFsLCxpZD0xMDc1NjQ0MCZkYXRlPTIwMjYlMkYwNyUyRjAxLDM1ODQxMDg0MDY=/martynas-katelynas-6a45241ae4f61.jpg"
+      ]
+    },
+    {
+      "headline": "Konservatoriai nekels kandidatų Šalčininkuose ir Visagine",
+      "summary": "TS-LKD savivaldos rinkimuose nekels kandidatų į merus ir tarybas Šalčininkuose bei Visagine, o Švenčionių rajone kels tik tarybos sąrašą, nors nuolat kalba apie tautinių mažumų regionų įtrauktį. Partijos pirmininkas Laurynas Kasčiūnas sako, kad ten nepavyksta suburti stiprių komandų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Savivaldybių tarybų ir merų rinkimai Lietuvoje vyks 2027 m. pavasarį.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3101020/konservatoriai-nekels-kandidatu-rajonuose-kuriu-itraukti-noretu-stiprinti"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/09/13/2487787-536421-1287x836.jpg"
+      ]
     }
   ],
   "world": [
     {
-      "headline": "Michigan Democrat backs Republican on eve of US midterms",
-      "summary": "Congresswoman Haley Stevens, who narrowly lost Michigan's Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival Mike Rogers a day before Tuesday's midterms; her long-time chief of staff quit and Trump invited her to join the Republican Party. Polls show Democrats leading or tied in seven battleground governor races, while Trump made a final campaign push in states Republicans won before.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "Tuesday's midterm elections decide control of Congress halfway through Trump's second term, and polls have predicted Democratic gains. Michigan's Senate race is one of the most fiercely contested, and Stevens and El-Sayed fell out mainly over support for Israel.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "images": [
-        "https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=700&quality=85&auto=format&fit=max&s=907b2c5db27d785285572e73264b816f",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb59/live/6d764030-d650-11f1-ada6-c195ef2b6417.jpg"
-      ]
-    },
-    {
-      "headline": "Nine killed as business jet nosedives onto Florida road",
-      "summary": "A Learjet 60 flying from Austin to the Bahamas plunged almost vertically onto a busy road in Palm Beach County on Sunday, killing all nine on board; the pilot radioed that the plane was descending at 20,000 feet per minute. No one on the ground was reported hurt, but 600 nearby residents were evacuated.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 11,
-      "why": "Covered by 11 outlets",
-      "context": "The crash site is about 14 km from Trump's Mar-a-Lago resort; the NTSB is investigating.",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"
-      ]
-    },
-    {
-      "headline": "Iotova becomes Bulgaria's first elected female president",
-      "summary": "Iliana Iotova, an ally of Prime Minister Rumen Radev who favours dialogue with Moscow and opposes military aid to Ukraine, won Sunday's runoff with about 51-52% of the vote against pro-Western-backed banker Andrey Gyurov, exit polls showed.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 9,
-      "why": "Covered by 9 outlets",
-      "context": "Iotova was already serving as president, having succeeded Radev, now prime minister. The post is largely ceremonial.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
-        },
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/balsavusiuju-apklausos-bulgarijos-prezidente-iliana-jotova-iskovojo-pergale-antrajame-rinkimu-ture-57-2797092?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/01/news/rinkeju-apklausos-bulgarijos-prezidento-rinkimus-laimi-jotova-44731748"
-        }
-      ],
-      "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsODk4eDU1OSw5OTksb3JpZ2luYWwsLGlkPTEwOTQ0OTc4JmRhdGU9MjAyNiUyRjExJTJGMDEsMTE2NDYyMjIwNg==/spasiyana-sergieva-reuters-6ae7861e292de.jpg"
-      ]
-    },
-    {
-      "headline": "UN ends Western Sahara peacekeeping mission after 35 years",
-      "summary": "The UN's MINURSO mission expired on Sunday after Russia vetoed a US resolution backed by 11 of 15 Security Council members that would have made Morocco's autonomy plan the only basis for talks. Guterres warned of the risk of renewed hostilities.",
+      "headline": "Americans vote in midterms that will shape Trump's last years",
+      "summary": "Americans elect the whole House and a third of the Senate today, with Trump's approval at 32% in a Reuters/Ipsos poll, Democrats leading the generic ballot 46% to 38%, and final forecasts pointing to big Democratic gains. On the eve of the vote, the Supreme Court refused Trump's bid to set aside about 20,000 disputed California ballots.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "Morocco has claimed Western Sahara since Spain withdrew in 1975, while the Algeria-backed Polisario Front seeks an independent Sahrawi state. The UN set up MINURSO in 1991 to monitor a ceasefire and prepare a referendum on the territory's future, which never took place.",
+      "why": "Covered by 5+ outlets, top of BBC front page",
+      "context": "Trump won back the White House and both chambers of Congress in November 2024. Since the US-Israel war on Iran began on 28 February, fuel prices and inflation have risen and his approval has sunk; the president's party usually loses ground in midterms.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjMzNTMwSWprQVp3aTBMUThUbmFLcldfYVE1LTdxTE8wRWpuXzU0YkNod2o5T09pSWxpSG9RcHpPVGNvdmpCZ2Y3WUVaWjYyNjNUemZ6M1FBb0IxWkRid3lrRk16VnBPa0FMWTh1QTU4NUh1X1RoZlF5THpLYjk5bTQ1R3d5T2NUOTF5MEl2Vk9VVTJRcnlTVzRXQ0tXekxLUDJWM2FTdXRsZw?oc=5"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97bc/live/a5a46a40-d74f-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "Fresh cyber-attack hits supermarket freezers across Europe",
+      "summary": "Fridges and freezers in supermarkets in seven countries, including around 40 Delhaize stores in Belgium and Luxembourg, were hacked overnight and heated to as much as 50C, forcing shops to throw out food. It follows an October attack on up to 700 French supermarkets; the EU called it a deliberate attempt to disrupt the food supply.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Many shop cooling systems can be controlled remotely over the internet, which officials fear makes them targets for state-backed hybrid attacks.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUt0RmpPekdDMExKQXItLU5tRTg2MG9ZSEpxandUT0g2YVhjRUlSX2loTnBYMU5KX29NcXg3eU5Ja1hTOUpzZl9vWXVTQ3plbTRLQ25RUnY0T3Q0blgwNzhuYkdWN1p6R2xjejNjTWZFVHlFTy16SXl6eEh2d2hTRlpXY0gtdHpnbEY2UGlJbVFzUXBHNDFyaHhRWnhfRGVCcVVRZ0tvZkJqMk9jS1hQQy1iTk95eHhXcUlwUG13?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "UK and EU agree draft deal to cut Brexit red tape on food",
+      "summary": "A 200-page draft deal would scrap post-Brexit checks and fees on food and farm trade, such as £200 export health certificates, in return for the UK following EU food rules; London says it will bring £5.1bn a year. EU ambassadors discuss it on Wednesday ahead of a UK-EU summit later this month.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 1,
+      "why": "No. 3 on BBC front page",
+      "context": "The UK left the EU in January 2020, and its trade deal brought customs and food checks at the border. Since 2024 London has sought a 'reset' with Brussels to remove some of them.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/89f8/live/9e311b90-d750-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "North Korea denies record $6.3bn Binance hack",
+      "summary": "Kim Yo Jong, sister of leader Kim Jong Un, called US claims that North Korea stole $6.3bn from crypto exchange Binance 'absurd rhetoric'; the FBI blames its state-backed TraderTraitor group for the largest crypto hack ever. Users have withdrawn a net $5.27bn since trading resumed on Sunday.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "North Korea is accused of using cyber-theft to fund its sanctioned economy; the same group was blamed for a $1.5bn hack of the Bybit exchange in 2025.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/siaures-koreja-atmeta-ftb-kaltinimus-del-kriptovaliutu-vagystes-is-binance-bando-naujas-raketas-57-2797434?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
+      ]
     }
   ],
   "interesting": [
     {
-      "headline": "Antonelli becomes F1's youngest world champion",
-      "summary": "Mercedes driver Kimi Antonelli clinched the title at 20 years and 68 days by finishing third in Mexico City behind Max Verstappen and Lewis Hamilton, breaking Sebastian Vettel's record by more than three years. He is the first Italian champion since Alberto Ascari in 1953.",
-      "category": "sports",
-      "highlight": true,
-      "coverage": 9,
-      "why": "Covered by 9 outlets",
-      "context": "",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss"
-        },
-        {
-          "name": "LRT Sport",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3100177/meksikos-etape-jauniausiu-cempionu-formules-1-istorijoje-tapo-antonelli"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1694/live/d0cd8590-d64a-11f1-b441-2b33b063138f.jpg"
-      ]
-    },
-    {
-      "headline": "Claude Code's game-clone limits snag legitimate projects",
-      "summary": "Restrictions in Anthropic's Claude Code meant to stop it from building clones of existing games are also blocking legitimate game projects, developers say.",
+      "headline": "Anthropic reports $17bn quarterly revenue in IPO filing",
+      "summary": "Anthropic posted $17bn in quarterly revenue but continued losses in a fresh IPO filing, as investors push for a valuation closer to $1.5 trillion.",
       "category": "ai",
       "highlight": true,
       "coverage": 5,
       "why": "Covered by 5 outlets",
-      "context": "Claude Code is Anthropic's AI coding assistant.",
+      "context": "Anthropic is the AI company behind the Claude models.",
       "sources": [
         {
-          "name": "Wccftech",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkVNZlc3ZTRlaHZWejZBYnhmRlNBQWQ3SnYwdUpsWmo1Vmo1a09BMzVNbF9ROFZZVGxUMG12OE1iN29vNmpVcVRRa1VFc2t0ZWFsNkJoZnJjS0s4Tk51dTd0VEhzWW1BYjYzWlNMQ2V3eHlRNV94TXRYZFdrN2IyY19fVTlkVnZLN1NhN0VwVmNUTFVXa05KVkl1eE9mbkpXWWFIWXg2X0d2UG1xNjRFMXFyeEJSemd5aDVPbzZUWdIBxAFBVV95cUxObW5oXzUyRE9wZFoxZXJIblFhVERnQUw2dFJiRkdyZ01aa0pCVEtESkUwZklhM1BiWXRZYVZ5QXQ4RkZfVGVoaXFOQ1VvYkFsa0JKSllDUFBqUF9CT21hdE5waHZOTWVGTXY4OEoyd1hGRzRjcU9yT25YcDJqSU9sdGNjWEhna2lQTTlBQkM0TmZJUkxWMmlQZ1A3LXE1QVJiblVxc0Mzd2F1eldMUVpWRmZneHl4amt1RTZaUC03YXB0MWdW?oc=5"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDhmTmZkVWhzazBUYVdXNUx1OTRkRDFidXNnblM1R0lFNVQ2OS1zRFV2aTFtS2drOEhOVEVSSjZzZDN0Z053X3NrMnJEVTRGQm1EOHh6aDJYWC16bTVPdlpxVk10Vkh0ZkNrdkx1YzFodGc1WVQ4NkpPanN3TnZPZjcxYmcwS0xaSk1DelBQUzM4RFpNNVdubXR5WlRZZXA2b3paamIwdkcwVEpUTWFNSDBuWGQ?oc=5"
         }
       ],
       "images": []
     },
     {
-      "headline": "'Godzilla Minus Zero' thrills Tokyo before Japan release",
-      "summary": "Takashi Yamazaki's sequel to 'Godzilla Minus One' sold out two screenings as the Tokyo International Film Festival's centrepiece ahead of its 3 November Japanese release; set in 1949, it brings in King Ghidorah and holds 92% on Rotten Tomatoes.",
-      "category": "film",
+      "headline": "Marvell to buy Lumentum for $115bn",
+      "summary": "Chip designer Marvell agreed to buy optical-chip maker Lumentum in an all-stock deal worth $115bn including debt, one of the largest tech takeovers ever, to lead in AI data-centre connectivity. Nvidia owns stakes in both; the deal is due to close in the first half of 2028.",
+      "category": "tech",
       "highlight": true,
       "coverage": 1,
-      "why": "Major release",
-      "context": "'Godzilla Minus One' (2023) was the first Godzilla film to win an Oscar, for visual effects.",
+      "why": "One of the biggest tech deals ever",
+      "context": "",
       "sources": [
         {
-          "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328/"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
         }
       ],
       "images": []
+    },
+    {
+      "headline": "Netflix buys Joel Coen's 'Jack of Spades'",
+      "summary": "Netflix bought worldwide rights to Joel Coen's gothic mystery 'Jack of Spades', set in the Scottish Highlands and co-written with Ethan Coen, starring Patsy Ferran, Josh O'Connor, Damian Lewis and Lesley Manville. It will open in cinemas in autumn 2027 as a major Oscar contender.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Major film acquisition",
+      "context": "",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-acquires-joel-coen-jack-of-spades-1236745492/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Red blood cells found in 115m-year-old dinosaur bone",
+      "summary": "Scientists found structures resembling red blood cells and traces of heme, the compound that lets blood carry oxygen, in the leg bones of Aratasaurus, a small meat-eater that lived in Brazil 115m years ago. If confirmed, it would be the first such find in any fossil, though such claims are controversial.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 2,
+      "why": "Covered by The Guardian and Reuters",
+      "context": "Soft tissues and molecules normally break down quickly, so they rarely survive in fossils.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYng2emNYbzh4ckJ5Sy02X0x6V3YycjloVHRaQ0VRRE5iWE4yaVRaYklrUklKYkEyMXFfWWFSSTVTN2o2Rl90Y1lrS1Fsb29LQ2FoWjlZTHZYOHUtQjFLbzdLamlwd1VIYkh2RjF4Y2x3R1p5Y2pYendVVlJlUk41cDRvdVVYcnhvOTNKOHRfUzdHUEhXMnhzb3M1U3U?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/808d3d6670b293910bf2e300b7328a07c2c4872c/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=e03c53f0c9527d90dd3d172b7f4ba5a5"
+      ]
     }
   ],
   "events": [
     {
-      "title": "LKL derbis: Vilniaus „Rytas“ – Kauno „Žalgiris“",
-      "when": "Pirmadienis, lapkričio 2 d.",
-      "where": "Arena Vilnius",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "bilietai.lt",
-          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
-        }
-      ]
-    },
-    {
       "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
       "when": "Penktadienis, lapkričio 6 d., 19:00",
-      "where": "LVSO koncertų salė",
+      "where": "LVSO koncertų salė, Vilnius",
       "scope": "vilnius",
       "sources": [
         {
@@ -288,41 +284,41 @@
     },
     {
       "title": "Europos kino festivalis „Scanorama“",
-      "when": "Šią savaitę",
-      "where": "Kino teatras „Pasaka“",
+      "when": "Nuo ketvirtadienio, lapkričio 5 d.",
+      "where": "Kino teatras „Pasaka“ ir kiti kino teatrai, Vilnius",
       "scope": "vilnius",
       "sources": [
         {
-          "name": "Pasaka",
-          "url": "https://www.pasaka.lt/repertuaras"
+          "name": "Forum Cinemas",
+          "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=60&orderby=date&order=desc"
         }
       ]
     },
     {
-      "title": "King Charles addresses Commonwealth summit on slavery",
-      "when": "Tuesday, 3 November",
-      "where": "Antigua and Barbuda",
+      "title": "US-mediated Ukraine-Russia talks",
+      "when": "Next week",
+      "where": "Abu Dhabi",
       "scope": "global",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5"
         }
       ]
     },
     {
-      "title": "Karl Bushby finishes 28-year walk around the world",
-      "when": "Monday, 2 November",
-      "where": "Hull, UK",
+      "title": "Nationwide strike in France",
+      "when": "Thursday, 5 November",
+      "where": "France",
       "scope": "global",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
         }
       ]
     }
@@ -331,109 +327,91 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "The six-day Kherson truce ended on Sunday night with no violations reported after Russia rejected Kyiv's offer to extend it; nearly 800 people were evacuated from Oleshky. Hackers then sent fake alerts, including nuclear threat warnings, through Ukraine's air raid app, and Russia's emergency app was also hit.",
-      "context": "Russia launched its full-scale invasion of Ukraine in February 2022. Ukraine pushed Russian forces back from Kyiv and later Kherson city, but the front has barely moved since 2023. Trump has pressed both sides for a deal, and a local truce around Oleshky, mediated by Melania Trump with the Pope's involvement, began last Tuesday.",
+      "update": "At least 26 people were killed when at least nine 3,000kg Russian bombs hit a school used as an aid centre and then a shelter in Komyshuvakha, Zaporizhzhia region. US envoy Steve Witkoff said US-Ukraine-Russia peace talks, suspended since February, will resume in Abu Dhabi next week, and thousands of European troops are to rehearse a possible post-peace deployment.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and Kherson in 2022, but the front has since largely frozen into a war of attrition with drone and missile strikes. Repeated US-led peace efforts have so far brought only short truces, most recently a six-day ceasefire in Kherson.",
       "sources": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
         },
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/chersono-srityje-baigesi-ilgiausios-nuo-karo-ukrainoje-pradzios-paliaubos-57-2797114?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
         }
       ],
       "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsNjU3eDkwNSw5OTksb3JpZ2luYWwsLGlkPTEwOTQ1MDEwJmRhdGU9MjAyNiUyRjExJTJGMDEsMTQxNjY3NDg1OA==/roman-pilipey-afp-6ae7ae32e7676.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"
       ]
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Iran's Revolutionary Guards said two tankers exploded after hitting mines in the Strait of Hormuz, as Qatar-mediated indirect talks on releasing more than $6bn in Iranian assets, which could reopen the strait, ran into a third day. Trump said the US may at some point have to hit Iran with a 'sledgehammer'.",
-      "context": "Tensions over Iran's nuclear programme led Israel and the US to strike Iranian nuclear sites in June 2025. In February 2026 the US and Israel went to war with Iran, which hit US bases across the region and closed the Strait of Hormuz, a key oil route. Qatar now mediates indirect talks on reopening it.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
-        },
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-tam-tikru-momentu-jav-tures-iranui-suduoti-kuju-57-2797134?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        }
-      ],
-      "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5NDUwMjYmZGF0ZT0yMDI2JTJGMTElMkYwMiwyNjkwMjg5Mjgy/donaldas-trumpas-nathan-howard-reuters-6ae831ae95386.jpg"
-      ]
-    },
-    {
-      "id": "europe-protests",
-      "title": "Protests across France and Europe",
-      "update": "France reported more than 770 arrests on Saturday, half the previous week's number, and Paris prosecutors opened an attempted-murder probe after a petrol bomb set a gendarme alight. Rioters injured more than 100 police in Frankfurt, and French pupils' groups say school blockades resume on Monday.",
-      "context": "Youth-led protests began in France in late September over the high cost of living and poor public services, especially schools. On 17 October some 2,600 people were arrested and up to 3,000 shops looted. This autumn the protests spread to Germany, Portugal, Switzerland and other countries.",
+      "update": "The US carried out limited strikes on Iran's Qeshm Island in the Strait of Hormuz, saying it was responding to the Revolutionary Guards firing on a US aircraft, the first publicly known US strike in weeks. Vice-President Vance said a negotiated deal looks possible, Iran offered to reopen the strait on conditions, and Brent crude fell more than 6% to $105.55.",
+      "context": "On 28 February the US and Israel attacked Iran over its nuclear programme. Iran responded by closing the Strait of Hormuz, a key route for the world's oil, sending prices above $100 a barrel. Attacks paused in recent weeks, and indirect, Qatar-mediated talks are trying to trade frozen Iranian assets for reopening the strait.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
         },
         {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3100071/vrm-prancuzijoje-per-protestus-sulaikyta-per-770-zmoniu"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+        "https://i.guim.co.uk/img/media/a507f65a0fdc95194e0fcde19ff9269175f70390/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1adf312aefb9ea2a14412c6a54d37753"
       ]
     },
     {
-      "id": "israeli-operation-west-bank",
-      "title": "Israeli operation in the West Bank",
-      "update": "Israeli forces withdrew from Hebron on Monday after a 10-day siege, the city's governor said; more than 3,300 Palestinians were displaced or affected and 15 homes and other structures demolished.",
-      "context": "Israel occupied the West Bank in 1967 and has stepped up raids there since the Gaza war began in October 2023. The Hebron siege started on 23 October after two Palestinians shot dead two Israeli soldiers.",
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Yemen's Houthis have advanced to within 80 km of the southern port city of Aden, sources say.",
+      "context": "Yemen's civil war began in 2014, when the Iran-backed Houthis seized the capital Sanaa. A Saudi-led coalition intervened in 2015 to back the government, which moved to Aden. A long truce from 2022 has broken down, and fighting in the west has displaced more than 300,000 people in two months.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5"
         }
       ],
       "images": []
     },
     {
-      "id": "saudi-houthi-fighting",
-      "title": "Saudi Arabia-Houthi fighting",
-      "update": "The UN migration agency says more than 300,000 people have fled their homes in western Yemen, almost all in the past two months, as fighting between the Houthis and Saudi-backed government forces intensifies.",
-      "context": "Yemen's war began in 2014 when Iran-backed Houthi rebels seized the capital Sanaa; a Saudi-led coalition intervened in 2015. After four years of relative calm, fighting reignited in July amid the wider Middle East conflict, and the Houthis launched an offensive in the west in September.",
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "Dozens of French high schools were blockaded again on Monday as pupils returned from holidays, defying Macron's call to stop; unions have called a nationwide strike on Thursday, and the education minister warned that pupils' final exams are at risk.",
+      "context": "In September French pupils began blockading schools over a lack of teachers, crumbling buildings and the cost of living, growing into one of the biggest protest movements of Macron's presidency. The unrest spread to other countries, with violent youth protests in Germany, and weekly French marches have led to hundreds of arrests.",
       "sources": [
         {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3100120/jt-del-intensyvejanciu-kovu-vakaru-jemene-savo-namus-paliko-daugiau-nei-300-tukst-zmoniu"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmIyNllhTkFrTXZlQ3ZqZkhUczVpY0ZqZzlONFdfUXdpWU95VkxfMy1oazdjclhEYlJSRVRac0MtcTAyak5GNGNsNXBER0Y2Vk1uRm95aDBZX292LVJDb0dlVzJLR1k0VW04Q01Cb0FaR05ZUG81WnFHZ2tWbW16YjBraU5pcVZKV0IzNGxIZzZ4MmVzRG5KeXN1YzlmN2MwdURPVXJMUDRlT1NfSExn?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/11/01/2525978-907957-1287x836.jpg"
+        "https://i.guim.co.uk/img/media/a2e2132d3e04846091f71be5fa7932ef1dcd20b9/0_0_4069_3255/master/4069.jpg?width=700&quality=85&auto=format&fit=max&s=3fce89e0204ae41568f154a6dd44f52f"
       ]
     }
   ],
   "quiet_ongoing": [
+    "Israeli operation in the West Bank",
     "Sudan civil war"
   ],
   "stats": {
-    "items_read": 551,
+    "items_read": 572,
     "feeds": 28,
-    "feed_problems": [
-      "Ars Technica: no recent items"
-    ]
+    "feed_problems": []
   }
 }
