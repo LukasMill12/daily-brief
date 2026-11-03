@@ -18,8 +18,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from editor import SCHEMA, SYSTEM, build_prompt, validate, write_brief
-from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_forum_premieres, fetch_on_this_day, fetch_weather
-from sources import EVENT_SOURCES, FEEDS, ON_THIS_DAY_URL, WEATHER_URL
+from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_facts, fetch_forum_premieres, fetch_weather
+from sources import EVENT_SOURCES, FACTS_URL, FEEDS, WEATHER_URL
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -190,7 +190,7 @@ def main() -> int:
                else fetch_events_text(e["url"])} for e in EVENT_SOURCES]
     weather, weather_error = fetch_weather(WEATHER_URL)
     local = now.astimezone(VILNIUS)
-    on_this_day, on_this_day_error = fetch_on_this_day(ON_THIS_DAY_URL, local.month, local.day)
+    on_this_day, on_this_day_error = fetch_facts(FACTS_URL, local)
     print(f"Fetched {len(items)} items from {len(FEEDS)} feeds; "
           f"event listings: {[len(e['text']) for e in events]} chars; weather: {weather['text'] if weather else 'unavailable'}")
     problems += [f"{e['name']} ({e['about'].split(',')[0]}): unavailable" for e in events if not e["text"]]

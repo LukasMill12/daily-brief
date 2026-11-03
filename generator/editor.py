@@ -100,13 +100,13 @@ Sections
 - ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
 - lead_section: "lithuania" or "world", whichever section's first story is the single most important story of the day. The app shows that story as a large lead paragraph.
 - widget_headline: a 2–3 word label for the lead story, at most 22 characters, in the lead story's language, no final period. It sits alone on a small curved line on the home screen widget, so the reader must understand what happened from these words alone. Read the story and write the label fresh: name the core subject and what happened (e.g. "Skola brangsta", "Brazil decides", "Kaunas sky closed", "Biudžetas be liberalų"). Never use the first words of the headline, a truncated phrase, or a label that only makes sense with more context.
-- fact: one fact of the day in English, at most about 25 words in one or two short sentences, citing the id it comes from. Take it from the "on this day" list ([d0], [d1], …; start with the year, e.g. "In 1977, …") or from a surprising, verifiable detail in today's items. It must make a well-read adult think "huh, I didn't know that": consequential, strange or revealing, ideally connected to something in today's news. Never trivia-quiz material, records, celebrity birthdays, cute animal facts or anything cheesy, and never anything that isn't stated in the material. Rewrite it in your own plain words.
+- fact: one fact of the day in English, at most about 25 words in one or two short sentences, citing the id it comes from. It should be a cool, surprising random fact that makes a curious adult think "huh, I didn't know that": science, nature, space, the human body, inventions, language, art, film, music, sport, food, odd places, quirky people. Prefer the "did you know" candidates ([d0], [d1], …); use an "on this day" one only when it is genuinely surprising, and then start with the year ("In 1977, …"). Avoid war, military, terrorism, killings, disasters and anything crude; vary the topic from yesterday's fact. Never trivia-quiz material, celebrity birthdays or anything cheesy, and never anything that isn't stated in the candidates. Rewrite it in your own plain words.
 - context (on every lithuania, world, interesting and ongoing entry), in the entry's language. First decide what kind of story it is:
   * Part of a longer story (a war, a long political crisis, a court saga, an election race, a long-running dispute): tell the backstory from the very beginning in plain words, as to someone who never followed it: when and how it started, why, and the two or three key turns that led to today. Two to four short sentences, in time order, e.g. "It began in February 2022, when Russia invaded Ukraine… Since then…". Every ongoing entry is this kind.
   * Self-contained (an accident, an award, a single announcement or deal): at most one short, plain sentence that makes it understandable (who someone is, what something means), or an empty string if it explains itself.
   Interesting entries are always the short kind. Examples of the long kind: a president urging cuts to the budget deficit (how the deficit and the budget fight arose), someone crossing the border into Russia (why that border is so tense), an election, a politician's latest court case, a strike after an attack. Example of the short kind: a former president leaving hospital ("He was admitted on 26 September after a sudden illness and had surgery."), an award, a company's IPO.
   Never repeat the summary or update. For the history you may use well-established background knowledge (widely known, undisputed dates and facts); anything about the last few weeks must come from the material.
-- heads_up: at most 2 practical notes that affect daily life in Lithuania (clock change, strikes, severe weather warnings, transport disruption), only if the items mention them. Each is one short line of about 10 words with no second sentence, e.g. "Iki kovo pabaigos greitkeliuose leidžiama 110 km/val.". Usually empty. The daily forecast is shown separately, so don't repeat ordinary weather here.
+- heads_up: 1 or 2 practical notes almost every day about what affects daily life in Lithuania or Vilnius right now or in the coming days: traffic and road closures, public transport changes, strikes, new rules or prices taking effect, deadlines (e.g. tax declarations), public holidays and shop hours, utility outages, severe weather warnings. Take them from the items. Each is one short line of about 10–14 words with no second sentence, e.g. "Iki kovo pabaigos greitkeliuose leidžiama 110 km/val.". Leave them out only on a day with genuinely nothing practical. The daily forecast is shown separately, so don't repeat ordinary weather here.
 
 Rules
 - Every story appears once. If a story belongs to an ongoing event, it goes in ongoing, not in lithuania or world.
@@ -170,12 +170,14 @@ def build_prompt(date_label: str, items: list[dict], events: list[dict], previou
         tracked += "".join(f"\n- {t} (quiet last time)" for t in previous.get("quiet_ongoing", []))
         yesterday = "\n".join(f"- [{section}] {s['headline']}"
                               for section in ("lithuania", "world", "interesting") for s in previous.get(section, []))
+        if previous.get("fact"):
+            yesterday += f"\n- [fact] {previous['fact']['text']}"
     listings = "\n\n".join(
         f"[{e['id']}] {e['name']}: {e['about']} (name, venue, date on consecutive lines)\n{e['text'] or 'unavailable today'}"
         for e in events
     )
 
-    anniversaries = "\n".join(f"[d{i}] {e['year']}: {e['text']}" for i, e in enumerate(on_this_day)) or "unavailable today"
+    facts = "\n".join(f"[d{i}] ({e['kind']}) {e['text']}" for i, e in enumerate(on_this_day)) or "unavailable today"
 
     return f"""Today is {date_label} in Vilnius.
 Forecast (shown to the reader separately): {weather['text'] if weather else "unavailable"}
@@ -196,10 +198,10 @@ Forecast (shown to the reader separately): {weather['text'] if weather else "una
 {listings}
 </event_listings>
 
-<on_this_day>
-Wikipedia's curated anniversaries for today's date:
-{anniversaries}
-</on_this_day>
+<fact_candidates>
+Wikipedia's curated "Did you know…" facts and "On this day" anniversaries for today:
+{facts}
+</fact_candidates>
 
 Write today's brief."""
 

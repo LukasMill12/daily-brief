@@ -198,18 +198,24 @@ def fetch_article_text(url: str, max_chars: int = 3000) -> str:
     return text[:max_chars]
 
 
-def fetch_on_this_day(url_template: str, month: int, day: int) -> tuple[list[dict], str | None]:
-    """Wikipedia's curated anniversaries for a date: year, sentence and the article it links to."""
+def fetch_facts(url_template: str, day: datetime) -> tuple[list[dict], str | None]:
+    """Wikipedia's "Did you know…" items, then its "On this day" events: sentence, kind and linked article."""
     try:
-        data = json.loads(download(url_template.format(month=month, day=day)))
+        data = json.loads(download(url_template.format(year=day.year, month=day.month, day=day.day)))
     except Exception as exc:
         return [], f"{type(exc).__name__}: {exc}"
-    events = []
-    for event in data.get("selected", []):
+    facts = []
+    for item in data.get("dyk", []):
+        raw = item.get("html") or item.get("text") or ""
+        href = re.search(r'href="\.?/?([^"#]+)', raw)
+        text = re.sub(r"^\W*that\W+", "", clean(raw)).rstrip("?").strip()
+        link = f"https://en.wikipedia.org/wiki/{href.group(1).lstrip('./')}" if href else ""
+        facts.append({"kind": "did you know", "text": text, "link": link})
+    for event in data.get("onthisday", []):
         pages = event.get("pages") or []
         link = pages[0]["content_urls"]["desktop"]["page"] if pages else ""
-        events.append({"year": event.get("year"), "text": clean(event.get("text")), "link": link})
-    return events, None
+        facts.append({"kind": f"on this day, {event.get('year')}", "text": clean(event.get("text")), "link": link})
+    return facts, None
 
 
 WMO_LT = [  # (highest code, description) — WMO weather codes as used by Open-Meteo

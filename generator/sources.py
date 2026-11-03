@@ -69,5 +69,6 @@ WEATHER_URL = (
     "&hourly=precipitation_probability&timezone=Europe%2FVilnius&forecast_days=1"
 )
 
-# Wikipedia's curated "On this day" selection for the fact of the day; {month}/{day} are filled in.
-ON_THIS_DAY_URL = "https://en.wikipedia.org/api/rest_v1/feed/onthisday/selected/{month:02d}/{day:02d}"
+# Wikipedia's daily featured feed for the fact of the day: its curated "Did you know…" (varied, quirky facts)
+# and "On this day" lists; {year}/{month}/{day} are filled in.
+FACTS_URL = "https://en.wikipedia.org/api/rest_v1/feed/featured/{year}/{month:02d}/{day:02d}"
