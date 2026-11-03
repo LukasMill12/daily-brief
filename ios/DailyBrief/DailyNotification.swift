@@ -5,18 +5,15 @@ enum DailyNotification {
     static let hour = 9
     static let minute = 15
     private static let id = "daily-brief"
-    /// Matches UNNotificationExtensionCategory in BriefNotification/Info.plist, which draws the long-press view.
-    static let category = "daily-brief"
 
     #if DEBUG
-    /// Sends the morning notification in 10 seconds, to try the long-press view without waiting until 09:15.
+    /// Sends the morning notification in 10 seconds, to try it without waiting until 09:15.
     /// Also triggered by launching with `-sendTestNotification` (e.g. from the Mac with devicectl).
     static func sendTest() {
         let content = UNMutableNotificationContent()
         content.title = "The Brief"
         content.body = "Your brief is ready"
         content.sound = .default
-        content.categoryIdentifier = category
         let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 10, repeats: false)
         UNUserNotificationCenter.current().add(UNNotificationRequest(identifier: "test", content: content, trigger: trigger))
     }
@@ -26,13 +23,12 @@ enum DailyNotification {
         let center = UNUserNotificationCenter.current()
         guard (try? await center.requestAuthorization(options: [.alert, .sound])) == true else { return }
 
-        center.setNotificationCategories([UNNotificationCategory(identifier: category, actions: [], intentIdentifiers: [])])
+        center.setNotificationCategories([])
 
         let content = UNMutableNotificationContent()
         content.title = "The Brief"
         content.body = "Your brief is ready"
         content.sound = .default
-        content.categoryIdentifier = category
 
         var time = DateComponents()
         time.hour = hour
