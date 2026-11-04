@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T07:04:28+00:00",
+  "weather": {
+    "min": 4,
+    "max": 6,
+    "precipitation_mm": 0.1,
+    "wind_max_kmh": 12,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 4…6 °C, dulksna."
+  },
+  "fact": {
+    "text": "Pioneer 10's nuclear power generators were designed to last at least two years. They kept working for more than thirty.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Democrats win Congress",
+  "heads_up": [
+    "„airBaltic“ atsisako skrydžių maršrutu Vilnius–Diuseldorfas dėl prastų finansinių rezultatų.",
+    "Šildymo kompensacijų gali kreiptis ne tik mažiausias pajamas gaunantys gyventojai."
+  ],
+  "lithuania": [
+    {
+      "headline": "EK neskyrė Baltijos šalims 500 mln. eurų gynybai nuo dronų",
+      "summary": "Europos Komisija atmetė Baltijos šalių prašymą skirti papildomų 500 mln. eurų antidroninei gynybai ir pasiūlė lengvatines SAFE paskolas – Lietuvai jų prieinama beveik 6,4 mlrd. eurų. Ministras Robertas Kaunas tikėjosi didesnio eurokomisaro Andriaus Kubiliaus palaikymo, bet sako, kad planuojami oro gynybos pirkimai nesikeičia.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Pastaraisiais metais Lietuvos oro erdvę ne kartą pažeidė dronai ir balionai iš Baltarusijos, todėl Baltijos šalys bendrai prašė ES lėšų gynybai nuo jų. Premjeras Mindaugas Sinkevičius EK sprendimą pavadino solidarumo stoka, o prezidento patarėjas sako, kad šalys tikriausiai kreipsis dar kartą.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3102214/kaunas-del-es-lesu-gynybai-nuo-dronu-norejosi-didesnio-kubiliaus-palaikymo"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd05yV2lSM1FTNWRJSG5jT1EwMnE2WlZpbXdiVWtGVVBtRC1JZG0teUljQ3JJSGViaTU1aXZNcWhCckhFbVNIa1gwemhvSkpXQ0NPSXcwZ21nZURDWS02NTgwY1NmVkgtaWJjRlNNajRaOHpWRDBRX1FST2FuZEZNaWpLWWRZekFfUkRncmtDUGRuV2JmakQzWGg3YlRSTzNvUUp4c1NKSURrNDhmcm5IcUNwWi1WRHBfR3N1QVl6SEhfSEgwMngwQVZIZHBZQUw0dWNCQ2duYXlhQms2?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/09/23/2496209-575056-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "„Čekiukų“ byloje įtarimai Margeliui ir dar 14 politikų",
+      "summary": "Specialiųjų tyrimų tarnyba pareiškė įtarimus dar 15 esamų ir buvusių tarybų narių iš Kalvarijos, Jonavos, Kaišiadorių, Lazdijų, Alytaus ir Akmenės rajonų dėl suklastotų kuro išlaidų apyskaitų. Buvęs Lazdijų meras Artūras Margelis įtariamas padaręs 1332 eurų žalą, o didžiausia – beveik 15,5 tūkst. eurų – nustatyta Jonavoje.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Skandalas prasidėjo 2019 m., kai žurnalistai atskleidė, kad savivaldybių tarybų nariai veiklai skirtas lėšas apmokėdavo neatitinkančiais tikrovės čekiais ir apyskaitomis. Nuo tada įtarimai pareikšti dešimtims politikų visoje Lietuvoje.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3102127/cekiuku-byloje-itarimai-pareiksti-margeliui-ir-dar-14-politiku-is-sesiu-savivaldybiu"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkpFUXFSQm1LNUt6ZWFYU3hIcnoyckc0cXE4RFExZXkwV29UM0ppMThZU0ZYSWJwV3RNZTd4MXBISF9JWGRFYlJrRm4xNEZHQ2Nuby1sdHlfd0o5aDlUZ3N1Ml9LbjNjR296VlhTcjcwWjNBTDZ6Q3JQc25TeFNmZFRWRUdQaUY3NUtnMFlLdFUxOW9zV2xmS0xBTnlrdHBoNnkzZmFGdE53dDFiVmZmejhwZDh2SVpXSHhPOGdxRV9zeFNqdnpybHdya2VHVFdxN3NrZGtGMnJ4UkVjcFVGNzBRYw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/09/15/2489511-951307-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Nausėda ir Merzas Berlyne aptarė Lietuvos saugumą",
+      "summary": "Oficialaus vizito Vokietijoje metu prezidentas Gitanas Nausėda Berlyne susitiko su kancleriu Friedrichu Merzu, prezidentu Franku-Walteriu Steinmeieriu ir Bundestago pirmininke Julia Klöckner; aptarta Europos gynyba, gynybos pramonė ir parama Ukrainai. Trečiadienį jis lankosi Diuseldorfe ir dalyvauja Lietuvos ir Vokietijos verslo forume.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "2022 m. vasarą Vokietija įsipareigojo dislokuoti Lietuvoje brigadą – iš viso apie 5 tūkst. karių ir civilių. Didžioji jos dalis turi persikelti iki 2026 m., o visą operacinį pajėgumą brigada pasieks 2027 m.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3102008/nauseda-su-oficialiu-vizitu-lankysis-vokietijoje"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25abWU1MWN0cXZfUndKVVQ0NFp1TzR6NHJqMlFGWTdNd28zQS0zUWp1NC1yajZTejdzMmdiM0FldTk1ZHA0VDI2dmlnZUU3bVY0bHZnUzdzb2ZmYnB1UkoxU2szRUZLSkR0alBmVlJWWnFSODB6b3Fiazd0eU1OSU4tRF9kT0VsTG96UlVyUmhOb3RhOTJMa2xiNUk3ZGgxalZjTWRpWFhUUjZYekljcDkwVWxWZWR6NXlMMU5nYjNjU1dJSG5WZWczMDRZVDBWUFNIaHFJWk1VVTNOVEE?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/29/2523957-645722-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Democrats win control of both houses of Congress",
+      "summary": "Democrats won both the Senate and the House, needing a net gain of four Senate seats and taking at least seven, including Texas, Ohio, Kansas, Maine, Iowa and both Carolinas. Trump said he would accept the results and that the Iran war and higher petrol prices played a role.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 12,
+      "why": "Covered by 12+ outlets, top of every front page",
+      "context": "In November 2024 Republicans won the presidency, the Senate and the House, holding a 53-seat Senate majority. Midterms are traditionally a verdict on the president, and this one came amid the US-Israel war on Iran and rising living costs. Trump can still veto laws passed by the new Congress.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/878f/live/f3346690-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg"
+      ]
+    },
+    {
+      "headline": "Spain's transport minister resigns after train crash that killed 69",
+      "summary": "Óscar Puente resigned and dropped out of Spain's 29 November election, six days after a Renfe high-speed train ploughed into a stationary Iryo train near Urda, south of Madrid, killing at least 69 people.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "It was Spain's second deadly crash on the same line this year: in January, 46 people died. The opposition blamed Puente for an unsafe rail system, and the disaster weighs on Prime Minister Pedro Sánchez, who trails in the polls.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3102459/po-mirtinos-traukiniu-avarijos-atsistatydina-ispanijos-transporto-ministras"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "Hoax bomb threats hit seven flights across Europe",
+      "summary": "Seven planes flying from the UK, Ireland, Denmark, Portugal and Italy were searched or diverted in Poland, Spain, Italy and Bulgaria after bomb threats; four were Ryanair flights, Italian jets escorted one into Rome, and no explosives were found.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The UK called them malicious hoaxes; investigators see no immediate sign of a hostile state but are checking whether the threats were coordinated.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
+      ]
+    },
+    {
+      "headline": "Tusk says Poland foiled possible provocation at Russian border",
+      "summary": "Polish Prime Minister Donald Tusk said Poland had received information about worrying activity near its border with Russia and had foiled a possible provocation.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Since Russia's full-scale invasion of Ukraine in 2022, Poland has faced drone incursions, sabotage and arson it blames on Moscow. Its border with Russia's Kaliningrad exclave is a key NATO frontier next to Lithuania.",
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekFPVTJDeGFab0xOc3FQbDZZMlpPRkJNbE1lbVg4V1NNb1hYdUZEcXl1bXFwNVBNM3paWG1mVXBkZjQxZTJzSmVjYk5NVW1QSTh0dzVXN0t0S1VKUy1FUXdLcnNiYjMxb2taUzdOUWtWX1JVanNlSW9BaV9nV3NfeUZaVjh4QlBvZkZjbjFObFdaSk5RbElsYkluTmx5cDRKSDI4UWlhQ2VMWWszMDJYNVd3R2dQblR3U2dpOQ?oc=5"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTRVR252LU4zejlpUW9XTmp6YWtGYTBIdVZPMnpCOU1UanVtaDEwSTRoeGtaN0hwaTJFWGVIUmM0TVM1WWx0eU9LMFZweDV3bHlpYmdldW5Tb2xIa0d6MEFyb29ZaFFadUZJQlRXcmdsTlNlaEE5UUgwMHUzMWw5SmhLTUR2eHZDVzgyYnhBSE5HU1h5Q1hOSFc4ZDRjTmtiUGkzWG9wNHRiT3FENWM4cThwVU5lQmxpQlA2dlZKTm1TYUY1ckNIUA?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "AMD posts record $13.4bn quarter on data centre demand",
+      "summary": "AMD reported record revenue of $13.4bn, $8.5bn of it from data centres, and forecast another record of $17bn next quarter, while gaming revenue fell 40%.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "AMD is Nvidia's main rival in AI chips; AI data-centre demand is also driving up memory prices for PCs and consoles.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+        },
+        {
+          "name": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mcnlEQzhqWExyWFlMNDhsWkRvc2VrVmtkR2tqUXJzQWZBWGh2UzMySGZqUjhEN3dQcFhEWGpUczZnUHJ3WFB4cEJOUDhIMHlwaGxpRGI4YmlUclBaVkVBWHFoNmhBckFUU1ctUllKaF96bTB6?oc=5"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Google lets schools turn off AI, but only by losing Search",
+      "summary": "From next year Google will switch off its AI tools for school students unless administrators turn them on, but schools that block AI also lose Google Search, because AI is built into it.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
+      ]
+    },
+    {
+      "headline": "Cinemark and Regal snub Netflix's 'Cliff Booth' film",
+      "summary": "Cinemark and Regal won't give Imax screens to Brad Pitt's Netflix film, written by Quentin Tarantino and directed by David Fincher, over its two-week cinema window; it opens 25 November and streams from 23 December.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Major film industry clash",
+      "context": "The film is a sequel to Once Upon a Time… in Hollywood and Netflix's first Imax release.",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/cinemark-tarantino-cliff-booth-brad-pitt-netflix-1236746813/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Countries refuse to play ice hockey against Russia",
+      "summary": "After a sports court lifted Russia's ban on 30 October, Finland, Sweden, Norway, Denmark, Latvia and the Czech Republic said they won't face Russia, and Canada's PM Mark Carney barred Russians from next month's world juniors.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Russia was banned from international hockey after invading Ukraine in 2022.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3102367/latvija-ir-siaures-salys-pasaulio-ledo-ritulio-cempionate-atsisako-zaisti-su-rusija"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjZfT0U0aDgwRkQ3X2E3bXoxeDA5YWRMdHJqTS1IaHdYTWdaM3FRdG9QWUJrV3hycEM3RW1nMDdoVnRTOXJDTmViRDNaLTJ4NEhNbUxERTRJZ3doREs3a25jWkxEWWdYSm5hNUZWV0lhZFZoNHJfWDlhZ1FKVGdtSGNRT2NMLW5UWVg4Z1lDenYycU9kWmJNeUdET0ZMWHg5bVE?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/f0bbcfe146440a78d027f9f2fbcb5c78f9284465/493_0_4911_3931/master/4911.jpg?width=700&quality=85&auto=format&fit=max&s=ea1d4fe75f3e6b66c1eeecbf13cc1c5b"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Penktadienis, lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Rodoma šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "South Africa votes in local elections",
+      "when": "Wednesday, 4 November",
+      "where": "South Africa",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US-Ukraine-Russia peace talks resume",
+      "when": "Next week",
+      "where": "Abu Dhabi",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Russia pounded Ukraine's power grid ahead of trilateral peace talks in Abu Dhabi next week, which the Kremlin confirmed, and Germany's Merz said he doubts Moscow wants a ceasefire. A Ukrainian drone hit an Ozon warehouse in southern Russia overnight.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and later retook land in the south and east, but the front has since ground into a war of attrition. US-brokered talks began in 2025 and were suspended in February.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3103006/karas-ukrainoje-rusijos-pietuose-smogta-internetines-prekybos-milzines-ozon-sandeliui"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVM1a0dLRmw1LWNRb012WDk0dW80Sy1LMTEtanZwZkhpdF9OUVBhbkJSREx1a2dRdk1EMGFWZHZoblRaZW1WRnFKOXlHM3RhQUdFck5pUUNpUklyd2o2WHBrbXZWaWo2ZmpIRW9IVmZSODNpQlB1NWg5Z3FRcnVRb2lLcVlZRGtTcEExeDNWM3ROT0lPY2hPZ3ljR19FNHJMMXJ6TXJhVE9LQlBmbVF5TFJhajQtY3VQXzdEb0J0bkdYdw?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWFRalJ4UW5acmhZTGVHcUlBSkFUWjNORktHX2l0b29TY1VfOTFaaE5vZmluaE45NzRYRkhUeXJLSWlWd25janRqMmUtMllCR2JueTBIM3pTVWxyOXBna29LU0Fpb0VNcE12SlZ3dEFoNnduNTdoQlFZMkdITE1ZUEtGZUN5d3Q2d3pObXYzcnpZcldyYVllWkREbWFlSUd0N3pmYzZ0M0Jhakk?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/04/2528444-507275-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran's Revolutionary Guards said four oil tankers hit mines and were destroyed near the Strait of Hormuz. Tehran called the US reply to its seven conditions for reopening the strait unconvincing, while Trump called Tuesday's strike on an anti-aircraft site 'minor' and said there was no immediate plan for more.",
+      "context": "Decades of hostility over Iran's nuclear programme turned into open war in February, when the US and Israel struck Iran. Iran has since controlled the Strait of Hormuz, attacking ships that cross without its permission, which sent oil prices soaring. Qatar is mediating indirect talks on reopening it.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3103034/iranas-hormuzo-sasiauryje-sunaikinti-tanklaiviai-uzplauke-ant-minu"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjcyLUxfeTMxaHFnbENrc2tqdlowSDFqWU5DUWtqOWhVUUdSYWdSbFpBRGQ4VHI3Rm5DbDVsLTV6bkM4d3FjcmVPRnpsQlJ6RkNSLWNZX0ZtWURvUExKaGZ2M2diWUFvZWZfSE5FN01PR2FXc1pSN1kyeXhHX0ZFS0k4S1FjSDJLc2ZfbGx2cm9TYW9JSThiZVZIeFQxTnVBXzAwYnhlaGxsN3lwQkxOZTdFRVVpc3RPa2J2M0JZNVduZXA3Z2pz?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/04/2528493-596817-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "europe-supermarket-cyberattacks",
+      "title": "Cyber-attacks on European supermarkets",
+      "update": "Germany, Romania and the UK reported hacked supermarket refrigeration too, bringing the total to at least 11 countries; the EU called the attacks 'not isolated' and promised a joint response, and Italy met its intelligence chiefs. A Romanian official called it semi-amateurish, not a state actor.",
+      "context": "Last month hackers raised freezer temperatures in hundreds of French supermarkets, and on Monday attacks spread to Belgium, Ireland, Sweden, the Netherlands and other countries, spoiling tonnes of food. No one has claimed responsibility.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3102434/po-kibernetiniu-ataku-11-oje-europos-saliu-italija-susauke-skubu-pasitarima"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2020/02/21/606951-176818-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "Unions and housing groups from France, the UK, Belgium, Spain, Italy, Portugal and Greece called for coordinated cost-of-living rallies across Europe on Friday 20 November and the following weekend.",
+      "context": "Youth-led protests over living costs and poor prospects began in France this autumn, with pupils blockading high schools, and spread to other European countries. Unions have joined in with strikes.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3102435/aktyvistai-ragina-lapkriti-surengti-protestus-del-pragyvenimo-islaidu-visoje-europoje"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/03/2528007-504253-1287x836.jpg"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Saudi Arabia-Houthi fighting",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 611,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}
