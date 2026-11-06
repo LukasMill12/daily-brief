@@ -1,0 +1,438 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:04:48+00:00",
+  "weather": {
+    "min": 2,
+    "max": 7,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 19,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje 2…7 °C, debesuota."
+  },
+  "fact": {
+    "text": "A cinema called Cinema '76 adopted three cats and named them after a series of independent Philippine films.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Cinema_'76"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "AI stocks tumble",
+  "heads_up": [
+    "Iki gruodžio 3 d. keliais judės Vokietijos kariuomenės technika – eismas vietomis lėtesnis.",
+    "Mokytojų profsąjunga grasina nuo lapkričio 16 d. pradėti nacionalinį streiką dėl algų."
+  ],
+  "lithuania": [
+    {
+      "headline": "Nausėda ragina skelbti referendumą dėl šeimos sampratos",
+      "summary": "Prezidentas Gitanas Nausėda mano, kad Seimas turėtų skelbti patariamąjį referendumą, kuriame būtų klausiama, ar Konstitucijoje įtvirtinti, kad šeimos santykiai kyla tik iš vyro ir moters santuokos, motinystės ir tėvystės, ir sako, kad pats tam pritartų. Referendumas vyktų kartu su savivaldos rinkimais 2027 m. kovą, o „Nemuno aušros“ lyderis Remigijus Žemaitaitis prezidento raginimus vadina veidmainiškais.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Konstitucijoje parašyta, kad santuoka sudaroma vyro ir moters sutarimu, tačiau Konstitucinis Teismas yra išaiškinęs, kad šeimos sąvoka platesnė nei vyro ir moters sąjunga. Iniciatoriai nori tai pakeisti, o Seimas jų projektui po pateikimo pritarė balandį. Vėliau svarstymas įstrigo komitetuose, o koalicijos partneriai „valstiečiai“ šį klausimą susiejo su balsavimu dėl kitų metų biudžeto.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3106005/nauseda-ragina-skelbti-referenduma-del-seimos-sampratos-butu-uz-konstitucijos-keitima"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/gitanas-nauseda-ragina-skelbti-referenduma-del-seimos-sampratos-butu-uz-konstitucijos-keitima-56-2800124?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/29/2523956-166729-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Pagalbinis apvaisinimas – ir nesusituokusioms poroms bei vienišoms moterims",
+      "summary": "Seimas 66 balsais prieš 15 po svarstymo pritarė pataisoms, pagal kurias pagalbinis apvaisinimas būtų prieinamas ir nesusituokusioms skirtingų lyčių poroms bei vienišoms moterims; galutinis balsavimas numatytas lapkričio viduryje. Iš projekto išbrauktas reikalavimas įrodyti bent metus gyvenus kartu, taip pat būtų leidžiama embrionų donorystė.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Dabar įstatymas pagalbinį apvaisinimą leidžia tik sutuoktiniams ir registruotiems partneriams. Konstitucinis Teismas tokį ribojimą pripažino prieštaraujančiu Konstitucijai, todėl Seimas pertvarką pradėjo balandį.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3105291/lithuania-moves-to-expand-access-to-fertility-treatment-beyond-married-couples"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjRmcjlPS0FGNW1LQ01tZHRmTVF4ZmNHYm9oVWE5UGl0VnNoVjMzdXhGckJNZndfcDdsNVNxMVIwbWJaZFcwbGdBeUI4TTE2VV9heFRybDJ5S1h5cFZGYWNkWDcyMjBNSkVhMU9FQk4wS3pBNEpnRHZWYW5WMWlac2p0WlpCUE55NjRZR1M2VnNVcWRJQ2pjeE9KVnRMcWl3bDZLVzFub3dON08wNlRyd2Z6NmhybG1UVE80WWFxT0VOMkk5djV0blRKZUlFT2xha0NjMmRR?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/05/26/2398537-655967-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Premjeras nesitrauks dėl plagiato disertacijoje",
+      "summary": "Premjeras Mindaugas Sinkevičius sako neketinantis trauktis nei atsisakyti mokslų daktaro laipsnio ir disertacijos trūkumus žada ištaisyti po biudžeto svarstymo ir Naujųjų metų. Atsistatydinti jį paragino koalicijos partneris „valstietis“ Dainius Gaižauskas.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Diskusija dėl galimo plagiato premjero 2015 m. apgintoje disertacijoje apie alkoholio vartojimą kilo liepą. Spalio 30 d. ISM universiteto Etikos komisija joje nustatė penkis plagijavimo atvejus ir davė pusmetį pažeidimams ištaisyti, bet nesiūlė naikinti laipsnio.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3105257/m-sinkevicius-sako-neketinas-atsisakyti-daktaro-laipsnio-del-plagiato-disertacijoje"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWl6eFNJVS1LSExZS0RnYnVLMXpNLS1KRFpaXzQ0WWc3N3hEUUoyLW5QZ3RBc2ZpRlV6YXZzRUlGNXprTHpjaVNqT3V1bVhWSGphTTJOLUNRTDA3SHNMNEttNHU1MjA1LU9mM0lSbnR6a0VLeDZtQThCRXVPeXg0RTh0YkwxQlNRanVYdGdoR3U0dnFDNUxnbTFzVGtzVlFNajctVU5WU0pNMEZOWWRnU0RiTzdYWjRsTUw2MjBoZmt6WFpjbV9IeXZQQUdPcU0?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/08/18/2466447-254018-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Tech stocks plunge worldwide after US midterms",
+      "summary": "The Nasdaq fell more than 5.5% on Thursday, wiping about $2.5tn off its value, after Democrats who campaigned to slow data-centre and AI growth won Congress. On Friday Japan's Nikkei was down 6.3% and Seoul's Kospi briefly plunged 8%, triggering a trading halt.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 6,
+      "why": "BBC top story, covered by 6 outlets",
+      "context": "Investors were already worried that huge spending on AI might not pay off. Democrats won both the Senate and the House in Tuesday's midterms, taking control of Congress for the rest of Trump's term.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUGtVSmh2dDhaUDJWN2x5SWlLSW93SDgyMm5ybTd4TFo5R3NmZ3I0aDdHSHRNT2VxRVdVLS00NjZXeUE2ZDFSTExOaGtIaFY3MEFWYndKUENSWmMwVml3cVlMb1lnUk83RThmTDNvZGlCaVV0YkJn0gF8QVVfeXFMTmQ2ZmxnbU5Md3JkdGNYVG9TUVhLRDhETG9vY0lFaTZ0elZnYXBfN0hrRGU1S3pXN0kyazlXMHBxUkZ1cnNmOW1OVmxEX25VeHVJMzZ2V1dCczBhUHZaVGV1R0lvVUtkZmVBbk9KakpzUWc4QWlwX0UzSngyWQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
+      ]
+    },
+    {
+      "headline": "Paraguay's president resigns and is impeached over bank collapse",
+      "summary": "President Santiago Peña resigned after the central bank put digital lender Ueno Bank into insolvency, freezing the accounts of about 3 million customers. Congress pressed on with impeachment instead of accepting his resignation, and he is due to present his defence on Friday.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "Peña, in office since 2023, was until last year a shareholder in the company that owned Ueno, which grew fast under his government and held $800–850m of state and pension money.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg"
+      ]
+    },
+    {
+      "headline": "Hoax bomb threats disrupt European flights again",
+      "summary": "At least 25 hoax bomb threats hit flights across Europe on Thursday, forcing emergency landings and diversions in the second wave this week; all planes landed safely and nothing was found. Some emailed threats were signed by 'fighters of the Male State', a Russian far-right movement, but investigators have no evidence a state is behind them.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "The hoaxes follow a string of disruptive incidents in Europe, including hacks of refrigeration systems, that have raised fears of hybrid warfare.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg"
+      ]
+    },
+    {
+      "headline": "California commutes all 548 death sentences",
+      "summary": "Governor Gavin Newsom commuted the death sentences of all 548 people on California's death row to life without parole, the largest mass clemency in US history. The move is largely symbolic, as the state has not executed anyone since 2006.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "Newsom halted executions in 2019; he is in his final months in office and is seen as a possible 2028 presidential contender.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3105494/kalifornija-svelnins-bausmes-visiems-548-valstijoje-mirties-bausme-nuteistiems-kaliniams"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Cristiano Ronaldo retires from Portugal duty",
+      "summary": "Cristiano Ronaldo, 41, ended 23 years with Portugal with 146 goals in 234 games, weeks after a fallout with coach Jorge Jesus in which he was suspended for leaving a training camp.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "He won Euro 2016 and two Nations League titles with Portugal.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3105232/eros-pabaiga-ronaldo-pranese-baigiantis-karjera-portugalijos-rinktineje"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhibUo0QmVSbVJ6NVRzRG1tMm9uWEh5UFRiLTlhRHUtTVdiV3FoalhBZ040WGs4cl80RFFJR1BOUWwwQlJtWC1CUVJiUV9YNEtaTVNhWnFzSEVVTThvOXFpMUs0SlhSS3BNeGFtOUlHUER2SlBCYVp3Q01ObjZGNVpIV2drQmpRS29KTF9GN2hKd0ZOYnQzalp6VUJ5TG01WFFPT1JaREZKemp2Y0xv?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
+      ]
+    },
+    {
+      "headline": "New York Times in talks to buy Letterboxd",
+      "summary": "The New York Times Company is in exclusive talks to buy Letterboxd, the social network for film lovers, for about $330 million. The site has grown from 3 million users in 2021 to 28 million this year.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Reported by The Verge and TechCrunch",
+      "context": "A24 and Sony were also reported to be interested; the Times earlier bought Wordle and The Athletic.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&strip=all&crop=0,0,100,92.583676239766"
+      ]
+    },
+    {
+      "headline": "OpenAI drops data-centre NDAs after voter backlash",
+      "summary": "After midterm voters opposed data-centre expansion, OpenAI said it will no longer use non-disclosure agreements with public officials and will pay the full cost of the electricity and infrastructure its data centres use.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Amazon dropped such NDAs with government agencies in October.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ksenija Sidorova ir LVSO: Fazilo Say koncerto premjera",
+      "when": "Penktadienis, lapkričio 6 d., 19:00",
+      "where": "LVSO koncertų salė, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Šią savaitę",
+      "where": "Kino teatras „Pasaka“, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "New Zealand general election",
+      "when": "Saturday, 7 November",
+      "where": "New Zealand",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTVXSTVLR1pyNTctX0hWSjFfMGhzajU0dDZKM3B2SjZINjFyWXM4M05TQldfR244LWVKMUp4c0ZzODBzeWRBSzBaSU12RXFsa0ZHbE5ZMWZEM3cyTjU1RVlxM1JlRmR6LUREYjJFaFVramFMRjVPblM2MWs4N2dRb3hMaDNOQWw3cFpodmE0OTA2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Israel's President Herzog decides who will try to form a government",
+      "when": "Sunday, 8 November",
+      "where": "Israel",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "After meeting Putin's envoy Kirill Dmitriev at the White House, Trump said a 'big agreement' is very close and could involve 'all of Europe', but gave no details; three-way talks are planned in Abu Dhabi next week. Ukrainian drones set the Afipsky refinery in southern Russia on fire overnight.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022, after seizing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv, but the front has since become a long war of attrition, with heavy strikes on cities and energy. US-brokered peace talks have repeatedly stalled.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/06/news/donaldas-trumpas-susitiko-su-rusijos-atstovu-ir-kalbejo-apie-galima-taikos-susitarima-44806964"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijoje-vel-dega-viena-didziausiu-naftos-perdirbimo-gamyklu-dumai-siekia-krasnodara-57-2800140?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "A senior Iranian official said Tehran sent a nuclear proposal to the US via Qatar, while Trump warned the US may have to 'destroy' the rest of Iran.",
+      "context": "Tensions grew after the US left the 2015 nuclear deal in 2018. In February the US and Israel attacked Iran, and Iran has since largely closed the Strait of Hormuz, a key route for world oil.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "More than 600,000 people joined Thursday's general strike marches in France by official count (1.57 million according to the CGT union), the biggest day so far; PM Sébastien Lecornu will hold a 'social conference' with unions and employers on Monday.",
+      "context": "Protests over living costs and education began in France and spread across Europe this autumn, after large unrest in October. Unions have called for coordinated Europe-wide rallies on 20 November.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3105296/prancuzijoje-streikuojantys-darbuotojai-reikalauja-orios-algos"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "id": "europe-supermarket-cyberattacks",
+      "title": "Cyber-attacks on European refrigeration systems",
+      "update": "US agencies including CISA and the FBI warned of an 'ongoing cyber threat' to internet-connected refrigeration in food, transport and healthcare, with military freezers also hit; researchers broadly blame Iran, and the Kremlin called claims of Russian involvement 'absurd'.",
+      "context": "In recent weeks hackers broke into remotely controlled supermarket refrigeration systems in at least 11 European countries. The EU called the attacks 'not isolated' and promised a joint response.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3105372/kremlius-neigia-rusijos-vaidmeni-kibernetinese-atakose-pries-saldytuvus"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Saudi-led coalition intercepted a Houthi ballistic missile fired towards Medina, and Turkey's parliament ratified a defence pact with Saudi Arabia. Yemen's president sacked ministers and officers after Houthi gains brought the rebels within about 60km of Aden.",
+      "context": "Yemen's civil war began in 2014, when the Iran-backed Houthis seized the capital Sanaa. A Saudi-led coalition intervened in 2015 to back the government, which moved to Aden. A long truce from 2022 has broken down, and a government counteroffensive launched on 5 October has failed.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhxQjdGQlQ0S0NwQjVReFpaVlpSOUM3c1I4YTVMS0FhWC1zYmQ0YTEwclNHRl9uaFdseHJtenlvM2tJakhPeENNWW1hSWtfQXlBOGs5NFFQUlZHVHgzeTF2SnV2SUxUalVuT0JLRWVOeDQxdGJGTUVOTGwtc1ROcmF2VFhUaVNJUnp3TDdWU2U4bzB4M1dsR0o5VVd1OHNaOHJrYkxGLXcxV2hmeG5XOG96UGtnTlVVMDN3Wg?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 626,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}
