@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T07:04:26+00:00",
+  "weather": {
+    "min": 1,
+    "max": 5,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 12,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje 1…5 °C, debesuota."
+  },
+  "fact": {
+    "text": "Blowing on hot food to cool it was frowned upon by medieval English etiquette books, Islamic religious texts and even indigenous deer hunters in Mexico.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Blowing_on_hot_food"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Miller new staff chief",
+  "heads_up": [
+    "Naktimis keliuose gali formuotis plikledis – vairuokite atsargiai.",
+    "Nuo lapkričio 1 d. galioja Darbo kodekso pakeitimai, keičiantys bandomąjį laikotarpį."
+  ],
+  "lithuania": [
+    {
+      "headline": "Valstybės kontrolė: deficitas 2029 m. gali artėti prie 6 proc. BVP",
+      "summary": "Valstybės kontrolė teigia, kad 2027–2029 m. biudžeto projektas pažeidžia nacionalines ir ES fiskalines taisykles: deficitas 2029 m. gali artėti prie 6 proc. BVP, o skola – prie 60 proc. BVP ribos. Koalicijos partneriai ginčijasi dėl mokesčių didinimo ir svarsto atidėti dalį Šeimos paketo priemonių.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Apie tai rašė 7 portalai",
+      "context": "Lietuvos skola ir deficitas pastaraisiais metais augo dėl didelių gynybos išlaidų. Rudenį pateiktas kitų metų biudžetas sukėlė ginčų koalicijoje tarp socialdemokratų, demokratų ir valstiečių, kaip papildyti biudžetą.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3106286/auditor-warns-lithuania-s-deficit-could-approach-6-of-gdp-by-2029"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3105420/del-biudzeto-gincai-koalicijoje-gali-tekti-atideti-dali-seimos-paketo-priemoniu"
+        },
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0NzbTQyV21iQXNtYkNSQUNLelFqYlBpNVV6bF9pSjJWVDZaVlZ4Y1p6Um9xVktfX3lwSkhoMHJNY0dwUlpTSTZoUXZWOHdmbnFmZmhRQTBpeFpXanVubDNCLW1vZEljZ3dldkt1aG1sWkdUZmZtakdpSWhZQ3llLWNvNG5xSHAwclFnVld2NnJDOEVvekxnRmNjWXVwb1FNMjF3Z2pZTXV1aTNEeFI3Q09VNlZ5eHFyRGJOTURKcXk0d09oODNPMg?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/06/17/2418804-477528-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Mokytojai grasina streiku nuo lapkričio 16 d.",
+      "summary": "Švietimo darbuotojų profesinė sąjunga (LŠDPS) skelbia visuotinį streiką nuo lapkričio 16 d., jei nebus susitarta: ji reikalauja 10 proc. didesnių koeficientų, o ministerija siūlo 7,56 proc. (92–152 eurus „į rankas“). Švietimo ministrė Raminta Popovienė sako nesuprantanti streiko pagrindo.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Profsąjunga streiku grasino ir pernai prieš 2026 m. biudžetą, tada ministerija rado papildomus 100 mln. eurų. Pagal nacionalinį švietimo susitarimą pedagogų vidutinis atlyginimas turėtų siekti bent 130 proc. šalies vidurkio, tačiau pernai jų algos augo lėčiau nei vidutinis darbo užmokestis.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3106097/lithuanian-teachers-union-announces-strike-plan-over-pay-dispute"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNalVReXFrMmcwY0djM2lpcVZ3ZWFBLVkwVXZqMWdmLXIxWGdsMHdiRk9rbl9rNUJqV0JDQkpTS0s3cG5HU1VwU0pMejQwZHNUYUNoRW8zV3ZkbFVKUWhTQlphNU1ib3BVc3hBQkNVOEZWZV9kNm4zSWJBSVc0SVVOMHFVOUoxX1lLNC1kZ2FsdkZkc1k0bjMySFFMRE85U2VEd3cxR0hlTUFxQkRUd2tkLWRPS1hZUzhYbDRyckRWN3dKcjlnYk9zWVF0RjMtOFZRWmU2TmlrUjZTelJOZ19Ybm85cXI?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2019/10/29/540048-524289-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Nuosprendis „Grigeo Klaipėdai“ – precedentas teršėjams",
+      "summary": "Aplinkos ministrė teismo nuosprendį „Grigeo Klaipėdai“ dėl aplinkos teršimo vadina svarbiu precedentu aplinkosaugos reikalavimų nepaisančioms įmonėms.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Byla prasidėjo 2020 m., kai paaiškėjo, kad popieriaus gamintojos „Grigeo“ įmonė per lietaus nuotekų sistemą į Kuršių marias leido nevalytas nuotekas. Tyrimas ir teismo procesas užtruko kelerius metus.",
+      "sources": [
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDFFWEdIdnhnNlQzSFUtb3lwTTJHMDlpNFJxRW9ha2VPUmxjWW94OXVkVGJEVGdrUEduenhCajJCZllKQXZOLTlfbklnWjYxa2N5Xzl4MFlqcFAxVFZIX2tVSjFDTVgyTHJubW5FNkVsNEMyZG55cFdDZHMzanJRaVJueUItY0taa2M0MUViS29OdkhfaVM4RS1rLVpRTjdlSWxRS3VtQ1FWWXpBTkVMemRINGJSTm45dmZ0ZzdGTzQ2ZUNISUxQcHotenBDMjNxNVBNSW9qeW94OXhXTkU5WA?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "world": [
+    {
+      "headline": "Trump makes Stephen Miller his chief of staff",
+      "summary": "Days after Republicans lost Congress in the midterms, Donald Trump named Stephen Miller, 41, the architect of his immigration crackdown, as White House chief of staff from Monday, ousting Susie Wiles. Democratic leaders Hakeem Jeffries and Chuck Schumer condemned the pick and vowed to fight him.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "Trump returned to the White House in January 2025 with Susie Wiles as the first woman chief of staff. His mass deportation drive, designed by Miller, became a central issue in this week's midterms, in which Democrats won decisive victories.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+        "https://i.guim.co.uk/img/media/52d5fedf0fefd80dc9f1af8b5afda07122a03309/884_0_4420_3536/master/4420.jpg?width=700&quality=85&auto=format&fit=max&s=e22c73525dbc3aaebd874cf4690bda6f"
+      ]
+    },
+    {
+      "headline": "Paraguay's ousted president under house arrest",
+      "summary": "Senators voted 44-0 to impeach Santiago Peña, who was then placed under house arrest and stripped of ex-president immunity; vice-president Pedro Alliana was sworn in to serve until 2028. The collapse of Ueno Bank, linked to Peña's business interests, has frozen the accounts of 2.9 million people, about 60% of adults.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Earlier this week Paraguay's central bank seized the fast-growing digital lender Ueno, freezing millions of people's savings and sparking protests. Peña, who held shares in the bank's parent company until last year, offered to resign on Thursday, but Congress refused and impeached him instead.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/3279bdc7ce3e00c2cbd356e73e342e1cba40051e/294_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=aa5aded0512a86a940d492d73c645385",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+      ]
+    },
+    {
+      "headline": "ANC faces bruising defeat in South Africa's local elections",
+      "summary": "With over 80% of ballots counted, the ANC has 31.8% of the national vote, almost 14 points below 2021, ahead of the Democratic Alliance on 24.1%; it is set to lose its lead in Gauteng and KwaZulu-Natal. Final results are due on Sunday.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "The ANC has ruled South Africa since the end of apartheid in 1994. It lost its parliamentary majority for the first time in 2024 and had to form a coalition government, and its support keeps falling over corruption, unemployment and power cuts.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=700&quality=85&auto=format&fit=max&s=4b52fcd00653a4881aa4fe2b6b753875"
+      ]
+    },
+    {
+      "headline": "Kenyan cult leader jailed for 200 years over 191 deaths",
+      "summary": "A court in Mombasa sentenced Paul Mackenzie to 200 years in prison, along with 28 accomplices convicted, for the murders of 190 children and one adult whom he ordered to starve to death to \"meet Jesus\"; prosecutors had sought the death penalty.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "More than 400 bodies were found in shallow graves in the Shakahola forest near Kenya's coast after Mackenzie's arrest in 2023, one of the world's deadliest cult tragedies.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWJEZlhYUDBGWkdyUkFhRTIyOHhxTDlGeU1iNV9GQS1Jd2ZnR1d1ZWRDdjRSa0JhUTBWNDE4bklCS09Xd0MxTXhCTzNWRGxxSGhMWXozZ3M0eVlUbjF5ZVlEQXVfVmwtTklCcDQ1cUt5QkZWRnZKcXRzMmpaMlFUSFcwdkxSRURZdUdyZXFiSGd4Wnc?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Tesla to stop making the Cybertruck",
+      "summary": "Elon Musk said Tesla will stop making the Cybertruck in 2027 to free factory space for its two-seat Cybercab robotaxis. Musk once predicted 250,000 sales a year, but Tesla sold just 20,237 in 2025.",
+      "category": "design",
+      "highlight": true,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-1152x648.jpg"
+      ]
+    },
+    {
+      "headline": "OpenAI valued at $1.25 trillion",
+      "summary": "OpenAI has reportedly raised $11bn so far in a round valuing it at $1.25tn, up from $852bn in March; the round could reach about $20bn, short of the $30bn first sought, as rival Anthropic prepares its IPO.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Chilean director Sebastián Lelio dies at 52",
+      "summary": "The Chilean director of the Oscar-winning 'A Fantastic Woman', 'Gloria', 'Disobedience' and 'The Wonder' was found dead at his home in Santiago on Friday; no cause was given.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Covered by 2 outlets",
+      "context": "'A Fantastic Woman' was the first Chilean film to win the Oscar for best international feature, in 2018.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sebastian-lelio-dead-fantastic-woman-disobedience-chili-1236749704/"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=700&quality=85&auto=format&fit=max&s=c4a6206c41d8724b516ad39cb57d0e1d"
+      ]
+    },
+    {
+      "headline": "Kristaps Porziņģis steps away from basketball",
+      "summary": "The 31-year-old Latvian, who has not played for Golden State this season and managed only 15 games last season, said his body was not responding and he will step away to prioritise his health.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3106499/sveikatai-pirmenybe-teikti-norintis-porzingis-pranese-kad-atsitraukia-nuo-krepsinio"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/11/07/news/kristapas-porzingis-neribotam-laikui-atsitraukia-nuo-krepsinio-44824233"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmoyYmltMkQ3QzRqRWFKc21IVkV5UTR3RlpxZEozTTdMaWFJd0l3RVZfcDJJa21nSlhVdzdtMm9JTHFFNklMb0xKOUNKNmNKc0xiRWRkbk0yb2ZTZWR5NmhzUldWTksyX1dDclpNR1ZYbE5sU0Z5T2FCMDBsYTJwejlYcVZmSk0xaHhBcFl4ZVF2cVU0UDdCQ1g3TVRRSjRxdkE?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/06/2533496-412903-1287x836.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Baletas „Gulbių ežeras“",
+      "when": "iki lapkričio 10 d.",
+      "where": "COMPENSA koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“: filmų premjeros",
+      "when": "šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Miuziklas „Mažasis princas“",
+      "when": "iki lapkričio 14 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "New Zealand general election results",
+      "when": "Saturday 7 November",
+      "where": "New Zealand",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israel's President Herzog names candidate to form government",
+      "when": "Sunday 8 November",
+      "where": "Jerusalem",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "São Paulo Formula 1 Grand Prix",
+      "when": "Sunday 8 November",
+      "where": "São Paulo, Brazil",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Russian ballistic missiles hit Kyiv overnight, injuring several people, damaging the North Bridge and energy sites that supply heating and water, days before US-led peace talks open in Abu Dhabi. Europe rejected US attempts to reshape its 'security architecture' in a deal with Russia, and China confirmed talks on a Xi-Trump-Putin meeting.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022. Its push on Kyiv failed, and the war turned into a grinding front-line fight in the east and south, with constant missile and drone strikes on cities and energy. In 2025 Donald Trump began pushing both sides towards a peace deal, so far without success.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/per-rusijos-smugius-kyjivo-srityje-apgadinti-energetikos-objektai-ir-tiltas-57-2800926?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/07/news/karas-ukrainoje-po-v-zelenskio-perspejimo-rusai-balistinemis-raketomis-smoge-kyjivui-44806956"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5NTMwOTQmZGF0ZT0yMDI2JTJGMTElMkYwNywyNzA5MDc0NTQy/gleb-garanich-reuters-6aeec22535a5c.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Trump said the US carried out 'minor' strikes knocking out an Iranian air defence system on Qeshm island, while claiming 'a lot of progress' in talks; the US also offered up to $20m for information on Iran's nuclear programme.",
+      "context": "Tensions over Iran's nuclear programme led Israel and the US to strike Iranian nuclear sites in June 2025. In February this year the US went to war with Iran, disrupting oil shipping through the Strait of Hormuz and pushing up fuel prices worldwide, while mediators such as Qatar try to broker a deal.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=700&quality=85&auto=format&fit=max&s=7751e15098bd7febeab0101fb3ff94c8"
+      ]
+    },
+    {
+      "id": "europe-hoax-bomb-threats",
+      "title": "Hoax bomb threats across Europe",
+      "update": "A third wave of hoax bomb threats this week hit at least 18 flights on Friday, all of which landed safely, with Hungary scrambling fighter jets to escort three planes; threats also forced evacuations at Ireland's RTÉ and other media. Ireland called it a likely coordinated campaign.",
+      "context": "Earlier this week scores of flights across Europe received bomb threats, forcing emergency landings, but no explosives were found. Suspicion has fallen on Russia, which has been accused of sabotage and disruption in Europe since its 2022 invasion of Ukraine.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-vyriskos-valstybes-ikurejas-neigia-kad-grupuote-yra-susijusi-su-grasinimais-bombomis-57-2800876?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/1f88c9a52100be8318eb3a96107a54f59d0a5606/205_0_4147_3317/master/4147.jpg?width=700&quality=85&auto=format&fit=max&s=fb868e3e898416cc612bc1907e2fa014"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Syria is helping Saudi Arabia with military advice and training amid Houthi attacks, Reuters sources say.",
+      "context": "Yemen's Houthi rebels seized the capital Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to back the government. A truce from 2022 largely held until fighting flared again this year, with Houthi missile attacks on Saudi Arabia and rebel advances towards Aden.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFuV2xuOUtpNDJEVlB0Q0NMYV9BQkNZTzkzRkNVWHBrVGI2TC0xeUk0LTVzdWJrclByYzR3OS1PV2VJaExTT0hud2hzSENNUnlZb0J5cE5yclAtcmljYnlRcFFTOXRuOFVYbUlnbmh3cU5qQTNQSWJ3SEJ1UENMTWFUOXVBZ2xVckpNWjcwOG5meGVBWFBZRlRyZ1Q4ZkNweDlsREhMRWFwX0NrSDctbVoyZDhfdUdzOFAyVmFReUFDNkVBcmc?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Protests across France and Europe",
+    "Cyber-attacks on European refrigeration systems",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 597,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}
