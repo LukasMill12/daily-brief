@@ -1,0 +1,457 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T07:03:37+00:00",
+  "weather": {
+    "min": 5,
+    "max": 7,
+    "precipitation_mm": 0.2,
+    "wind_max_kmh": 12,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 5…7 °C, dulksna."
+  },
+  "fact": {
+    "text": "The South Korean port city of Busan once appointed a shark as one of its honorary ambassadors.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Busan"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Kraków gun attack",
+  "heads_up": [
+    "Šiandien Nalšios šiaurinėje apygardoje vyksta pirmalaikiai Seimo nario rinkimai."
+  ],
+  "lithuania": [
+    {
+      "headline": "Valdo Adamkaus 100-mečio iškilmės",
+      "summary": "Lietuvoje iškilmingai paminėtas buvusio prezidento Valdo Adamkaus 100-asis gimtadienis; renginius lydėjo ginčai, kad dalis ilgamečių jo bendražygių negavo kvietimų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Iš JAV grįžęs Adamkus 1998 m. vasario 26 d. prisiekė kaip prezidentas ir atliko esminį vaidmenį Lietuvai integruojantis į ES ir NATO.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3106255/ne-seimininkas-o-prezidentas-kuo-adamkus-pakeite-lietuvos-politika"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFJ1VDZ4cS1HZmNxX2VoUG5lS3JianZrNWFjdDBjRTBfUWNxM1o1TmlYcms4d2tpNFdUWWhDSmw5alBRa0U1cEQ1eV9yT0FheXo3THUwNWU3dElMLVcxM1VVQlVKSDJIY2NkT1dLZndPZ3l4RjZpMWNaSlI5Tm1ZY1FjdEVZNGF5NXc2dDkzMEc0SlJGM1QxODJVd0dxaVhGckJBaDBMOUwzbll2cnFZdk5RazQ2YzhNOThGMnZ2eUttX1pYS3hpN002emxYWU1XV1Q4?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2020/10/30/764245-693141-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Mitalas sieks Vilniaus mero posto",
+      "summary": "Laisvės partija kandidatu į Vilniaus merus patvirtino savo pirmininką Vytautą Mitalą ir pristatė beveik 70 kandidatų į miesto tarybą sąrašą, tarp jų buvusį vidaus reikalų ministrą Eimutį Misiūną ir buvusį merą Remigijų Šimašių.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Savivaldybių tarybų ir merų rinkimai vyks 2027 m. kovo 7 d.; partija merų postų sieks mažiausiai 10 savivaldybių.",
+      "sources": [
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/07/news/oficialu-vytautas-mitalas-sieks-vilniaus-mero-posto-44831136"
+        },
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3107100/mitalas-sieks-sostines-mero-posto"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1lhSE9heUEzYmsySlM0WXRoWGQxbWFIcjFBR0JPbkhSdDZ4MUpJM2xvanZISDcyTm1XS1VwdEVXYTBpangwajZtSkppTjBOS3ZaTC1qLXAybDJYNGpIZWZPbTMwSEJCTmpNc29YNFctM0lCb01xYVlDdVFyNWVPRGtIUW5YZm9hZi1iWHN2OXdWTDBnRWt5ZzhINVdtdXpxT1Q1ODN2OWU5eld6aWpxa1J0MXNBaWhySFdqamRNTHhsN2VlYmhta0U1SkdwTXBDd3c?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2025/11/18/2242939-285533-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Nausėda palaiko referendumą dėl šeimos sąvokos",
+      "summary": "Prezidentas paragino Seimą surengti „valstiečių“ siūlomą patariamąjį referendumą, ar Konstitucijoje įtvirtinti, kad šeima kyla tik iš vyro ir moters santuokos; „valstiečiai“ grasina nepalaikyti biudžeto ar net palikti koaliciją, jei klausimas toliau strigs.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Konstitucinis Teismas 2011 m. išaiškino, kad šeima gali būti kuriama ir nesusituokus, o vėliau – kad ji apima ir tos pačios lyties poras. „Valstiečių“ nutarimo projektui Seimas pritarė balandį, tačiau jis įstrigo komitetuose; referendumą jie nori rengti kartu su savivaldos rinkimais.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3106461/referendumo-del-seimos-klausimas-ar-jis-gali-lemti-dar-vienus-koalicijos-pokycius"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/06/08/2411150-734858-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Six killed in Kraków shooting",
+      "summary": "A 25-year-old Polish gunman with 'ultra-nationalist' views opened fire in Kraków's Main Market Square, killing six people, including a Briton, and wounding 16; three more bodies, likely his family, were found at his home in Ostrowiec Świętokrzyski. PM Donald Tusk called it terrorism, and police shot and arrested the suspect.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 12,
+      "why": "Covered by 12 outlets",
+      "context": "Poland has very few mass shootings; Tusk said the country had never seen such a drastic case of terrorism.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg",
+        "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=700&quality=85&auto=format&fit=max&s=82c41f9da2bd275feb7f13bf191a5c45"
+      ]
+    },
+    {
+      "headline": "Eisenkot asked to form Israel's government",
+      "summary": "President Isaac Herzog gave opposition leader Gadi Eisenkot, who won 67 recommendations to Benjamin Netanyahu's 46, 28 days to build a majority in the 120-seat Knesset, a setback for Netanyahu.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 10,
+      "why": "Covered by 10 outlets",
+      "context": "Netanyahu, Israel's longest-serving prime minister, lost his coalition majority in the 27 October election: his bloc won 53 seats and Eisenkot's 48, while Arab-led parties won a record 19 and could be kingmakers. Eisenkot, a former military chief, has so far refused to govern with them.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "Trump offers UFC boss press secretary job",
+      "summary": "Donald Trump publicly asked UFC chief Dana White to become White House press secretary, a post vacant since Katie Zacharia quit after five days in October; White said he will meet Trump on Monday, though CNN reported he had declined.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 10,
+      "why": "Covered by 10 outlets",
+      "context": "The White House is reshuffling after Republicans lost Congress in this week's midterms; Stephen Miller is replacing Susie Wiles as chief of staff.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-siulo-spaudos-sekretoriaus-posta-ufc-vadovui-danai-whiteui-57-2801176?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "New Zealand election too close to call",
+      "summary": "On preliminary results, PM Christopher Luxon's National-led coalition holds a wafer-thin 67 seats, three ahead of the left bloc, but special votes that tend to favour the left could change that before official results on 27 November.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "The centrist Opportunity party won its first seats, seven, and could hold the balance of power.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=8f3b8896357b72317e0f0e7fb8b34aac"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "OpenAI's GPT-6 Cyber finds hundreds of bugs",
+      "summary": "OpenAI's new security model found 81 flaws in Firefox and 948 bugs in Linux.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "'Godzilla Minus Zero' heads for record launch",
+      "summary": "Takashi Yamazaki's sequel to the Oscar-winning Godzilla Minus One is heading for about $32m in its US opening weekend, the biggest for a live-action foreign-language film since Hero in 2004.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "Godzilla Minus One became Japan's first film to win the visual-effects Oscar.",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Nintendo's Ocarina of Time remake is out",
+      "summary": "Nintendo has released a remake of The Legend of Zelda: Ocarina of Time, the highest-rated game in Metacritic history, keeping the original's gameplay with new, more cartoonish graphics.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "The original came out in 1998 on the Nintendo 64 and set the standard for 3D games.",
+      "sources": [
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTHNYdGNfYzNjeDhxOVJNY3ZWaG52aHZSdWx4dy1uVm1peTl0M3ljNmRGZV94Ui1fX0xXMGo1eWNDQnVlcjBzUWZ3NjEtcGF3M3Bva0FWT0I2SUU?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"
+      ]
+    },
+    {
+      "headline": "Forest stun Man City 3-1",
+      "summary": "Liam Delap scored twice as Nottingham Forest beat Manchester City 3-1, City's third straight league defeat, leaving them six points behind leaders Arsenal, who beat Hull 1-0.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 1,
+      "why": "BBC Sport lead story",
+      "context": "Enzo Maresca is in his first season as Manchester City manager.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Baletas „Gulbių ežeras“",
+      "when": "iki lapkričio 10 d.",
+      "where": "COMPENSA koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Miuziklas „Mažasis princas“",
+      "when": "iki lapkričio 14 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "São Paulo Grand Prix, Lando Norris on pole",
+      "when": "Today",
+      "where": "São Paulo, Brazil",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US-Russia-Ukraine talks in Abu Dhabi",
+      "when": "Tuesday–Wednesday",
+      "where": "Abu Dhabi",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTNab2EtNEhQZTl2UkNQUk13ZmxhaEFKV0s3VGpGU0FxaldWNDIxYUxyLWJOMFNnNGsyclJwVVJwM3l3TEpQeDJvemJLN3hHNDcwRXRLMXBoUzdaT2xZYk1iVi1rMTNKVC12UXIzQ0ZDWkpFbkF2YUR4R0lfaFprYzJxczRaRlhLRFlsRzMwelBnUWYzSGkwaDlvMGJQcWRHWkZXMjJEWExUZ0E1dkZONEdZZlZ5eXBkbTFFMWFR?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Russia hit Ukraine's grid with 172 drones and 36 ballistic missiles, cutting power, water and heating in Kyiv and damaging the North Bridge. Zelensky called the US peace blueprint 'Yalta 2.0' ahead of Abu Dhabi talks on Tuesday and Wednesday, to which Russia is adding diplomats and military officials.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022. After Kyiv repelled the push on the capital, the war became a grinding front-line fight in the east and south, with Russia striking energy sites every winter. Since 2025 the US has pushed for a peace deal.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/trumpas-su-erdoganu-aptare-karo-ukrainoje-pabaiga-turkija-dave-pazada-57-2801224?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=700&quality=85&auto=format&fit=max&s=14968f14944040f095e5c88c5ddf98e8"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "The US launched Task Force Iron Gate to block Iran's land and Caspian supply routes and disabled the cargo ship M/V Huda trying to breach its naval blockade; Iranian media reported blasts on Qeshm Island and in Bandar Abbas.",
+      "context": "Tensions date back to the 1979 revolution and grew over Iran's nuclear programme, especially after the US left the 2015 nuclear deal in 2018. This year they turned into open war, with US strikes and, since July, a naval blockade of Iranian ports, while Qatar mediates talks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW5HVVl6cDF0V1htbGY0eU9zSmtxbjdEOW9ETW02b0JLVlJwSW1oODJBSDRFOXBrMXpfRElCa0NXeHdrUTlUYlo2MmZadHFZellGd2dkUFNyWG5BNy1INUhwa3hGRDRMX3hIcFpFMmRzdEtGRjJSUXZJTXZ1OHV5QjlSTUJvOW9mTURuX0wwVDRyQkRyR2tZaDhCRjZZTHpnZmFoSnpHRDZ5R01r?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Houthi media said Saudi air strikes killed at least 33 people, including children, and injured 39 in al-Shariyah, east of Sanaa; Syria denied plans to send troops to Yemen.",
+      "context": "The Houthis seized Sanaa in 2014 and a Saudi-led coalition intervened in 2015. The war lay dormant for several years but reignited because of the Iran war, when Saudi Arabia struck Sanaa airport; the UN says over 1,600 people have been killed since.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
+      ]
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "About 146,000 people (250,000 by union count) protested against living costs across France for a fourth weekend; police fired tear gas in Paris and Lyon.",
+      "context": "The protests began in France in September over poor conditions in high schools and grew into a student-led movement against falling living standards, joined by unions and the Yellow Vests.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/07/news/prancuzijos-gatvese-vel-tukstanciai-protestuotoju-bet-skaicius-jau-akivaizdziai-sumazejo-44831328"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHFKVEptdWVYVkNvazdmMDVOa00xN0RiNEQ2Z090WUZPOGJWTG94X0pmSG5sXzFsYWd0eEUxRFNoS3l4Ni1nQ0NzR1liNzBiXy1pQXNLLWVBME9vbm1SdVZnTVNjTFhTeVg2OHQ5cmJjTWFBR3lNTEhzaUxNajNtX0ZGS2NVT3lqYlFqZmMzUkE0ODNzQlFXWEVjcGtoeEdWMFV5SGF1LXfSAa4BQVVfeXFMUDFsVjFmVWYxRU9Sd3NiYWhJNWdaRlBPZEFyYk9KOFR4TlhCYzFWNmY4TnAxY0JENmtLcTM5Q3poYi04V1pYUGhTSnpDSDBuS09XbU9yemhZRGxMWVdjc2k3bHZLYmR6U0stZDdRM1RKSHRHMG5reE55T2Roa3p6LXdPQWw1QUxhbUo5d0NtSlhFOW5aVzJjU3NMcFdtOFRReTZMdVBuZWJrSWFrUEpn?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Hoax bomb threats across Europe",
+    "Cyber-attacks on European refrigeration systems",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 500,
+    "feeds": 28,
+    "feed_problems": [
+      "Google News Sports: HTTPError: HTTP Error 503: Service Unavailable"
+    ]
+  }
+}
