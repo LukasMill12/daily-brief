@@ -1,0 +1,449 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T07:06:15+00:00",
+  "weather": {
+    "min": 4,
+    "max": 6,
+    "precipitation_mm": 0.3,
+    "wind_max_kmh": 10,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 4…6 °C, dulksna."
+  },
+  "fact": {
+    "text": "Anne Chisholm once had a fictional goat named after her, in return for a negative book review she had written.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Anne_Chisholm"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Nvidia probes Huang",
+  "heads_up": [
+    "Šiandien paskutinė diena pasikeisti vasarines padangas į žiemines ar universalias."
+  ],
+  "lithuania": [
+    {
+      "headline": "URM prašo Taivano pakeisti atstovybės pavadinimą",
+      "summary": "Rugsėjo 24 d. URM viceministras Vidmantas Verbickas Taivaniečių atstovybės vadovei Constance Wang įteikė neoficialų dokumentą su raginimu iki spalio 1 d. pakeisti atstovybės pavadinimą, mainais žadėdamas viceministrų delegaciją į Taivaną ir investicijų susitarimą; žinia sukėlė aštrią reakciją.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Taivaniečių atstovybė Vilniuje atidaryta 2021 m. rudenį, nors kitose šalyse tokios atstovybės veikia Taipėjaus vardu. Kinija atsakė sumažinusi diplomatinius santykius iki laikinųjų reikalų patikėtinių lygio, o nuo praėjusių metų gegužės Lietuvoje neliko nė vieno Kinijos diplomato. Premjero Mindaugo Sinkevičiaus Vyriausybė siekia atkurti santykius su Pekinu, o lapkričio 11–12 d. į Lietuvą turėtų atvykti Kinijos diplomatai.",
+      "sources": [
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/09/news/ziniasklaida-urm-ragina-taivana-keisti-atstovybes-lietuvoje-pavadinima-44840682"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/urm-rugseji-pateike-taivanieciu-atstovybei-prasyma-pakeisti-pavadinima-56-2801556?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUFwU0hOTldmcXIwamxmNnZkS2JDS3ZJVk9QQ3d4OS03bWFnaW1UeHp2WVlNbGUxS2JMTFRPZWg2a2VYM2hSbDVUaG1DY3BYR2ppOVdZcm1IVlVqODg2aEx5VDg4NkxDZUV6LUM2TEVIaTZZb1dOUVBCdUtGNGpXSU9od0d2RHZxYUVrY290R1h1Vl9EY3RlRnBSODFFSDNxNWgtcmdveHN5V0w0S3FPc3p6Z0hGUzZEMGJrNHR0N09ibkdJWE4xM1JYbVJrbHlQeU5TeUNmbw?oc=5"
+        }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/11/09/060724921-b3a78a05-99ca-460e-bc9f-97f34418bf0b.jpg"
+      ]
+    },
+    {
+      "headline": "Nalšios apygardoje – antrasis turas: Kindurys prieš Paulauskę",
+      "summary": "Pirmalaikiuose Seimo rinkimuose Nalšios šiaurinėje apygardoje nė vienas kandidatas nesurinko reikiamų 5687 balsų, tad po dviejų savaičių antrajame ture varžysis valstietis Gintautas Kindurys ir liberalė Mėta Paulauskė. Aktyvumas siekė vos 32,2 proc.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3108008/preliminarus-rinkimu-rezultatai-antrajame-ture-kindurys-ir-paulauske"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmhyUTFXZ25OakFkSEs3ZU5OUmtSN3E3bXE4RHQ2MWpISjhTZ21GbFFjSXFoSElzUVhicnl6Z2FGc2FZakJQcnVzRG9qLVRlUlhmMXFDUGhtUFE4amRkQUlJLUVoTlduS0NUUzVnRm0wVkNmRGRTVlcyWmhXcmM3RGJ1VWtYNjVuTURuTmFXQTBtMWRYUUJHQjJwbzlBZ2ZMMjI0WlpHN2VkZlNfUFczMGZKYm03ODQ5UE9yeV9HZHdRQWdNX1dKUmpPYw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2020/10/15/742129-124326-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Valstiečių ultimatumas dėl biudžeto",
+      "summary": "Valstiečių, žaliųjų ir Krikščioniškų šeimų sąjungos frakcija koalicijos partneriams pareiškė, kad kitų metų biudžetą rems tik įvykdžius jos sąlygą, o tai gali kainuoti valstybei milijonus.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Po 2024 m. Seimo rinkimų socialdemokratai sudarė valdančiąją koaliciją, kurioje yra ir valstiečiai. Dėl kitų metų biudžeto koalicijos partneriai dar derasi, o Seimas jį turi priimti iki metų pabaigos.",
+      "sources": [
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/09/news/valstieciu-ultimatumas-gali-ne-tik-nervinti-socdemus-bet-ir-kainuoti-milijonus-valstybei-44826797"
+        }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/11/07/120328827-cbceebb6-6712-419d-a4be-986d72143ac4.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Nvidia investigates CEO Jensen Huang over affair with suspected spy",
+      "summary": "Nvidia's board opened an independent investigation after Jensen Huang admitted an affair with Alice Huang, a Megaspeed executive US officials say worked for Chinese intelligence and whose firm bought about $4.8bn of Nvidia equipment; Huang stays on as CEO, Trump called him 'honorable', and House Republicans want him to testify on 18 November.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 12,
+      "why": "Covered by 12+ outlets",
+      "context": "On 29 October The New York Times reported that Trump had been briefed last year that Huang had a close relationship with a Chinese businesswoman passing information to Beijing. Nvidia, the leading AI chipmaker, is at the centre of US efforts to keep advanced chips out of China.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=700&quality=85&auto=format&fit=max&s=479082a01b7c472e474af2b77df4e1a8",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "Trump says his deportation policy was 'too tough'",
+      "summary": "In a CBS '60 Minutes' interview, Donald Trump admitted his mass deportation policy was 'too tough' and offered Democrats a deal letting some long-term undocumented workers stay, days after his Republicans' heavy midterm defeat.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Trump returned to office in January 2025 promising the largest deportation drive in US history. Sweeping ICE raids followed, and federal agents shot dead two US citizens in Minneapolis earlier this year. Democrats won control of Congress in last Tuesday's midterms, yet on Friday Trump made Stephen Miller, the architect of the crackdown, his chief of staff.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3109046/donaldas-trumpas-interviu-cbs-deportacijos-politika-pavadino-per-griezta"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-interviu-cbs-deportacijos-politika-pavadino-per-griezta-57-2801562?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/d2da9c964ff03b1b8443aa38f9c263277095235f/342_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=b3ab287c8794ee40f7158799f6aa473d"
+      ]
+    },
+    {
+      "headline": "Pope Leo rebukes Milei's austerity in Argentina",
+      "summary": "Arriving in Buenos Aires on a 12-day Latin America tour, three weeks after lung cancer surgery, Pope Leo XIV told President Javier Milei that 'the economy must be at the service of the people' and that leaders must know the limits of their power, in a veiled rebuke of his cuts to disability aid.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Libertarian Milei took office in December 2023 and slashed public spending; the Catholic Church says the cuts hit the poorest hardest. He once called Argentine-born Pope Francis 'evil on earth' and a 'communist', though on Sunday he praised him. It is the first papal visit to Argentina in nearly four decades.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=700&quality=85&auto=format&fit=max&s=10ec074df5e4211e9bc79bc521c9f23c",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg"
+      ]
+    },
+    {
+      "headline": "Train collision in Egypt kills seven",
+      "summary": "A train to Fayoum ran into the back of a stationary Cairo–Aswan train in al-Ayyat, about 50 km south of Cairo, killing at least seven people, including a driver, and injuring 125; President Sisi ordered an investigation.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Train crashes are common in Egypt; its deadliest, in 2002 near the same spot, killed more than 300 people.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=700&quality=85&auto=format&fit=max&s=9a7f650e6ba494d56a7a03998e168b5f",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Norris wins in São Paulo as Mercedes clinch constructors' title",
+      "summary": "McLaren's Lando Norris won a wet São Paulo Grand Prix ahead of Max Verstappen, who started 21st, as Mercedes clinched their ninth constructors' title, the first since 2021, despite errors by Russell and new champion Kimi Antonelli.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "A week earlier, 20-year-old Antonelli became the youngest drivers' champion in F1 history.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3108151/formules-1-etape-san-paule-norriso-pergale-ir-mercedes-cempionu-titulas"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg"
+      ]
+    },
+    {
+      "headline": "Apple's CEO pushes for a more ambitious AI strategy",
+      "summary": "Per Bloomberg, CEO John Ternus is pressing Craig Federighi to turn Siri into an AI agent that can rival OpenAI and Meta; Siri should control Apple's own apps with iOS 27.3 and third-party apps in spring.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "'You Can See Everything' sweeps Critics Choice Documentary Awards",
+      "summary": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary won all five awards it was nominated for, including best documentary; it has grossed nearly $80m in the US, one of the highest totals ever for a documentary.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Awards result",
+      "context": "Critics Choice awards are given by a large association of US and Canadian film critics and are an early Oscar-season signal.",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-critics-choice-documentary-awards-winners-list-1236750661/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Alcaraz wins his first Paris Masters title",
+      "summary": "Carlos Alcaraz beat Ben Shelton in the final, avenging an earlier defeat and extending his comeback from injury.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Covered by BBC Sport and LRT",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3108078/saldus-revansas-seltona-iveikes-alcarazas-pirmakart-triumfavo-paryziaus-masters-turnyre"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Baletas „Gulbių ežeras“",
+      "when": "Iki lapkričio 10 d.",
+      "where": "COMPENSA koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "COP31 UN climate summit opens",
+      "when": "Today",
+      "where": "Türkiye",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3109030/turkijoje-prasideda-jt-klimato-derybos-cop31"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "G7 foreign ministers meet",
+      "when": "Today and tomorrow",
+      "where": "Paris",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3109010/paryziuje-susitinka-g7-saliu-uzsienio-reikalu-ministrai"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/paryziuje-susitinka-g7-saliu-uzsienio-reikalu-ministrai-57-2801526?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Trump told '60 Minutes' that the US-Ukraine-Russia talks in Abu Dhabi on 10–11 November are 'very close' to a deal and that Ukraine will likely end up 'a slightly different shape'; Europe will join the talks despite Kremlin objections.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and in the 2022 counter-offensives, but the front has since become a grinding war of attrition. In 2025 the US began pushing both sides towards a peace deal, leading to the current talks.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3109003/karas-ukrainoje-trumpas-po-karo-ukraina-greiciausiai-igis-siek-tiek-kitokia-forma"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-po-karo-ukraina-greiciausiai-igaus-siek-tiek-kitoki-pavidala-57-2801592?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/09/news/karas-ukrainoje-d-trumpas-prabilo-apie-teritorinius-pokycius-po-rusijos-ir-ukrainos-taikos-susitarimo-44837024"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran gave the US a two-day diplomacy ultimatum and its Revolutionary Guard lifted its 2,000 km missile-range limit; Trump said a renewed war is 'very unlikely' while talks progress and will meet Qatar's prime minister on mediation.",
+      "context": "Tensions over Iran's nuclear programme go back decades; in June 2025 Israel and the US bombed Iranian nuclear sites. This year the conflict escalated into a US war against Iran, followed by a fragile pause, a US naval blockade and now a land blockade of Iran's supply routes.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3108054/irano-revoliucine-gvardija-panaikino-balistiniu-raketu-veikimo-nuotolio-ribojima"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHpFQnJrS2J5UGR4S3M3SjZIVUJudmE0Rnd2OTVuajlHTmh1T01IUGN0Rk43VXdfRU51Qngxa0V3Q01tSTdTQkozenhjQ0xPUS1YSkFYYzctX3A1Mm5KOUN1aDhwdUNuNnZtdGdMbmpxUXp6SzZGZml5MFVRdXRnMnFxWHhPR2kwR1ZncUZEZVNJc3FncGfSAZsBQVVfeXFMT0M1d21OTVBXOWpVTkRVZFlieHRJQVA3a3c0akdpV01uUUdnQmpxLXZ1amozeFFtZS1yOFFGdTIwMjFka2RqN3ZBXzd5RkJrdVU4UHpHeDdkY3VsNVhuWlFIOHpGWXhGZWFQWEN4VURtUnduSEFFbU5wTnF0bDZ0NVVvTFdBTjBadC1SQ3dHUmVOd2ZUNXRTVUVQUEU?oc=5"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFjY1UwcWdiOGlGSXgyQlZZakp5clRWaDZZeTUtay1ndlRWMTFUU3hSbGtVWFFUWERkN1VRVlByaXlRUGhlSWJQa09VSnNrUlRIYWpqWjhGZ0xEUXJKU3V0MXRHbGE5SVk1dHNWcTI1a0NlWlhHTEo0dHJHMXlrUDN5YVltc19XWVRBWDJLYVI5ZWVRZVl4RndYd2ZpdFA3bzVROURqS1ZFeXlv0gGyAUFVX3lxTE1OQmZMZjJrSEsxcXQ4WDlPUUlmZkVRcVBmaTRMdGQwTWRLM09EQ0dqSk5aWWhuZnRvVXFNNjVFZ1M4OFdHT3k4UkJpMS1Tc2dNQnVoc1RMbVdydWRzZHRsVmRfNVZjZDIwNmNoTDZkOHpSN3c4UV9KY3FFWU9panRjZm05WTEtb3RxdVFuRi1XVVBNTDVkLUlMdGlwc2o1QzBDQjFaNjVHaktKSE1GUk5VUEE?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Houthis struck Riyadh's business district, damaging the Aramco Tower; Saudi Arabia said damage was minor with no casualties, while Riyadh's airport and Aramco storage sites were also targeted.",
+      "context": "The Houthis seized Yemen's capital Sanaa in 2014 and a Saudi-led coalition has fought them since 2015, though the war was largely dormant in recent years. After the Iran war broke out, an informal ceasefire collapsed in July when the Houthis declared a 'maritime embargo' on Saudi Arabia. The UN says more than 1,600 people have been killed since.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpUaXJBZU5CYXNqcDJjZkEtUlc5MWZRcVlsWmFWaWhDcHRJMTNLM05iV25SMEtHTGZyTTZHN3NlaGlGY1dwUFUxQmxXcFNxdmt5R3J1MVJGbmdjblFVMmR0UldtU2M3b0htSGE0YmNBSnNpd1JtVnJHTWlMMnRycHdYUFR1WGN5ck1rdjM0ZmtjNEstR1ZjZjh5X1d2M3g4RUY0bXVoR1VOOUNuWllTVm9qVzJuQQ?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFNfMGFpaEpaOGRfS0RYa3FEOFh5OWFNaWxxbUlkcEFjNF84YWhEdHRKV283Q3loNmdQVnhUQTl6SXRzSjlIQ3pyVWhwV2JhejFpaEUyc2gtVjN1QU12NGdFNVVfU3BJektraHNJc0ZOTURqTVJyTFFpZzBKSDlwUlVWY2UwSmJ1eEFtNXJOQkpzVUl6eTdyVTFB?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
+      ]
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "An EU report says a covert Russian network used social media to exploit the French riots.",
+      "context": "Protests against the rising cost of living began in France this autumn and have spread to other European countries, with large weekend marches and clashes with police for four weekends in a row.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbldwUkR6YVZGbDU3bzQ2aU5TMi1CR044NUVCRl90Ym90eFdMOEdSLVZSZUNrcHdaWFVaQjcxUFdrbExUM0hUczFuRU1fY1Y3NmVEejFvQTFpUWpWdmlVdkIzaGp6TFJlOHVMR1cwNzRGY3JGTVVRa2k5NTFfNzdnbE04LTJfNE5QREltMUExaUxoSXpDWFNQNGRn0gGfAUFVX3lxTE1zU1dhdDNhZTR5NUcwZVhDRGZONmxjM2dSUnJsQmNzTXpDSGs3VjJ3SW9UdUhROGlZT0VPZmozUDQyYUE4RnlYS3g5ZUhhQTVyc0ZYaEZaNTUtdU5Hc3lKTVQyZEJpdFU5bEx0bllNR2NxUkc3OENwSWpXbjg3MlpXT2U0clVucW8tTU5MTjJ2T25xYnNSVm4yN2QxVVVxTQ?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Hoax bomb threats across Europe",
+    "Cyber-attacks on European refrigeration systems",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 555,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}
