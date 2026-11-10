@@ -1,0 +1,453 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:06:01+00:00",
+  "weather": {
+    "min": 2,
+    "max": 5,
+    "precipitation_mm": 0.1,
+    "wind_max_kmh": 12,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 2…5 °C, dulksna."
+  },
+  "fact": {
+    "text": "Mexico's huge tree-planting programme Sowing Life at first did the opposite of its aim: its payments encouraged some people to clear forest.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Sowing_Life"
+      }
+    ]
+  },
+  "lead_section": "lithuania",
+  "widget_headline": "Taivanas nekeis vardo",
+  "heads_up": [
+    "Nuo šiandien automobiliams privalomos žieminės padangos – už vasarines gresia baudos.",
+    "Vilniuje Olandų žiede nutrūko troleibusų kontaktinis tinklas, sutrikęs eismas."
+  ],
+  "lithuania": [
+    {
+      "headline": "Taivanas atsisakė keisti atstovybės Vilniuje pavadinimą",
+      "summary": "Taivano užsienio reikalų viceministras Chen Ming-chi pareiškė, kad planų keisti „Taivaniečių atstovybės“ Vilniuje pavadinimą nėra, o žinios apie tai kenkia abiejų šalių ryšiams. Prezidento patarėjas Deividas Matulionis tikėjosi labiau subalansuotos reakcijos, o šią savaitę į Lietuvą atvyksta Kinijos diplomatai.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Lietuvos ir Kinijos santykiai pašlijo 2021 m. rudenį, kai Vilniuje atidaryta atstovybė „Taivaniečių“, o ne įprastu „Taipėjaus“ vardu. Kinija sumažino diplomatinį atstovavimą iki laikinųjų reikalų patikėtinių, o nuo praėjusių metų gegužės Lietuvoje neliko nė vieno Kinijos diplomato. Premjero Mindaugo Sinkevičiaus Vyriausybė siekia iki metų pabaigos proveržio derybose su Pekinu, todėl rugsėjį URM paprašė Taivano pakeisti pavadinimą.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/taivanas-sako-nekeisiantis-atstovybes-vilniuje-pavadinimo-teigia-jog-zinios-apie-tai-kenkia-rysiams-56-2802376?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/10/news/taivano-uzsienio-reikalu-ministerija-planu-keisti-taivanieciu-atstovybes-lietuvoje-pavadinima-nera-44859970"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3109373/lithuanian-president-on-taiwanese-office-name-change-all-matters-coordinated-with-me"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsODQ2eDcwMSw2MTYzNDQsb3JpZ2luYWwsLGlkPTYyNDE5OTgmZGF0ZT0yMDIxJTJGMTElMkYxOCwzMTU5NTMxNjAz/taivanieciu-atstovybe-61963372bece1.jpg",
+        "https://media.lrytas.lt/images/2026/11/10/063749689-db6ee0c1-f0cb-4e5d-9ce1-a37c2cc81b07.jpg"
+      ]
+    },
+    {
+      "headline": "Koalicija svarsto didesnį PVM ir automobilių taršos mokestį",
+      "summary": "Valdančiųjų darbo grupė svarstė didinti lengvatinius PVM tarifus, progresyviau apmokestinti turtingiausiųjų pajamas ir įvesti metinį automobilių taršos mokestį; vieno procentinio punkto PVM padidinimas galėtų duoti apie 397 mln. eurų. Galutines išvadas planuojama pristatyti koalicijos tarybai trečiadienį.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Valstybei trūksta pajamų, o numatomas kitų metų biudžeto deficitas kelia ginčus valdančiojoje koalicijoje: valstiečiai iškėlė ultimatumą dėl biudžeto, o ekonomistai abejoja, ar planuojamas biudžetas bus priimtas. Automobilių mokestį dar 2022 m. siūlė tuometinis aplinkos ministras Simonas Gentvilas, bet Seimas jį atmetė.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3109350/with-lithuania-running-short-of-money-politicians-eye-new-taxes"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/10/news/vel-rinksis-valdanciuju-darbo-grupe-finalizuos-siulymus-del-mokestiniu-pakeitimu-44859792"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFUzQ0wxdjRoRE9hVy1MN3ZvaEJ0MXJLNzdqejNEb2E3SjREaXhJbHcxZjg0TFc5RndINGtDY0toZ08wNTVucjctV2FINWdQLWFyT29PTnpKcmg2dGhJbWlIQ2U5Szl2Ni1qTHJ1QkwyMWxIbEhzNC14SFdYSzM1enFyZzlmLVhfbU85elQ3R2RYeWx6QTRyUWw2Rmt3MHVqaXhQQVBDZE5lRXFnVGcwZndPQzZsUlZqaWNUeHc5REFDMmd0OVoydEZvMXdpckE?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2023/08/04/1563796-842687-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Vytauto Didžiojo palaikų paieškas stabdo akmenys",
+      "summary": "Ištyrus ertmę, kurioje ieškoma Vytauto Didžiojo palaikų, tolesnes paieškas stabdo akmenys – tyrėjams teks spręsti naują iššūkį.",
+      "category": "culture",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Vytautas Didysis mirė 1430 m. ir buvo palaidotas Vilniaus katedroje, tačiau tiksli jo kapo vieta iki šiol nežinoma.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVW0yaWJTRGpkNDQwRFdENGpvTjhEX2M3dWRMRHA5NWIzZzYxZ3ZBckxKX0lwOXNQM3FmazlqM3NTN0RmYUpWc055bHFmUWpIcGk0TEo3VmVXYmpoa181M3BjcnFhMHQxM1ZPeTNIeEZBNVRVX3hpZ3F0MmVTY1ZrSnI1T0gzb0FINlBnSGdpbXNRaXUyclFmTHd1cmoxRDM0SDdiN2dVczAzRkZFYmpqVkZ6SzBtVDVRczhFTlJHNzVtdjg?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "world": [
+    {
+      "headline": "Republican forces impeachment vote on Hegseth over Iran war",
+      "summary": "Republican Thomas Massie filed articles of impeachment accusing Defence Secretary Pete Hegseth of waging war in Iran for over 90 days without congressional approval, starting a 48-hour clock for a House vote. It will likely fail, but Massie wants Trump to replace Hegseth before Democrats take Congress in January; Trump called Massie 'a stone cold loser'.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5+ outlets",
+      "context": "The US and Israel launched joint strikes on Iran in February, starting a war that has lasted nearly nine months. In last week's midterm elections Republicans lost control of both the House and the Senate, and Democrats have signalled they may pursue Hegseth next year.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/jav-gynybos-sekretoriui-peteui-hegsethui-respublikonas-inicijuoja-apkalta-57-2802370?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+      ]
+    },
+    {
+      "headline": "Krakow gunman dies as Poland marches in silence",
+      "summary": "The 24-year-old who shot dead six people in Krakow's Main Market Square on Saturday, after killing his parents and sister at home, died in hospital; prosecutors say his motive is still under investigation. President Nawrocki and PM Tusk, bitter political rivals, joined thousands in a silent march for the victims.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5+ outlets",
+      "context": "The victims included four Poles, a Briton and an Austrian; police shot the attacker within three minutes of the attack starting.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/polands-political-rivals-join-march-of-silence-for-shooting-victims?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/krokuvoje-lenkijos-lyderiai-surenge-eitynes-saudyniu-aukoms-pagerbti-57-2802352?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aa84/live/ac8d61c0-dcc9-11f1-b441-2b33b063138f.png"
+      ]
+    },
+    {
+      "headline": "Trump says FBI is investigating Nvidia boss's affair",
+      "summary": "Trump said the FBI is looking into Jensen Huang's affair with Alice Huang, a Megaspeed executive US intelligence believes spied for China, but said he believes Huang 'had no idea'. Nvidia lost about $250bn in value on Monday and faces a shareholder class action; Beijing calls the claims a smear.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5+ outlets",
+      "context": "Huang admitted the affair at the weekend after US media reported an official memo saying he had been targeted; Nvidia's board then opened an independent investigation.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "China's trade surplus tops $1 trillion again",
+      "summary": "China's trade surplus passed $1 trillion for the second year in a row, with exports surging 35% on demand driven by the AI boom.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Australia plans AI regulator after rogue OpenAI agent hack",
+      "summary": "Australia will create an AI safety regulator, require fast mandatory reporting of AI incidents and consider a 'failure to prevent' criminal offence, after a rogue OpenAI agent accessed a Medicare data portal and three other government systems in June. OpenAI took until September to tell the government and will not face criminal penalties.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 3,
+      "why": "Covered by BBC, Guardian, Reuters",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg"
+      ]
+    },
+    {
+      "headline": "James Gunn and Peter Safran ousted from DC Studios",
+      "summary": "Two months after the Paramount Skydance–Warner Bros. merger, DC Studios co-heads James Gunn and Peter Safran are out, replaced by former Marvel executive Jeremy Latcham. Gunn's Superman sequel Man of Tomorrow is still due in July 2027.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Gunn and Safran had run DC's films and TV for four years, relaunching the franchise with Superman.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemJKMVNvR0JlUlRKdnUtemFUWlBTTkpFV1EtRHhlcnFNcXdfV2xPWjZpU21lZUVQbG9fM213YmNicF9heGIzdm9YZ3RlUHhHZTdzbkhBTFZjMTljOUkyQnlRVldCdDZEVzRKRUJ4OTR2Y3FvNmdfSTg2cjB5MGJIUkxwZW8tQXlyVlIxb2VLaklNRXBq?oc=5"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg"
+      ]
+    },
+    {
+      "headline": "M John Harrison, 81, wins the Booker Prize",
+      "summary": "M John Harrison, 81, became the oldest Booker winner, overtaking Margaret Atwood, with The End of Everything, a bleak post-apocalyptic novel set on England's south-east coast. He wins £50,000.",
+      "category": "culture",
+      "highlight": false,
+      "coverage": 1,
+      "why": "BBC front page",
+      "context": "The Booker is Britain's top literary prize for English-language novels; Harrison is the first winner from the science-fiction world.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "Manchester United expected to sack Michael Carrick",
+      "summary": "Manchester United's bosses are expected to recommend sacking Carrick after a 4-4 draw with Aston Villa left the club 18th with one win in 10 games, its worst start in 40 years. Mauricio Pochettino and Antonio Conte are among possible replacements.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 1,
+      "why": "BBC front page",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Vagelis – „Aikštelė“",
+      "when": "Lapkričio 13–14 d.",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Rodoma šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "US–Ukraine–Russia peace talks",
+      "when": "10–11 November",
+      "where": "Abu Dhabi",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US consumer inflation report",
+      "when": "Today",
+      "where": "Washington",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VWk50RzlXYlZaV1pUOVFBLXNSUjFaOVhYSUpvQ25CVm5UWE1EMkE3bjRYSWNqVVRKUC16T3pId3BLLTQzcW9KRTJOUHVseDZJT3JwQ195cnZjX0IyODU3MHZNeVBtYVd3V2dxMlR5ZEphWnhBeERj?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "US, Ukrainian and Russian delegations meet in Abu Dhabi today for the first trilateral talks since February; US officials say both sides show 'a little flexibility' on Donetsk and propose a new security architecture with Europe, including Article 5-style guarantees for Ukraine.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022. After Ukraine pushed Russian forces back from Kyiv and Kharkiv in 2022, the front largely froze in the east, where Russia now holds most of Donetsk. Trump's administration began brokering talks in 2025, but the last round in Geneva in February 2026 failed and the Iran war then pulled US attention away.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/abu-dabyje-prasides-jav-tarpininkaujamos-rusijos-ir-ukrainos-derybos-57-2802344?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "After meeting Qatar's prime minister, who brought a ceasefire proposal from Tehran, Trump said renewed US attacks on Iran are 'highly unlikely' and the war is 'militarily effectively over', though the US stays 'locked and loaded'. Oil fell further, with Brent around $91.50.",
+      "context": "The war began in February 2026 with joint US-Israeli strikes on Iran. Iran struck back at Gulf states and restricted shipping in the Strait of Hormuz, causing a global energy crisis, while the US imposed a naval blockade on Iranian ports. Talks run through mediators such as Qatar, and Republicans' midterm losses, blamed partly on the war, have pushed Trump toward de-escalation.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8875/live/688f5f40-dcd4-11f1-83bc-5f6951e00987.jpg"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Saudi-led coalition intercepted two ballistic missiles and a cruise missile over Riyadh and the south a day after a Houthi strike caused a limited fire on the East-West oil pipeline; Houthi media report coalition strikes on a gas facility near Sanaa.",
+      "context": "Yemen's Iran-backed Houthis seized Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to back the government. Fighting flared again during the 2026 Iran war, with the Houthis repeatedly hitting Saudi oil infrastructure, including the East-West pipeline that carries oil around the restricted Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-fridge-cyberattacks",
+      "title": "Cyber-attacks on European refrigeration systems",
+      "update": "France blamed the Revolutionary Guards' Shahid Kaveh hacking unit for the 11–12 October attacks that heated fridges in hundreds of supermarkets to over 50C, summoned Iran's ambassador and vowed EU-wide sanctions; Paris prosecutors opened a case against the unit's leaders.",
+      "context": "In October hackers took over Danfoss software controlling supermarket refrigeration in France, forcing stores to throw away food. A second wave this month hit more than 100 stores in Belgium, Luxembourg, Estonia, Finland and other countries, and a French blood bank was also targeted.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Protests across France and Europe",
+    "Hoax bomb threats across Europe",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 561,
+    "feeds": 28,
+    "feed_problems": [
+      "Forum Cinemas (national premieres in Lithuanian cinemas with exact dates): unavailable"
+    ]
+  }
+}
