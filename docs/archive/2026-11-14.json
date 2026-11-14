@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:04:06+00:00",
+  "weather": {
+    "min": 3,
+    "max": 6,
+    "precipitation_mm": 4.5,
+    "wind_max_kmh": 21,
+    "code": 55,
+    "rain_from": "07:00",
+    "text": "Vilniuje 3…6 °C, dulksna, krituliai nuo 07:00."
+  },
+  "fact": {
+    "text": "Hungary built an EU-funded walkway through a forest canopy, and then the forest around it was cut down.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Nyírmártonfalva_canopy_walkway"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "US flights halted",
+  "heads_up": [
+    "Nuo pirmadienio – neterminuotas mokytojų streikas, dalyvaus apie 150 mokyklų.",
+    "Savaitgalį Kaune vyksta karinės pratybos: sraigtasparniai ir imitaciniai šūviai."
+  ],
+  "lithuania": [
+    {
+      "headline": "Nuo pirmadienio streikuos apie 4 tūkst. mokytojų",
+      "summary": "Švietimo darbuotojų profesinės sąjungos duomenimis, neterminuotame streike nuo pirmadienio ketina dalyvauti apie 150 mokyklų ir 4 tūkst. mokytojų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "",
+      "sources": [
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/svietimas/2026/11/13/news/ziniasklaida-lsdp-sako-kad-streike-zada-dalyvauti-apie-150-mokyklu-ir-4-tukst-mokytoju-44918270"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEVsc0JmQlNkVUwzRFZSLTF6Tm9SU0prMEhrbF9tOUxOYmZUMDc0eFpOVzdacUhyRFNsUU5McFo0em5ua3p6b1hoQTY0RnFqaFl6RmZ0VE10UlV4NDI0YWp6YXhVc0JVUExJdU5HTFNrUy10bW96WXdEZXVNRm1Lc2FpRjFJX0xaRkJSdzZtc2RFbVNSNDJVZWxLcXpaNnZGN3lZeEZibHozaTRzYUZQUWpnY2g?oc=5"
+        }
+      ],
+      "images": [
+        "https://media.lrytas.lt/images/2026/11/13/190330846-10d6f836-ddf3-435f-b3f0-53f221bfb847.jpg"
+      ]
+    },
+    {
+      "headline": "Kariuomenė paaiškino, kodėl raketa nepataikė į droną",
+      "summary": "Kariuomenės teigimu, virš Kauno naikintuvai nešovė dėl pavojaus mieste, o vėliau viena raketa nukrito Biržų rajone, kita, panašu, neiššovė; tokia raketa kainuoja kelis šimtus tūkstančių eurų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Praėjusią savaitę iš Baltarusijos įskridęs, įtariamai ukrainietiškas dronas praskrido per Lietuvą ir trumpam į Lenkiją, o NATO oro policijos naikintuvai du kartus nesėkmingai bandė jį numušti.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3113313/expensive-missiles-cheap-drones-cost-effectiveness-of-protecting-lithuania-s-airspace"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT21xZnQwV28zSDdEdElvaERsVm5sMk1WX215amVVbUJ5VFliaUVZdnFEMHFzQzlGQTNaV3VkMS1UeWVneWhXRURFMlkxZmc3NXRYcXowblBzNkxMUVRDOEpyOWZrZXotYVVHMTRtRWRVN1FvSE5yS05OamVQcVIzbVMtZC0xOVdTbk02QmNFTDhCX0J4Y0ZTSi1ZekF4SWlobHBVNnIyN0xMQ3JfLVdUbUhsdXo?oc=5"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDRNZF83eGYyVVZpa2xBZUZLdmZpQ01sZ1RIam55VVhBeW9VQkR5cV9EYWdVT2VEbDFYMkJDN1VTdTc1Vm82ZkN6emR5dkw4N2lZSGx2dDk5RnczQlFPdnZKTW5NNVRiX1dtMnZnRDNHZXVaazF3a1dBa1JHaFYwRTJnenZDcE9WUS1DYnZvQTFnRjNGWjItaE16N0xIME0?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/12/2538119-205072-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Socialdemokratai į Vilniaus merus kelia Jurą Taminską",
+      "summary": "Vilniaus socialdemokratų konferencija į merus iškėlė susisiekimo ministrą Jurą Taminską, o partijos sąrašą į tarybą ves Povilas Pinelis; jie varžysis su meru Valdu Benkunsku, Vytautu Mitalu, Simonu Gentvilu ir kitais.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Tiesioginiai merų ir savivaldybių tarybų rinkimai vyks 2027 m. kovo 7 d.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3113398/socialdemokratai-i-vilniaus-merus-kelia-taminsko-kandidatura-sarasa-ves-pinelis"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/13/news/-socdemai-i-vilniaus-merus-kelia-j-taminska-bet-kilo-sarsalas-del-s-birucio-jis-sako-kad-ivyko-samokslas-44910532"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/socialdemokratai-tvirtins-savivaldos-rinkimu-programa-pristatys-kandidatus-i-merus-56-2805978?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/04/2528499-163856-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "US grounds all flights for hours",
+      "summary": "The FAA halted all US departures for more than four hours on Friday, the longest ground stop since 9/11, causing about 8,000 cancellations and 8,500 delays; officials blamed an overloaded legacy telecom system, not a cyber-attack.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 15,
+      "why": "Top BBC story, covered by 15+ outlets",
+      "context": "Transportation Secretary Sean Duffy said the old air traffic control system needs a complete overhaul, costing about $50 billion.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+      ]
+    },
+    {
+      "headline": "Trump, Putin and Xi to meet in China",
+      "summary": "Trump, Putin and Xi will hold their first three-way meeting on Thursday at the APEC summit in Shenzhen, where Trump plans to discuss nuclear arms cuts and the Iran war but not Ukraine; US officials expect no agreement.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "The last US-Russia nuclear arms treaty, New START, expired in February, and Trump has demanded a new deal that includes China.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunas-donaldas-trumpas-su-xi-jinpingu-ir-vladimiru-putinu-aptars-irana-bet-ne-ukraina-57-2805996?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+      ]
+    },
+    {
+      "headline": "All survive tanker crash into New Orleans cruise boat",
+      "summary": "The tanker Atlantic Asphalt, apparently after losing steering, rammed the docked riverboat American Heritage, which rolled onto its side; everyone was accounted for and 32 people went to hospital with non-critical injuries.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 9,
+      "why": "Covered by 9 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+      ]
+    },
+    {
+      "headline": "Pope Leo draws 1.5 million near Chiclayo",
+      "summary": "Pope Leo XIV celebrated Mass near Chiclayo in Peru, where he was bishop from 2015 to 2023, before an estimated 1.5 million people, weeks after lung cancer surgery.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Top Google News World story",
+      "context": "Leo XIV, elected in May 2025, lived in Peru for long periods and became a Peruvian citizen in 2015; Peru is the longest stop on his first Latin America tour.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Starship flies, but booster catch aborted",
+      "summary": "SpaceX launched Starship on its 15th test flight, but the Super Heavy booster was diverted to the Gulf of Mexico instead of being caught by the tower; the ship is in orbit and may attempt the first upper-stage catch on Saturday.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Catching both stages is key to making Starship fully reusable.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg"
+      ]
+    },
+    {
+      "headline": "ChatGPT Wallet lets AI agents shop for you",
+      "summary": "OpenAI's new ChatGPT Wallet lets its 'Dots' agents buy things for users, with each purchase approved by Face ID or fingerprint; it starts with US Pro subscribers.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Covered by TechCrunch and The Verge",
+      "context": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Pochettino leaves US team for Man United",
+      "summary": "Manchester United appointed Mauricio Pochettino to replace the sacked Michael Carrick, paying about £7.4m to release him from the US national team; he inherits a side 18th in the Premier League.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "He will lead the US against Haiti on 14 and 18 November before his first United game at Liverpool on 22 November.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1V2b3Y4N0pIMmd0d08yNDVxcWg2a0ZmZm9kdmdLTmhIZzlZR2Q4Zlh4OWkyQUg3Tkk2eXVzamIyUTNhRUx6TFlvbk1vX3VFMmp6cUp1eHlhMXl1a2NMSWYzNFR3VE0xeGJCZlhlajVrZVZUaTZRQjhRbGFKcnVjZ25JZkhZaXZWem5pT0pnRkNEMUZyUWc?oc=5"
+        },
+        {
+          "name": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGdGYUhsWm5DT0h2S0E0cUN2THM2RzN1RmgxSFhZVGdEcnY4QzhiLTRwR0g2c2dYRENseGRURHlKby03S1ZobG42RlJ1d2lJWF9EakRzU3VJTUFNQkNuak5YaGJCQm8wSzhncUllNHhobFBKRTRoQUs5b0dpZ1FzUkl4TDd1dFhId2w4X3FVeFFqUQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png"
+      ]
+    },
+    {
+      "headline": "New Regency sues Michael Mann over 'Heat'",
+      "summary": "New Regency sued Michael Mann to keep the rights to the 1995 'Heat' screenplay, which Mann is trying to reclaim under copyright law before shooting 'Heat 2' in January.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Covered by Variety and The Hollywood Reporter",
+      "context": "Mann argues he wrote it as an independent author; New Regency says it was work for hire.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/"
+        }
+      ],
+      "images": [
+        "https://variety.com/wp-content/uploads/2025/03/mann.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Thomas Anders (Modern Talking) koncertas",
+      "when": "Lapkričio 21 d., 19:00",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Alizée koncertas",
+      "when": "Lapkričio 20 d.",
+      "where": "Compensa koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Europos kino festivalis „Scanorama“",
+      "when": "Rodoma šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "First Eurovision Song Contest in Asia",
+      "when": "Saturday, 14 November",
+      "where": "Bangkok, Thailand",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump attends ASEAN summit and Quad meeting",
+      "when": "Tuesday, 17 November",
+      "where": "Manila, Philippines",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "UFC 334: Nunes returns against Harrison",
+      "when": "Saturday, 14 November",
+      "where": "UFC 334",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcV9nVjVrRVZhdGFGNnhFOWptVlNweG50bmktV3RzUkEwUmpQQ3EzTGVDOTRsdE1iVGRiR3dHVHg5dzQ2WXU3MVhyY3UzQU0yQmxGN2ZBMmFOQk91N0dQUnJGMkZGMU4wNFM1MmV6SHAxZ3RUVVVEQ0tmUUwwQlVBcFByQ3pEZjQxMWJhX1dTRi1aZnFZVHh4RFFKc1loVUYtZ18wNWxRQmtyTlN5MElCSlZuWE9EM2JFSHBSMjB6NTBCTTh0VlIxLV9uR25LSUllTU1obXJ3?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Bild reports Russia's terms include no NATO bases in the Baltics and Finland leaving NATO; Finland called this outrageous and the Kremlin denied the Finland demand. The EU picked a five-nation group to speak for Europe at the talks, and Ukraine launched nearly 1,200 drones at Russia.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Kyiv's forces pushed Russian troops back from Kyiv and later Kharkiv and Kherson, but the front has since largely settled into a war of attrition in the east. This year the US has led talks with Moscow on ending the war.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3113194/russia-s-demands-for-ukraine-war-end-include-ban-on-nato-bases-in-baltics-german-media"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/suomija-grieztai-sureagavo-i-rusijos-reikalavima-trauktis-is-nato-57-2805914?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/11/2537597-47114-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "nvidia-huang-affair",
+      "title": "Nvidia CEO's affair with alleged Chinese spy",
+      "update": "Treasury Secretary Bessent blamed Commerce Secretary Lutnick's department for not blacklisting Megaspeed, the chip buyer linked to the alleged spy; the White House is reportedly discussing firing Lutnick, who will testify next month.",
+      "context": "Reports emerged this month that Nvidia CEO Jensen Huang had an affair with a Chinese businesswoman alleged to be a spy. He resigned as CEO and board member, and Congress summoned him to testify.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran said an LNG tanker hit a naval mine in the Strait of Hormuz, while Secretary of State Rubio said further US military action against Iran is not needed.",
+      "context": "Tensions date back to Iran's 1979 revolution; in June 2025 the US and Israel bombed Iran's nuclear sites. This year the conflict turned into open war, and Iran has since attacked shipping in the Strait of Hormuz and, this week, a US radar in Bahrain.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Saudi Arabia-Houthi fighting",
+    "Hoax bomb threats across Europe",
+    "Cyber-attacks on European refrigeration systems",
+    "Protests across France and Europe",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 599,
+    "feeds": 28,
+    "feed_problems": [
+      "Forum Cinemas (national premieres in Lithuanian cinemas with exact dates): unavailable"
+    ]
+  }
+}
