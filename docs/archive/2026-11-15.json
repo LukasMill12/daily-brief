@@ -1,0 +1,475 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:03:50+00:00",
+  "weather": {
+    "min": 2,
+    "max": 6,
+    "precipitation_mm": 0.7,
+    "wind_max_kmh": 18,
+    "code": 51,
+    "rain_from": null,
+    "text": "Vilniuje 2…6 °C, dulksna."
+  },
+  "fact": {
+    "text": "More than 10% of all black holes and neutron stars were once part of X-ray binaries, feeding on gas from a massive partner star.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Black_hole"
+      }
+    ]
+  },
+  "lead_section": "lithuania",
+  "widget_headline": "Atšilimas su Kinija",
+  "heads_up": [
+    "Pirmadienį prasideda mokytojų streikas: dalyvaus apie 150 mokyklų",
+    "Pietryčių Lietuvoje vyksta pratybos – skraidys kariniai sraigtasparniai ir dronai"
+  ],
+  "lithuania": [
+    {
+      "headline": "Lietuva ir Kinija gali atkurti diplomatinį atstovavimą",
+      "summary": "Ketvirtadienį URM atstovai Vilniuje susitiko su Kinijos diplomatų delegacija ir sutarė tęsti konsultacijas. Premjeras Mindaugas Sinkevičius sako, kad tai sudaro prielaidas atkurti diplomatinį atstovavimą Pekine ir Vilniuje, nes abi pusės tuo suinteresuotos.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Santykiai pašlijo 2021 m., kai Vilniuje atidaryta Taivaniečių atstovybė: Pekinas pažemino atstovavimą iki laikinųjų reikalų patikėtinių lygio. Lietuvai atsisakius akredituoti naujus Kinijos diplomatus, nuo pernai gegužės šalyje neliko nė vieno. Šią savaitę paaiškėjo, kad URM rugsėjį paprašė atstovybės pakeisti pavadinimą.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3114063/premjeras-urm-ir-kinijos-atstovu-susitikimas-sudaro-prielaidas-atstatyti-atstovavima"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2RvUXRZWVUwVDAzRUZYQm1SQnlvUVJvTmhfMjV6YnRvaDdtRHYyb3laSHRvWGdaRVdfY2w1eXdfa0ZnaXZ0OHVaTjZmZURZQ1lacWgzeEwyYzBMTXNadVNZVFF6eVBkTmNib2llWnRfNjF2OWlKbnd6cTJYMnNBY3otMmlvNm45UVUtSkxIZjZxQU5jbnlaVTNvVmtLZzdId0VpRkI2VTB0bHBORjZCN29TbGxYd3dW?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2021/08/12/1030182-798216-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Konstitucinis Teismas sustabdė dviračių gatvių taisykles",
+      "summary": "Konstitucinis Teismas sustabdė dviračių gatvių taisyklių galiojimą, kol jas išnagrinės.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "",
+      "sources": [
+        {
+          "name": "MadeinVilnius.lt",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXNIXzA0UUl2N3E2bXYtVF9qWi1pMkVGZm1hUGNZbW81VWQ3ZmNuOXJMNHV4bFV2MFM2eXJSMVpwM2kwdmVSYlN1UGFKdFBDOGNBWmtaZ0luOXFWQUQyN2oxOTlwSjl1YU9oVzR0cGtsN0VoVGRtMzhhajlpRU90TzRtSzRPT3lHaXVlRS1JYXBJYzJwd3RmRUNtMXZqakdETGRNdWVCbThtN1lwZlc3dERuLWtwVG5sREl0d085LXJ0TzN2Y1Roc21NclpKbFdfUmlPRWhSYUJyMmJDSl9Z?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Sinkevičius: pensijų indeksavimas nebus keičiamas",
+      "summary": "Socialdemokratai patvirtino kandidatus į merus 59 savivaldybėse – tarp jų susisiekimo ministras Juras Taminskas Vilniuje ir keli Seimo nariai; rinkimai vyks kovo 7 d. Partijos taryboje premjeras Mindaugas Sinkevičius pažadėjo, kad kol jis vadovauja Vyriausybei, pensijų indeksavimas nebus keičiamas.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Socialdemokratai laimėjo 2024 m. Seimo rinkimus ir vadovauja valdančiajai koalicijai, o šiuo metu turi daugiausia merų – 18. Svarstant valstybės išlaidas, kai kurie politikai pasiūlė peržiūrėti automatinį išlaidų, įskaitant pensijas, indeksavimą; partijos garbės pirmininkas Vytenis Andriukaitis tokius siūlymus sukritikavo.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3114025/socialdemokratai-paskelbe-kandidatus-i-merus-sarase-ir-ministrai-ir-seimo-nariai"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTXlWbnFQanZuNkV6MUpxM0hoWFZULS05NDdOVmJvWDNNc1diVU1hV1JvRGw3WEh4M2VlWkxHbUNUc2piclZfeWF3V21aS2tFc2lmY0hkYzVvQm1wT0tPT0lIaHVuSmkxdmNPSXRCQTFnZzJvdTRiWHJobW1jS29TbEpfRDlaenRacXZjODBSeE1wdFJ6cHdYZXZMcTY3UlFDWDQ3UmNZTUxSYk1PODhtN05NdVh4bTRaNXR6NVZFUW15UmRhaGdJckx6SHRUTkRaeWNvR2JZdm52aDA?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/14/2539533-942584-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Router fault during wiring upgrade grounded US flights",
+      "summary": "US officials say Friday's four-hour nationwide ground stop began when a router being worked on during contractor L3Harris's switch from old copper wire to fibre flooded air traffic systems; there is no sign of a cyber-attack. More than 3,500 flights were cancelled on Saturday, and the FAA expects full recovery by the end of Sunday.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 10,
+      "why": "Covered by 10+ outlets",
+      "context": "Nationwide ground stops are extremely rare; the first came after the 9/11 attacks in 2001. Transport Secretary Sean Duffy says ageing equipment needs the $30.1bn upgrade Trump has requested from Congress.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+      ]
+    },
+    {
+      "headline": "Democrats win Alaska governorship for first time since 1998",
+      "summary": "Former state legislator Jonathan Kreiss-Tomkins, 37, beat a Trump-backed Republican to become Alaska's first Democratic governor since 1998, bringing Democrats to 30 governorships. Democrat Mary Peltola is also likely to win the state's Senate seat, and voters kept open primaries and ranked-choice voting.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "The US held midterm elections on 3 November, two years into Donald Trump's second term, and Democrats made sweeping gains, including governorships in Iowa, Georgia, Ohio and Texas. Alaska's ranked-choice count took 10 days.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=18fe8df04a58512d362fc7ed5e2919fb"
+      ]
+    },
+    {
+      "headline": "Hungary finds $20m in cash buried in forests",
+      "summary": "Investigators seized cash worth $19.5m, buried in forests and hidden in farm buildings and safes, in a bribery probe into Miklós Seszták, Orbán's development minister in 2014–2018, over inflated bus purchases by the state transport company. He denies wrongdoing.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Viktor Orbán ruled Hungary for 16 years amid long-running allegations of cronyism. Péter Magyar beat him in a landslide in April 2026 promising an anti-corruption drive, and since September several Orbán-era ministers and Orbán's brother have been detained.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "POLITICO.eu",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWpaQ0R5clFucEpOR09uNV91cEcwUi1SMGdiWjhVYWM3VkFfTnJibzRLR013M2FXQWNlRXVHaV9fRXJVaEtvWWxmdm5DOXZ2RlFXRWJCbm54MWdLQnNVOXYzblRKUDRrMjh6WEFCSXY1NGpNeXVraVVrVWtmS25jQjdDZGRld0VBUFpHdUFxaTU3R09IS0NiaW1Wb3lOblc1?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=700&quality=85&auto=format&fit=max&s=2682fe132af002aa768cc8b6b617216e"
+      ]
+    },
+    {
+      "headline": "Netanyahu pleads with Eisenkot for unity government",
+      "summary": "Caretaker prime minister Benjamin Netanyahu publicly urged Gadi Eisenkot to form a national unity government with Likud. Eisenkot, who has until 6 December to form a government, called it a 'trick' and said Netanyahu knows he lost the election.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Netanyahu has led Israel for most of the past 15 years, through the war that began with Hamas's attack on 7 October 2023. In the recent election his bloc fell short, and former army chief Gadi Eisenkot was given the mandate to form a coalition.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/benjaminas-netanyahu-tik-vienybes-vyriausybe-gali-uztikrinti-izraelio-sauguma-57-2806238?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/b-netanyahu-kalbas-apie-vienybes-vyriausybe-g-eisenkotas-vadina-gudravimu-44928458"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=700&quality=85&auto=format&fit=max&s=5fd49fdc7d95d7fc81dfa75a7d810f1e"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "SpaceX catches Starship with tower arms for first time",
+      "summary": "On its 15th test flight, Starship's 52-metre upper stage orbited Earth 14 times over 22 hours and was then caught by the Texas launch tower's 'chopstick' arms for the first time. The booster catch was aborted and it exploded over the Gulf of Mexico.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 10,
+      "why": "Covered by 10+ outlets",
+      "context": "Catching both stages is key to making Starship reusable; NASA plans to use it to land astronauts on the Moon from 2028.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=700&quality=85&auto=format&fit=max&s=3f4fcffd1a8ba8409afd12b189054ca8",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
+      ]
+    },
+    {
+      "headline": "Wales beat New Zealand for first time in 73 years",
+      "summary": "Wales, 30-1 outsiders and 12th in the world rankings, beat the All Blacks in Cardiff, ending a 34-match losing run against New Zealand going back to 1953.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 1,
+      "why": "BBC front page",
+      "context": "",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg"
+      ]
+    },
+    {
+      "headline": "'Fatherland' leads European Film Award nominations",
+      "summary": "Paweł Pawlikowski's Thomas Mann drama 'Fatherland' leads with 11 European Film Award nominations, ahead of Spain's 'La Bola Negra' with 10, and also won the top prize at the Camerimage cinematography festival. Sandra Hüller has two best actress nods.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Major film awards news",
+      "context": "The European Film Awards are Europe's main film prizes, often called the European Oscars.",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Brain implants let ALS patients speak and sing",
+      "summary": "New brain implants have given ALS patients who lost their speech a voice to talk and even sing.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "ALS is a nerve disease that gradually paralyses the body, often including speech.",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alizée koncertas",
+      "when": "lapkričio 20 d.",
+      "where": "Compensa koncertų salė, Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Thomas Anders iš „Modern Talking“",
+      "when": "lapkričio 21 d., 19:00",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "Vilniaus dokumentinių filmų festivalis 2026",
+      "when": "šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Trump, Xi and Putin meet at APEC in China",
+      "when": "This week",
+      "where": "China",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "ICJ rules on whether Myanmar committed genocide against Rohingya",
+      "when": "This week",
+      "where": "The Hague",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs England, Nations League",
+      "when": "Tonight",
+      "where": "Madrid",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Zelensky says US envoys floated Ukraine withdrawing from Donbas in exchange for NATO membership, and he would put a concrete deal to a referendum; the US has not confirmed it. Kushner says he will broker direct Europe-Russia talks, and the Telegraph reports Putin wants Britain to stop covering Europe with its nuclear weapons.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Kyiv repelled the push on the capital, but Russia holds much of the east and south. In 2025-2026 the US pushed peace talks, with Russia demanding the rest of Donetsk region and new European security terms.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/-the-telegraph-v-putinas-britams-pateike-ultimatuma-44928051"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran tensions",
+      "update": "Iran's navy says three tankers are on fire after hitting mines in the Strait of Hormuz, and Iran says it attacked a US base in Bahrain, which issued its first threat alerts since September.",
+      "context": "Tensions over Iran's nuclear programme turned into open conflict in June 2025, when Israel and the US struck Iranian nuclear sites. Fighting flared again in 2026, with attacks on shipping in the Strait of Hormuz, a key route for world oil and gas.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nvidia-huang-affair",
+      "title": "Nvidia CEO's affair with alleged Chinese spy",
+      "update": "After Jensen Huang resigned on Thursday, a petition backed by Elon Musk and over 115,000 people, including about 6,000 Nvidia employees, urges the board to reinstate him; CFO Colette Kress is interim CEO.",
+      "context": "Earlier this month Huang confessed to an affair with a chip executive suspected by US intelligence of being a Chinese spy, linked to Megaspeed, a firm accused of funnelling chips to China. The scandal drew in US officials over why Megaspeed was not blacklisted, and Huang has agreed to testify to Congress.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "The Saudi-led coalition shot down two Houthi ballistic missiles aimed at Riyadh and three drones in the Eastern region, while fighting intensifies in Yemen's Marib and al-Jawf.",
+      "context": "Yemen's war began in 2014 when Houthi rebels seized Sanaa, and a Saudi-led coalition intervened in 2015. After a truce from 2022, Houthi attacks on Saudi Arabia resumed on 23 September, killing at least 26 people there, and the UN says over 340,000 Yemenis have been displaced since August.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "europe-protests",
+      "title": "Protests across France and Europe",
+      "update": "About 106,000 people marched across France on the fifth Saturday in a row, the lowest turnout in weeks, focusing on a bill giving police a presumption of self-defence when they fire; police used tear gas in Paris, Bordeaux and Nantes. Tens of thousands also marched in Portugal against soaring home prices.",
+      "context": "For over a month students, unions and 'yellow vest' activists in France have blockaded schools and protested over living costs and policing, with the far right leading polls ahead of next year's presidential election.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/virs-100-tukst-zmoniu-susirinko-i-protestus-prancuzijoje-57-2806228?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/prancuzijoje-desimtys-tukstanciu-protestuotoju-skandavo-sukius-pries-infliacija-ir-policija-44928434"
+        },
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWJZRklkOFZabGx4WDN5V0pUSnFnUW9uSG0wek82OGNyVm1CeHVSWlNkTmF6am1UNVplVTd6LU9iakE0RzczR2JpTWQ2UUYtNmc4dTNDVzEwS1F3WG5mQUpDMEI0SlcteHAyOTVKOHZWNE1pM05XYVZuc19zampUcmZJSm5uZjg5TVJlX29BemJFX0ZDenlkN3I2OW9WUEtf?oc=5"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5NjQyMTImZGF0ZT0yMDI2JTJGMTElMkYxNCwyMjcyNjY2NTI2/paryzius-kevinrzksipa-kevinrzksipa-6af8a3ff713db.jpg"
+      ]
+    }
+  ],
+  "quiet_ongoing": [
+    "Hoax bomb threats across Europe",
+    "Cyber-attacks on European refrigeration systems",
+    "Israeli operation in the West Bank",
+    "Sudan civil war"
+  ],
+  "stats": {
+    "items_read": 534,
+    "feeds": 28,
+    "feed_problems": []
+  }
+}
