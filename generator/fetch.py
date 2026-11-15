@@ -5,6 +5,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -152,38 +153,41 @@ def fetch_events_text(url: str, max_chars: int = 7000) -> str:
     return "\n".join(l for l in lines if l)[:max_chars]
 
 
-def fetch_forum_premieres(url: str, today: datetime) -> str:
-    """Forum Cinemas films premiering from 3 days ago to 10 days ahead, one line each, soonest first."""
-    try:
-        movies = json.loads(download(url))
-    except Exception:
-        return ""
-    lines = []
+def fetch_forum_premieres(url: str, today: datetime) -> str | None:
+    """Forum Cinemas films with a Lithuanian premiere from 2 days ago to 14 days ahead, one line each, soonest
+    first; "" when none fall in that window, None when the listing can't be read."""
+    for attempt in range(2):
+        try:
+            movies = json.loads(download(url, timeout=60))
+            break
+        except Exception:
+            movies = None
+    if movies is None:
+        return None
+    lines = set()
     for movie in movies:
         fields = movie.get("custom_fields") or {}
-        raw = fields.get("movie_raw_data") or {}
-        if isinstance(raw, str):
-            try:
-                raw = json.loads(raw)
-            except ValueError:
-                raw = {}
-        premiere = str(raw.get("premiereDate") or "")[:10]
+        raw = str(fields.get("movie_raw_data") or "")
+        # The national (Lithuanian) premiere date; the general premiereDate is often missing.
+        national = re.search(r"nationalPremiereDate'?\"?:\s*'?\"?(\d{4}-\d{2}-\d{2})", raw)
+        general = re.search(r"premiereDate'?\"?:\s*'?\"?(\d{4}-\d{2}-\d{2})", raw)
+        premiere = (national or general).group(1) if (national or general) else ""
         try:
             days = (datetime.fromisoformat(premiere).date() - today.date()).days
         except ValueError:
             continue
-        if not -3 <= days <= 10:
+        if not -2 <= days <= 14:
             continue
         title = clean(fields.get("title") or movie["title"]["rendered"])
         original = clean(fields.get("title_original") or "")
         details = [d for d in (
             clean(str(fields.get("genres") or "")),
-            f"rež. {clean(fields['movie_regie'])}" if fields.get("movie_regie") else "",
+            f"dir. {clean(fields['movie_regie'])}" if fields.get("movie_regie") else "",
             f"IMDb {fields['imdb_rating']}" if fields.get("imdb_rating") else "",
         ) if d and d != "-"]
         name = title + (f" ({original})" if original and original != title else "")
-        lines.append((premiere, f"Premjera {premiere}: {name}" + (f" — {'; '.join(details)}" if details else "")))
-    return "\n".join(line for _, line in sorted(set(lines)))
+        lines.add((premiere, f"Premjera {premiere}: {name}" + (f" — {'; '.join(details)}" if details else "")))
+    return "\n".join(line for _, line in sorted(lines))
 
 
 def fetch_article_text(url: str, max_chars: int = 3000) -> str:
@@ -198,13 +202,38 @@ def fetch_article_text(url: str, max_chars: int = 3000) -> str:
     return text[:max_chars]
 
 
-def fetch_facts(url_template: str, day: datetime) -> tuple[list[dict], str | None]:
-    """Wikipedia's "Did you know…" items, then its "On this day" events: sentence, kind and linked article."""
+def fetch_til(url: str) -> list[dict]:
+    """Reddit "Today I learned" posts: the fact and the article the post links to (or the post itself)."""
+    # Reddit rate-limits automated readers by the minute, so wait and try again a few times.
+    root = None
+    for attempt in range(4):
+        try:
+            root = ET.fromstring(download(url))
+            break
+        except Exception:
+            time.sleep(8)
+    if root is None:
+        return []
+    facts = []
+    for entry in root.iter(f"{ATOM}entry"):
+        title = clean(entry.findtext(f"{ATOM}title"))
+        text = re.sub(r"^TIL\W+(that\W+)?", "", title, flags=re.I).strip()
+        content = html.unescape(entry.findtext(f"{ATOM}content") or "")
+        linked = re.search(r'<a href="(https?://(?!www\.reddit\.com)[^"]+)">\[link\]', content)
+        post = entry.find(f"{ATOM}link")
+        link = linked.group(1) if linked else (post.get("href") if post is not None else "")
+        if text:
+            facts.append({"kind": "today I learned", "text": text, "link": link})
+    return facts
+
+
+def fetch_facts(url_template: str, day: datetime, til_url: str = "") -> tuple[list[dict], str | None]:
+    """Fact candidates: Reddit "Today I learned", Wikipedia's "Did you know…", then "On this day"."""
+    facts = fetch_til(til_url) if til_url else []
     try:
         data = json.loads(download(url_template.format(year=day.year, month=day.month, day=day.day)))
     except Exception as exc:
-        return [], f"{type(exc).__name__}: {exc}"
-    facts = []
+        return facts, None if facts else f"{type(exc).__name__}: {exc}"
     for item in data.get("dyk", []):
         raw = item.get("html") or item.get("text") or ""
         href = re.search(r'href="\.?/?([^"#]+)', raw)

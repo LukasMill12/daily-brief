@@ -33,7 +33,7 @@ FEEDS = [
     {"name": "Reuters", "section": "world", "url": f"{GOOGLE}/search?q=site:reuters.com+when:1d&{EN}"},
     {"name": "AP", "section": "world", "url": f"{GOOGLE}/search?q=site:apnews.com+when:1d&{EN}"},
     {"name": "LRT World", "section": "world", "url": "https://www.lrt.lt/naujienos/pasaulyje?rss"},
-    # Interesting: AI, tech, design, sports
+    # Interesting: AI, tech, design, film, gaming, sports
     {"name": "Google News Tech", "section": "interesting", "ranked": True, "url": f"{GOOGLE}/headlines/section/topic/TECHNOLOGY?{EN}"},
     {"name": "TechCrunch", "section": "interesting", "url": "https://techcrunch.com/feed/"},
     {"name": "The Verge", "section": "interesting", "url": "https://www.theverge.com/rss/index.xml"},
@@ -44,6 +44,9 @@ FEEDS = [
     {"name": "The Hollywood Reporter", "section": "interesting", "url": "https://www.hollywoodreporter.com/c/movies/feed/"},
     {"name": "IndieWire", "section": "interesting", "quiet": True, "url": "https://www.indiewire.com/c/film/feed/"},
     {"name": "Kino pavasaris", "section": "interesting", "quiet": True, "url": "https://kinopavasaris.lt/naujienos/feed/"},
+    {"name": "Eurogamer", "section": "interesting", "url": "https://www.eurogamer.net/feed"},
+    {"name": "VGC", "section": "interesting", "url": "https://www.videogameschronicle.com/feed/"},
+    {"name": "Polygon", "section": "interesting", "quiet": True, "url": "https://www.polygon.com/rss/index.xml"},
     {"name": "Google News Sports", "section": "interesting", "ranked": True, "url": f"{GOOGLE}/headlines/section/topic/SPORTS?{EN}"},
     {"name": "BBC Sport", "section": "interesting", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
     {"name": "LRT Sport", "section": "interesting", "url": "https://www.lrt.lt/naujienos/sportas?rss"},
@@ -59,7 +62,7 @@ EVENT_SOURCES = [
      "series or festivals; it has no screening dates, so present these as now showing or this week",
      "url": "https://www.pasaka.lt/repertuaras"},
     {"id": "ev4", "name": "Forum Cinemas", "about": "national premieres in Lithuanian cinemas with exact dates",
-     "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=60&orderby=date&order=desc", "kind": "forum"},
+     "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=100", "kind": "forum"},
 ]
 
 # Open-Meteo, free and keyless.
@@ -72,3 +75,6 @@ WEATHER_URL = (
 # Wikipedia's daily featured feed for the fact of the day: its curated "Did you know…" (varied, quirky facts)
 # and "On this day" lists; {year}/{month}/{day} are filled in.
 FACTS_URL = "https://en.wikipedia.org/api/rest_v1/feed/featured/{year}/{month:02d}/{day:02d}"
+
+# Reddit's "Today I learned": the week's most-upvoted fun facts, the light, tell-a-friend kind.
+TIL_URL = "https://www.reddit.com/r/todayilearned/top/.rss?t=week&limit=40"

@@ -13,7 +13,7 @@ STORY = {
     "properties": {
         "headline": {"type": "string"},
         "summary": {"type": "string"},
-        "category": {"type": "string", "enum": ["general", "ai", "tech", "design", "sports", "film", "science", "culture"]},
+        "category": {"type": "string", "enum": ["general", "ai", "tech", "design", "sports", "film", "gaming", "science", "culture"]},
         "highlight": {"type": "boolean"},
         "coverage": {"type": "integer"},
         "why": {"type": "string"},
@@ -95,12 +95,12 @@ How to choose stories
 Sections
 - lithuania: exactly 3 of the most important Lithuanian stories, ranked. Lithuanian outlets give the same event very different headlines, so translate first and group by the underlying event (same people, place, decision or number), not by wording. Cluster counts on lithuania items are the strongest signal here; add matching items from other outlets to the count. Prefer national news (government, Seimas, security, economy, major incidents) over local crime, accidents and celebrity stories. A story carried by only one outlet makes the cut only if nothing better covered is left.
 - world: 3 or 4 of the most important world stories, ranked.
-- interesting: 2 to 4 picks from AI, tech, design, sports and film (science or culture if something stands out). Prefer substance over hype; mix categories when possible. Include one film story whenever there is real film news: a major release or trailer, a festival or awards result, a record-breaking review score or box office, a notable director or casting announcement. Skip film gossip and routine marketing.
+- interesting: 3 or 4 picks, chosen like a friend who knows the reader: first gather the best candidate from each interest (AI, tech, design, film, gaming, sports; science or culture if something stands out), then keep only the 3 or 4 that are most exciting or most talked-about today and drop the rest, even whole categories. No category is guaranteed a slot; a quiet day for one interest just means it's left out. Weigh how big the news is (a major release, launch, result, record or deal) and how fun it is to read. Film: major releases and trailers, festival or awards results, record review scores or box office, notable director or casting news. Gaming: big game releases and reveals, record sales or player counts, studio news, standout review scores; skip deals posts and routine patches. Skip gossip, listicles and marketing.
 - events: 1 to 3 Vilnius events plus 1 to 3 global events, so both kinds appear every day; use 3 only when there are that many worth knowing about. Vilnius events (scope "vilnius") must come from one of the event listings, take place in Vilnius in the next 7 days, and cite that listing's id (e.g. "ev1") as their only item id. Mix kinds when possible (a concert, an exhibition, a festival, or a special screening or premiere at Pasaka). Global events (scope "global") are notable dated happenings in the coming days from the news, e.g. an election tomorrow, a summit, a court ruling, a launch or a big match tonight; there is almost always one. Don't repeat the top story as an event.
 - ongoing: long-running stories (wars, conflicts, multi-week crises). Include one only if something new happened in the last 24 hours, and write only what changed, in one or two sentences, without retelling the background. Reuse the id of a previously tracked story when it continues; make a short kebab-case id for a new one. List previously tracked stories that had no real news today in `quiet_ongoing` (titles only).
 - lead_section: "lithuania" or "world", whichever section's first story is the single most important story of the day. The app shows that story as a large lead paragraph.
 - widget_headline: a 2–3 word label for the lead story, at most 22 characters, in the lead story's language, no final period. It sits alone on a small curved line on the home screen widget, so the reader must understand what happened from these words alone. Read the story and write the label fresh: name the core subject and what happened (e.g. "Skola brangsta", "Brazil decides", "Kaunas sky closed", "Biudžetas be liberalų"). Never use the first words of the headline, a truncated phrase, or a label that only makes sense with more context.
-- fact: one fact of the day in English, at most about 25 words in one or two short sentences, citing the id it comes from. It should be a cool, surprising random fact that makes a curious adult think "huh, I didn't know that": science, nature, space, the human body, inventions, language, art, film, music, sport, food, odd places, quirky people. Prefer the "did you know" candidates ([d0], [d1], …); use an "on this day" one only when it is genuinely surprising, and then start with the year ("In 1977, …"). Avoid war, military, terrorism, killings, disasters and anything crude; vary the topic from yesterday's fact. Never trivia-quiz material, celebrity birthdays or anything cheesy, and never anything that isn't stated in the candidates. Rewrite it in your own plain words.
+- fact: one light, fun fact in English that the reader could tell a friend over coffee, at most about 25 words, citing the id it comes from. Think animals, food, the human body, space, everyday objects, words and names, odd inventions, pop culture, film, games, sport, weird places. It should make someone smile or say "wait, really?". Prefer the "today I learned" candidates, then "did you know"; use "on this day" only if it's genuinely funny. Not a history lesson: avoid war, dictators, politics, death, disasters and crime, and avoid anything crude. Pick a different topic from yesterday's fact. Never trivia-quiz material; rewrite it in your own plain words, without "TIL". If no candidate is light enough, you may instead use a widely documented fun fact you are certain is true (no item ids then), never a made-up or shaky one.
 - context (on every lithuania, world, interesting and ongoing entry), in the entry's language. First decide what kind of story it is:
   * Part of a longer story (a war, a long political crisis, a court saga, an election race, a long-running dispute): tell the backstory from the very beginning in plain words, as to someone who never followed it: when and how it started, why, and the two or three key turns that led to today. Two to four short sentences, in time order, e.g. "It began in February 2022, when Russia invaded Ukraine… Since then…". Every ongoing entry is this kind.
   * Self-contained (an accident, an award, a single announcement or deal): at most one short, plain sentence that makes it understandable (who someone is, what something means), or an empty string if it explains itself.
@@ -112,7 +112,7 @@ Rules
 - Every story appears once. If a story belongs to an ongoing event, it goes in ongoing, not in lithuania or world.
 - headline: short and factual, no clickbait. summary: one or two sentences, the key facts and numbers.
 - why: a few words on why it was picked, in the entry's language, e.g. "Covered by 9 outlets" or "Apie tai rašė 5 portalai".
-- highlight: true for stories about AI, tech, design, sports or film, in any section.
+- highlight: true for stories about AI, tech, design, sports, film or gaming, in any section.
 - category: "general" for anything outside the reader's topics.
 - item_ids: cite every item that reports this story itself (all outlets, including Google News items), the main news report first, so the reader gets several sources and the full articles can be looked up. Leave out pieces that only touch the story from another angle: celebrity, lifestyle, opinion or reaction pieces.
 - photo_ids: up to 2 ids of items marked {photo} whose photo would show this story: its event, place or the people at its centre, as judged from that item's headline and outlet. Never pick photos from celebrity, lifestyle or unrelated pieces, and prefer the main news report's photo. An empty list is better than a photo that doesn't fit."""
@@ -199,7 +199,7 @@ Forecast (shown to the reader separately): {weather['text'] if weather else "una
 </event_listings>
 
 <fact_candidates>
-Wikipedia's curated "Did you know…" facts and "On this day" anniversaries for today:
+Fun-fact candidates: Reddit "Today I learned" (the week's most upvoted), Wikipedia "Did you know…" and "On this day":
 {facts}
 </fact_candidates>
 

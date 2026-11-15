@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 from editor import SCHEMA, SYSTEM, build_prompt, validate, write_brief
 from fetch import fetch_all, fetch_article_text, fetch_events_text, fetch_facts, fetch_forum_premieres, fetch_weather
-from sources import EVENT_SOURCES, FACTS_URL, FEEDS, WEATHER_URL
+from sources import EVENT_SOURCES, FACTS_URL, FEEDS, TIL_URL, WEATHER_URL
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -44,7 +44,10 @@ def candidate_sources(ids: list[str], items: list[dict], on_this_day: list[dict]
         if key == "events":  # older drafts cited the ticket listing this way
             key = "ev1"
         if key.startswith("d") and key[1:].isdigit() and int(key[1:]) < len(on_this_day):
-            candidates.append({"name": "Wikipedia", "url": on_this_day[int(key[1:])]["link"]})
+            fact = on_this_day[int(key[1:])]
+            if fact["link"]:
+                name = "Wikipedia" if "wikipedia.org" in fact["link"] else re.sub(r"^www\.", "", fact["link"].split("/")[2])
+                candidates.append({"name": name, "url": fact["link"]})
         elif key in EVENTS_BY_ID:
             candidates.append({"name": EVENTS_BY_ID[key]["name"], "url": EVENTS_BY_ID[key]["url"]})
         elif key.isdigit() and int(key) < len(items) and items[int(key)]["link"]:
@@ -190,10 +193,13 @@ def main() -> int:
                else fetch_events_text(e["url"])} for e in EVENT_SOURCES]
     weather, weather_error = fetch_weather(WEATHER_URL)
     local = now.astimezone(VILNIUS)
-    on_this_day, on_this_day_error = fetch_facts(FACTS_URL, local)
+    on_this_day, on_this_day_error = fetch_facts(FACTS_URL, local, TIL_URL)
     print(f"Fetched {len(items)} items from {len(FEEDS)} feeds; "
           f"event listings: {[len(e['text']) for e in events]} chars; weather: {weather['text'] if weather else 'unavailable'}")
-    problems += [f"{e['name']} ({e['about'].split(',')[0]}): unavailable" for e in events if not e["text"]]
+    # None means the listing couldn't be read; an empty premiere list just means a quiet fortnight.
+    problems += [f"{e['name']} ({e['about'].split(',')[0]}): unavailable" for e in events
+                 if e["text"] is None or (not e["text"] and e.get("kind") != "forum")]
+    events = [{**e, "text": e["text"] or "(nothing listed)"} for e in events]
     if weather_error:
         problems.append(f"weather: {weather_error}")
     if on_this_day_error:
