@@ -1,297 +1,310 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T07:03:50+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T07:05:34+00:00",
   "weather": {
-    "min": 2,
-    "max": 6,
-    "precipitation_mm": 0.7,
-    "wind_max_kmh": 18,
-    "code": 51,
+    "min": 1,
+    "max": 5,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 19,
+    "code": 3,
     "rain_from": null,
-    "text": "Vilniuje 2…6 °C, dulksna."
+    "text": "Vilniuje 1…5 °C, debesuota."
   },
   "fact": {
-    "text": "More than 10% of all black holes and neutron stars were once part of X-ray binaries, feeding on gas from a massive partner star.",
+    "text": "Aerosmith reportedly made more money from the video game Guitar Hero: Aerosmith than from any one of their own albums.",
     "sources": [
       {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Black_hole"
+        "name": "thestar.com.my",
+        "url": "https://www.thestar.com.my/news/true-or-not/2024/11/20/quickcheck-has-aerosmith-made-more-money-from-guitar-hero-than-any-of-their-albums"
       }
     ]
   },
-  "lead_section": "lithuania",
-  "widget_headline": "Atšilimas su Kinija",
+  "lead_section": "world",
+  "widget_headline": "Trump, Xi, Putin meet",
   "heads_up": [
-    "Pirmadienį prasideda mokytojų streikas: dalyvaus apie 150 mokyklų",
-    "Pietryčių Lietuvoje vyksta pratybos – skraidys kariniai sraigtasparniai ir dronai"
+    "Šią savaitę lietų keis šlapdriba, keliuose galimas plikledis.",
+    "Nuo pirmadienio dalyje mokyklų ir darželių streikuoja pedagogai."
   ],
   "lithuania": [
     {
-      "headline": "Lietuva ir Kinija gali atkurti diplomatinį atstovavimą",
-      "summary": "Ketvirtadienį URM atstovai Vilniuje susitiko su Kinijos diplomatų delegacija ir sutarė tęsti konsultacijas. Premjeras Mindaugas Sinkevičius sako, kad tai sudaro prielaidas atkurti diplomatinį atstovavimą Pekine ir Vilniuje, nes abi pusės tuo suinteresuotos.",
+      "headline": "Prasideda neterminuotas mokytojų streikas",
+      "summary": "LŠDPS nuo pirmadienio pradeda neterminuotą streiką, prie kurio, profsąjungos duomenimis, jungiasi 222 švietimo įstaigos, tarp jų ir darželiai. Vyriausybė kitąmet siūlo mokytojų algas didinti 7,56 proc. (245 mln. eurų), o profsąjunga reikalauja 10 proc.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "Santykiai pašlijo 2021 m., kai Vilniuje atidaryta Taivaniečių atstovybė: Pekinas pažemino atstovavimą iki laikinųjų reikalų patikėtinių lygio. Lietuvai atsisakius akredituoti naujus Kinijos diplomatus, nuo pernai gegužės šalyje neliko nė vieno. Šią savaitę paaiškėjo, kad URM rugsėjį paprašė atstovybės pakeisti pavadinimą.",
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "Andriaus Navicko vadovaujama LŠDPS neterminuotai streikavo 2018 m., o 2023 m. dalis pedagogų nedirbo nuo rugsėjo pabaigos iki gruodžio vidurio, kol buvo priimtas biudžetas. Pernai profsąjunga vėl grasino streiku, bet ministerija rado papildomų 100 mln. eurų. Pagal nacionalinį švietimo susitarimą pedagogų alga turi siekti 130 proc. šalies vidutinio darbo užmokesčio, dabar ji nesiekia 120 proc.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3114063/premjeras-urm-ir-kinijos-atstovu-susitikimas-sudaro-prielaidas-atstatyti-atstovavima"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/svietimo-darbuotoju-profesine-sajunga-pradeda-neterminuota-streika-56-2806570?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2RvUXRZWVUwVDAzRUZYQm1SQnlvUVJvTmhfMjV6YnRvaDdtRHYyb3laSHRvWGdaRVdfY2w1eXdfa0ZnaXZ0OHVaTjZmZURZQ1lacWgzeEwyYzBMTXNadVNZVFF6eVBkTmNib2llWnRfNjF2OWlKbnd6cTJYMnNBY3otMmlvNm45UVUtSkxIZjZxQU5jbnlaVTNvVmtLZzdId0VpRkI2VTB0bHBORjZCN29TbGxYd3dW?oc=5"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/svietimas/2026/11/16/news/lietuvoje-prasideda-neterminuotas-dalies-pedagogu-streikas-44939627"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1lKbmhFYXRUNG15Szh3eDE3cGZqODQ5NFdQWTFyY3ZvWUhOZUdKZG9aUUxKRnFhbVFnOFF1eUY2S2ZmbC1oeDdtOFNMMnFfOEtOQU1uOTZ5VzU0Y1hDS2haMXQwUlBlZFlJNGFnSzU2NEtRelRyYlg4Z2V1THZZYmVDZHZFRklRNmNDVlNLVXRfTE1qYXhFR3NoX3NFRFg5blVrT1MtcUVYcVNINUFyZFM0dmx4cDA?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2021/08/12/1030182-798216-1287x836.jpg"
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDEwNzE2MjAsb3JpZ2luYWwsLGlkPTkyNTMxNTYmZGF0ZT0yMDIzJTJGMTElMkYyMiw5MjM5NjgxNjk=/mokytoju-mitingas-prie-seimo-655e194ef2c68.jpg",
+        "https://media.lrytas.lt/images/2026/11/16/053154285-8ec751ee-b581-4b93-a560-ddbc4a1db8e8.jpg"
       ]
     },
     {
-      "headline": "Konstitucinis Teismas sustabdė dviračių gatvių taisykles",
-      "summary": "Konstitucinis Teismas sustabdė dviračių gatvių taisyklių galiojimą, kol jas išnagrinės.",
+      "headline": "Kontrolierė kritikuoja „valstiečių“ referendumą dėl šeimos",
+      "summary": "„Valstiečiai“ koalicijoje reikalauja patariamojo referendumo, ar šeimos santykiai kyla tik iš vyro ir moters santuokos. Lygių galimybių kontrolierė Birutė Sabatauskaitė sako, kad jo tikslai neaiškūs, o referendumas tik skaldytų visuomenę.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
       "why": "Apie tai rašė 5 portalai",
-      "context": "",
+      "context": "Šeimos sampratos ginčas Lietuvoje tęsiasi daugiau nei dešimtmetį, ypač dėl partnerystės įteisinimo. Konstitucinis Teismas pripažino, kad pagalbinio apvaisinimo kompensavimas tik sutuoktiniams diskriminuoja, ir Seimas neseniai priėmė platesnį Pagalbinio apvaisinimo įstatymą, kuris leis paslauga naudotis ir vienišoms moterims. Po to „valstiečiai“ pareikalavo referendumo.",
       "sources": [
         {
-          "name": "MadeinVilnius.lt",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXNIXzA0UUl2N3E2bXYtVF9qWi1pMkVGZm1hUGNZbW81VWQ3ZmNuOXJMNHV4bFV2MFM2eXJSMVpwM2kwdmVSYlN1UGFKdFBDOGNBWmtaZ0luOXFWQUQyN2oxOTlwSjl1YU9oVzR0cGtsN0VoVGRtMzhhajlpRU90TzRtSzRPT3lHaXVlRS1JYXBJYzJwd3RmRUNtMXZqakdETGRNdWVCbThtN1lwZlc3dERuLWtwVG5sREl0d085LXJ0TzN2Y1Roc21NclpKbFdfUmlPRWhSYUJyMmJDSl9Z?oc=5"
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3115049/sabatauskaite-referendumo-del-seimos-tikslai-neaiskus-tai-visuomenes-skaldymas"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2020/02/17/604531-416894-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Lietuvos banko vadovas abejoja mokesčių lengvatomis",
+      "summary": "Lietuvos banko vadovas įvardijo mokesčių lengvatas, kurios, jo vertinimu, nėra reikalingos, ir ragina kelti klausimą dėl jų atsisakymo.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Vyriausybė, rengdama 2027 m. biudžetą, ieško būdų taupyti, o diskusijos dėl lengvatų vyksta kartu su ginčais dėl atlyginimų didinimo.",
+      "sources": [
+        {
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2hQTU5mNDlaOFBWbFgzS0tDLVBkcjNwTGtwTmw0LTU1UUYwUlRTU1Z4WXV5bWtfb1ZHMUphQWFPbjd2ZEJUMkNuWkhlSWZ4SnFkbDJQYkY2d0ZrZzNzbll1UUpiR3J6dWVoY3FaekVPeHlpTVVkTS1LYjloM3Q4ZE04bDVlMzQ1MFhidW5UZTJMdjBIZUQxbE9kMlpneEszU1B5WXpCVndPenJMT1RiNmRnMGhTZHIzeEZsa1NjV2xoeGk1ZkY3eXFFYjk?oc=5"
         }
       ],
       "images": []
-    },
-    {
-      "headline": "Sinkevičius: pensijų indeksavimas nebus keičiamas",
-      "summary": "Socialdemokratai patvirtino kandidatus į merus 59 savivaldybėse – tarp jų susisiekimo ministras Juras Taminskas Vilniuje ir keli Seimo nariai; rinkimai vyks kovo 7 d. Partijos taryboje premjeras Mindaugas Sinkevičius pažadėjo, kad kol jis vadovauja Vyriausybei, pensijų indeksavimas nebus keičiamas.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "Socialdemokratai laimėjo 2024 m. Seimo rinkimus ir vadovauja valdančiajai koalicijai, o šiuo metu turi daugiausia merų – 18. Svarstant valstybės išlaidas, kai kurie politikai pasiūlė peržiūrėti automatinį išlaidų, įskaitant pensijas, indeksavimą; partijos garbės pirmininkas Vytenis Andriukaitis tokius siūlymus sukritikavo.",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3114025/socialdemokratai-paskelbe-kandidatus-i-merus-sarase-ir-ministrai-ir-seimo-nariai"
-        },
-        {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTXlWbnFQanZuNkV6MUpxM0hoWFZULS05NDdOVmJvWDNNc1diVU1hV1JvRGw3WEh4M2VlWkxHbUNUc2piclZfeWF3V21aS2tFc2lmY0hkYzVvQm1wT0tPT0lIaHVuSmkxdmNPSXRCQTFnZzJvdTRiWHJobW1jS29TbEpfRDlaenRacXZjODBSeE1wdFJ6cHdYZXZMcTY3UlFDWDQ3UmNZTUxSYk1PODhtN05NdVh4bTRaNXR6NVZFUW15UmRhaGdJckx6SHRUTkRaeWNvR2JZdm52aDA?oc=5"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2026/11/14/2539533-942584-1287x836.jpg"
-      ]
     }
   ],
   "world": [
     {
-      "headline": "Router fault during wiring upgrade grounded US flights",
-      "summary": "US officials say Friday's four-hour nationwide ground stop began when a router being worked on during contractor L3Harris's switch from old copper wire to fibre flooded air traffic systems; there is no sign of a cyber-attack. More than 3,500 flights were cancelled on Saturday, and the FAA expects full recovery by the end of Sunday.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 10,
-      "why": "Covered by 10+ outlets",
-      "context": "Nationwide ground stops are extremely rare; the first came after the 9/11 attacks in 2001. Transport Secretary Sean Duffy says ageing equipment needs the $30.1bn upgrade Trump has requested from Congress.",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
-      ]
-    },
-    {
-      "headline": "Democrats win Alaska governorship for first time since 1998",
-      "summary": "Former state legislator Jonathan Kreiss-Tomkins, 37, beat a Trump-backed Republican to become Alaska's first Democratic governor since 1998, bringing Democrats to 30 governorships. Democrat Mary Peltola is also likely to win the state's Senate seat, and voters kept open primaries and ranked-choice voting.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "The US held midterm elections on 3 November, two years into Donald Trump's second term, and Democrats made sweeping gains, including governorships in Iowa, Georgia, Ohio and Texas. Alaska's ranked-choice count took 10 days.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5"
-        }
-      ],
-      "images": [
-        "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=18fe8df04a58512d362fc7ed5e2919fb"
-      ]
-    },
-    {
-      "headline": "Hungary finds $20m in cash buried in forests",
-      "summary": "Investigators seized cash worth $19.5m, buried in forests and hidden in farm buildings and safes, in a bribery probe into Miklós Seszták, Orbán's development minister in 2014–2018, over inflated bus purchases by the state transport company. He denies wrongdoing.",
+      "headline": "Xi, Trump and Putin to hold first three-way summit",
+      "summary": "China confirmed that Xi Jinping, Donald Trump and Vladimir Putin will meet on Thursday in Shenzhen, on the sidelines of the APEC summit that starts Wednesday. Analysts call it symbolic and doubt a 'Yalta 2.0' deal on Ukraine or Taiwan.",
       "category": "general",
       "highlight": false,
       "coverage": 6,
       "why": "Covered by 6 outlets",
-      "context": "Viktor Orbán ruled Hungary for 16 years amid long-running allegations of cronyism. Péter Magyar beat him in a landslide in April 2026 promising an anti-corruption drive, and since September several Orbán-era ministers and Orbán's brother have been detained.",
+      "context": "It is the first such meeting of the three leaders. Trump heads to Asia two weeks after his party lost the US midterm elections, hoping to regain momentum abroad. APEC economies make up more than 60% of global GDP.",
       "sources": [
         {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/kinija-patvirtino-ivyksiant-pirmaji-xi-jinpingo-donaldo-trumpo-ir-vladimiro-putino-susitikima-57-2806582?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "POLITICO.eu",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWpaQ0R5clFucEpOR09uNV91cEcwUi1SMGdiWjhVYWM3VkFfTnJibzRLR013M2FXQWNlRXVHaV9fRXJVaEtvWWxmdm5DOXZ2RlFXRWJCbm54MWdLQnNVOXYzblRKUDRrMjh6WEFCSXY1NGpNeXVraVVrVWtmS25jQjdDZGRld0VBUFpHdUFxaTU3R09IS0NiaW1Wb3lOblc1?oc=5"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3115096/po-nesekmingu-kadencijos-vidurio-rinkimu-trumpas-sieks-politinio-proverzio-azijoje"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=700&quality=85&auto=format&fit=max&s=2682fe132af002aa768cc8b6b617216e"
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5NjUwMTQmZGF0ZT0yMDI2JTJGMTElMkYxNiw0MDkzMDQ3MjI2/kai-naito-kent-nishimura-pavel-bednyakov-afp-6afa8690d6869.jpg"
       ]
     },
     {
-      "headline": "Netanyahu pleads with Eisenkot for unity government",
-      "summary": "Caretaker prime minister Benjamin Netanyahu publicly urged Gadi Eisenkot to form a national unity government with Likud. Eisenkot, who has until 6 December to form a government, called it a 'trick' and said Netanyahu knows he lost the election.",
+      "headline": "Estonia to close all border crossings with Russia",
+      "summary": "Estonia will shut its three crossings with Russia from 1 December after foiling what it says was a GRU-ordered plot to blow up and burn the Threod Systems drone factory near Tallinn; eight Latvian residents were detained.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "Netanyahu has led Israel for most of the past 15 years, through the war that began with Hamas's attack on 7 October 2023. In the recent election his bloc fell short, and former army chief Gadi Eisenkot was given the mandate to form a coalition.",
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Since Russia's full-scale invasion of Ukraine in 2022, the Baltic states have accused Moscow of a hybrid campaign of sabotage across Europe. In August an arson attack hit another Estonian defence firm, Milrem Robotics, which Estonia also blamed on Russia. Prime Minister Kristen Michal links the attacks to Estonia's support for Ukraine.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
         },
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/benjaminas-netanyahu-tik-vienybes-vyriausybe-gali-uztikrinti-izraelio-sauguma-57-2806238?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3115107/estija-nuo-gruodzio-uzdaro-visus-pasienio-kontroles-punktus-su-rusija"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/b-netanyahu-kalbas-apie-vienybes-vyriausybe-g-eisenkotas-vadina-gudravimu-44928458"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTFwN2k4ekxGTk9VbVNuZFhwZUs0cGlHbmdxY0tNQWZzcmdPZUREUVliQXU4dy1ueGg4RlZTM2xsN2tiTk5DbnlYb0dkZlFMMUprNk1LUUk5M3R5dHRpLTkwU1J0Q2ppNHl4UVVBQnYtYnFwaGpBRG82bkpZTkNKa01SbjU?oc=5"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=700&quality=85&auto=format&fit=max&s=5fd49fdc7d95d7fc81dfa75a7d810f1e"
+        "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=700&quality=85&auto=format&fit=max&s=722958ed79c49e6d50dd5b7618fe258d",
+        "https://www.lrt.lt/img/2026/11/15/2539899-402156-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Hundreds of thousands of Czechs protest over public media",
+      "summary": "Organisers say 350,000 to 400,000 people rallied in Prague's Letná Plain against a plan to scrap licence fees and fund Czech TV and Radio from the state budget, which Reuters says would cut their funding by 15%.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Andrej Babiš became prime minister in December 2025, leading a coalition of his populist ANO party and two Eurosceptic right-wing parties. In late October parliament pushed the bill through its first reading overnight, triggering weeks of protests and a strike at the public broadcasters. Critics compare it to Hungary under Viktor Orbán; Babiš says no one wants to control public media.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=df16de4682f258f4a0338b4230b05cc1",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+      ]
+    },
+    {
+      "headline": "Burnham to say UK lost more than it gained from Brexit",
+      "summary": "UK Prime Minister Andy Burnham will say on Monday that 'the Brexit we were given has not worked', calling it a needlessly hard Brexit, ahead of Friday's UK-EU summit where he wants deals on food, energy and youth mobility.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "The UK voted to leave the EU in 2016 and left in 2020. Keir Starmer struck a first 'reset' deal with the EU in May 2025, and Burnham, who has since replaced him, wants to go further while ruling out a return to the single market, customs union or free movement.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHlSRGlxMHJ2TFVMMUdQZ2RMdWI3bW1PTGlqTGNMMU9KQWpFYU92WGZJcm5yWEpVWW9MMlUxdFBFbEI4SVdnUUZwNFh0R3Z1RHZJak51MHpQU3A2b0lWMkFZTnR6UXA5QUp3ZG8xVUlxNlhuNDNQQ2lfektmeWZYT3VycWE?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3dCNkZCOUNQcTlqSktlWXBqYW8wUDcxR0FHY0xxNkNhbTdJVHZjdUR6SjZXSWRUVGthblNrZVNWalZvWFlMV3hsN05TZ1dQLU9lTngtUlk4enpmNG1uVDB4OUlMbzJXUVhmOXd2VmRfLVRZX0F2SUNmUERVSU9nVEJGdnQ4WEs2OVlzMkN6U3RhekRFdDJ4Z2ppLXkwTV9LVHlR?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/52b6/live/0e280700-e17a-11f1-9340-0b32bbf5495e.jpg"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "SpaceX catches Starship with tower arms for first time",
-      "summary": "On its 15th test flight, Starship's 52-metre upper stage orbited Earth 14 times over 22 hours and was then caught by the Texas launch tower's 'chopstick' arms for the first time. The booster catch was aborted and it exploded over the Gulf of Mexico.",
-      "category": "tech",
+      "headline": "Anthropic's giant IPO due this week",
+      "summary": "Anthropic's stock market listing this week, together with Nvidia's quarterly results on Tuesday, is seen as a test of the AI-driven tech rally, and Asian shares fell ahead of them.",
+      "category": "ai",
       "highlight": true,
-      "coverage": 10,
-      "why": "Covered by 10+ outlets",
-      "context": "Catching both stages is key to making Starship reusable; NASA plans to use it to land astronauts on the Moon from 2028.",
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Anthropic is the maker of the Claude AI models and a main rival of OpenAI.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          "name": "The Economist",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5"
         }
       ],
-      "images": [
-        "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=700&quality=85&auto=format&fit=max&s=3f4fcffd1a8ba8409afd12b189054ca8",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
-      ]
+      "images": []
     },
     {
-      "headline": "Wales beat New Zealand for first time in 73 years",
-      "summary": "Wales, 30-1 outsiders and 12th in the world rankings, beat the All Blacks in Cardiff, ending a 34-match losing run against New Zealand going back to 1953.",
+      "headline": "England end Spain's 43-game unbeaten run",
+      "summary": "England beat world champions Spain 3-2 in Madrid, leading 3-0 through Kane, Konsa and White before Anderson's red card let Spain back in. It was Spain's first defeat since March 2024 and sent England top of their Nations League group.",
       "category": "sports",
       "highlight": true,
-      "coverage": 1,
-      "why": "BBC front page",
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
       "context": "",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss"
         },
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/sportas/futbolas/2026/11/16/news/anglijos-futbolininkai-isvykoje-sugebejo-palauzti-pasaulio-cempionus-44939657"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
       ]
     },
     {
-      "headline": "'Fatherland' leads European Film Award nominations",
-      "summary": "Paweł Pawlikowski's Thomas Mann drama 'Fatherland' leads with 11 European Film Award nominations, ahead of Spain's 'La Bola Negra' with 10, and also won the top prize at the Camerimage cinematography festival. Sandra Hüller has two best actress nods.",
-      "category": "film",
+      "headline": "Vulcan rocket failure destroys 40 Amazon satellites",
+      "summary": "ULA's Vulcan rocket failed about 10 minutes after launch from Florida, losing 40 Amazon Leo internet satellites in the first total mission failure in ULA's 20-year history. It was the first of 38 launches Amazon bought to challenge Starlink.",
+      "category": "tech",
       "highlight": true,
-      "coverage": 1,
-      "why": "Major film awards news",
-      "context": "The European Film Awards are Europe's main film prizes, often called the European Oscars.",
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "Vulcan is also contracted to fly about half of the US military's national security launches in the next few years.",
       "sources": [
         {
-          "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942/"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/it/techno/2026/11/16/news/-amazon-prarado-40-palydovu-raketos-paleidimas-baigesi-nesekme-44939675"
         }
       ],
-      "images": []
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg"
+      ]
     },
     {
-      "headline": "Brain implants let ALS patients speak and sing",
-      "summary": "New brain implants have given ALS patients who lost their speech a voice to talk and even sing.",
-      "category": "science",
-      "highlight": false,
+      "headline": "GTA 6 is days from launch",
+      "summary": "Grand Theft Auto VI comes out on PS5 and Xbox Series X/S this week after ten years of work, thousands of staff and about a billion dollars, and a leaked 34-song soundtrack lists Dua Lipa, Lana Del Rey and SZA.",
+      "category": "gaming",
+      "highlight": true,
       "coverage": 5,
       "why": "Covered by 5 outlets",
-      "context": "ALS is a nerve disease that gradually paralyses the body, often including speech.",
+      "context": "",
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5"
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-tracklist-leak"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5"
+        },
+        {
+          "name": "MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNZ1FiY2ktQW0tZWJRMXdXdkNWVG8tNy1CY2I4N0YwTS1XRExXejlSajhjZlNiMDFpNFh5NWRjUVBtUFpXakdyS3RMS3BnellmZ1FWRjgtcw?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://assetsio.gnwcdn.com/dua-lipa-gta-6-the-album.jpg?width=690&quality=85&format=jpg&auto=webp"
+      ]
     }
   ],
   "events": [
     {
-      "title": "Alizée koncertas",
-      "when": "lapkričio 20 d.",
-      "where": "Compensa koncertų salė, Vilnius",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "bilietai.lt",
-          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
-        }
-      ]
-    },
-    {
-      "title": "Thomas Anders iš „Modern Talking“",
-      "when": "lapkričio 21 d., 19:00",
+      "title": "Thomas Anders (Modern Talking) koncertas",
+      "when": "Šeštadienis, lapkričio 21 d., 19:00",
       "where": "Arena Vilnius",
       "scope": "vilnius",
       "sources": [
@@ -303,7 +316,7 @@
     },
     {
       "title": "Vilniaus dokumentinių filmų festivalis 2026",
-      "when": "šią savaitę",
+      "when": "Šią savaitę",
       "where": "Kino teatras „Pasaka“",
       "scope": "vilnius",
       "sources": [
@@ -314,27 +327,23 @@
       ]
     },
     {
-      "title": "Trump, Xi and Putin meet at APEC in China",
-      "when": "This week",
-      "where": "China",
+      "title": "UN talks on rules for autonomous 'killer robot' weapons",
+      "when": "Monday, 16 November",
+      "where": "United Nations",
       "scope": "global",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/it/techno/2026/11/16/news/jt-svarstys-robotu-zudiku-naudojimo-taisykles-44939635"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ?oc=5"
         }
       ]
     },
     {
-      "title": "ICJ rules on whether Myanmar committed genocide against Rohingya",
+      "title": "World Court rules on whether Myanmar committed genocide against the Rohingya",
       "when": "This week",
       "where": "The Hague",
       "scope": "global",
@@ -344,132 +353,115 @@
           "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
         }
       ]
-    },
-    {
-      "title": "Spain vs England, Nations League",
-      "when": "Tonight",
-      "where": "Madrid",
-      "scope": "global",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
   "ongoing": [
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "Zelensky says US envoys floated Ukraine withdrawing from Donbas in exchange for NATO membership, and he would put a concrete deal to a referendum; the US has not confirmed it. Kushner says he will broker direct Europe-Russia talks, and the Telegraph reports Putin wants Britain to stop covering Europe with its nuclear weapons.",
-      "context": "Russia launched a full-scale invasion of Ukraine in February 2022, after annexing Crimea in 2014. Kyiv repelled the push on the capital, but Russia holds much of the east and south. In 2025-2026 the US pushed peace talks, with Russia demanding the rest of Donetsk region and new European security terms.",
+      "update": "Zelensky urged the US and Elon Musk to lift speed limits on Starshield terminals, saying Ukrainian interceptor drones lose connection at 161 km/h and cannot catch Russian jet-powered drones. He also said Ukrainian strikes have knocked out 55% of Russia's oil-refining capacity, and a Coalition of the Willing meeting is being prepared to set Europe's stance in peace talks.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. After Ukraine pushed Russian forces back in 2022, the front largely froze into a war of attrition with drone and missile strikes on energy sites. In 2025 the US began pushing both sides toward a peace deal, and talks over territory and security guarantees continue.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/-the-telegraph-v-putinas-britams-pateike-ultimatuma-44928051"
+          "url": "https://www.lrytas.lt/it/techno/2026/11/16/news/-spacex-pateike-savo-versija-del-ukrainoje-taikomu-starshield-greicio-apribojimu-44939767"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/volodymyras-zelenskis-ukrainos-dronai-neutralizavo-55-proc-rusijos-naftos-perdirbimo-pajegumu-57-2806622?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg"
       ]
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Iran's navy says three tankers are on fire after hitting mines in the Strait of Hormuz, and Iran says it attacked a US base in Bahrain, which issued its first threat alerts since September.",
-      "context": "Tensions over Iran's nuclear programme turned into open conflict in June 2025, when Israel and the US struck Iranian nuclear sites. Fighting flared again in 2026, with attacks on shipping in the Strait of Hormuz, a key route for world oil and gas.",
+      "update": "Iran's Revolutionary Guard says a supertanker carrying over 2 million barrels of crude sank after hitting a mine in the Strait of Hormuz, unconfirmed independently, as a third US aircraft carrier, the USS Theodore Roosevelt, reached the region.",
+      "context": "Decades of hostility over Iran's nuclear programme turned into open war at the end of February this year, when fighting broke out in the Middle East. Iran then restricted shipping in the Strait of Hormuz, which carries about a fifth of the world's oil, and the US answered with a naval blockade of Iranian ports and escorts for tankers.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3115162/iranas-persijos-ilankoje-nuskendo-tanklaivis-su-daugiau-kaip-2-mln-bareliu-naftos"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss"
+        },
+        {
+          "name": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUY0ektjWVZqdUZvX0kxLXU2UzNmVFRZNXZzYmR1SW1jUEg1WTV5dDNnVVk1bWc1ejZZSTdETlJPNlhmcks5NEtvY21SLXpsR2ZqWFpMQzlNMlJ5YXFVR0hYd29ldFhkZW0yMVJxdEdVc0wyd0p5QnQ5YmZ0cllGQVUwU2FRLUo0NEZJbm80UFdtb3gzSmkzWEQyd0c0UTRPcWdCS0g3YzRhRzRTWWc?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://www.lrt.lt/img/2026/11/15/2540139-990091-1287x836.jpg"
+      ]
     },
     {
       "id": "nvidia-huang-affair",
       "title": "Nvidia CEO's affair with alleged Chinese spy",
-      "update": "After Jensen Huang resigned on Thursday, a petition backed by Elon Musk and over 115,000 people, including about 6,000 Nvidia employees, urges the board to reinstate him; CFO Colette Kress is interim CEO.",
-      "context": "Earlier this month Huang confessed to an affair with a chip executive suspected by US intelligence of being a Chinese spy, linked to Megaspeed, a firm accused of funnelling chips to China. The scandal drew in US officials over why Megaspeed was not blacklisted, and Huang has agreed to testify to Congress.",
+      "update": "US Treasury Secretary Scott Bessent called for an outsider to lead Nvidia and gave its board 10 days to show it complied with export controls on chips to China, while the petition to reinstate Jensen Huang passed 165,000 signatures. Megaspeed says Alice Huang left it in August 2025; Nvidia reports earnings on Tuesday.",
+      "context": "In late October The New York Times revealed that Nvidia co-founder Jensen Huang had an affair with Alice Huang, a former Megaspeed executive whom US intelligence suspects of working for China. US officials suspect Singapore-based Megaspeed helped route Nvidia chips to China. Huang resigned as CEO last Thursday and is due to testify to Congress.",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3115148/jav-izdo-sekretorius-reikalauja-kad-nvidia-netrukus-pateiktu-paaiskinimus"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
         }
       ],
-      "images": []
+      "images": [
+        "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=700&quality=85&auto=format&fit=max&s=c9992db27d60d4d0c496bcdd799d6cfe",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+      ]
     },
     {
       "id": "saudi-houthi-fighting",
       "title": "Saudi Arabia-Houthi fighting",
-      "update": "The Saudi-led coalition shot down two Houthi ballistic missiles aimed at Riyadh and three drones in the Eastern region, while fighting intensifies in Yemen's Marib and al-Jawf.",
-      "context": "Yemen's war began in 2014 when Houthi rebels seized Sanaa, and a Saudi-led coalition intervened in 2015. After a truce from 2022, Houthi attacks on Saudi Arabia resumed on 23 September, killing at least 26 people there, and the UN says over 340,000 Yemenis have been displaced since August.",
+      "update": "Saudi-backed Yemeni government forces withdrew from the Bab al-Mandab Strait area to defend their interim capital Aden, leaving the Houthis in control of the key Red Sea gateway; the Houthis also freed 600 government fighters.",
+      "context": "Yemen's civil war began in 2014 when the Houthis seized Sanaa, and a Saudi-led coalition intervened in 2015. An informal truce collapsed in July this year when the Houthis declared a maritime embargo on Saudi Arabia, and in September they seized ground at Bab al-Mandab, pushing up oil prices since Saudi exports relied on the Red Sea while Hormuz was closed.",
       "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5"
-        }
-      ],
-      "images": []
-    },
-    {
-      "id": "europe-protests",
-      "title": "Protests across France and Europe",
-      "update": "About 106,000 people marched across France on the fifth Saturday in a row, the lowest turnout in weeks, focusing on a bill giving police a presumption of self-defence when they fire; police used tear gas in Paris, Bordeaux and Nantes. Tens of thousands also marched in Portugal against soaring home prices.",
-      "context": "For over a month students, unions and 'yellow vest' activists in France have blockaded schools and protested over living costs and policing, with the far right leading polls ahead of next year's presidential election.",
-      "sources": [
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/virs-100-tukst-zmoniu-susirinko-i-protestus-prancuzijoje-57-2806228?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/14/news/prancuzijoje-desimtys-tukstanciu-protestuotoju-skandavo-sukius-pries-infliacija-ir-policija-44928434"
-        },
-        {
-          "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWJZRklkOFZabGx4WDN5V0pUSnFnUW9uSG0wek82OGNyVm1CeHVSWlNkTmF6am1UNVplVTd6LU9iakE0RzczR2JpTWQ2UUYtNmc4dTNDVzEwS1F3WG5mQUpDMEI0SlcteHAyOTVKOHZWNE1pM05XYVZuc19zampUcmZJSm5uZjg5TVJlX29BemJFX0ZDenlkN3I2OW9WUEtf?oc=5"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3115101/raudonasis-kryzius-jemeno-husiai-paleido-600-vyriausybes-pajegu-kovotoju"
         }
       ],
       "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5NjQyMTImZGF0ZT0yMDI2JTJGMTElMkYxNCwyMjcyNjY2NTI2/paryzius-kevinrzksipa-kevinrzksipa-6af8a3ff713db.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
       ]
     }
   ],
   "quiet_ongoing": [
+    "Protests across France and Europe",
     "Hoax bomb threats across Europe",
     "Cyber-attacks on European refrigeration systems",
     "Israeli operation in the West Bank",
     "Sudan civil war"
   ],
   "stats": {
-    "items_read": 534,
-    "feeds": 28,
-    "feed_problems": []
+    "items_read": 579,
+    "feeds": 31,
+    "feed_problems": [
+      "VGC: no recent items"
+    ]
   }
 }
