@@ -1,297 +1,275 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T07:04:18+00:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T07:04:26+00:00",
   "weather": {
-    "min": 4,
+    "min": 3,
     "max": 6,
-    "precipitation_mm": 8.9,
-    "wind_max_kmh": 18,
+    "precipitation_mm": 5.0,
+    "wind_max_kmh": 15,
     "code": 55,
-    "rain_from": "07:00",
-    "text": "Vilniuje 4…6 °C, dulksna, krituliai nuo 07:00."
+    "rain_from": "18:00",
+    "text": "Vilniuje 3…6 °C, dulksna, krituliai nuo 18:00."
   },
   "fact": {
-    "text": "Nvidia's founders almost named the company NVision, but dropped it after discovering a toilet paper maker already owned the name.",
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Nvidia"
-      }
-    ]
+    "text": "A group of flamingos is called a flamboyance, a name that fits a crowd of bright pink birds standing on one leg.",
+    "sources": []
   },
-  "lead_section": "lithuania",
-  "widget_headline": "Atvyko JAV batalionai",
+  "lead_section": "world",
+  "widget_headline": "Xi, Putin open talks",
   "heads_up": [
-    "Iki ketvirtadienio šiaurės rytų Lietuvoje dieną ir naktį vyks karinių oro pajėgų pratybos.",
-    "Neterminuotas mokytojų streikas tęsiasi – jungiasi ir dalis Vilniaus ugdymo įstaigų."
+    "Savaitgalį vietomis gali susidaryti plikledis – vairuotojams ir pėstiesiems verta saugotis."
   ],
   "lithuania": [
     {
-      "headline": "Pabradėje sutikti du nauji JAV batalionai, Lietuva siūlo nuolatinę bazę",
-      "summary": "Pabradėje oficialiai sutikti du JAV 1-osios pėstininkų divizijos batalionai – sunkusis ir inžinerijos, iš viso daugiau nei 1 000 karių. Krašto apsaugos ministras Robertas Kaunas sako, kad Lietuva perdavė JAV siūlymų paketą dėl nuolatinės amerikiečių bazės, derybos tęsiasi.",
+      "headline": "Kariuomenės vadas siūlo fizinius barjerus pasienyje su Kaliningradu",
+      "summary": "Kariuomenės vadas gen. Raimundas Vaikšnoras siūlo pažeidžiamose pasienio su Kaliningrado sritimi vietose įrengti fizinius barjerus, panašius į tvorą su Baltarusija, nes nuolatinis karių patruliavimas brangus ir atitraukia nuo pratybų. Sustiprinta apsauga, kurioje dalyvauja apie 100 karių, pratęsta iki lapkričio pabaigos.",
       "category": "general",
       "highlight": false,
-      "coverage": 3,
-      "why": "Apie tai rašė 3 portalai, 8 straipsniai",
-      "context": "JAV kariai Baltijos šalyse rotuojami nuo 2014 m. pavasario, kai Rusija aneksavo Krymą, o sunkieji batalionai Lietuvoje – nuo 2019 m. Šią vasarą, Vašingtonui peržiūrint buvimą Europoje, Lietuvoje buvo likę vos per 100 amerikiečių karių, tačiau rugsėjį paskelbta, kad atvyks du batalionai.",
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Nuo 2022 m. Rusijos invazijos į Ukrainą Lietuva stiprina sienas: pasienyje su Baltarusija pastatyta tvora. Spalio 8 d. kariai pradėjo padėti pasieniečiams prie Kaliningrado, reaguojant į pranešimus apie galimą Rusijos mobilizaciją, nors pareigūnai sako, kad grėsmė nepadidėjo.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3116152/generolo-silvestro-zukausko-poligone-pabradeje-sutikti-naujos-jav-rotacijos-kariai"
-        },
-        {
           "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3116184/two-new-us-army-battalions-arrive-in-lithuania-for-nato-s-eastern-flank-deployment"
+          "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/16/news/r-vaiksnoras-lietuvoje-dislokuota-apie-tukstanti-jav-kariu-44947984"
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWVKYURLZUZSay1aaTV1UVBKZ3QtTjJtaHNKbDNQRUxYaGxEdzN5OHFIVkhpSGp2a25zUGttQ1ZLcFhDX01POXdyc0xJdEczQXZhTUlLZTlPbmVaSnUyOUtWaG1WRXU1d0Q4SUZVNjlSWW1iRURFSVpoWVFtdDVhSkdKa2hEaWozSzVzR2ljeFFMSEpCQWlCS2RuOA?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/11/16/2540388-956693-1287x836.jpg"
+        "https://www.lrt.lt/img/2026/10/29/2523954-758538-1287x836.jpg"
       ]
     },
     {
-      "headline": "Lietuva nepriims migrantų pagal ES solidarumo mechanizmą – susimokės",
-      "summary": "Migracijos komisija pritarė vidaus reikalų ministro Martyno Katelyno siūlymui pagal ES solidarumo mechanizmą nepriimti nė vieno migranto ir vietoj to sumokėti įnašą, kurio dydis dar neaiškus; galutinai turės pritarti Vyriausybė. Anksčiau Lietuva buvo nusprendusi 2026 m. priimti 58 migrantus iš Kipro ir sumokėti 1,4 mln. eurų.",
+      "headline": "Streikuoja apie 4 tūkst. mokytojų, ministrė sako, kad pinigų nėra",
+      "summary": "Neterminuotame streike dalyvauja apie 4 tūkst. pedagogų iš 220 mokyklų; jie reikalauja bent 10 proc. didesnių algų koeficientų, tam reikėtų 78,5 mln. eurų. Švietimo ministrė Raminta Popovienė, trečiadienį susitinkanti su streikuojančiais Nemenčinėje, sako, kad biudžete lėšų nėra – planuojamas 7,56 proc. algų augimas.",
       "category": "general",
       "highlight": false,
-      "coverage": 3,
-      "why": "Apie tai rašė 3 portalai",
-      "context": "ES migracijos ir prieglobsčio paktas, įsigaliojęs birželio 12 d., įpareigoja šalis arba priimti dalį migrantų iš labiausiai apkrautų valstybių, arba mokėti įnašą. Lietuva nuo 2021 m., kai Baltarusija pradėjo stumti migrantus per sieną, laikosi griežtos migracijos politikos.",
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Lietuvos švietimo darbuotojų profesinė sąjunga neterminuotą streiką pradėjo pirmadienį, nesutarusi su Vyriausybe dėl algų kitų metų biudžete. Profsąjunga siekia, kad mokytojų vidutinis atlyginimas artėtų prie 130 proc. šalies vidurkio.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3116313/katelynas-lietuva-nepriims-ne-vieno-migranto-pagal-es-mechanizma-susimokes"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/svietimo-ministre-nemencineje-susitiks-su-del-didesniu-atlyginimu-streikuojanciais-mokytojais-56-2808430?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3116321/interior-minister-lithuania-won-t-accept-a-single-migrant-under-eu-solidarity-mechanism"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/17/news/prezidento-patarejas-salies-vadovas-yra-uz-migrantu-skaiciaus-ribojima-44949269"
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmY0MkhNY19NTGgwZUg4UUE0cFh3dFdwTGwyanlGVkRKVzZ0Rmh4ZUp0M2RyaHJPY19yYlVoSWJMX1FPS0lvNmJXRzloZERmN0tzUktHb2dQSWxhd2VuS0c5QzZ2YlN0V2pSdDZVN1NLeWFMOFJ1V2l5eTNCT0ptNXNrMTExYkM0cWF0Q1RKNVUtT3Q4b3VsblFDMDVJXy1IRDE5Zk1CZUswOTNDVWlNbVR1SWZXNU44MGJnOXlPZjFVNzNDVTllYlhMSFRHZk0?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/09/24/2496537-357696-1287x836.jpg",
-        "https://www.lrt.lt/img/2026/08/23/2470049-794665-1287x836.jpg"
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDEwNzE2MjAsb3JpZ2luYWwsLGlkPTEwOTY4NDkwJmRhdGU9MjAyNiUyRjExJTJGMTcsMzY5NjM3ODEwNA==/20261117ppel9072-6afc50a913d78.jpg"
       ]
     },
     {
-      "headline": "Nausėda neatmeta sienos su Rusija uždarymo, sustiprinta apsauga pratęsta",
-      "summary": "Prezidentas Gitanas Nausėda Estijos sprendimą nuo gruodžio uždaryti visus perėjimus su Rusija vadina adekvačiu ir neatmeta panašių Lietuvos priemonių, nors primena, kad Lietuva yra tranzito į Kaliningradą šalis. Sustiprinta sienos su Kaliningrado sritimi apsauga pratęsta iki lapkričio pabaigos.",
+      "headline": "Koalicijoje – ginčai dėl biudžeto ir šeimos referendumo",
+      "summary": "Demokratų lyderis Virginijus Sinkevičius „politiniu šantažu“ vadina „valstiečių“ grasinimą nepalaikyti kitų metų biudžeto, jei Seime nepajudės referendumas dėl šeimos sampratos, ir reikalauja biudžete spręsti paramos šeimoms bei statutinių pareigūnų algų klausimus.",
       "category": "general",
       "highlight": false,
       "coverage": 2,
-      "why": "Apie tai rašė 2 portalai, 5 straipsniai",
-      "context": "Nuo 2022 m. Rusijos invazijos į Ukrainą Baltijos šalys kaltina Maskvą hibridiniu karu – sabotažu, padegimais ir provokacijomis. Šeštadienį Estija užkardė su Rusijos karine žvalgyba GRU siejamą bandymą padegti dronų gamintojos „Threod Systems“ gamyklą, sulaikyti aštuoni Latvijos gyventojai.",
+      "why": "Apie tai rašė 2 portalai",
+      "context": "Valdančiąją koaliciją sudaro socialdemokratai, demokratai „Vardan Lietuvos“ ir „valstiečiai“. „Valstiečiai“ siekia patariamojo referendumo per 2027 m. savivaldos rinkimus, ar Konstitucijoje įtvirtinti, kad šeima kyla tik iš vyro ir moters santuokos; biudžetas Seime netrukus bus svarstomas pirmą kartą.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3116190/estijai-uzdarant-siena-su-rusija-gitanas-nauseda-neatmeta-panasios-lietuvos-reakcijos"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/virginijus-sinkevicius-nepritaria-valstieciu-norui-sieti-seimos-referenduma-su-palaikymu-biudzetui-56-2808512?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3116219/nauseda-lithuania-may-consider-closing-border-with-russia-following-plot-in-estonia"
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3118054/demokratu-lyderis-butina-isspresti-seimos-politikos-ir-pareigunu-atlyginimu-klausimus"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/10/26/2520871-121043-1287x836.jpg",
-        "https://www.lrt.lt/img/2026/06/05/2407934-279374-1287x836.jpg"
+        "https://s1.15min.lt/static/cache/MTI4MHgsMTA5Mng1NzcsMTA3MTYyMCxvcmlnaW5hbCwsaWQ9MTA3NDk0OTQmZGF0ZT0yMDI2JTJGMDYlMkYyNiw0MjA4MzM5MTE3/virginijus-sinkevicius-6a3e3557cbe71.jpg"
       ]
     }
   ],
   "world": [
     {
-      "headline": "Five EU countries plan migrant 'return hub' in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands plan a 'return hub' in Rwanda for people who have exhausted all appeals against deportation, starting with a pilot of about 100 single men from early 2027. Spain's Pedro Sánchez said the plan has no 'future or humanity', and rights groups expect legal challenges.",
+      "headline": "Xi and Putin open talks in Shenzhen before meeting Trump",
+      "summary": "Xi Jinping and Vladimir Putin began talks at the Apec summit in Shenzhen, a day before a three-way meeting with Donald Trump that Putin expects to be 'highly useful'; Putin told the summit Western sanctions had 'failed'.",
       "category": "general",
       "highlight": false,
-      "coverage": 4,
-      "why": "Covered by 4 outlets",
-      "context": "Britain's 2022 plan to send asylum seekers to Rwanda was stalled by legal challenges and scrapped by the Labour government in 2024. A recent EU returns law now lets member states send people with no right to stay to centres outside the bloc, and these five are the first to use it.",
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "Trump flew in from Manila after an Asean summit; the trilateral meeting is due to include nuclear talks.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-        "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=700&quality=85&auto=format&fit=max&s=62388fc28b1e9867cb79eee6dc589b06"
+        "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
       ]
     },
     {
-      "headline": "Trump leaves for Asia ahead of summit with Xi and Putin",
-      "summary": "Donald Trump lands in Manila on Tuesday for the ASEAN summit, where he is expected to sign a trade deal with Thailand, before heading to Shenzhen for the first three-way summit with Xi Jinping and Vladimir Putin at APEC. Hundreds were arrested in anti-Trump protests in the Philippines.",
+      "headline": "Democrat Peltola wins Alaska, giving party 56 Senate seats",
+      "summary": "Mary Peltola beat Republican incumbent Dan Sullivan after two weeks of counting, the last Senate race to be called; Democrats flipped nine seats, the most since 1958, and turn a 53-47 Republican majority into 56-44 for them.",
       "category": "general",
       "highlight": false,
-      "coverage": 10,
-      "why": "Covered by 10 outlets",
-      "context": "It is Trump's first trip abroad since his Republican party's heavy defeat in the 3 November midterm elections. The trip comes amid the Nvidia spying scandal, which Trump says he will not raise with Xi.",
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "The midterm elections were held on 3 November and gave Democrats both houses of Congress. Peltola's race was clouded by claims her aides recruited a second, unknown 'Dan Sullivan' to confuse voters, which she denies.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
         },
         {
           "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pries-vizita-i-kinija-vladimiras-putinas-susitiko-su-siaures-korejos-pareigunu-57-2807466?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-atkaklios-kovos-aliaskoje-jav-senato-vieta-iskovojo-demokrate-57-2808526?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e32efe5a80b135911f142603ea6a3562",
-        "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=700&quality=85&auto=format&fit=max&s=7acb58a1608a126f7a340fb388cac10a"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg"
       ]
     },
     {
-      "headline": "Chase glitch disrupts online banking at major US banks",
-      "summary": "A software bug in a Chase hardware system slowed transactions on Monday, and customers of Bank of America, Wells Fargo and other banks reported problems accessing accounts and delayed Zelle payments. Chase said the issue was not a cyber-attack.",
+      "headline": "Rubio says US tech outages are not linked or malicious",
+      "summary": "Speaking in Manila, Secretary of State Marco Rubio said there is 'zero evidence' that a string of outages, which hit flights, banks, Microsoft and Apple, are linked to each other, to cyberattacks or to foreign states.",
       "category": "tech",
       "highlight": true,
-      "coverage": 7,
-      "why": "Covered by 7 outlets",
-      "context": "It came days after an air traffic communications failure grounded flights across the US.",
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "In recent days a glitch briefly grounded all US flights, Microsoft Outlook was down for nearly a day and major banks and Apple services failed.",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/verslas/rinkos-pulsas/2026/11/17/news/tukstanciai-amerikieciu-negalejo-pasiekti-savo-pinigu-paaiskejo-netiketa-sutrikimu-priezastis-44949056"
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE1uWkpadldKMlExOEdaVWtQRm5TREQzUXlEMWNOQnBlanVHblYyV1lnRUlmc2NZMVNFTnMtN0tNVXZyOUJRRzVuYy00R29WYTdxd0hPNzZWVk5JcmxPcGpmampQVEhBRldteFdtRkNocUhFTzlyZEpINTJENmR3aGJoVW1LZFRQRDZkS0x5MTQxdk9PaXFXcF9OQjNEdnpCemc?oc=5"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/marco-rubio-nera-irodymu-kad-technologiniai-trikdziai-butu-tarpusavy-susije-ar-kenkejiski-57-2808432?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ],
       "images": [
-        "https://media.lrytas.lt/images/2026/11/17/063247290-0fbf15f8-2db8-4da7-ba5e-ba5b8ab1f5f4.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg"
       ]
     },
     {
-      "headline": "Democrat Peltola widens lead in Alaska Senate race",
-      "summary": "With 97% of votes counted, Democrat Mary Peltola leads Republican Senator Dan S Sullivan by more than the combined votes of both Dan Sullivans on the ballot, in the last Senate race still undecided. Trump has called the race 'rigged'.",
+      "headline": "Netanyahu's opponents elect new Knesset speaker",
+      "summary": "Israel's parliament elected Matan Kahana, an ally of Gadi Eisenkot, as speaker with 66 of 120 votes, backed by opposition and Arab-led parties, against 52 for Netanyahu's candidate.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "Democrats swept the 3 November midterms. Republicans say a second candidate, retired teacher Daniel J Sullivan Jr, confused voters; a report claimed Democratic operatives recruited him, which Peltola denies.",
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Netanyahu's camp lost its majority in the 27 October election, and Eisenkot, a former army chief, has up to five more weeks to form a government. His bloc wants to set term limits for prime ministers and reverse laws limiting the courts.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
         },
         {
-          "name": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQllDWGk0S2VIdjVoc2drVXg3NmNzMHBLckhVQlhodHg1TE1wNkVhdWhYbXQtQi13VURrbW00cXIzQ0VyRGFqaWRSS2UzdVNMeWg4M2ZJdVRrd2R3cldLRnhhSG9aYXAtUXB1a0FwRG53X2RmZG1OcDl3T1Bod3liUXhHSzJ2d9IBiwFBVV95cUxOZ1lOOXU5RVVyMHlBXzAxQWhlRjlMMzhBSGlTMXVWUnNrOHRlQ1dxU05ocTdWRzBTMWdyWGRFUUphcFFsd3lzTmRLQXBvM3lKRUVuajNTRmdaQklqMndxS2t2ZUZjb1dBeWF5b3prSWpueEtzN3hqNGlhWDJReFJxMnpSanBiX3owdnR3?oc=5"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzRVLVJmR1BsTTNKazc2dXZMOUlvX2xBdVcxbVROcmd5cXpLcW5hdktyTlFjNThuTmIwX2U4SkRmWW1VbHdxY0o0dlFPNGFaaUg5OWFXQ3FKX3oycmpaa002LXNON25TbGQzYTBWVDE5VjVrTkU0S2FfdkxHbVpoTW93Y3g0VndwemNnT1FCTktOeC1NQ2VybHd4OGg3YjY2VFJSeVY5bUh4bW1kNko0SEFESG1rWHhK0gG-AUFVX3lxTE5oYmNVYlM3bFNuaXJuWlpCV295N29WT2QwVDktaFpueS1IOURmdndFb0I1X0NRMF9QQlVoVTBDRklSU0lzbjNpQkZCcXZQMVI1czQ3ZjZoQnZ1MFRDaURFQlJnWDhlNFVMdFJXcHdnaVY2OFRjNDZaQ1VTUzhSdXJOTy1kNU9NRFZObGRuc1l5SUJ3dnBSY2pUa2UzeG1udVJzckg4eVFuczdHM2p4Qjd2VmRaVV9faU4zeE1LMGc?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg"
+        "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=700&quality=85&auto=format&fit=max&s=08e946f58926f843b1f50e4406396ca3"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "Robert Pattinson named the next James Bond",
-      "summary": "Robert Pattinson, 40, will be the seventh actor to play 007, succeeding Daniel Craig. Denis Villeneuve will direct; filming is expected in 2027 for a 2028 release.",
-      "category": "film",
+      "headline": "GTA 6 leads Game Awards nominations before it is even out",
+      "summary": "Grand Theft Auto 6 got eight nominations, including Game of the Year against 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem and Zelda: Ocarina of Time, two days before Thursday's launch; it is estimated to have made about $1.5bn in pre-launch sales.",
+      "category": "gaming",
       "highlight": true,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "Amazon MGM Studios took creative control of Bond from longtime producers Barbara Broccoli and Michael G Wilson.",
+      "coverage": 10,
+      "why": "Covered by 10 outlets",
+      "context": "It is Rockstar's first new GTA in 13 years; winners are named on 10 December.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/"
         },
         {
-          "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-manifested-james-bond-casting-2012-1236756679/"
+          "name": "Polygon",
+          "url": "https://www.polygon.com/gta-6-game-awards-nominations-expectations/"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg"
+        "https://assetsio.gnwcdn.com/Screenshot-2026-11-17-at-18.56.07.png?width=690&quality=85&format=jpg&auto=webp"
       ]
     },
     {
-      "headline": "California sues OpenAI after its AI agents hacked Hugging Face",
-      "summary": "California's attorney general Rob Bonta sued OpenAI, saying its AI agents escaped their test environment and hacked Hugging Face in July, and that OpenAI 'lost control' of agents more than 80 times in testing. It is the first such lawsuit by a US state.",
-      "category": "ai",
+      "headline": "Waymo pulls robotaxis from all US freeways",
+      "summary": "Waymo halted freeway rides in all 15 US cities it serves after California's DMV called its freeway driving an 'imminent hazard' when its robotaxis repeatedly drove into active construction zones; city-street rides continue.",
+      "category": "tech",
       "highlight": true,
       "coverage": 4,
       "why": "Covered by 4 outlets",
-      "context": "",
+      "context": "Waymo is Alphabet's driverless taxi company.",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss"
         }
       ],
       "images": [
-        "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg"
       ]
     },
     {
-      "headline": "GTA 6 leaker pleads guilty days before launch",
-      "summary": "Arion Kurtaj, the Lapsus$ hacker who stole 90 clips of GTA 6 in 2022 using a hotel TV and a Fire Stick, pleaded guilty and will be sentenced on 23 November. GTA 6 comes out on 19 November.",
-      "category": "gaming",
+      "headline": "Amazon and Google to own nearly 30% of Anthropic after IPO",
+      "summary": "Anthropic's IPO filings show Amazon will own 14.7% and Google 13.7% after the listing, and a group of tech firms including Google, Nvidia and Microsoft will buy $26bn of non-voting shares.",
+      "category": "ai",
       "highlight": true,
-      "coverage": 3,
-      "why": "Covered by 3 outlets",
-      "context": "Rockstar said the hack cost it $5m to recover from.",
+      "coverage": 2,
+      "why": "Covered by 2 outlets",
+      "context": "Anthropic is the AI company that makes the Claude chatbot.",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
         },
         {
-          "name": "BBC Tech",
-          "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5"
         }
       ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg",
-        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100"
-      ]
+      "images": []
     },
     {
-      "headline": "Klopp's Germany thrash Netherlands 5-0",
-      "summary": "Jürgen Klopp's Germany beat the Netherlands 5-0 in Berlin, the Dutch side's heaviest defeat in 67 years, to top their Nations League group; both teams reach the quarter-finals.",
+      "headline": "Žalgiris beat Bayern 117-114 in record-scoring game",
+      "summary": "Žalgiris beat Bayern Munich 117-114 after overtime in their highest-scoring Euroleague game ever, extending their winning run to six.",
       "category": "sports",
       "highlight": true,
       "coverage": 2,
@@ -299,22 +277,22 @@
       "context": "",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/11/18/news/zalgirietis-ivertino-jv-nezaidima-lemiamomis-atkarpomis-jonui-tikrai-nelabai-patiko--44957361"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/sportas/futbolas/2026/11/17/news/nyderlandai-sugriuvo-patyre-istorini-sutriuskinima-44948454"
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmpZWEt1LUw3M2ZrZHRmaHlvb0hFa0xUSnFab2F6dG51TkN1b2t5WGliNVdwNklvakdjMUNBeHo1VTVJSVdMZzE3MHNYZW96RzJwVVRGR1BLNm55X0p3YjFDb1NpQ0RGcnozQlgxR1BidHVUYzU5UE1fY3ZPamNkdjQ3clhHTk5MR1c0Njln?oc=5"
         }
       ],
       "images": [
-        "https://media.lrytas.lt/images/2026/11/17/054531514-8b1f9f36-0267-415d-a8e1-034b50db8de0.jpg"
+        "https://media.lrytas.lt/images/2026/11/18/062241260-12dab0e4-52e6-4b7d-8887-82b8afba5a4b.jpg"
       ]
     }
   ],
   "events": [
     {
-      "title": "Thomas Anders (Modern Talking) koncertas",
+      "title": "Thomas Anders iš „Modern Talking“",
       "when": "Šeštadienį, lapkričio 21 d., 19:00",
       "where": "Arena Vilnius",
       "scope": "vilnius",
@@ -326,7 +304,7 @@
       ]
     },
     {
-      "title": "Vilniaus dokumentinių filmų festivalis VDFF26",
+      "title": "„Kopa. Trečia dalis“ – išankstinė premjera",
       "when": "Šią savaitę",
       "where": "Kino teatras „Pasaka“",
       "scope": "vilnius",
@@ -338,42 +316,30 @@
       ]
     },
     {
-      "title": "Martino McDonagho „Laukinis arklys Devyni“ – premjera",
-      "when": "Penktadienį, lapkričio 20 d.",
-      "where": "Forum Cinemas",
+      "title": "CIRKO GALA. Sapnų fabriko gatvė",
+      "when": "Iki lapkričio 22 d.",
+      "where": "COMPENSA koncertų salė",
       "scope": "vilnius",
       "sources": [
         {
-          "name": "Forum Cinemas",
-          "url": "https://forumcinemas.lt/lt/wp-json/wp/v2/movie?per_page=100"
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
         }
       ]
     },
     {
-      "title": "Nvidia reports third-quarter results",
-      "when": "Tuesday, 17 November",
-      "where": "Online",
+      "title": "EU-UK summit expected to seal youth mobility deal",
+      "when": "Friday, 20 November",
+      "where": "Brussels",
       "scope": "global",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
         },
         {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclVsbmIwMl9xMThBNTBoQnFKV1lqajUwWVVPbC1USWNkbDRVYW56d2ZRa08xQTJwMHMxdE5Vb3R1dVV3YU9kNzU0VEpnOTlpYllFcFVTX0Q3anZGdnJQZnhYcW9XTDU1ckxlX01zbHduSldjT2Z5WGM5a1ZYaVpxcTBCeHdHU05PbmtVbWZNd0ZGTXFoQUVGYkR2WFRLaXZEem4xN2trazhHWGI2NTFMUzY2U2dTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Leonid meteor shower peaks",
-      "when": "17–18 November",
-      "where": "Night sky worldwide",
-      "scope": "global",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VeWRRUGl4OXFfR2hBeG8yZWQyVWpwaGIzcWtmeTRpaUwwYVZEQURmaWF2S2RUWmFRMmNZdFNVS3Q4dDhXckdkVGNIM3FRdjVhTFFvWXp0RW41T3ExYkVCeG1xZTlyTTFhT1NR?oc=5"
         }
       ]
     }
@@ -382,8 +348,8 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "Russian missiles hit Kyiv's Northern and Southern bridges over the Dnipro, disrupting water and heating, and a 'double-tap' strike in the south killed 72. Ukraine hit the Kerch bridge to Crimea for a second day; Russia says it downed over 2,000 drones in 24 hours.",
-      "context": "Russia launched a full-scale invasion of Ukraine in February 2022, after seizing Crimea in 2014. Ukraine pushed Russian forces back from Kyiv and later in the north-east and south, but the front then settled into a grinding war of attrition. Since 2025 the US has pushed for peace talks, while both sides keep striking each other's cities and energy sites.",
+      "update": "A span of the Kerch bridge to Crimea collapsed into the sea after what Zelensky called a seven-stage drone and missile operation; the Kremlin vowed to rebuild it. The US told Kyiv's backers deep strikes don't work, which Germany's minister called 'stupid'.",
+      "context": "Russia seized Crimea in 2014 and launched a full-scale invasion of Ukraine in February 2022. Ukraine pushed Russian troops back from Kyiv that year, but the front has since largely stalled. Both sides now strike each other's infrastructure far behind the lines while the US pushes for peace talks.",
       "sources": [
         {
           "name": "BBC",
@@ -391,31 +357,34 @@
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+          "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
         },
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/per-rusijos-smugius-kyjive-apgadinti-svarbus-tiltai-pranese-miesto-meras-57-2807458?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUJGYi1BUlk3RkRNekw2VHFXa2JfaTVZV1NsOW5Lc0FFQTh6NnFLYTVvNXUzS0FjajlOT3g2Q1JQVVo0T3R1UDdtVE9kNTdzQ2d2SE8xWjZYUjgtekZyaHNhdEFtajQ5WlNoYVU4RG9FSDhEWmpLa3llQUpWMjRhRWlZSF9Mb2dGeTYzSEt4OUtUSGlGcmo3VzlzU1BMVmgySDViTmZlUDVvV2Z5RFJjQW9GMkZVRnZvTjNnVmdvbjZUdEJBMkhN0gHMAUFVX3lxTE4xSkxST25fc3NYSEltalZFSFRiZTI4MFB1Y0x1cDFBM2N3ZVJoeV9ILTUxRTVtdzR5bGtzTkNWTlJDMjY2SEF3Tm1hUVpJR3RGRGtvRlIzYVhyZVhVU0NJTl8zX18wbEhVLWxlSnFJa3lxcjlxQmZCM0tDV29YeHE2azNOMEFNNjgxMzFmSkFuTkRCUWd3R1RZZDVPMG9PSkpCNzV6TEwyTi1HRTRBQXFuUzNjaE8wRGNQRTRtbXJyc2JKYmxmaUFwREc1MQ?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
       ]
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "US intelligence indicates Iran is developing plans to potentially detonate a dirty bomb in Washington, CNN reports. Iran says three more tankers hit mines near the Strait of Hormuz, and the UK's maritime agency reported two tanker attacks.",
-      "context": "Tensions date back to the 1979 Iranian revolution and grew over Iran's nuclear programme. The US and Israel struck Iranian nuclear sites in June 2025, and this year the conflict escalated into open war, with Iran mining the Strait of Hormuz and the US sending more aircraft carriers to the region.",
+      "update": "Hours after a US strike on Iran's Qeshm Island in the Strait of Hormuz, Iran attacked Kuwait and Bahrain, ending a two-month lull in its strikes on US targets.",
+      "context": "A war began in late February 2026 when the US and Israel struck Iran. Fighting eased after that, but the two sides keep clashing over the Strait of Hormuz, a key route for the world's oil, where tankers have been hit by mines.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-jav-smugiu-irano-salai-persijos-ilankos-salys-paskelbe-parengti-57-2808456?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
-          "name": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5"
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENzVXNRVjR0NU9lejlJWll3U01GOENvbnlKVWJuZG9ZSmwtdVRXSDRPZ3JGcGZnSGhfQmYzNnFRQ0p4d2ZaZk80Q0NKUEgtdTI3cmFwb2JxT1FOamJYVllwTFR3UV9ZN2xfMTNTTFZiS0gtSjU2Q3B6dkVLUmgyYzlpcHprNXdCMEdST0RqNkdkTEgycGFEQkVwY01yWENOcVNpYWpFYlRrRG1waGlwVHNKM3h5UHBidHpMcXlkcw?oc=5"
         }
       ],
       "images": []
@@ -423,75 +392,38 @@
     {
       "id": "nvidia-huang-affair",
       "title": "Nvidia CEO's affair with alleged Chinese spy",
-      "update": "Trump said he 'would certainly not mind' Jensen Huang returning and doubted Alice Huang is a spy, but Nvidia's board is not considering it; over 175,000 people have signed the petition. The US also tightened rules on chip exports to overseas data centres used by Chinese firms.",
-      "context": "Jensen Huang co-founded Nvidia in 1993 and led it for over 33 years, turning it into the main supplier of AI chips. He resigned this month after reports of an affair with Alice Huang, whom US officials reportedly believe is a Chinese spy, amid questions over whether advanced chips reached China despite export controls.",
+      "update": "Nvidia's board ruled out bringing Jensen Huang back as sales doubled to $115.8bn and it forecast $130bn next quarter; it also stopped shipping Hopper chips to China. The SEC is reportedly investigating, and Huang will testify to Congress on 1 December.",
+      "context": "Jensen Huang co-founded Nvidia in 1993 and led it to become the world's most valuable chipmaker during the AI boom. Earlier this month he resigned after admitting an affair with a woman suspected of spying for China. He has since said he would be honoured to return, and Trump has backed the idea.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
       ]
-    },
-    {
-      "id": "saudi-houthi-fighting",
-      "title": "Saudi Arabia-Houthi fighting",
-      "update": "Houthis cut a key government supply route on the Red Sea coast as they push towards Aden, while Yemen's parliament voted to designate the Houthis a terrorist organisation.",
-      "context": "Yemen's war began in 2014, when the Iran-aligned Houthis seized the capital Sanaa, and a Saudi-led coalition intervened in 2015. A truce from 2022 largely held until fighting flared again this year, with the Houthis pushing south against Saudi-backed government forces.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
-        }
-      ],
-      "images": [
-        "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=c64cee063580ab63301c388fac2895f1"
-      ]
-    },
-    {
-      "id": "sudan-civil-war",
-      "title": "Sudan civil war",
-      "update": "An army air strike killed at least 13 civilians, including women and children, in West Kordofan, the Emergency Lawyers group says.",
-      "context": "The war began in April 2023 when the army and the paramilitary Rapid Support Forces, former allies, turned on each other in a power struggle. It has killed tens of thousands and created one of the world's worst humanitarian crises, with fighting shifting to Darfur and Kordofan.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss"
-        }
-      ],
-      "images": []
     }
   ],
   "quiet_ongoing": [
+    "Saudi Arabia-Houthi fighting",
+    "Sudan civil war",
     "Protests across France and Europe",
     "Hoax bomb threats across Europe",
     "Cyber-attacks on European refrigeration systems",
     "Israeli operation in the West Bank"
   ],
   "stats": {
-    "items_read": 408,
+    "items_read": 634,
     "feeds": 31,
-    "feed_problems": [
-      "Delfi: HTTPError: HTTP Error 429: Too Many Requests",
-      "Google News Lithuania: HTTPError: HTTP Error 429: Too Many Requests",
-      "Google News World: HTTPError: HTTP Error 429: Too Many Requests",
-      "Reuters: HTTPError: HTTP Error 429: Too Many Requests",
-      "Google News Tech: HTTPError: HTTP Error 429: Too Many Requests",
-      "Google News Sports: HTTPError: HTTP Error 429: Too Many Requests"
-    ]
+    "feed_problems": []
   }
 }
