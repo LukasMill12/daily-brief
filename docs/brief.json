@@ -1,319 +1,295 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:04:06+00:00",
-  "weather": {
-    "min": 6,
-    "max": 8,
-    "precipitation_mm": 3.6,
-    "wind_max_kmh": 19,
-    "code": 53,
-    "rain_from": "07:00",
-    "text": "Vilniuje 6…8 °C, dulksna, krituliai nuo 07:00."
-  },
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T07:04:16+00:00",
+  "weather": null,
   "fact": {
-    "text": "An octopus has three hearts and blue blood: two hearts pump blood through the gills, and the third pumps it around the rest of the body.",
-    "sources": []
+    "text": "A journalist once mailed the same Lego set to several big architecture firms just to see what the professionals would build with it.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Architecture_Studio_(Lego)"
+      }
+    ]
   },
   "lead_section": "world",
-  "widget_headline": "Trump–Xi–Putin summit",
+  "widget_headline": "ICJ: Myanmar genocide",
   "heads_up": [
-    "Nuo lapkričio 20 d. įsigalioja nauja telefonų pardavimo išsimokėtinai tvarka.",
-    "Savaitgalį atšals, keliuose galimas plikledis ir pirmasis sniegas."
+    "Savaitgalį laukia šlapdriba, keliuose ir šaligatviuose formuosis plikledis.",
+    "Šalyje vyksta mokytojų streikas – pasitikrinkite, ar vyks pamokos."
   ],
   "lithuania": [
     {
-      "headline": "Referendumas dėl šeimos sampratos kovą nevyks",
-      "summary": "Teisės ir teisėtvarkos komitetui pusmetį nepateikus išvados, patariamasis referendumas nebegali vykti kartu su 2027 m. kovo 7 d. savivaldos rinkimais, nes jį reikėjo paskelbti iki gruodžio 7 d. Iniciatoriai kaltina komiteto pirmininką Julių Sabatauską sabotažu ir sieks referendumo per 2028 m. Seimo rinkimus.",
+      "headline": "Valdžia nesitraukia nuo divizijos iki 2030 metų",
+      "summary": "Valstybės kontrolei įspėjus, kad gynybos sistema nespėja su kariuomenės poreikiais, o NSGK pirmininkui vertinant, kad iki 2030 m. divizija bus išvystyta apie 80 proc., prezidentas, premjeras ir krašto apsaugos ministras tikina tikslo nekeisiantys. Ministras pripažįsta, kad visų 100 užsakomų CV90 kovos mašinų laiku negaus – jų sutartis bus pasirašyta lapkričio 27 d., o pristatymas prasidės 2028 m.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "Po 2024 m. Seimo rinkimų valdančiojoje koalicijoje esantys valstiečiai kartu su kitais dešiniaisiais pavasarį inicijavo patariamąjį referendumą, ar Konstitucijoje įrašyti, kad šeima kyla tik iš vyro ir moters santuokos, motinystės ir tėvystės. Tai atsakas į Konstitucinio Teismo sprendimus, pripažinusius ir kitų porų teises. Balandį projektas įveikė pateikimą, bet įstrigo komitete, o valstiečiai ir LLRA-KŠS grasina dėl to nebalsuoti už kitų metų biudžetą.",
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Lietuva nusprendė iki 2030 m. sukurti savo nacionalinę kariuomenės diviziją, kad sustiprintų gynybą nuo Rusijos. Pastaraisiais mėnesiais vis daugiau abejonių kelia finansavimas ir lėti ginkluotės pirkimai, todėl prezidentas siūlo lėšas perskirstyti iš kitų gynybos sričių.",
       "sources": [
         {
           "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3118296/referendumas-del-seimos-sampratos-kitamet-nevyks-norima-surengti-per-seimo-rinkimus"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3119233/sinkevicius-vyriausybe-darys-viska-kad-divizija-butu-isvystyta-iki-2030-metu"
         },
         {
           "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3118377/lithuania-s-family-referendum-stalled-as-organisers-blame-committee-obstruction"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2020/02/17/604531-416894-1287x836.jpg"
-      ]
-    },
-    {
-      "headline": "Lietuva kitąmet nepriims migrantų pagal ES planą – mokės",
-      "summary": "Seimo komitetai pritarė ministro Martyno Katelyno siūlymui kitąmet nepriimti nė vieno migranto pagal ES solidarumo mechanizmą, o sumokėti įnašą, kurio dydis dar neaiškus; galutinį sprendimą priims Vyriausybė. Šiemet Lietuva sutiko priimti 58 migrantus iš Kipro ir sumokėti 1,4 mln. eurų.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "ES solidarumo mechanizmas įpareigoja šalis padėti valstybėms, į kurias migrantai atvyksta pirmiausia: priimti dalį jų arba mokėti. Ministras atmeta kaltinimus ksenofobija ir sako, kad mokėti per penkerius metus bus pigiau.",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3118368/seimo-komitetai-pritare-ministro-siulymui-uz-migrantus-susimoketi-solidarumo-inasa"
-        },
-        {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3118343/minister-rejects-xenophobia-accusations-after-refusing-to-accept-migrants-under-eu-scheme"
-        },
-        {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd3VnSFZ5TkFlci1kczI3bEFJcmNPZnFxQVhfMDZpQmRybjJxX2JVbEItN0pRZmluODh0QTRDVG1FYlJNYVVGOWxYbXFOT3dTb0xZQnNEZmJKM3ZMNU5XV3ktSkVWWFZMNHJsZi1vV29PMV9IbDZzZ3c5aktMZ2t5OXpvZl9pbDBKVjdWVVFMQUpsenJUVTY3eTU2V3pDUkRNM0ZaRlV3MW9SU1NFN18zSUM1a28yRVBfUnRZODFMTUtfazBuYzRaR1Nnc2lBN3o5dnpLUy1n?oc=5"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2019/09/26/519049-650380-1287x836.jpg"
-      ]
-    },
-    {
-      "headline": "Pagalbinis apvaisinimas taps prieinamas ir vienišoms moterims",
-      "summary": "Prezidentas Gitanas Nausėda pasirašė pataisas, pagal kurias pagalbiniu apvaisinimu galės naudotis ne tik sutuoktiniai ir registruoti partneriai, bet ir neregistruotos poros bei vienišos moterys. Valstybė apmokės gydymą diagnozavus nevaisingumą, o vaisingoms vienišoms moterims teks mokėti pačioms.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "Pataisų imtasi po 2025 m. balandžio Konstitucinio Teismo nutarimo, kad šias paslaugas riboti tik sutuoktiniams ir registruotiems partneriams prieštarauja Konstitucijai.",
-      "sources": [
-        {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3118121/lithuania-expands-access-to-assisted-reproduction-as-president-signs-law"
-        },
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3118249/tamasuniene-is-seimo-nariu-gali-kilti-iniciatyvu-betevystes-klausimu"
+          "url": "https://www.lrt.lt/en/news-in-english/19/3119209/nauseda-says-lithuania-can-still-establish-military-division-by-2030"
         },
         {
           "name": "Lrytas",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1FDN0RoRGJGcENVMHNoWE43Yzl1M3JvYUZra2tNN2wtRl9kRVVVdGxEVDUtbzBPSW9oSXBmOTY1TWN3U1JfWUprZV9vOWFWcXYyZ1B0MDBtQ1dEbE5IcTNfbmJBYUVPZ01Ic3dNczhsV1NMZDE5aHhfTTB4dkY3UXZOTklicmt6dm9VVUQ4Y2RiVEVoQ3ZQczcxZTRqOG1ZZVlsTDhYYnZzZk5lQUk1Nk5nS09QOWJrenpJejJHTzYtdnlsbEotQjNZZjNKdms?oc=5"
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/20/news/v-cmilyte-nielsen-ispeja-del-divizijos-kurimo-neatmetama-kad-projektas-veluos-44993739"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2021/04/30/959058-471396-1287x836.jpg"
+        "https://www.lrt.lt/img/2026/06/08/2410856-333791-1287x836.jpg",
+        "https://www.lrt.lt/img/2026/11/19/2543331-779552-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Kontrabandininką nušovęs pasienietis nuteistas",
+      "summary": "Vilniaus apygardos teismas pasienietį Karolį Ilgevičių pripažino kaltu dėl neatsargaus gyvybės atėmimo ir tarnybos pareigų neatlikimo (prokuratūra kaltino nužudymu) ir skyrė metus laisvės apribojimo bei 1 tūkst. eurų įmoką. Vidaus reikalų ministras nusivylęs ir tikisi, kad nuosprendis bus apskųstas.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "2024 m. birželio 1 d. Šalčininkų rajone, prie Baltarusijos sienos, pasienietis šovė į nestojusį automobilį ir nukovė vairuotoją, kurio mašinoje rasta kontrabandinių cigarečių. Byla sukėlė ginčą, kada pareigūnai gali naudoti ginklą: teismas nusprendė, kad nuvažiuojantis automobilis tiesioginio pavojaus nekėlė.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3119095/kontrabandininka-nusoves-pasienietis-ilgevicius-nubaustas-laisves-apribojimo-bausme"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3119116/lithuanian-border-guard-sentenced-for-killing-cigarette-smuggler"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHozTzdOUC1ZblZQd0JFRGQtYmxjdTFsWmdpb0JHSDBROGtZMDBSWGw4U2h6Y21aQ3B1M29QQ3V4VE8zbEpiLUtzOUpsUlNhVGdjMjhCLWJqVDVjRW1vU1dGNmt3NnZGTVdfYTlVRG1VM19zY2VRMHExSHMtOWtWOVFlSFdhXzFFenpHbFRCbmdVTHMwVW1wbVN0azhkN3NDeFIwNm1zWU5jNk5HOG1HWXdQSjQ3aGo2X1d4UkV2cUdYOXY3M0lidW1tNHYyVXhm?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2025/11/24/2247549-766636-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Seimas grąžino 2027 metų biudžetą Vyriausybei",
+      "summary": "Per pirmąjį svarstymą 2027 m. biudžeto projektą kritikavo ir opozicija, ir valdantieji – dėl per mažo finansavimo, neskaidrumo ir nemažinamo deficito, tad Seimas jį grąžino Vyriausybei tobulinti. Vyriausybė svarsto labiau didinti tabako ir alkoholio akcizus, kad surinktų apie 20 mln. eurų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Biudžetą parengė socialdemokratų, „valstiečių“ ir demokratų „Vardan Lietuvos“ koalicija. Opozicija teigia, kad projektas neatspindi tikrojo deficito, o kritikai įspėja apie per didelį dosnumą ir galimą veto.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3119283/lithuanian-parliament-sends-2027-budget-back-to-government-amid-criticism"
+        },
+        {
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/20/news/pasiule-sprendima-kaip-surinkti-daugiau-lesu-i-biudzeta-reikia-greito-politinio-atsako--44981023"
+        },
+        {
+          "name": "vz.lt",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDk1R2NzcVhkUkRVS05PTXU4bzRKV2gyWnN0aTRMNklRekhVTFpVel81dEtYSFp4R2hIVEtwNi1sMjY3SzNzZnpBeDNwd2JDYVZ5VW9WS3ZySTBEZjN3aVlYazliUF9XWWxHNmp5NzVhTUFDc2F4RGJUQ2ZTTjhZbUxkYXpVbU1UUTZmOUhNY1U2V0ZZTGtZU0t6TFoybEZQa0Z1alVxQzlXSnhHSDhEVFJzb3BTWkJ5SkZIUjg0YXZWdjNfX1ByM1ZHZGdyUVRFT3N5SVpOcw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/21/2517305-893566-1287x836.jpg"
       ]
     }
   ],
   "world": [
     {
-      "headline": "Trump, Xi and Putin meet in Shenzhen",
-      "summary": "After separate talks with Xi Jinping and a 40-minute meeting with Vladimir Putin, Donald Trump joins the first-ever three-way summit of the US, Chinese and Russian leaders at APEC in Shenzhen, expected to cover Ukraine, Iran, nuclear arms and AI. Trump said the US and China want to help end the war in Ukraine, while Xi called US-China relations stable and improved.",
+      "headline": "UN court rules Myanmar committed genocide against Rohingya",
+      "summary": "The International Court of Justice ruled 9-6 that Myanmar committed genocide against the Rohingya in 2017, finding about 10,000 were killed and more than 700,000 fled; it is the first time an international court has found a state guilty of genocide. The UK expelled Myanmar's defence attaché and called for an urgent UN Security Council session.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets",
+      "context": "In August 2017, after Rohingya militants attacked police posts in Rakhine State, Myanmar's army launched 'clearance operations' with mass killings, rapes and burned villages. In 2019 The Gambia took Myanmar to the UN's top court under the 1948 Genocide Convention; the ruling may set a precedent for the genocide case against Israel.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+        "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=700&quality=85&auto=format&fit=max&s=18bd1d5044bb0e3cd9ce52df4557f22b"
+      ]
+    },
+    {
+      "headline": "Trump, Xi and Putin summit ends with thin peace declaration",
+      "summary": "After 90 minutes of talks in Shenzhen, the three leaders issued a 'joint declaration of peace' saying nuclear war must never be fought and pledging UN reform and more oil supply, but it did not mention the Ukraine or Iran wars. Analysts say little of substance was agreed.",
       "category": "general",
       "highlight": false,
       "coverage": 9,
-      "why": "Top story across BBC, Google News and Lithuanian outlets",
-      "context": "The three powers have rarely been further apart: Russia has been at war with Ukraine since its full-scale invasion in February 2022, China has backed Moscow economically, and the US and China have spent years in trade and tech disputes. Trump returned to the White House in January 2025 promising to end the Ukraine war quickly, but peace talks have repeatedly stalled.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss"
-        },
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/kinijoje-susitiko-xi-jinpingas-ir-donaldas-trumpas-57-2809446?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/ivykiai/2026/11/19/news/pries-trisali-susitikima-d-trumpo-ir-biciulio-v-putino-pokalbis-44972990"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
-      ]
-    },
-    {
-      "headline": "Anthropic raises $81bn in the biggest IPO ever",
-      "summary": "The Claude maker sold 980 million shares at $83, above its $70–78 range, raising $81.3bn and valuing it at about $1.5tn; it starts trading on Nasdaq on Thursday under the ticker ANT. That beats SpaceX's $75bn debut in June and makes Anthropic the first purely AI company to list in the US.",
-      "category": "ai",
-      "highlight": true,
-      "coverage": 6,
-      "why": "Covered by 6 outlets, BBC front page",
-      "context": "Anthropic was founded in 2021 by former OpenAI researchers.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-      ]
-    },
-    {
-      "headline": "Israeli tanks cross Gaza's 'yellow line'",
-      "summary": "Israeli forces made their first ground incursion into Hamas-controlled central Gaza since the October 2025 ceasefire, advancing near Nuseirat camp to destroy what they called a terror tunnel and forcing displaced families to flee. Hamas called it a flagrant ceasefire violation; medics reported at least one person killed in a nearby airstrike.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "The war began on 7 October 2023, when Hamas attacked Israel, killing about 1,200 people, and Israel responded with a devastating offensive on Gaza. A US-brokered ceasefire in October 2025 left Israel holding more than 60% of the strip behind the so-called yellow line, but near-daily strikes have continued and both sides accuse each other of violations.",
+      "why": "Covered by 9 outlets",
+      "context": "It was the first-ever trilateral meeting of US, Chinese and Russian leaders, held on the sidelines of the APEC summit in China.",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdFotQkIzYXF6QzFVMTJ6MUFZaEFNa3BaSlVHRWNoQXEyaTR6QXRFM3pwWW56RUVZRlMxQXJSOHR5X2hsVVVWU0dScWhmeGJPc3RrNnpNTmFpbGZqUnZ0Y3R1Qnd4ZXFEcElodjJJaDRFVFk?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+        "https://i.guim.co.uk/img/media/8a7d32d3197bc67811a5805eb05a308525f47b92/153_59_1632_1306/master/1632.jpg?width=700&quality=85&auto=format&fit=max&s=37ccd4a9b84363c62c43287a1c2046b5"
       ]
     },
     {
-      "headline": "Muslims set to outnumber Christians by 2035",
-      "summary": "A Pew Research Center study of 201 countries projects that Islam will overtake Christianity as the world's largest religion by 2035, mainly because Muslims are younger and have more children. Pakistan is expected to pass Indonesia as the country with the most Muslims, while India stays more than three-quarters Hindu.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMS1HQ0pyNUo5cE5PU1p0RHl3NFpENXEzNTg1aUlCQ0U5ZkZhNVMweHFNNDZMbFNkeFM0M1daYlNlekMwckR6Sk1nRFpDMlVXMlpaXy1MMUNfMGU0Q19ETG5XYUFQMVRzbE5Dc09wVXdEeDhTS3hITmJVUWVrNDdNSDZmTmktUk9vZ1V5TWl6ZHZaN0ljdE40QjhMVGFnb1hDM3REc3NNUlk4bW9iQnEwREtEQU1rX0FpV1dJ0gHAAUFVX3lxTFBrMjA3UkttS1dpSWxHc2M0UWRFMXp6ZXBzblVxdk9MWVQwMW8tWjFUUHZ6bzhzbzhMMjRMY1RBYkJUNTFJSDctWXlaam1rdFV5c3I4ekNDMUdKTXBmRldCVWtqVjg0THJwaW90RER5a3YzektLTGJaV2hQN2YzTGg0ZUsxMGQ0WXh2SklxeUc1dEhlNDVuNTRHQjR1QzZTX2hHc19SbV9VNjMyN3NJTzgxU0IyRW96Z2d4allQR3hHXw?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNmVE82STJXZmVsTDNGb2tfdldvRTFfUHZvMkp3bjRscUFKOElQX2JoV3pKV0Y3aHV3QVVBNGd0YU1aQno2ZzNYSVVrS1dGVVlEbzBoTDlGcU1YMXdtNFdBMF8yalB0WFF2eWJMdzh3VXNTckVoUGZzSWw4c1JCMkI5eWloTHM3SUVKd0hRLTVMYVlReWplaHhKQUZZbXlmaHpjbHBSVjM?oc=5"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg"
-      ]
-    }
-  ],
-  "interesting": [
-    {
-      "headline": "GTA 6 launches with a record-tying 99 score",
-      "summary": "Grand Theft Auto VI is out on PS5 and Xbox after a 13-year wait, with critics calling it a masterpiece and a Metacritic average of 99, tying Ocarina of Time's record. Pre-orders topped 15.8 million copies and $1.5bn, and it broke the all-time livestream viewer record before release.",
-      "category": "gaming",
+      "headline": "White House cyber chief ousted after US tech outages",
+      "summary": "Trump removed National Cyber Director Sean Cairncross after a wave of outages, including one that forced a nationwide flight ground stop, and tapped Kirsten Davies as cyber chief. Officials say there is no evidence the outages were cyberattacks.",
+      "category": "tech",
       "highlight": true,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "It is the first new GTA since GTA V in 2013 and reportedly cost over $1bn to make.",
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Airline booking systems, banks and work platforms in the US have suffered a string of outages, raising fears about AI-driven threats.",
       "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
         },
         {
-          "name": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e8a6/live/48114450-e386-11f1-99a1-253766e7ad8b.jpg"
-      ]
-    },
-    {
-      "headline": "Google launches Gemini 4 Neon",
-      "summary": "Google released Gemini 4 Neon, a model it says matches its top Carbon tier's quality at the speed of its fast Flash models; it is live for AI Pro subscribers.",
-      "category": "ai",
-      "highlight": true,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "",
-      "sources": [
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-didelio-masto-trikdziu-baltieji-rumai-atleido-kibernetinio-saugumo-vadova-57-2810494?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
         {
-          "name": "9to5Google",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeEdVUUtUSmN1UFZBdy1kS3BodGthd3Fyc3d1WGlZWWVYUUtBUFJrQ3BzVER5LUxycWtzMm1VVE8wZjR3cUVoSW4teWRCZHpZN2JvY3cwOUZCQVZMTElCdXhBQWRiaGJOV1BNUURn?oc=5"
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHZUWVAwNWYzSWs5SnRvdWZOUnBfQ0xZU2thbUVSRExIeVZqZG1IS0VVVmlodWlIaUlzX2VHam1qNHJyYURsa0JHUWJ5bm16M3pKQzdlQ2h4c0gtdWNQWTBObHVzYWpLcUx6Sk9WU0R2ZkNpcjRkaDRxcl9FdDJYTlZNU29udktr?oc=5"
         }
       ],
       "images": []
     },
     {
-      "headline": "Van Gogh painting sells for record $190.4m",
-      "summary": "Sotheby's sold Chestnut Trees in Blossom, painted in the last two months of Van Gogh's life, for $190.4m, smashing his previous auction record of $117.2m. A last-minute deal settled claims by a German family's heirs that it had been sold under Nazi-era duress.",
-      "category": "culture",
+      "headline": "COP31 talks drop fossil fuel phase-out",
+      "summary": "Negotiators at the UN climate summit in Turkey dropped a fossil fuel phase-out and pivoted to carbon capture. African countries' push to triple adaptation finance by 2035 was not accepted for formal talks, with Europe saying existing pledges should be used.",
+      "category": "general",
       "highlight": false,
-      "coverage": 4,
-      "why": "Covered by 4 outlets",
-      "context": "",
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Countries meet every year at UN climate summits; a call to move away from fossil fuels was first agreed at COP28 in Dubai in 2023.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3VfR2J4b3psWUEyZUJLTk1vTndMQnI2cXJrSVh0Z3R6NXIwc2pZcHI2dUZjNTE2aGI1MUFYbHRZMXBJbURWYmtMdmpLVmdGS3dMWVNlVWxfVU9wRElxakJ2eWFpYTNEcmFPUTRPZ2c4NWRxc2YxMEF1SGRaR1U3YUd2RENXWTVfVEJiRWlCRUtqTFhIamM1dFVoMmJTX1lzdl9GcW1hUi1PUQ?oc=5"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BWdzJYX3pyUm1XeE1sRlZsMm5BZGQ2clNzNjlfWlNXZmctME0yTnV0a3RBSVFoUVlSd0xPSHd3NVVMNXRLdzBISFV6QmNoazhIem01dUk5d0xJb2ZTYTVMa0x1aTdaZks2MHlldHZ6Qm5xTHdGaDk2QVBkRFJHekZpQjI?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "GTA 6 is the biggest entertainment launch ever",
+      "summary": "GTA 6 pre-orders and first-day sales topped 24.5 million copies, worth about $2.36bn, according to Sensor Tower, nearly matching the year's top film's entire cinema run. About three quarters of sales were on PlayStation 5.",
+      "category": "gaming",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "The game cost an estimated $1bn+ to make, the most expensive ever.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg"
       ]
     },
     {
-      "headline": "Pierce Brosnan backs Robert Pattinson as Bond",
-      "summary": "Former 007 Pierce Brosnan publicly welcomed Robert Pattinson, who was announced on Monday as the new James Bond, telling him he will be magnificent.",
-      "category": "film",
-      "highlight": true,
-      "coverage": 2,
-      "why": "Covered by Variety and The Hollywood Reporter",
-      "context": "",
+      "headline": "Pill makes pancreatic cancer vanish in some patients",
+      "summary": "In an early trial of 61 patients with advanced pancreatic cancer, the daily pill daraxonrasib plus chemotherapy stopped tumour growth in almost all and made cancer undetectable in one in 12. Cancer Research UK called it the biggest leap in decades, though not a cure.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 1,
+      "why": "BBC front page #2",
+      "context": "Pancreatic cancer has the lowest survival rate of common cancers; the drug blocks the KRAS mutations that drive most of these tumours.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/"
-        },
-        {
-          "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112/"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "images": [
-        "https://variety.com/wp-content/uploads/2026/11/MobLand-Season-Two-World-Premiere-Arrivals-2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
+      ]
+    },
+    {
+      "headline": "Apple is building an AI agent that uses your Mac",
+      "summary": "A job listing spotted by Bloomberg shows Apple building an agent that browses the web, works across apps, runs commands and writes code, possibly launching by the end of next year. Meanwhile Google just let Gemini control Macs.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Rivals including OpenAI, Anthropic and Meta already offer agents that can operate a computer.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "Hunger Games prequel set for big opening",
+      "summary": "'Sunrise on the Reaping', with Joseph Zada as young Haymitch, opens in 3,900 North American cinemas today and could take $100m-130m in its first weekend. It scores 67% on Rotten Tomatoes.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "It is the sixth film in a franchise that has grossed over $3.3bn since 2012.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/072f/live/f0b3cb40-e3fa-11f1-a1b0-810734adec41.jpg"
       ]
     }
   ],
   "events": [
     {
-      "title": "Thomas Anders (Modern Talking) koncertas",
-      "when": "Šeštadienį, lapkričio 21 d., 19:00",
-      "where": "Arena Vilnius",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "bilietai.lt",
-          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
-        }
-      ]
-    },
-    {
-      "title": "Vilniaus dokumentinių filmų festivalis 2026",
-      "when": "Rodoma šią savaitę",
-      "where": "Kino teatras „Pasaka“",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "Pasaka",
-          "url": "https://www.pasaka.lt/repertuaras"
-        }
-      ]
-    },
-    {
-      "title": "CIRKO GALA. Sapnų fabriko gatvė",
-      "when": "Iki sekmadienio, lapkričio 22 d.",
+      "title": "Alizée, Jonathan Dassin ir Bosson koncertas",
+      "when": "Lapkričio 20 d., 19:00",
       "where": "COMPENSA koncertų salė",
       "scope": "vilnius",
       "sources": [
@@ -324,42 +300,78 @@
       ]
     },
     {
-      "title": "UN top court rules on Rohingya genocide case against Myanmar",
-      "when": "Thursday",
-      "where": "International Court of Justice, The Hague",
-      "scope": "global",
+      "title": "Thomas Anders iš „Modern Talking“",
+      "when": "Lapkričio 21 d., 19:00",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2JsMy1wbUtIak40cVlJbkk4cWxNdER4QThqbi0tY2h6d1dOM0NWZUJZYjhMaGplRFRFLW9VMDNrbkVsM19SMWUxS01aNEFIVHBwMjZ6dDRubmZFclZzaVNvam4zazJLZjFpank3a3l1VzRrXzlqLTdnU3JiRG1vQkNyUnB6S0tVcnNlU2dqNG1SWG96Rzdhem5ZLW5vY2VUQUNfcTNWdEV5Zw?oc=5"
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
         }
       ]
     },
     {
-      "title": "Ukraine's 'coalition of the willing' meets in Berlin",
-      "when": "Thursday",
-      "where": "Berlin",
+      "title": "Vilniaus dokumentinių filmų festivalis VDFF26",
+      "when": "Šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "UK-EU summit on youth mobility and trade",
+      "when": "Friday, 20 November",
+      "where": "Brussels",
       "scope": "global",
       "sources": [
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-kinijos-rusijos-ir-jav-derybu-ukrainos-sajungininkai-susitinka-berlyne-57-2809428?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1k5cTV4b0QxYUc0QVZMampZWHJXUXo0QWlaLThQMjBMa3gySXVHN2diWUJDT2VQRmZ4MXB1WnR5eUZXdnozZFZIenVQX2gwOGZDRWxnSlFPVmFtZzZDWURlRFRHXzZKOFlCN2pucW9zNzdZcG9GeGcwa1JBNTJHOEtNMk5LYW41WkE5eTFqd3A?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "UN Security Council vote in race for next secretary general",
+      "when": "Friday, 20 November",
+      "where": "New York",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkRIWUdzUl84UkhLNFVKV0c5a1RVbUNHQ2JiNGVFRUxkYnJCRnp2el9qLVoxUmFjWFNNNmotUkFBS21wOTlsMEhCMDRTY3RNV2hITXJUVTE0azdsNXNjZkdxeUtjR3BBNi10ajdXdXRNM3NQejBYN1prWnFIMElhWXNvWXZRRnI1dUplejFHeWlSQmcwNTdiR3NKc05WaWM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Las Vegas Grand Prix",
+      "when": "This weekend",
+      "where": "Las Vegas",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Race",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXhPWXE1LUhQQzZrMDB2T2FMMXZPMEdMc0o5TDJNdHQ4eDF5UkhBTjF1S1llaTdRUFpjTHlxQU9hcFlNUmZiOFRPdEtvRVdRNlJNT08zRVR1dFpJMmloMzdxRXA4d2dBX2ZSVmRVOWpTakNSTWR0Mm9QajY5WmtyVUdmSkU4NG9LT3lsNENweV9uMGdN?oc=5"
         }
       ]
     }
@@ -368,43 +380,52 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "The Crimean bridge was hit for a third time this week early on Thursday, halting traffic and trains, just before Putin's summit with Trump and Xi. The EU proposed a €45bn loan to Kyiv, to be repaid only after Russia pays reparations.",
-      "context": "Russia seized Crimea in 2014 and launched a full-scale invasion of Ukraine in February 2022. After Kyiv pushed Russian troops back from the capital and parts of the south that year, the front largely froze into a war of attrition fought with drones and missiles. Kyiv has long targeted the Kerch bridge, Russia's main link to Crimea, and this week brought down a section of its road.",
+      "update": "Overnight Russian strikes damaged bridges in Kyiv and killed three people, after Putin vowed a 'far more painful' response to the Crimean bridge attacks and ruled out a limited ceasefire. European allies say they are ready for talks with Russia, and the US has reportedly floated NATO membership for Ukraine.",
+      "context": "Russia annexed Crimea in 2014 and launched a full-scale invasion of Ukraine in February 2022. After early Russian advances were pushed back, the front largely settled into a war of attrition with heavy drone and missile strikes. This year US-led peace efforts have stalled while Ukraine has hit targets such as the Crimean bridge.",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/pareigunai-rusijos-atakos-kyjive-prazude-tris-zmones-57-2810468?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
       ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "A Houthi strike hit Riyadh's tallest skyscraper, the headquarters of Saudi Arabia's sovereign wealth fund, rocking the capital's financial centre.",
+      "context": "The Iran-backed Houthis seized Yemen's capital in 2014, and a Saudi-led coalition intervened in 2015. A truce from 2022 largely held, but fighting flared again this year as part of the wider Iran war, with Houthi missiles and drones hitting Saudi pipelines and Riyadh.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93?oc=5"
+        }
+      ],
+      "images": []
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Trump is weighing new strikes on Iran as Israel warns of chemical weapons, while Gulf states try to head off an all-out war; the US and Iran traded more strikes, including one on a UAE oil tanker.",
-      "context": "Tensions go back to the 1979 revolution, and rose again after the US left the nuclear deal in 2018. Israel and the US struck Iran's nuclear sites in June 2025, and this autumn the confrontation turned into open US-Iran fighting around the Gulf. This week a US strike on Iran's Qeshm Island was followed by Iranian attacks on Kuwait and Bahrain.",
+      "update": "A Senate measure to limit Trump's war powers against Iran failed again.",
+      "context": "Tensions date back to the 1979 revolution and Iran's nuclear programme. The US and Israel struck Iranian nuclear sites in June 2025, and this year the conflict has grown into open fighting, with strikes across the Gulf and a US naval blockade.",
       "sources": [
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/19/news/vienas-jav-lektuvnesis-pasitrauke-is-artimuju-rytu-44973448"
-        },
-        {
-          "name": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhsMGFnUEhueFlmbkpjTEdvbU1LVkxiUk8wVzhQMUZ2QlNfYUo2Nmh4N3dVSzI5ZXByTHpmdU9FNE9HaTloeTBGQU51cHNEbkZ0VEZJZFgxVWdoMFJKdDJkQk00a0Q0VXJlRmQ0RlJKX2RBalV4cy1ZaVVkeFE3bQ?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5"
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44WGgzc2Z1WWZYOW9XTnNTb29CbTg5RHd2RWE4cnJab19WN0tWR2NjNUxxQ1FMcURoSnU4SWpFRWdNNnZabjlQUWs1aHdZMU95WEh2MnI4cjZfdE1XSk1SeE1DNHRtY0J4MlFnaWEydS1wN0U3OVpxeg?oc=5"
         }
       ],
       "images": []
@@ -412,48 +433,56 @@
     {
       "id": "nvidia-huang-affair",
       "title": "Nvidia CEO's affair with alleged Chinese spy",
-      "update": "Nvidia delayed its quarterly SEC report, telling analysts it may need to add risk disclosures about the Huang investigation; Trump said he raised Huang's case briefly with Xi.",
-      "context": "Earlier this month Nvidia co-founder Jensen Huang admitted an affair with an executive of Megaspeed, a firm suspected of selling restricted Nvidia chips to China, who is alleged to be a Chinese spy. He stepped down last week, and Nvidia's board has ruled out bringing him back. Congress, the Justice Department and reportedly the SEC are investigating.",
+      "update": "California's attorney general subpoenaed Nvidia to probe whether China obtained chips or secrets and whether investors were misled. A House committee revealed the US approved exports of 879,000 Nvidia and AMD AI chips to Chinese firms in six months.",
+      "context": "In early November the New York Times reported that Nvidia co-founder and CEO Jensen Huang had an affair with Alice Huang, a Megaspeed executive suspected of spying for China. Huang left the company last week, Nvidia's shares have fallen 22%, and the board says it will not reinstate him.",
       "sources": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+        },
+        {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5"
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
         }
       ],
       "images": []
     },
     {
-      "id": "saudi-houthi-fighting",
-      "title": "Saudi Arabia-Houthi fighting",
-      "update": "A Houthi missile threat towards Riyadh caused damage, the Saudi-led coalition said.",
-      "context": "Yemen's Houthi rebels seized the capital Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to restore the government. A truce from 2022 largely held for years, but fighting between the Houthis and Saudi Arabia has flared up again in recent weeks.",
+      "id": "fridge-cyber-attacks",
+      "title": "Cyber-attacks on European refrigeration systems",
+      "update": "A secret UK operation took thousands of refrigeration controllers offline to fix a flaw, protecting tens of thousands of fridges at supermarkets, warehouses and stadiums before hackers could find it.",
+      "context": "On 1-2 November hackers hit refrigeration systems at dozens of supermarkets in seven European countries, spoiling tonnes of food; France blamed Iran for one wave, which Tehran denies. In late October researchers found a similar flaw in the UK's most common controllers.",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "images": []
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
+      ]
     }
   ],
   "quiet_ongoing": [
     "Sudan civil war",
     "Protests across France and Europe",
     "Hoax bomb threats across Europe",
-    "Cyber-attacks on European refrigeration systems",
     "Israeli operation in the West Bank"
   ],
   "stats": {
-    "items_read": 644,
+    "items_read": 628,
     "feeds": 31,
-    "feed_problems": []
+    "feed_problems": [
+      "Reuters: HTTPError: HTTP Error 429: Too Many Requests",
+      "weather: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+    ]
   }
 }
