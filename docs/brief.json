@@ -1,226 +1,244 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T07:03:45+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T07:04:11+00:00",
   "weather": {
-    "min": 0,
+    "min": 1,
     "max": 3,
-    "precipitation_mm": 1.0,
-    "wind_max_kmh": 21,
-    "code": 53,
-    "rain_from": "15:00",
-    "text": "Vilniuje 0…3 °C, dulksna, krituliai nuo 15:00."
+    "precipitation_mm": 3.3,
+    "wind_max_kmh": 19,
+    "code": 51,
+    "rain_from": "07:00",
+    "text": "Vilniuje 1…3 °C, dulksna, krituliai nuo 07:00."
   },
   "fact": {
-    "text": "Philosophers have seriously debated whether the hole in a cheese is a real thing in its own right, or just a place where cheese isn't.",
+    "text": "Toy Story, released on 22 November 1995, was the first feature film made entirely with computer-generated imagery.",
     "sources": [
       {
         "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Entity"
+        "url": "https://en.wikipedia.org/wiki/Toy_Story"
       }
     ]
   },
   "lead_section": "world",
-  "widget_headline": "AI rout hits Wall St",
+  "widget_headline": "COP31 runs overtime",
   "heads_up": [
-    "Savaitgalį daug kur šlapdriba, naktimis plikledis, pajūryje – gūsingas vėjas.",
-    "Iki pirmadienio šešiuose miestuose vyks kariuomenės dienos paradai ir rikiuotės."
+    "Per Kalėdas ir Naujuosius metus dauguma parduotuvių nedirbs – tikrinkite šventinį darbo laiką.",
+    "Šiandien Nalšios šiaurinėje apygardoje – antrasis Seimo nario rinkimų turas."
   ],
   "lithuania": [
     {
-      "headline": "Kongo DR kalinti septyni lietuviai paleisti",
-      "summary": "Rugsėjo pabaigoje Kongo DR sulaikyti ir šnipinėjimu apkaltinti septyni Lietuvos keliautojai po nuo spalio vykusių derybų ir prezidento Gitano Nausėdos pokalbio su Félixu Tshisekedi paleisti – lėktuvas iš Kinšasos pakilo vidurnaktį.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 6,
-      "why": "Apie tai rašė 6 portalai",
-      "context": "Draugų grupė automobiliais keliavo po Afriką; esą jie pažeidė draudimą fotografuoti tam tikrus objektus. Apie sulaikymą viešai nebuvo skelbta, kad nepakenktų deryboms.",
-      "sources": [
-        {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/kongo-dr-beveik-du-menesius-kalino-snipinejimu-apkaltintus-lietuvius-jie-islaisvinti-ir-vyksta-namo-56-2799654?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/21/news/neeiline-lietuviu-gelbejimo-operacija-konge-po-beveik-dvieju-menesiu-keliautojai-islaisvinti-tik-po-prezidentu-skambucio-45000366"
-        },
-        {
-          "name": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVNoNVo1bW1uUF9sTzNsZm9LbVJCUnNWMXROZklZWjRObVJDOVNIUXYtSlNzaTFrRldjM1hTU3hCS3dGUGlQRGdlSmhVNnNLTG5SeEpya3haSFlWemZDVHA3dHJJU1JYdEQybzFFOVlZelhGaGhTdFZmSHp6R2QzWWN5ZVhybkoxNFBEelNrWEJpZkliVy0xWFJ1N3BBaURCa0s4RGJfQ3BVdXdZOVNTalpNZU9qNTAwM3IyWWtjR19GWmtjakE?oc=5"
-        }
-      ],
-      "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsNjMxeDUyOSw2MjU4MDEsb3JpZ2luYWwsLGlkPTEwOTUyMzc2JmRhdGU9MjAyNiUyRjExJTJGMDYsNDEwNTkyMjYwNg==/kongo-demokratineje-respublikoje-sulaikyti-lietuviai-6aedd25fdd7e0.jpg"
-      ]
-    },
-    {
-      "headline": "Mokytojų streikas skaldo tėvus ir politikus",
-      "summary": "Dalis tėvų piktinasi mokytojų streiku ir teigia, kad juo piktnaudžiaujama, o teisininkas Egidijus Kūris stojo pedagogų pusėn ir sako, kad premjeras „šovė sau į koją“.",
+      "headline": "NKVC: Lietuva dronų virš Kaliningrado nefiksavo",
+      "summary": "Po pranešimų apie sprogimus Baltijske ir oro pavojų Kaliningrado srityje, kurios gubernatorius teigė, kad perspėjimas suveikė dėl įtartino objekto iš Lietuvos pusės, NKVC pareiškė, kad Lietuvos karinės oro pajėgos jokių dronų nefiksavo ir Lietuva neleidžia naudoti savo oro erdvės atakoms.",
       "category": "general",
       "highlight": false,
       "coverage": 5,
       "why": "Apie tai rašė 5 portalai",
-      "context": "Streikas vyksta tuo metu, kai Seimas grąžino 2027 metų biudžetą Vyriausybei, o ir kitų sričių profsąjungos grasina streikais dėl atlyginimų.",
+      "context": "Rusija Ukrainą plačiu mastu užpuolė 2022 m. vasarį. Ukraina vis dažniau dronais smogia giliai Rusijos teritorijoje, o Kaliningrado sritis, įsiterpusi tarp Lietuvos ir Lenkijos, yra Rusijos Baltijos laivyno bazė. Rusijos informacinėje erdvėje jau anksčiau skleisti teiginiai, kad NATO siekia izoliuoti Kaliningradą, todėl Vilnius skuba paneigti bet kokį savo vaidmenį.",
       "sources": [
         {
-          "name": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWNhWWZVMTFNWktqN0FxclV0blR4NUdXcEdRbm45TGZRWEJHdlBjU1ViLVRXTHkzZ3AtTTZtX2xMRFJWQ3h0MXlUNXRPQ193VmZhbmNudks2X2t5U2RYbXBOZ3pTbTdoSkFDZ0c4Mk45R2ZrdXFYTmgwN1lvVEthYjRmaFBCc1NFa0JsbldFWTZRMVcza1VuQkI3aXFHRnIyTlY4bmdoa0FubUFtOWFlcHRGZ01ZZGR4aEE?oc=5"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/nkvc-apie-oro-pavoju-kaliningrade-lietuva-jokiu-dronu-nefiksavo-56-2811608?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
           "name": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa21GMDZNRm9fSWpRMWZNakxqRmpEMENxdDAwVHR4c1gxbXV5ekFoX0IxcUZIQTd4VFJPYXczUFhubDdFRnJUWEptbVJ3UllUUDhtTmJSQUJXUWxDMzZEeVM3bFJ6Z2VtdHdfOER5UkR4b2lSOFhXaFVQX2lad3JqTUFWMUM2SHRHVWF0Q3pnRzNHNUg0eE9Uc3dLV3lQSHNMbEUwc3BEOGk4Y1MyNXdpcU1GNDZ5dnlDa3EzVEJLMmQtMnRKRHM4?oc=5"
-        }
-      ],
-      "images": []
-    },
-    {
-      "headline": "Nuo gruodžio vidurio – antras traukinys į Rygą",
-      "summary": "Nuo gruodžio vidurio LTG kasdien leis antrą tiesioginį traukinį Vilnius–Ryga per Daugpilį: jis išvyks 17.40 ir Rygoje bus 22.50, o nuo gruodžio 26 d. savaitgaliais kursuos ir papildomi traukiniai į Daugpilį.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 6,
-      "why": "Apie tai rašė 6 portalai",
-      "context": "Iki šiol vienintelis tiesioginis rytinis traukinys į Rygą važiuoja per Šiaulius; traukiniai į Daugpilį nekursavo nuo 2018 metų.",
-      "sources": [
-        {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3120315/lithuania-to-launch-second-daily-train-connection-to-riga-via-daugavpils"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3121191/nkvc-apie-pranesimus-del-dronu-kaliningrade-lietuvos-karines-oro-pajegos-dronu-nefiksavo"
         },
         {
-          "name": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2FXWkNvanlEMnVVeERXWVRWMmtzU19BeG44M2ZMXzVIZURaeldaRmx3M2EwOWNjaG5zcWw4VW9QRnZLOXV0c2k0emRKRmFWYnNqOWdUd21ndFRnaWhEc3VKdlJIVE9CdkhsMXNGMmdEV0FyT3BSWnFHeEZ2Mkdla3FHaXFBWV9qV2d3QjdDbDljZmlhbVN6amRVVGw?oc=5"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/22/news/po-pranesimu-apie-ukrainos-dronu-smugius-kaliningrado-sriciai-nkvc-zinia-45013021"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/11/20/2545122-615485-1287x836.jpg"
+        "https://s1.15min.lt/static/cache/MTI4MHgsNzQ2eDcyMiw2MjU4MDEsb3JpZ2luYWwsLGlkPTEwNzAxOTAwJmRhdGU9MjAyNiUyRjA1JTJGMjgsMjI2ODQwNTM2Mw==/kaliningradas-6a17e57f8ba13.jpg",
+        "https://s1.15min.lt/static/cache/MTI4MHgsNzE4eDUyMyw5OTksb3JpZ2luYWwsLGlkPTEwMjA0MDU2JmRhdGU9MjAyNSUyRjA3JTJGMTEsMTg4NjMzNzIw/kaliningradas-maxim-shemetov-reuters-6871075709224.jpg"
       ]
+    },
+    {
+      "headline": "Pagal ES solidarumo mechanizmą perkelta pusė migrantų",
+      "summary": "Vidaus reikalų ministras Martynas Katelynas teigė, kad į Lietuvą perkelta maždaug pusė iš 58 migrantų iš Kipro, kuriuos šalis pažadėjo priimti, be to, ji moka 1,4 mln. eurų įmoką; kitąmet ministras siūlo migrantų nepriimti ir tik mokėti.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Apie tai rašė 4 portalai",
+      "context": "2024 m. gegužę patvirtintas ES migracijos ir prieglobsčio paktas įpareigoja šalis nares priimti migrantų iš labiausiai apkrautų valstybių arba mokėti įmokas. Pernai gruodį Vyriausybė nusprendė pusę įsipareigojimo įvykdyti priimant žmones, o pusę – sumokant; Lenkijai ir Estijai taikoma išimtis, Lietuvai – ne.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3121044/ministras-pagal-solidarumo-mechanizma-i-lietuva-perkelta-apie-puse-migrantu"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd3AxdFNqdF9jY2ZGam9EVXNjSUYxX1kwb09iXzZsQ1BVQjFUUDl2dGE1WDJTajJCZGttb2szZ2tMdHpjYkJ0RXBWa0pidjFtd0VDQ1BKR3V3TVM3dTdtQndBMVo3TGNEVkhJVDhNSzZmYWJEMTc3bkstLTRpYS1TMVh0c1FESUNlaTVMSFV0UUlkOXE5SThZUFQxN01JWW1YVVlyQkxOWU5KRFZKVXMycnU0VU95Q01QdUgzSENhT3NndFlFcUdDRGcxYkVFMmNMUURoQ3ZyQ0kwUEYyQzJRXw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/07/07/2434441-198471-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Vietoj „Akropolio“ ledo arenos – nauja už 30 mln. eurų",
+      "summary": "Uždarant „Akropolio“ ledo areną, Vilniuje planuojama statyti naują ledo areną, kurios preliminari vertė – 30 mln. eurų.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHQ0UHVuUW4tVXlyaDBuXzlBOEh6cjU0Q3JFZEsybTIxYy01ck5QSldiMFRaWGk2azlHRGdSMmthSVJ3WmZlVkZTSFc1bDRxREJhM1c0ajBJRW5EQVZFWTJJS2UtdXo3ekVGRVN3N3VIeHhWeWZQbENhNGp3YkJQMnFocHNqSHRPTE5tMmU2VS1sci0xajU1VlhxbllhS0F6SzF4NUxTbVVQcTZ1N1FEbU5KV0lXVy1LSUt1NmpwckFYaDZWem03MDRn?oc=5"
+        }
+      ],
+      "images": []
     }
   ],
   "world": [
     {
-      "headline": "AI sell-off pushes S&P 500 into correction",
-      "summary": "The S&P 500 fell 3.7% and the Nasdaq 5.3% on Friday, erasing its 2026 gains, as investors dumped AI stocks; Nvidia lost 14% and Anthropic shares sank 8.5% towards their $83 IPO price a day after the record listing.",
-      "category": "tech",
-      "highlight": true,
-      "coverage": 9,
-      "why": "Covered by 9 outlets",
-      "context": "Big tech firms have spent more than $1 trillion on AI in the past year, feeding fears of a bubble; Democrats' midterm win in early November added to worries.",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-        },
-        {
-          "name": "BBC Tech",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f08/live/599393b0-e50f-11f1-99b6-a35a62fa4264.jpg",
-        "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=700&quality=85&auto=format&fit=max&s=4d557657af11c1527458fcf1360797a5"
-      ]
-    },
-    {
-      "headline": "UK and EU strike deals to rebuild post-Brexit ties",
-      "summary": "Britain and the EU agreed deals on youth mobility, food and farm trade and emissions trading; the youth scheme will let 100,000 people each way aged 18 to 31 live, work or study abroad for up to three years, starting by January 2030.",
+      "headline": "COP31 climate talks run into second day of overtime",
+      "summary": "A new draft deal at the UN climate summit in Antalya, Turkey, acknowledges the 2023 pledge to transition away from fossil fuels and admits the world is set to miss the 1.5C goal, but the EU reportedly sees it as a step backward; without consensus the talks could be suspended until next year.",
       "category": "general",
       "highlight": false,
-      "coverage": 7,
-      "why": "Covered by 7 outlets",
-      "context": "Britain voted to leave the EU in 2016 and left in 2020, after years of bitter negotiations. Trade with the bloc became harder, and recent UK governments have sought closer ties.",
+      "coverage": 6,
+      "why": "Top story on BBC, covered by 6 outlets",
+      "context": "UN climate summits have long fought over phasing out coal, oil and gas. COP28 in Dubai in 2023 first called for 'transitioning away' from fossil fuels. At COP31, a first draft this week urged a faster phase-out, but a second version removed every mention of fossil fuels after Saudi Arabia and other producers objected, pushing the summit past its Friday deadline.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+          "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=700&quality=85&auto=format&fit=max&s=4aafdbe80398ac5cbfe550a1af2f5d7a",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
       ]
     },
     {
-      "headline": "Trump threatens to penalise firms building AI data centres abroad",
-      "summary": "Trump said US tech firms will face \"tremendous penalties\" if they build AI data centres abroad, claiming China would take them, but gave no details and said his own officials were hearing it for the first time.",
+      "headline": "Mexico captures cartel boss 'El Chapo Isidro' in deadly raid",
+      "summary": "Mexican special forces using US intelligence arrested Fausto Isidro Meza Flores, one of the FBI's 10 most wanted, in Guasave, Sinaloa, in a gunfight that killed seven attackers and four soldiers; the US, which offered a $5m reward, is seeking his extradition.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 8,
+      "why": "Covered by 8 outlets, #1 on Google News",
+      "context": "Meza Flores, accused of flooding the US with fentanyl, cocaine and heroin and of torture and kidnapping, evaded capture for over a decade; Mexico has stepped up arrests under pressure from Trump.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+        "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=700&quality=85&auto=format&fit=max&s=0edca5217d8c45ec717c5f45f4cba86a"
+      ]
+    },
+    {
+      "headline": "FBI investigates apparent hack of national crime database",
+      "summary": "The FBI is investigating an apparent breach of the National Crime Information Center, the database police across the US use for warrants and background checks; Trump said it was 'not good' but 'maybe we'll learn things'.",
       "category": "tech",
       "highlight": true,
       "coverage": 8,
       "why": "Covered by 8 outlets",
-      "context": "It follows new US rules this week requiring licences to buy advanced AI chips, aimed at stopping them reaching China.",
+      "context": "In September the FBI said hackers had stolen personal data on about 38,000 of its staff, and the US Agriculture Department was also reportedly hacked this week.",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-        },
-        {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=700&quality=85&auto=format&fit=max&s=e3ce231e19384f7ffe08719d16fbacd2",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
       ]
     },
     {
-      "headline": "Denmark expels Russian diplomat over alleged murder plot",
-      "summary": "Denmark says Russian intelligence planned to kill US-Ukrainian rapper Kyivstoner at a concert near Copenhagen in September with help from a banned gang, and gave Russia's defence attaché seven days to leave; Moscow calls it unsubstantiated.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 7,
-      "why": "Covered by 7 outlets",
-      "context": "Since Russia's full-scale invasion of Ukraine in February 2022, European countries have accused Moscow of a growing campaign of sabotage and plots on their soil. Danish intelligence says this is the first Russian assassination attempt it has seen in Denmark.",
+      "headline": "UN talks on 'killer robots' end without a deal",
+      "summary": "A week of UN talks in Geneva collapsed after all-night sessions failed to overcome Russian objections to negotiating a binding treaty on autonomous weapons; countries instead got two years to propose rules that may stay optional, with the US also reluctant to be bound.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "States have discussed 'killer robots' at the UN weapons convention for 14 years, but it works by consensus of all 128 parties and has passed no new weapons law in 30 years, while drones have caused many civilian deaths in Ukraine, Gaza and Sudan.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
         },
         {
-          "name": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2NFRVVaSEcxWWc4dDNYVm5sdTdjS0xYZl9RUUt2dmp5WmNEcHNLcklOemZnbHpxdWp5dnpNZUR5RlZqeFo1TFY3NG1zRHZqUE9lV2VjMnhwSmFCWHdqMG5BUmpma3ZZZXBpX2Y4TGhkcFNVbml3TmVoSU01MThTS2NOX003ZVhKMHpfUHFuYXp2RjgxOG8zNFBVOUU?oc=5"
+          "name": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+        "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=53e5333670bc5c7e1cdca1ffee1bca36"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "Anthropic mathematician claims Riemann hypothesis proof with Claude",
-      "summary": "Levent Alpöge says he spent about six weeks with a non-public version of Claude to prove the 167-year-old Riemann hypothesis; the proof, written in the Lean language, runs to over 250,000 pages and Terence Tao says verification is some way off.",
+      "headline": "GTA 6 makes $3.79bn on day one, biggest entertainment launch ever",
+      "summary": "Grand Theft Auto VI, released on 19 November, pre-sold 32.5 million copies and took $3.79bn by the end of its first day, beating every game and film record and GTA 5's roughly $800m first day; critics give it a 99 Metascore even as some players review-bomb it.",
+      "category": "gaming",
+      "highlight": true,
+      "coverage": 8,
+      "why": "Covered by 8+ outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch"
+        },
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5"
+        }
+      ],
+      "images": [
+        "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
+      ]
+    },
+    {
+      "headline": "Two groups verify Claude-assisted Riemann hypothesis proof",
+      "summary": "The Lean Focused Research Organization and the Mathlib Initiative say they have verified the computer-checked proof of the 167-year-old Riemann hypothesis that Anthropic mathematician Levent Alpöge says he found with Claude in about six weeks.",
       "category": "ai",
       "highlight": true,
       "coverage": 3,
-      "why": "Covered by 3 outlets",
-      "context": "The Riemann hypothesis, about how prime numbers are distributed, carries a $1m prize.",
+      "why": "New development: verification",
+      "context": "The Riemann hypothesis, posed in 1859, is a Millennium Prize problem about how prime numbers are distributed.",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
         },
         {
           "name": "TechCrunch",
@@ -228,100 +246,61 @@
         }
       ],
       "images": [
-        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+        "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=700&quality=85&auto=format&fit=max&s=ab96c8a55f88ac0c0ea5a6c5056c0f24"
       ]
     },
     {
-      "headline": "Harry Kane out for months with ankle injury",
-      "summary": "England captain Harry Kane is expected to miss a few months after hurting his ankle in a collision 20 minutes into Bayern Munich's 1-1 home draw with Köln, in which Michael Olise was also injured.",
+      "headline": "Verstappen wins wild Las Vegas GP with 34 lead changes",
+      "summary": "Max Verstappen won a Las Vegas Grand Prix with 34 lead changes, ahead of McLaren's Lando Norris and Oscar Piastri, while Ferrari's Charles Leclerc got a penalty for spinning teammate Lewis Hamilton, who finished 7th to Leclerc's 10th.",
       "category": "sports",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Mercedes driver Kimi Antonelli, fourth here, has already secured this year's world title.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3122017/las-vegaso-lenktynese-pergale-iskovojo-verstappenas"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+      ]
+    },
+    {
+      "headline": "'Hunger Games: Sunrise on the Reaping' heads for $120m+ opening",
+      "summary": "The sixth Hunger Games film took $56m on its first day in North America and is heading for over $120m this weekend, more than double the 2023 prequel's opening, with an A- CinemaScore.",
+      "category": "film",
       "highlight": true,
       "coverage": 6,
       "why": "Covered by 6 outlets",
       "context": "",
       "sources": [
         {
-          "name": "LRT Sport",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3120441/dvigubas-smugis-bayern-namuose-prarasti-taskai-ir-puolimo-lyderiu-traumos"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/"
         },
-        {
-          "name": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrc1Vwb0RJazI1RHptem5lSU01S0I3LUNPWVlZVXlVbUhHanM5NmJPOWIyZnhOX1R3LXNBbTVNMURMUjVzcGhBZTVJRGtUUTRJZDd6Yi1ubWZTa3Zoc3dMRVNjM2JRR3AxSF9EUQ?oc=5"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2026/11/20/2545871-111767-1287x836.jpg"
-      ]
-    },
-    {
-      "headline": "New 'Home Alone' sequel in the works with Macaulay Culkin",
-      "summary": "Disney is developing a new Home Alone with Macaulay Culkin returning as Kevin McCallister, written by Seth Rogen and Evan Goldberg; Culkin's own pitch has an adult Kevin locked out by his son setting traps.",
-      "category": "film",
-      "highlight": true,
-      "coverage": 2,
-      "why": "Covered by 2 outlets",
-      "context": "",
-      "sources": [
         {
           "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/chris-columbus-home-alone-reboot-reaction-catherine-ohara-1236954497/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         }
       ],
       "images": [
-        "https://variety.com/wp-content/uploads/2026/11/2021-SFFILM-Awards-Night-Red-Carpet-And-Celebration-1000.jpg"
-      ]
-    },
-    {
-      "headline": "Google to switch off Assistant on smart speakers",
-      "summary": "Gemini for Home will replace Google Assistant on smart speakers and displays on 2 August 2027, and the Nest app shuts on 25 January 2027 in favour of Google Home.",
-      "category": "tech",
-      "highlight": true,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
-        }
-      ],
-      "images": [
-        "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0,0,100,100"
+        "https://variety.com/wp-content/uploads/2026/04/Solstice_Final-Trailer-Grab_00004RC-1.jpg"
       ]
     }
   ],
   "events": [
     {
-      "title": "Thomas Anders iš „Modern Talking“",
-      "when": "Šiandien, 19:00",
-      "where": "Arena Vilnius",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "bilietai.lt",
-          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
-        }
-      ]
-    },
-    {
-      "title": "„Kopa. Trečia dalis“ – išankstinė premjera",
-      "when": "Šią savaitę",
-      "where": "Kino teatras „Pasaka“",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "Pasaka",
-          "url": "https://www.pasaka.lt/repertuaras"
-        }
-      ]
-    },
-    {
-      "title": "90's Disco Show: 2 Unlimited, Snap!, Jenny iš Ace of Base",
+      "title": "90's Disco Show: 2 Unlimited, Snap!, DJ Sash! ir kiti",
       "when": "Lapkričio 27 d., 19:00",
       "where": "Arena Vilnius",
       "scope": "vilnius",
@@ -333,34 +312,54 @@
       ]
     },
     {
-      "title": "Las Vegas Grand Prix, Verstappen on pole",
-      "when": "Saturday night (Sunday morning in Vilnius)",
-      "where": "Las Vegas, USA",
-      "scope": "global",
+      "title": "FUME | MATTER LIVE: simfoninis orkestras ir elektronika",
+      "when": "Lapkričio 28 d., 19:30",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWldJRlJpSC1nUzlwNkNocEk1UGxJbm5uQjN6U04tMDlQZnpCVE5jbm1xTDFFMFVpWnlscS1TVVNtZFliN3Z6T0VKSjQ5ZWwtc1ptSzIyZEN4ZnBVMndacGpZOEMtSnZYbmNvNVpYNzc2ZVRaN0JyLV9aZTBFUjQ1dkZPbEtTZ0Q1WktCZnM0Wl9idkcteF9aOE9JTmF6bHVJbzhKbk15aVltbFVYR19xVENvX0YtTXc?oc=5"
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
         }
       ]
     },
     {
-      "title": "Pochettino's first Man United game, at Liverpool",
-      "when": "Sunday",
-      "where": "Anfield, Liverpool",
+      "title": "Premjera: „Kopa. Trečia dalis“",
+      "when": "Rodoma šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "ATP Finals final: Alcaraz vs Zverev",
+      "when": "Today, 22 November",
+      "where": "Turin, Italy",
       "scope": "global",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3121187/pirmoji-pasaulio-rakete-iveike-medvedeva-ir-zenge-i-turnyro-turine-finala"
+        }
+      ]
+    },
+    {
+      "title": "Man Utd v Liverpool, Pochettino's first game",
+      "when": "Today, 22 November",
+      "where": "Premier League, England",
+      "scope": "global",
+      "sources": [
+        {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
@@ -369,126 +368,78 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "Russia's biggest attack this year, 110 missiles and over 400 drones, killed at least nine people, and a Russian cruise missile crashed in Poland near drills by European troops; Poland called it a provocation and NATO scrambled jets. Zelensky called Putin a 'killer' after Trump called him a friend.",
-      "context": "Russia launched a full-scale invasion of Ukraine in February 2022. Ukraine pushed Russian troops back from Kyiv and later from parts of the east and south, but the front has since largely stalled. Peace talks led by the US have gone back and forth while Russia keeps striking Ukrainian cities.",
+      "update": "A Russian cargo ship caught fire in the Gulf of Finland after a drone strike Finland blames on Ukraine, and a Russian ballistic missile killed 2 in Zelensky's hometown; Zelensky called strikes on the Crimean Bridge a 'fair response', and Rutte vowed NATO will defend every inch of Poland after Russian missiles hit it.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after seizing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and later from Kharkiv and Kherson, but the front has since largely frozen into a grinding war of drones and missiles. US-led peace efforts have repeatedly stalled.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-donaldo-trumpo-komentaru-volodymyras-zelenskis-putina-pavadino-zudiku-57-2811350?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3121072/suomijos-ilankoje-uzsidege-rusijos-krovininis-laivas-maskva-kalba-apie-dronu-smugi"
         },
         {
           "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/20/news/urm-rusijai-pareikstas-protestas-del-ataku-pries-ukraina-lenkijos-oro-erdves-pazeidimo-pasikesinimo-45005304"
+          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/21/news/nato-vadovas-zada-ginti-lenkija-po-oro-erdves-pazeidimu-45012137"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
       ]
-    },
-    {
-      "id": "saudi-houthi-fighting",
-      "title": "Saudi Arabia-Houthi fighting",
-      "update": "The Saudi-led coalition intercepted three Houthi ballistic missiles aimed at Riyadh, the third night of alerts, after striking Hodeidah port and Sanaa; the Houthis threatened Jeddah and other ports.",
-      "context": "The Iran-backed Houthis seized Yemen's capital Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to back the government. A truce from 2022 calmed the fighting, but in recent weeks the Houthis have struck Saudi cities again, damaging Riyadh's tallest tower.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG11c0t2cHNUVFlEZEwyWHVQRk40anlnM3ltcWtYOE1hV01IaEswQmpnRExZNEk1Z0xGRkZ0T083cWNGTUhvZUd6YUxwWjVwNjA1djJZZWZZQXh4SjI4SGRLVmtBMzN6Q0cxWVJjMFpJOW5DdUFWVlUtNEF5NW5IcU5sMHNwcmNVZTBfeXZVMWRKMk5HV1UwTGVycE1xd0c3TG9HYQ?oc=5"
-        }
-      ],
-      "images": []
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Trump said Iran wants a deal but its terms are unacceptable, while US and Israel were reported to be weighing a new assault; the Pentagon says the war has cost the US $48.3bn.",
-      "context": "The US and Iran have been hostile since the 1979 revolution, with fights over Iran's nuclear programme. This year tensions turned into open war, with US strikes on Iran and Iranian attacks across the region.",
-      "sources": [
-        {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3120025/pentagonas-irano-karas-jungtinems-valstijoms-jau-kainavo-48-3-mlrd-doleriu"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzFPc1pJbDNCSGFPdEUxQjJ6ZTl0eGc2RlYwNVZ0WS1GRnVUWGNtemhtNENVcGFReklwbU9uSVFJcnBRSFJqTFVTX0hqc2VHSG16cUpiY2pCSW5JQ2hWa1J6RzZ2NENMQjQ2LTJNd3A5VFNWNGtFckRpaUFxdzlxN3JfVldfRmVmWE5SVg?oc=5"
-        },
-        {
-          "name": "The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDRIZFpnNlRXZHZKZTRoS2pMUUF1RnQyWm5Yc29xeHFyWkkwYjRNQnBlRmd3N0JpNHdlT3Z1dEJiVTlDVUN1TVVBd1RqeFhBS3plLTBESjBqdlF5MFRzMldCWnFIVW1aT01LaVJ2YVNTTHRzbTZTNzJhUDhSY2RndFJETnMyMHhzUUFpUHExMHR1YVhpbGF5R2loYkFpU2VHXzhILXBjMGpzd2otbkZ1aU1aemJKb3psY0FJRGJ4SzJXSC1WcG5z0gHMAUFVX3lxTE8yTE5tVkhBMS1xN3lWRE01VXVrUnFvNkxTamZPSXpwblFBNF9wUDVBcU5ORVlvZ05TeklIRWdVREZTSjktdXkzcjNFaGwwejNUR19GM0o2Y3U5U21LajhyM24tU3lNSVhaV2RXNlNUWnhrNjhxUmIzOE01M1JOcGI1MFlzTlJFWGlVb3A0Y0hHVldnNVBEdHVGZk4yWlJYTkNFZnpwM0xyaGRRZlJoaF8wYTJINGJ2OFJLVWwtN1ctRlJrS1FyZG1PMUlaRA?oc=5"
-        }
-      ],
-      "images": [
-        "https://www.lrt.lt/img/2026/11/20/2544312-374137-1287x836.jpg"
-      ]
-    },
-    {
-      "id": "nvidia-huang-affair",
-      "title": "Nvidia CEO's affair with alleged Chinese spy",
-      "update": "Trump urged Nvidia to give Jensen Huang \"a second chance\" after a \"big apology\", though the board rules it out; the SEC is reportedly probing Nvidia's accounting and Huang agreed to testify to the Senate.",
-      "context": "Jensen Huang co-founded Nvidia in 1993 and built it into the world's leading AI chipmaker. He resigned on 12 November after reports of affairs, including one with a woman alleged to be a Chinese spy who may have helped route restricted chips to China, triggering several investigations.",
+      "update": "Iran's Revolutionary Guards said they targeted US military positions in Bahrain, where an industrial facility caught fire, and tankers were attacked in the Strait of Hormuz; Iran will ration electricity from Sunday after damage to its energy infrastructure.",
+      "context": "Tensions over Iran's nuclear programme escalated into open war between Iran and the US and Israel. Iran has since attacked shipping in the Strait of Hormuz, a key oil route, while the US imposed a blockade and mediators have tried to broker talks.",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
         },
         {
-          "name": "Eurogamer",
-          "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment"
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3122014/bahreinas-pranese-apie-irano-smugi-pramones-objektui"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/22/news/bahreinas-pranese-apie-irano-smugi-pramones-objektui-45013992"
         }
       ],
       "images": [
-        "https://assetsio.gnwcdn.com/jensen-huang-speaking.jpg?width=690&quality=85&format=jpg&auto=webp"
+        "https://www.lrt.lt/img/2026/09/12/2487329-457212-1287x836.jpg"
       ]
     },
     {
       "id": "europe-protests",
       "title": "Protests across France and Europe",
-      "update": "Thousands of mostly young people marched in 25 European countries over living costs, housing, military spending and climate, and Italy's main union staged a strike and march in Rome.",
-      "context": "Over recent weeks protests over living costs and budget cuts have spread from France to other European countries, led largely by young people.",
+      "update": "France saw a sixth weekend of demonstrations, with police charging crowds in places though turnout was lower and marches largely peaceful, and thousands marched in Lisbon over living costs.",
+      "context": "The protests began in France this autumn over living costs and spread into youth-led marches across Europe against housing costs, education conditions and rising military spending.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
         },
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFlKamwzV1Zfbm9XMktPSUY2YWxfbUM3aXpna2ZycjFTaVBfOC1DVGExYUhMQ1JFM3h1S0Vkc1h5S0prXzBScTlBNFE1d2o3NlBxTk03T3NoYkFlX2Iza3FtWUZiSktkOGstenR3Nk1vY0QyZ1FPUTdiN1VDRTJNa01qcXIyNFZKS1JlTFRzZTBydTVKcDlTSVM2bG9MRHFfRVhVSDBRbzQ5Yk5JQW9pbVJRVmV3QQ?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5"
         }
       ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg"
-      ]
+      "images": []
     }
   ],
   "quiet_ongoing": [
+    "Saudi Arabia-Houthi fighting",
+    "Nvidia CEO's affair with alleged Chinese spy",
     "Cyber-attacks on European refrigeration systems",
     "Sudan civil war",
     "Hoax bomb threats across Europe",
     "Israeli operation in the West Bank"
   ],
   "stats": {
-    "items_read": 635,
+    "items_read": 610,
     "feeds": 31,
     "feed_problems": []
   }
