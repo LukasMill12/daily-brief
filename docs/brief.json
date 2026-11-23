@@ -1,307 +1,306 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T07:04:11+00:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:04:31+00:00",
   "weather": {
     "min": 1,
-    "max": 3,
-    "precipitation_mm": 3.3,
-    "wind_max_kmh": 19,
-    "code": 51,
-    "rain_from": "07:00",
-    "text": "Vilniuje 1…3 °C, dulksna, krituliai nuo 07:00."
+    "max": 2,
+    "precipitation_mm": 1.4,
+    "wind_max_kmh": 12,
+    "code": 73,
+    "rain_from": "22:00",
+    "text": "Vilniuje 1…2 °C, sniegas, krituliai nuo 22:00."
   },
   "fact": {
-    "text": "Toy Story, released on 22 November 1995, was the first feature film made entirely with computer-generated imagery.",
+    "text": "The salmon parasite Paramoeba perurans is itself a host: another single-celled organism lives permanently inside it, like a lodger in a lodger.",
     "sources": [
       {
         "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Toy_Story"
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Paramoeba_perurans"
       }
     ]
   },
   "lead_section": "world",
-  "widget_headline": "COP31 runs overtime",
+  "widget_headline": "Climate talks collapse",
   "heads_up": [
-    "Per Kalėdas ir Naujuosius metus dauguma parduotuvių nedirbs – tikrinkite šventinį darbo laiką.",
-    "Šiandien Nalšios šiaurinėje apygardoje – antrasis Seimo nario rinkimų turas."
+    "Šiandien Vilniuje – Kariuomenės dienos eitynės, praskris naikintuvai.",
+    "Šiandien Belgijos oro uostai uždaryti 8–22 val. dėl streiko, skrydžiai atšaukiami."
   ],
   "lithuania": [
     {
-      "headline": "NKVC: Lietuva dronų virš Kaliningrado nefiksavo",
-      "summary": "Po pranešimų apie sprogimus Baltijske ir oro pavojų Kaliningrado srityje, kurios gubernatorius teigė, kad perspėjimas suveikė dėl įtartino objekto iš Lietuvos pusės, NKVC pareiškė, kad Lietuvos karinės oro pajėgos jokių dronų nefiksavo ir Lietuva neleidžia naudoti savo oro erdvės atakoms.",
+      "headline": "Nalšios šiaurinėje apygardoje Seimo nare išrinkta liberalė Mėta Paulauskė",
+      "summary": "Antrajame ture liberalė Mėta Paulauskė surinko 50,53 proc. balsų ir vos 82 balsais aplenkė valstietį Gintautą Kindurį; rinkėjų aktyvumas siekė 27,89 proc., o galutinius rezultatus VRK tvirtins lapkričio 27 d.",
       "category": "general",
       "highlight": false,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "Rusija Ukrainą plačiu mastu užpuolė 2022 m. vasarį. Ukraina vis dažniau dronais smogia giliai Rusijos teritorijoje, o Kaliningrado sritis, įsiterpusi tarp Lietuvos ir Lenkijos, yra Rusijos Baltijos laivyno bazė. Rusijos informacinėje erdvėje jau anksčiau skleisti teiginiai, kad NATO siekia izoliuoti Kaliningradą, todėl Vilnius skuba paneigti bet kokį savo vaidmenį.",
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Pirmalaikiai rinkimai surengti, nes gegužės pabaigoje mirė šioje apygardoje 2024 m. išrinktas liberalas, kanojininkas Jevgenijus Šuklinas. Pirmajame ture varžėsi 11 kandidatų, į antrąjį pateko Paulauskė ir Kindurys.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3122031/vrk-nalsios-siaurineje-apygardoje-seimo-nare-isrinkta-liberale-paulauske"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGJleGMwQktRNThYREVPR3NVWUxMNFhvYmZQSG1QSThybER1RjhRTEVQWHhRODZlWjQ3Wnp4QXNWOUFmZVlPNG5jalJKZVFvb2swRU9MTXhqTHlXZlVmZ2k2bXVPRjFMck92UEJvMWliUWU5bklyN2xfMDV2bE5XNlR5b280Tm1zSGFmMzNsTHF3czZCakVmRnBUWmdjcmMyWjB3bzBfeFFhWS1pd1BNeWFnX2s3QVdWa3Bkcm5IbHJpZVFBQmlMQ1Z1alI?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/08/06/2456673-704266-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Mokytojų streikas: mokiniai palaiko, bet nerimauja dėl egzaminų",
+      "summary": "Mokytojams streikuojant dėl didesnių atlyginimų ir geresnių darbo sąlygų, Moksleivių sąjungos prezidentas Martynas Dikšaitis sako, kad dauguma mokinių juos palaiko, bet abiturientai ir vienuoliktokai nerimauja dėl pasiruošimo egzaminams ir praleistų pamokų atidirbimo.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Mokytojų profesinės sąjungos ilgai reikalavo didesnių atlyginimų ir geresnių darbo sąlygų. Nesulaukę sprendimų, mokytojai pradėjo streiką, o mokyklose kol kas vyksta tik užimtumą užtikrinanti veikla.",
       "sources": [
         {
           "name": "15min",
-          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/nkvc-apie-oro-pavoju-kaliningrade-lietuva-jokiu-dronu-nefiksavo-56-2811608?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
-        },
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3121191/nkvc-apie-pranesimus-del-dronu-kaliningrade-lietuvos-karines-oro-pajegos-dronu-nefiksavo"
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/moksleiviu-sajungos-prezidentas-mokiniai-palaiko-mokytoju-streika-bet-nerimauja-del-egzaminu-56-2812006?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         },
         {
           "name": "Lrytas",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/22/news/po-pranesimu-apie-ukrainos-dronu-smugius-kaliningrado-sriciai-nkvc-zinia-45013021"
+          "url": "https://www.lrytas.lt/lietuvosdiena/svietimas/2026/11/23/news/lms-prezidentas-moksleiviai-palaiko-streikuojancius-mokytojus-bet-nerimauja-del-sutrikusio-ugdymo-45021051"
         }
       ],
       "images": [
-        "https://s1.15min.lt/static/cache/MTI4MHgsNzQ2eDcyMiw2MjU4MDEsb3JpZ2luYWwsLGlkPTEwNzAxOTAwJmRhdGU9MjAyNiUyRjA1JTJGMjgsMjI2ODQwNTM2Mw==/kaliningradas-6a17e57f8ba13.jpg",
-        "https://s1.15min.lt/static/cache/MTI4MHgsNzE4eDUyMyw5OTksb3JpZ2luYWwsLGlkPTEwMjA0MDU2JmRhdGU9MjAyNSUyRjA3JTJGMTEsMTg4NjMzNzIw/kaliningradas-maxim-shemetov-reuters-6871075709224.jpg"
+        "https://media.lrytas.lt/images/2026/11/23/063323365-24dad633-e3ee-468b-8d87-84721f9b8d1f.jpg"
       ]
     },
     {
-      "headline": "Pagal ES solidarumo mechanizmą perkelta pusė migrantų",
-      "summary": "Vidaus reikalų ministras Martynas Katelynas teigė, kad į Lietuvą perkelta maždaug pusė iš 58 migrantų iš Kipro, kuriuos šalis pažadėjo priimti, be to, ji moka 1,4 mln. eurų įmoką; kitąmet ministras siūlo migrantų nepriimti ir tik mokėti.",
+      "headline": "Biudžeto ginčas: „pinigų nėra“, ieškoma naujų pajamų",
+      "summary": "Seimui svarstant kitų metų biudžetą, koalicijoje nuskambėjo kaltinimų, kad projektas „suklastotas“, o Barysas teigia, kad priėjus ribą „pinigų nėra“; finansų ministras Taurimas Valys neatmeta PVM mokėtojo ribos didinimo, svarstomas ir automobilių taršos mokestis.",
       "category": "general",
       "highlight": false,
-      "coverage": 4,
-      "why": "Apie tai rašė 4 portalai",
-      "context": "2024 m. gegužę patvirtintas ES migracijos ir prieglobsčio paktas įpareigoja šalis nares priimti migrantų iš labiausiai apkrautų valstybių arba mokėti įmokas. Pernai gruodį Vyriausybė nusprendė pusę įsipareigojimo įvykdyti priimant žmones, o pusę – sumokant; Lenkijai ir Estijai taikoma išimtis, Lietuvai – ne.",
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Lietuva pastaraisiais metais smarkiai didino gynybos išlaidas, todėl biudžete atsirado skylė. Valdančioji koalicija ieško, kaip ją užlopyti, o kiekvienas naujas mokestis kelia ginčų tarp partnerių.",
       "sources": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3121044/ministras-pagal-solidarumo-mechanizma-i-lietuva-perkelta-apie-puse-migrantu"
+          "name": "Lrytas",
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/11/23/news/emocijos-del-suklastoto-biudzeto-koalicijoje-pykciai-uzkulisiuose-kalbos-apie-opozicijos-planus-45001549"
         },
         {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd3AxdFNqdF9jY2ZGam9EVXNjSUYxX1kwb09iXzZsQ1BVQjFUUDl2dGE1WDJTajJCZGttb2szZ2tMdHpjYkJ0RXBWa0pidjFtd0VDQ1BKR3V3TVM3dTdtQndBMVo3TGNEVkhJVDhNSzZmYWJEMTc3bkstLTRpYS1TMVh0c1FESUNlaTVMSFV0UUlkOXE5SThZUFQxN01JWW1YVVlyQkxOWU5KRFZKVXMycnU0VU95Q01QdUgzSENhT3NndFlFcUdDRGcxYkVFMmNMUURoQ3ZyQ0kwUEYyQzJRXw?oc=5"
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkc3Tm4zVnNhcjNvanl3Zm1RRFZpaERiUkt2Y1Y5VEhsOTlkNWpxVUFYWHE3eWtndS1ocFU1RTNZSldGdlRpM0dxcWIybk5HZ2Jza3lVSllKb05zOS0wYzRMMEg5QVVTRE9JSE5oSzlmUUJXTDJlcXBkZmR6dEpPUTFTTnp3V0c0ekFnUFRIVFMteGdFREJJM3kwWS1Nb0lfaTF4NUJpTzZkTDRITzVoMFlOQ0ZjZmZjTUNaY3U5Q1ZpNTNT?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/07/07/2434441-198471-1287x836.jpg"
+        "https://media.lrytas.lt/images/2026/11/20/155709968-7c3a3cbf-d50c-4d00-baff-4fbaf3d9e43b.jpg"
       ]
-    },
-    {
-      "headline": "Vietoj „Akropolio“ ledo arenos – nauja už 30 mln. eurų",
-      "summary": "Uždarant „Akropolio“ ledo areną, Vilniuje planuojama statyti naują ledo areną, kurios preliminari vertė – 30 mln. eurų.",
-      "category": "sports",
-      "highlight": true,
-      "coverage": 5,
-      "why": "Apie tai rašė 5 portalai",
-      "context": "",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHQ0UHVuUW4tVXlyaDBuXzlBOEh6cjU0Q3JFZEsybTIxYy01ck5QSldiMFRaWGk2azlHRGdSMmthSVJ3WmZlVkZTSFc1bDRxREJhM1c0ajBJRW5EQVZFWTJJS2UtdXo3ekVGRVN3N3VIeHhWeWZQbENhNGp3YkJQMnFocHNqSHRPTE5tMmU2VS1sci0xajU1VlhxbllhS0F6SzF4NUxTbVVQcTZ1N1FEbU5KV0lXVy1LSUt1NmpwckFYaDZWem03MDRn?oc=5"
-        }
-      ],
-      "images": []
     }
   ],
   "world": [
     {
-      "headline": "COP31 climate talks run into second day of overtime",
-      "summary": "A new draft deal at the UN climate summit in Antalya, Turkey, acknowledges the 2023 pledge to transition away from fossil fuels and admits the world is set to miss the 1.5C goal, but the EU reportedly sees it as a step backward; without consensus the talks could be suspended until next year.",
+      "headline": "COP31 climate talks collapse without a deal",
+      "summary": "The longest UN climate summit ever ended in Turkey without its main deal after the EU, UK, Pacific islands and others rejected a text that never mentioned fossil fuels, while poorer countries objected to the lack of clear finance; it is the first such collapse since Copenhagen in 2009.",
       "category": "general",
       "highlight": false,
-      "coverage": 6,
-      "why": "Top story on BBC, covered by 6 outlets",
-      "context": "UN climate summits have long fought over phasing out coal, oil and gas. COP28 in Dubai in 2023 first called for 'transitioning away' from fossil fuels. At COP31, a first draft this week urged a faster phase-out, but a second version removed every mention of fossil fuels after Saudi Arabia and other producers objected, pushing the summit past its Friday deadline.",
+      "coverage": 9,
+      "why": "Covered by 9 outlets, top of BBC and Google News",
+      "context": "UN climate summits have been held yearly since 1995; the 2015 Paris Agreement set the goal of limiting warming to 1.5–2°C. COP28 in 2023 first called for 'transitioning away' from fossil fuels, and how far to go beyond that has split countries ever since.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3122084/es-pirmininkaujanti-airija-es-nares-nepritaria-cop31-susitarimui"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg"
       ]
     },
     {
-      "headline": "Mexico captures cartel boss 'El Chapo Isidro' in deadly raid",
-      "summary": "Mexican special forces using US intelligence arrested Fausto Isidro Meza Flores, one of the FBI's 10 most wanted, in Guasave, Sinaloa, in a gunfight that killed seven attackers and four soldiers; the US, which offered a $5m reward, is seeking his extradition.",
+      "headline": "Democrats win largest US House majority since 1992",
+      "summary": "Chuck Hubbard unseated Republican Virginia Foxx in North Carolina by 330 votes after a recount, giving Democrats at least 258 House seats to the Republicans' 173, with four races still open; Democrats also won the Senate.",
       "category": "general",
       "highlight": false,
-      "coverage": 8,
-      "why": "Covered by 8 outlets, #1 on Google News",
-      "context": "Meza Flores, accused of flooding the US with fentanyl, cocaine and heroin and of torture and kidnapping, evaded capture for over a decade; Mexico has stepped up arrests under pressure from Trump.",
+      "coverage": 7,
+      "why": "Covered by 7 outlets, #1 on Google News",
+      "context": "The midterm elections earlier this month were the first national test of Donald Trump's second term, which began in January 2025. Rising living costs during the war with Iran were a top issue, and Democrats won seats even in deeply Republican states such as Alaska, Texas and Iowa.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-        "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=700&quality=85&auto=format&fit=max&s=0edca5217d8c45ec717c5f45f4cba86a"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7583/live/ce5448a0-e6e7-11f1-99b6-a35a62fa4264.jpg"
       ]
     },
     {
-      "headline": "FBI investigates apparent hack of national crime database",
-      "summary": "The FBI is investigating an apparent breach of the National Crime Information Center, the database police across the US use for warrants and background checks; Trump said it was 'not good' but 'maybe we'll learn things'.",
+      "headline": "AI bubble fears hit markets; South Korea's KOSPI falls up to 5.8%",
+      "summary": "Asian markets slid on Monday after Friday's rout, when the S&P 500 fell 3.7% into a correction and the Nasdaq lost 5.3%, wiping out its 2026 gains; US futures point to a rebound, and Trump blamed the slide on Democrats' midterm wins.",
       "category": "tech",
       "highlight": true,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "In September the FBI said hackers had stolen personal data on about 38,000 of its staff, and the US Agriculture Department was also reportedly hacked this week.",
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Since ChatGPT's launch in late 2022, AI-linked companies such as Nvidia have driven much of the global stock market's gains, and worries that valuations have run ahead of profits have grown.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5"
         }
       ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-      ]
+      "images": []
     },
     {
-      "headline": "UN talks on 'killer robots' end without a deal",
-      "summary": "A week of UN talks in Geneva collapsed after all-night sessions failed to overcome Russian objections to negotiating a binding treaty on autonomous weapons; countries instead got two years to propose rules that may stay optional, with the US also reluctant to be bound.",
-      "category": "ai",
-      "highlight": true,
-      "coverage": 6,
-      "why": "Covered by 6 outlets",
-      "context": "States have discussed 'killer robots' at the UN weapons convention for 14 years, but it works by consensus of all 128 parties and has passed no new weapons law in 30 years, while drones have caused many civilian deaths in Ukraine, Gaza and Sudan.",
+      "headline": "At least 24 killed in Indonesian candy factory fire",
+      "summary": "A fire at the PT Fonusa Agung Mulia candy factory in Cikande, about 50 km west of Jakarta, killed at least 24 people, and rescuers are searching for about 30 still missing; an air-conditioner short circuit is the suspected cause.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss"
         },
         {
-          "name": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "images": [
-        "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=53e5333670bc5c7e1cdca1ffee1bca36"
+        "https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=700&quality=85&auto=format&fit=max&s=99e41fbd49bad03b3f79685da3a848e9"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "GTA 6 makes $3.79bn on day one, biggest entertainment launch ever",
-      "summary": "Grand Theft Auto VI, released on 19 November, pre-sold 32.5 million copies and took $3.79bn by the end of its first day, beating every game and film record and GTA 5's roughly $800m first day; critics give it a 99 Metascore even as some players review-bomb it.",
-      "category": "gaming",
-      "highlight": true,
-      "coverage": 8,
-      "why": "Covered by 8+ outlets",
-      "context": "",
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch"
-        },
-        {
-          "name": "BBC Tech",
-          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5"
-        }
-      ],
-      "images": [
-        "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
-      ]
-    },
-    {
-      "headline": "Two groups verify Claude-assisted Riemann hypothesis proof",
-      "summary": "The Lean Focused Research Organization and the Mathlib Initiative say they have verified the computer-checked proof of the 167-year-old Riemann hypothesis that Anthropic mathematician Levent Alpöge says he found with Claude in about six weeks.",
-      "category": "ai",
-      "highlight": true,
-      "coverage": 3,
-      "why": "New development: verification",
-      "context": "The Riemann hypothesis, posed in 1859, is a Millennium Prize problem about how prime numbers are distributed.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-        }
-      ],
-      "images": [
-        "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=700&quality=85&auto=format&fit=max&s=ab96c8a55f88ac0c0ea5a6c5056c0f24"
-      ]
-    },
-    {
-      "headline": "Verstappen wins wild Las Vegas GP with 34 lead changes",
-      "summary": "Max Verstappen won a Las Vegas Grand Prix with 34 lead changes, ahead of McLaren's Lando Norris and Oscar Piastri, while Ferrari's Charles Leclerc got a penalty for spinning teammate Lewis Hamilton, who finished 7th to Leclerc's 10th.",
+      "headline": "Alcaraz beats world No. 1 Zverev for first ATP Finals title",
+      "summary": "Carlos Alcaraz beat Alexander Zverev 6-2, 7-6 (9-7) in Turin for his 14th straight win, becoming the youngest of only four men to win all four majors and the ATP Finals.",
       "category": "sports",
       "highlight": true,
-      "coverage": 5,
-      "why": "Covered by 5 outlets",
-      "context": "Mercedes driver Kimi Antonelli, fourth here, has already secured this year's world title.",
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "Alcaraz was out for four months with a wrist injury and returned only at the US Open in August.",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss"
         },
         {
           "name": "LRT Sport",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3122017/las-vegaso-lenktynese-pergale-iskovojo-verstappenas"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3122156/turine-alcarazas-iveike-pirmaja-pasaulio-rakete"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6175/live/8a046a50-e6aa-11f1-b45e-bf1e220bd648.jpg"
       ]
     },
     {
-      "headline": "'Hunger Games: Sunrise on the Reaping' heads for $120m+ opening",
-      "summary": "The sixth Hunger Games film took $56m on its first day in North America and is heading for over $120m this weekend, more than double the 2023 prequel's opening, with an A- CinemaScore.",
-      "category": "film",
-      "highlight": true,
+      "headline": "BepiColombo becomes second spacecraft ever to orbit Mercury",
+      "summary": "The European-Japanese probe entered orbit around Mercury, though a glitch was reported.",
+      "category": "science",
+      "highlight": false,
       "coverage": 6,
       "why": "Covered by 6 outlets",
-      "context": "",
+      "context": "BepiColombo launched in 2018; only NASA's Messenger had orbited Mercury before.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/"
+          "name": "Space",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5"
         },
         {
-          "name": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY19EQkgzcWxJMDg3NUxKeFRER0NLRlRsTFN0TGJEelRLZ2xhYi10MTgtNm93R1FOblRBMDRUbTZkaUpORFl1bWVTYlh3bThiQzJDeUZLZkpaTWJ0QlpMV19HVHFzbzZzZFBtN1BzVUVsNFRZcFFka2dlRDNIZEFDMWt2TG5BNWhQZkdPUWhEUnp5UUNKbUJSeTNDd08?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "South Korea's education minister quits over AI exam cheating scandal",
+      "summary": "Choi Kyo-jin resigned after last-minute measures against AI cheating, including three nationwide emergency phone alerts on exam day, caused chaos at the college entrance exam; 111 candidates were caught with devices.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "The scare began when the top scorer in a tax accountancy exam admitted photographing questions with a microcamera and getting answers from AI.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5"
         }
       ],
       "images": [
-        "https://variety.com/wp-content/uploads/2026/04/Solstice_Final-Trailer-Grab_00004RC-1.jpg"
+        "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=700&quality=85&auto=format&fit=max&s=b46152725198d6ed240ca4182ff7202d"
+      ]
+    },
+    {
+      "headline": "Elizabeth Holmes doc 'You Can See Everything' passes $100m",
+      "summary": "Nathan Fielder and Lance Oppenheim's A24 documentary about Theranos founder Elizabeth Holmes has passed $100 million worldwide and is the first documentary watched by 1 million Letterboxd users, with a 4.61 average rating.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Holmes founded blood-testing start-up Theranos and was convicted of fraud in 2022.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+        }
+      ],
+      "images": [
+        "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp"
       ]
     }
   ],
   "events": [
     {
-      "title": "90's Disco Show: 2 Unlimited, Snap!, DJ Sash! ir kiti",
-      "when": "Lapkričio 27 d., 19:00",
+      "title": "90's DISCO SHOW: 2 Unlimited, SNAP!, Jenny from Ace of Base, DJ Sash!",
+      "when": "Penktadienis, lapkričio 27 d., 19:00",
       "where": "Arena Vilnius",
       "scope": "vilnius",
       "sources": [
@@ -313,7 +312,7 @@
     },
     {
       "title": "FUME | MATTER LIVE: simfoninis orkestras ir elektronika",
-      "when": "Lapkričio 28 d., 19:30",
+      "when": "Šeštadienis, lapkričio 28 d., 19:30",
       "where": "LVSO koncertų salė",
       "scope": "vilnius",
       "sources": [
@@ -324,8 +323,8 @@
       ]
     },
     {
-      "title": "Premjera: „Kopa. Trečia dalis“",
-      "when": "Rodoma šią savaitę",
+      "title": "„Kopa. Trečia dalis“ – išankstinė premjera",
+      "when": "Šią savaitę",
       "where": "Kino teatras „Pasaka“",
       "scope": "vilnius",
       "sources": [
@@ -336,30 +335,26 @@
       ]
     },
     {
-      "title": "ATP Finals final: Alcaraz vs Zverev",
-      "when": "Today, 22 November",
-      "where": "Turin, Italy",
+      "title": "FIFA to confirm the UK as host of the 2035 Women's World Cup",
+      "when": "Monday, 23 November",
+      "where": "United Kingdom",
       "scope": "global",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "LRT Sport",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3121187/pirmoji-pasaulio-rakete-iveike-medvedeva-ir-zenge-i-turnyro-turine-finala"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Man Utd v Liverpool, Pochettino's first game",
-      "when": "Today, 22 November",
-      "where": "Premier League, England",
+      "title": "Spain's general election",
+      "when": "Sunday, 29 November",
+      "where": "Spain",
       "scope": "global",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss"
         }
       ]
     }
@@ -368,78 +363,166 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "A Russian cargo ship caught fire in the Gulf of Finland after a drone strike Finland blames on Ukraine, and a Russian ballistic missile killed 2 in Zelensky's hometown; Zelensky called strikes on the Crimean Bridge a 'fair response', and Rutte vowed NATO will defend every inch of Poland after Russian missiles hit it.",
-      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after seizing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and later from Kharkiv and Kherson, but the front has since largely frozen into a grinding war of drones and missiles. US-led peace efforts have repeatedly stalled.",
+      "update": "A Russian strike on an apartment block in Dymer near Kyiv killed 11, and a 7-year-old boy was pulled alive after 14 hours in the rubble; a Russian warship docked in Libya's Benghazi sank after a suspected Ukrainian drone attack, and Poland confirmed three Russian cruise missiles fell on its territory on Friday.",
+      "context": "Russia launched a full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Kyiv repelled the attack on the capital, and the war became a grinding front-line fight in the east and south, with long-range drone and missile strikes on both sides. US-led peace efforts have so far failed to end it.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3121072/suomijos-ilankoje-uzsidege-rusijos-krovininis-laivas-maskva-kalba-apie-dronu-smugi"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/21/news/nato-vadovas-zada-ginti-lenkija-po-oro-erdves-pazeidimu-45012137"
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/ukraina-per-rusijos-smugius-kyjivo-srityje-zuvo-14-zmoniu-57-2811968?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+        "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024"
       ]
     },
     {
       "id": "us-iran-tensions",
       "title": "US-Iran tensions",
-      "update": "Iran's Revolutionary Guards said they targeted US military positions in Bahrain, where an industrial facility caught fire, and tankers were attacked in the Strait of Hormuz; Iran will ration electricity from Sunday after damage to its energy infrastructure.",
-      "context": "Tensions over Iran's nuclear programme escalated into open war between Iran and the US and Israel. Iran has since attacked shipping in the Strait of Hormuz, a key oil route, while the US imposed a blockade and mediators have tried to broker talks.",
+      "update": "Oil tankers were set ablaze in the Strait of Hormuz, Iran unveiled a dual-missile launcher and warned that enemies are trying to stir unrest, and truck drivers went on strike across Iran over economic hardship.",
+      "context": "Tensions over Iran's nuclear programme turned into open conflict when Israel and the US struck Iran in 2025. This year the fighting widened into a war around the Gulf, with a US blockade, attacks on shipping in the Strait of Hormuz and strikes on energy facilities.",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss"
         },
         {
-          "name": "LRT World",
-          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3122014/bahreinas-pranese-apie-irano-smugi-pramones-objektui"
+          "name": "Euronews",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5"
         },
         {
-          "name": "Lrytas",
-          "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/11/22/news/bahreinas-pranese-apie-irano-smugi-pramones-objektui-45013992"
+          "name": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Z01UWU45djBaeHpmYVFtM0dnSlp1RGVhTVBSckE2XzN6SUl6OUNZOUhkNW00M0ZXZlRuRlRfT3A4VGp3T09CcE1remtKRVlqdnc?oc=5"
         }
       ],
-      "images": [
-        "https://www.lrt.lt/img/2026/09/12/2487329-457212-1287x836.jpg"
-      ]
+      "images": []
     },
     {
       "id": "europe-protests",
       "title": "Protests across France and Europe",
-      "update": "France saw a sixth weekend of demonstrations, with police charging crowds in places though turnout was lower and marches largely peaceful, and thousands marched in Lisbon over living costs.",
-      "context": "The protests began in France this autumn over living costs and spread into youth-led marches across Europe against housing costs, education conditions and rising military spending.",
+      "update": "Belgium's national strike against €10bn of austerity cuts shuts the country's airports on Monday, as air traffic control halts service from 7am to 9pm local time; it is the 11th strike to hit Belgian airspace in 11 months.",
+      "context": "Protests over living costs and public services began in France this autumn and have taken place every weekend since. Young people and unions elsewhere in Europe, from Spain and Portugal to Belgium, have joined with their own demands against cuts.",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3122034/del-pirmadieni-vyksiancio-nacionalinio-streiko-belgijoje-atsaukiami-beveik-visi-skrydziai"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNFpTTmJnVlRaTDlPeElmUXFlRG44TkpMbXM3eTloMFFFdjAzdUNnUjVVWGJpbW9DbXJjcnFQQjY3d0ZXZEQ2U1hZVDlKcWpRaWt2Mk53bXZpVFZDTk5GbEFWWmtvMFI1dm9ZUWV5Ml9jMG9ISjVBSHBqWXZnQTdIcENaZmZvMUo2YXNhUGhBN2Z3bHJpcUlDeGo4aU1Dd09WNkFYdWd3bFJGbWVsNXFHeHM2QnJrU1BmWVExVFRYNExicjEwZndweFFXNGQwT21adUMwdjdHWGdrNEZTYUlWQg?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2023/07/16/1551546-55100-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "israeli-operation-west-bank",
+      "title": "Israeli operation in the West Bank",
+      "update": "Dozens of settlers set fire to homes and about a dozen vehicles in at least four Palestinian villages near Ramallah, which opposition leader Gadi Eisenkot, now trying to form a government, called 'Jewish terrorism'.",
+      "context": "Israel has occupied the West Bank since 1967. After the Hamas attack of October 2023 and the Gaza war, Israeli raids and settler violence in the West Bank sharply increased.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+        },
+        {
+          "name": "Newser",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1hHdS16b0NMaW1jbzc3WUdrQnduODNidm1yaUVrZmlXN1AwX3cxbndCb0E3eVNGRTcxSW5SMHlnVm9QTTZDWmtlM24zWnBpZ2Z2SGpMcjMxUkl2ZnNkSmF4Mmd0RkRuZDhPM0lPS1JhakFvSWxibDJyclh5UU9qQnA4QjhFR0lnNXVhcQ?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1JSaXVlNUR1NmhkbmNlT0RQMEpGVlROckdUU0czRm5nNHJkc2VWeDVGeWRLUGJiU0ZtY19SVG5veUJsRk5oWlZzNzdkcW03VXRVajBoVU1TQVpHdHNFeUtaRURabFZEUHZUWG5KUWtINTdEVXROQllnTDRua0pNdzdkVXNBc3plTVRpd1V2aGs5MlpjdlJ4dEszcFpUMG83M2JPbQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=02cd87d09d705f7a50460fa0fe12f59e"
+      ]
+    },
+    {
+      "id": "sudan-civil-war",
+      "title": "Sudan civil war",
+      "update": "Drone strikes on Khartoum damaged homes and a UN building, and an army source said the drones were launched from Ethiopia.",
+      "context": "Sudan's war began in April 2023 when the army and the paramilitary Rapid Support Forces turned on each other in a power struggle. It has killed tens of thousands and created the world's largest displacement crisis.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/sudano-sostineje-dronu-smugiai-apgadino-namus-ir-jt-pastata-57-2811940?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3123011/sudano-sostineje-dronu-smugiai-apgadino-namus-ir-jt-pastata"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/23/2546423-692916-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Yemen's Houthis claimed an attack on Saudi Arabia's Rabigh oil refinery and the coalition intercepted a ballistic missile; Saudi officials say Houthi attacks have killed 26 people in the kingdom since September.",
+      "context": "The Iran-backed Houthis seized Yemen's capital in 2014, and a Saudi-led coalition intervened in 2015. A truce from 2022 largely held until fighting resumed amid this year's wider regional war with Iran.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3122044/saudo-arabija-pranese-peremusi-husiu-paleista-raketa"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvRjVsQVZVSW92MlFESWlmTGxVaWM2aXYwZ0NtUTlna3k4ZkV2S0k4YkhVOFRjaWRrcmhZeWg5NHpQaW9pRGIybUFpalV3U2lzdlZ5QzYteENUSWpWdm90SXNFWVU4OWxBaGx3?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://www.lrt.lt/img/2026/08/20/2468388-876928-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "nvidia-ceo-affair",
+      "title": "Nvidia CEO's affair with alleged Chinese spy",
+      "update": "The New York Times reported that Alice Huang was in touch with a Chinese spy agency during the affair, and the US intelligence chief said top Nvidia chips have 'ended up in places that they should not'.",
+      "context": "Jensen Huang stepped down as Nvidia CEO on 12 November after reports of affairs, including with Alice Huang, an executive at Megaspeed, which allegedly facilitated about $12bn of chip sales in breach of US export controls. Lawmakers now ask how China got around those controls.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5"
+      ]
     }
   ],
   "quiet_ongoing": [
-    "Saudi Arabia-Houthi fighting",
-    "Nvidia CEO's affair with alleged Chinese spy",
     "Cyber-attacks on European refrigeration systems",
-    "Sudan civil war",
-    "Hoax bomb threats across Europe",
-    "Israeli operation in the West Bank"
+    "Hoax bomb threats across Europe"
   ],
   "stats": {
-    "items_read": 610,
+    "items_read": 593,
     "feeds": 31,
     "feed_problems": []
   }
