@@ -1,310 +1,315 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T07:04:19+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T07:04:12+00:00",
   "weather": {
-    "min": -1,
-    "max": 1,
+    "min": 0,
+    "max": 2,
     "precipitation_mm": 0.1,
     "wind_max_kmh": 12,
     "code": 51,
     "rain_from": null,
-    "text": "Vilniuje -1…1 °C, dulksna."
+    "text": "Vilniuje 0…2 °C, dulksna."
   },
   "fact": {
-    "text": "A My Little Pony animation slip left one background pony cross-eyed, so fans named her \"Derpy Hooves\" and wrote her a whole personality and backstory.",
+    "text": "Today is US Thanksgiving, yet roast turkey probably only became tied to the holiday around 1800.",
     "sources": [
       {
         "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Derpy_Hooves"
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Roast_turkey"
       }
     ]
   },
   "lead_section": "world",
-  "widget_headline": "Huawei convicted",
+  "widget_headline": "Cairo tanker blaze",
   "heads_up": [
-    "Šįryt daug kur plikledis – keliai ir šaligatviai išlieka slidūs.",
-    "Mokytojų streikas tęsiasi – pasitikrinkite, ar vaikų mokykloje vyksta pamokos."
+    "APVA sustabdė kompensacijas už elektromobilius – baigėsi lėšos.",
+    "Mokytojų streikas tęsiasi – pokalbis su švietimo ministre nepadėjo."
   ],
   "lithuania": [
     {
-      "headline": "Koalicijoje raginama atidėti balsavimą dėl biudžeto",
-      "summary": "Valdančiojoje koalicijoje pasigirdo raginimų neskubėti, todėl Seimo balsavimas dėl 2027 m. biudžeto gali būti atidėtas; ekonomistai perspėja, kad laisvų pinigų biudžete realiai nėra.",
+      "headline": "EK kol kas netaikys Lietuvai perviršinio deficito procedūros",
+      "summary": "Europos Komisija prognozuoja, kad Lietuvos deficitas šiemet sieks 3,5 %, 2027 m. – 4,3 %, o 2028 m. – 5,1 % BVP, tačiau procedūros nepradės, nes 3 % ribos viršijimą lemia gynybos išlaidos; padėtį ji iš naujo vertins pavasarį. Komisija ragina drausminti 2027 m. biudžetą, o tam gali tekti mažinti paramą šeimoms ar įvesti naują mokestį.",
       "category": "general",
       "highlight": false,
       "coverage": 6,
       "why": "Apie tai rašė 6 portalai",
-      "context": "Rudenį Vyriausybė pateikė 2027 m. biudžeto projektą su dideliu deficitu, o Seimas jį grąžino tobulinti. Nuo tada koalicija ieško, kaip mažinti deficitą, svarstomas energetikos įmonių viršpelnio mokestis.",
+      "context": "Nuo 2022 m., Rusijai užpuolus Ukrainą, Lietuva sparčiai didina gynybos išlaidas, todėl auga biudžeto deficitas. 2027 m. biudžeto projektas numato 3,8 % BVP deficitą ir 48,2 % skolą; praėjusią savaitę Seimas po pirmojo svarstymo grąžino jį Vyriausybei tobulinti, o koalicijoje kilo nesutarimų.",
       "sources": [
         {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOHZxekxSR3hvd2pocEhuWmljMFVVcW5KaXAtTWc3a0FxZWo2amtSQzlMRkdFclJFck8zTVhPNF94YS1ubWU4aDZZTFhNM3M2UWdPbXZOclVBSkxCYmYyUTM1ZWlzbWMwUjAxRm14Q2VsMFZLcksxNEVtOFM4aWpueG1Fdmg0NEVyUWE5VE5kN1FxZkNDYTJQVi1kWE9LUTFUcnZlVF9iNlI5M3gxaUFLb1JDZ0JUdU1LOU1rNUdKZjlyWWV2RnFpbzF0Rl9zcTRKUmlWWkZFUk81NFZGUnpnN19DMXk?oc=5"
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3125153/ec-will-not-start-excessive-deficit-procedure-against-lithuania-for-now"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzM0S0h4WE1yOU8zT3ppZXFGd2dRRmRfWGsyWjZNY3hpYkxjYWNJemU4ci02anBXSTBXNFZlYXg2endUM0ptTjY0bUJwY3dYY0lySmoteW9CRHpoUmU4TnI3LVFDZjJHN1psYUg4ejJRRktLYndMTG5IejNmR2F5ankxVm9UY2FRdUZTbVlNck5LNmxrN0FMWTkzOFZ2dVFXOVFDRnZieVE5NnE1aWZDM05iaXl4OEkzd0NDQmJHdldkUDVpdWNMTA?oc=5"
         },
         {
           "name": "Lrytas",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOEJZa1JuNW9MYUp1N1pFNVE1bEJlWXNjRGF3eUo2bmY4VndnLVFnWE8ybHdjMEh5VXd5Q1k1RXEtS0NTNUFPcV9HeEtLQ0pnRDhVRlQyYTdKRlk0MEhxNVhqaDY3bWIyejlFbWFWU19NbFk2Q3VOM3VxOUxnbzlwbHZ3V20ySnV2T3JUS3hGUXBqM1pLQ0pOQnJOQkdKcHlWNTdjM3J2Y3BvRVpaa0dRUUZIVE5PZ2ZkRWpEQlZHZnFSak9IcmlwVVFmdkdIYnUwSEM5eGVVbHdZSkdpWkV6VGVrOVpQY1lUYk1lTlRKNXg4emdISmxR?oc=5"
-        }
-      ],
-      "images": []
-    },
-    {
-      "headline": "Matulionis: Taivanas turėtų pakeisti atstovybės pavadinimą kinų kalba",
-      "summary": "Prezidento patarėjas Deividas Matulionis sako, kad Taivanas turėtų pripažinti klaidą ir suvienodinti atstovybės Vilniuje pavadinimą: lietuviškai ir angliškai ji vadinama „Taivaniečių“, o kinų kalba – „Taivano“ atstovybe; URM jau pasiūlė pavadinimą keisti, siekdama atkurti santykius su Kinija.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 6,
-      "why": "Apie tai rašė 6 portalai",
-      "context": "2021 m. Lietuva leido Vilniuje atidaryti Taivaniečių atstovybę, o Kinija atsakė pažemindama diplomatinius santykius iki laikinųjų reikalų patikėtinių lygio ir taikydama prekybos apribojimus. Nuo 2025 m. gegužės Lietuvoje neliko nė vieno Kinijos diplomato. 2024 m. valdžią perėmę socialdemokratai siekia santykius atkurti, lapkritį Vilniuje lankėsi Kinijos derybininkai.",
-      "sources": [
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3124071/matulionis-taivanas-turetu-istaisyti-klaida-atstovybes-pavadinime-kinu-kalba"
-        },
-        {
-          "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3124091/taiwan-should-change-its-vilnius-office-name-in-chinese-lithuanian-presidential-aide-says"
-        },
-        {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1ZEbDRtOGJnQ1JVUVlfVl9CNmdGMjdTZ0VfaC1XSF80d1dfa3R3bUI1NHBZRXZfUFhXQXlMZTR5dnNBZVRsaTladExsZzN0eG5tOVoxUm1fVFRaMzRQMXN1MUNfajZKa2xic1lVdEJveDhzaHZOQ05NQVU5dmphYVJ5R1BZRm5nWTEyNkUxUVN0VDBnNGpxNkdLT05nSnppbzFETU5oY3VGUTJwV0RwSDlZck9XSUtNMDVnVXZGZHVJZ1lKd2ZjWlREdEJLRlFWOThUWGZNMjg4YzZzdnkweGRoZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWk9wOGYwY2FIRThWRl9xeDFXc0p6TDktdXhoQzdSQXh1Q1d0VmJNeXFmUld2QXZvYmZWSWgxRnQzalpicFByM29fdk1lUEV4cm92NmxBNnhoUWhvcE1vRFdZc0NDU0w3RFVwaWNrRjhnQ29jQmRVMC1nTE5MXzJDS2JRaV9xaXQzNC1NNDVlY1d6NU91TGtSc3BSQmJJQUtDeEdPQkFVbl9UdVRvT0JMYXN6dk92RTRtYWE0YXlNUkk2NFJqbUF0QXdFNXN4aHA4d0hHZmNUMGx0SWhubkhwcGFNVGoyTFpUVWpONWRBN1Y5dw?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/04/14/2367553-984831-1287x836.jpg",
-        "https://www.lrt.lt/img/2026/07/03/2431533-252842-1287x836.jpg"
+        "https://www.lrt.lt/img/2019/07/16/473162-408810-1287x836.jpg"
       ]
     },
     {
-      "headline": "EŽTT: migrantų grąžinimas į Baltarusiją savaime nėra kankinimas",
-      "summary": "EŽTT Didžioji kolegija 11 balsų prieš 6 nusprendė, kad Lietuva nepažeidė kankinimo draudimo, 2022 m. kovą–balandį grąžinusi keturis prieglobsčio prašiusius migrantus į Baltarusiją; išsiuntimas į migraciją kaip ginklą naudojančią šalį savaime nėra pažeidimas, tačiau pažeidžiami asmenys turi būti įvertinti atskirai.",
+      "headline": "Sulaikyti penki įtariami dirbę Rusijos valstybinei žiniasklaidai",
+      "summary": "Prokuratūra sulaikė Kazimierą Juraitį, Vaidą Juozapaitytę, Dmitrijų Glazkovą, Lauryną Ragelskį ir Mindaugą Ramošką, įtariamus nuo 2024 m. rudens už atlygį rinkus informaciją ir skleidus Kremliaus naratyvus Rusijos valstybinei televizijai ir radijui. Atlikta daugiau nei 10 kratų, tyrimas susijęs su įstaiga „Tėvynės konduktoriai“.",
       "category": "general",
       "highlight": false,
-      "coverage": 3,
-      "why": "Apie tai rašė LRT ir BNS",
-      "context": "2021 m. vasarą Baltarusija ėmė masiškai leisti migrantus per sieną į Lietuvą, Latviją ir Lenkiją, ir šios šalys pradėjo juos apgręžinėti pasienyje. Migrantai kreipėsi į Strasbūrą; byloje prieš Latviją teismas pažeidimą nustatė, nes išsiųsti buvo ir vaikai.",
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "„Tėvynės konduktoriai“ užvertė valstybės institucijas šimtais užklausų jautriais klausimais; K. Juraitis jau teisiamas dėl padėjimo kitai valstybei veikti prieš Lietuvą, o L. Ragelskis anksčiau nuteistas už kurstymą.",
       "sources": [
         {
           "name": "LRT",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3124249/eztt-uzsienieciu-issiuntimas-kai-migracija-instrumentalizuota-nereiskia-ju-kankinimo"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3125252/tarp-5-su-rusijos-ziniasklaida-galejusiu-bendradarbiauti-sulaikytuju-juraitis-ragelskis"
         },
         {
           "name": "LRT English",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus"
+          "url": "https://www.lrt.lt/en/news-in-english/19/3125289/five-detained-in-lithuania-over-suspected-cooperation-with-russian-state-media"
         },
         {
-          "name": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1hSdlRyZHR0Yjh1UnNaRDBHcFlya1FmUnNTck9JdVlwQXdveG05ZHVKVThVVTZsQmR4dGdrcFZPbElSenlUTG90S1R0OXRsT2xJdjYxa2NGNEczQmgwSTBsaXZXUkdkZXpTTFhGSHJDY1JqczlFb1B6OU9heFJMOHNNRTlERS1IYTZtejNSNERJQWRMRUVTYVV1a1NpQjZHV3F6OENHZw?oc=5"
+          "name": "tv3.lt",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFRzWmwtTEM3Vm8yZG05N3ZreEpOd09PVjV3WllIYWd3Ym5PWVBFWm1rZk1meTVPSWt1UEpLblNNTEdwNkFubGpLam1fYU9VLWVabXE5cy1aSVpHQmJKWTlGZFRZbTlrZktzRkVfR0xlUkctQ0ZOMFlzQnJ1VjhYUEpnMV9SSGtydHBTOER5NDdlQjFFS2RvM1V0LTlxVnFuRElwcERFWHdzVGhNS1FnbWlQbnYwVGM4aExuYUdERVIzSGp0R0c1bnB4U3hpcmVhd05zd1ZDLUFmOFhyak40WTRuYmFrME1wX3c?oc=5"
         }
       ],
       "images": [
-        "https://www.lrt.lt/img/2026/11/24/2547722-72813-1287x836.jpg"
+        "https://www.lrt.lt/img/2026/11/25/2548787-442620-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Premjeras reikalauja tirti pasieniečius dėl kontrabandos",
+      "summary": "Mindaugas Sinkevičius pareikalavo nepriklausomo tyrimo dėl galimo pasieniečių dalyvavimo cigarečių kontrabandoje, o Vyriausybė naujuoju VSAT vadu patvirtino Donatą Škarnulį, žadantį kaltinimus ištirti. Šiemet dėl korupcinių veikų įtarimai pateikti 14 pasieniečių.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Lazdijų rajono politikė Vilma Danauskienė paskelbė, kad VSAT naujokai jai pasakojo apie Imuniteto valdybos pareigūnų siūlymus ignoruoti cigarečių kontrabandą.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3125211/m-sinkevicius-reikalauja-tyrimo-del-galimo-pasienieciu-dalyvavimo-kontrabandos-veikloje"
+        },
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/naujajam-pasienieciu-vadui-donatui-skarnuliui-bus-perduota-vsat-veliava-jis-prades-eiti-pareigas-56-2814660?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFJ4OUR5NzJzNzVlLU5ZUzJmUHlRQnVud2hPWEhPRnhyME1KNVVmcUJCSXZlem9HUU0walBnVTNGR053OXAzNzlRVWpwUi05RkFTQ2FtR0VCMFlpcFpsZFhmcXQ1XzhQcDFMV3dINk1LR0dseFpmRTdQYTdUZHlnMy1zOVNEMVNPd2RrdXV5OGJ6cm4yQnJrNXV0cU9DdXR5ZTdDYmlQTTNNWlZKUE5wNVR0aHY4M2JHRTVDdzdkYVhFYUE5Z3V0VQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/08/20/2468257-743607-1287x836.jpg",
+        "https://www.lrt.lt/img/2026/11/11/2537254-797442-1287x836.jpg"
       ]
     }
   ],
   "world": [
     {
-      "headline": "US jury convicts Huawei of stealing trade secrets",
-      "summary": "A Brooklyn jury found Huawei guilty on 10 of 12 counts, including conspiring to steal trade secrets, bank fraud and sanctions violations over its Iran business, but acquitted it of racketeering; sentencing is set for September 2027 and Huawei plans to appeal.",
-      "category": "tech",
-      "highlight": true,
-      "coverage": 8,
-      "why": "Covered by 8 outlets",
-      "context": "US prosecutors charged Huawei in 2019, after its finance chief Meng Wanzhou was arrested in Canada in late 2018; she was held for three years before a deal let her return to China. The US also blacklisted Huawei in 2019, cutting its access to American technology, and the trial ran for more than two months.",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-      ]
-    },
-    {
-      "headline": "China investigates Shanghai party chief Chen Jining",
-      "summary": "China's anti-graft watchdog is investigating Shanghai party chief Chen Jining, 62, a politburo member seen as a near-lock for the top Standing Committee; he is the fourth politburo member probed since 2025, and analysts called it the biggest Chinese political news in years.",
+      "headline": "Fuel tanker crash sparks fire killing 31 in Cairo",
+      "summary": "A fuel tanker overturned and caught fire on Cairo's ring road in the Warraq area, killing at least 31 people, injuring 21 and burning more than two dozen vehicles; state media say a fallen high-voltage cable made the driver lose control, and the toll may rise.",
       "category": "general",
       "highlight": false,
       "coverage": 6,
-      "why": "Covered by 6 outlets",
-      "context": "Since taking power in 2012, Xi Jinping has run a sweeping anti-corruption campaign that has also removed potential rivals. Since 2025 it has reached the military's top command and three other politburo members: He Weidong, Zhang Youxia and Ma Xingrui.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZE9qTnJzRzZwNFA0T3JLRVRnNGZMdTJkSFViSzhCbjFXQjdFSlNjcGJJdDBXSElyVkVfbjZncjJ5eno4R1FEbXVRNGo1NWMwOE5XbW1XUzQxbnNmYTQ0d1EyQmpVNkk2bk5ZWjU3OTJfS0IxN1ppY1dSYnBXRTV6YmN6TU5jQXhDVXZYRmlPUGNXalhud2pOYTdBTmxWM3MxcmdUOF94QTgyc0NKekJDbmJ6Q2Y3QmhxOEtiNlBkZlMzbjJh?oc=5"
-        }
-      ],
-      "images": [
-        "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7"
-      ]
-    },
-    {
-      "headline": "Kilmar Ábrego García leaves US for Spain",
-      "summary": "Kilmar Ábrego García, the Maryland resident wrongly deported to El Salvador in March 2025, has left the US voluntarily for Spain under a deal with the government to avoid forced removal; his lawyers call it temporary until a new administration.",
-      "category": "general",
-      "highlight": false,
-      "coverage": 7,
-      "why": "Covered by 7 outlets",
-      "context": "A judge had barred his deportation to El Salvador in 2019, but in March 2025 the Trump administration sent him to the Cecot mega-prison in what it called an 'administrative error'. After a Supreme Court order he was brought back in June 2025 to face smuggling charges, which a judge later dismissed as political, while officials kept trying to deport him to African countries.",
+      "why": "Covered by 6 outlets, top of Google News World",
+      "context": "Egypt has a poor road safety record: nearly 6,000 people died on its roads last year.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+        "https://i.guim.co.uk/img/media/6812ad2841dc33db22e057b035ee4c97d0e86530/187_212_1857_1486/master/1857.jpg?width=700&quality=85&auto=format&fit=max&s=8d1f3a9e07425862cb7b3494d3c5b115"
       ]
     },
     {
-      "headline": "US prepares new tariffs on China, EU and others",
-      "summary": "The US may announce as early as Wednesday new tariffs on at least 14 trading partners, including China, the EU and Japan, with rates depending on earlier deals with Trump, following a 'Section 301' probe into overproduction abroad.",
+      "headline": "US proposes new tariffs on China, EU and 12 others",
+      "summary": "The US proposed tariffs of 20–40% on 14 trading partners, with China facing the highest rate; they need a hearing on 25 January and are unlikely to apply before February or March. Brazil called them 'unacceptable' and threatened retaliation, while China called them 'political manipulation'.",
       "category": "general",
       "highlight": false,
-      "coverage": 2,
-      "why": "Covered by BBC and AP",
-      "context": "Trump imposed sweeping 'Liberation Day' tariffs in April 2025, then struck trade deals with many partners. This year the Supreme Court ruled those tariffs illegal, and the administration launched a new investigation in March to rebuild them on another legal basis; a US-China interim trade deal expires on 10 January.",
+      "coverage": 8,
+      "why": "Covered by 8 outlets, front page of Google News",
+      "context": "Trump imposed sweeping 'Liberation Day' tariffs in April 2025 using emergency powers, but the US Supreme Court ruled them illegal. In March the White House began investigating other countries' trade practices, and the new levies rely on the trade representative's authority instead.",
       "sources": [
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalJfNUMtVmVfb2RDeFlJeVEtNHVxc09sSjVrT1RfZmRMZ3dzZDMyLUhUSVVoalctTzJTNkU2b2F6VGVJNDZfZXZ3Rkp1WUZQLWY5UUxpOE9XcTJyUVJ4Ri1nZl9MU0xRbkY2MHVBZVg5NGcyX3JlMW1ZdVlrMXRodUlhSjZaSkkwR3pVQUtOUmJGY1JIelBuaGh3?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
+      ]
+    },
+    {
+      "headline": "UK and EU publish post-Brexit reset treaties",
+      "summary": "The UK publishes treaties on food trade and emissions trading agreed with the EU last week, plus a bill to enact them; a 10-year termination clause means a side that quits would pay to rebuild border-check infrastructure. The government forecasts a 16% boost to farm exports.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets, #3 on BBC",
+      "context": "Britain left the EU in January 2020 after the 2016 referendum, and new checks hit trade. The two sides later agreed to 'reset' relations, and the deal agreed last week covers food exports, emissions trading and a youth scheme.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg"
+      ]
+    },
+    {
+      "headline": "Judges recommend dropping key Netanyahu charges",
+      "summary": "Jerusalem judges told the attorney general there is little chance of convicting Benjamin Netanyahu in the bribery case over favours for positive media coverage, doubted a second case and suggested a plea deal in the third; the caretaker PM says the trial must end 'immediately'.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Netanyahu was charged in 2019 with bribery, fraud and breach of trust in three cases, and in 2020 became Israel's first sitting PM to stand trial. Hearings were slowed by the Gaza war; he denies wrongdoing and calls it a witch-hunt.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
       ]
     }
   ],
   "interesting": [
     {
-      "headline": "China flies Pakistan's first astronaut to its space station",
-      "summary": "China's Shenzhou-24 carried two Chinese astronauts and Pakistan's Muhammad Zeeshan Ali to the Tiangong station, making him the first foreigner aboard; he will run biotech and materials science experiments during a stay of several days.",
-      "category": "science",
-      "highlight": false,
-      "coverage": 7,
-      "why": "Covered by 7 outlets",
-      "context": "Tiangong is China's own space station, completed in 2022.",
+      "headline": "SpaceX cleared to launch a million data-centre satellites",
+      "summary": "The FCC approved SpaceX's Starmind plan for up to 1 million solar-powered AI data-centre satellites, despite objections from Amazon and astronomers; deployment must start by 2033, with the first satellite planned next year.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "SpaceX already runs Starlink, with more than 10,000 internet satellites in orbit.",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNDa1I5NlZaa2hiOFJGSHJlOHkyU3QtMEl0S2lvbGNlTWhJdGd6TzA3TV9VV0p2azc3OUZWeU0zLWtZbjZ3dlc5SXAxSklBbmlOeU5GcFdhMzZWbnJPTExMWG9KcElUOUotS3BGMDJmS2xVVV95MjFiYzdFTEcwOE1DU0tRY1ZmTzFHQ2pvYmFQUVY4dmRCb2tERDZZZV9IMWpLUTA0NXFNYnlwMm1UaTJyaXE2bThCMDRza1JDZlg?oc=5"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg"
-      ]
-    },
-    {
-      "headline": "Senegal reinstated as Africa Cup of Nations champions",
-      "summary": "The Court of Arbitration for Sport unanimously restored Senegal's 2025 title, ten months after they beat Morocco 1-0 in extra time in a chaotic final but were stripped of the win for walking off in protest at a penalty; Morocco says it will appeal.",
-      "category": "sports",
-      "highlight": true,
-      "coverage": 2,
-      "why": "Covered by BBC Sport and Al Jazeera",
-      "context": "Senegal's walk-off also led football's rule-makers to allow red cards for players who leave the pitch in protest.",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
-        }
-      ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
-      ]
-    },
-    {
-      "headline": "Tidal to delete 27 million AI-generated songs",
-      "summary": "From 9 December Tidal will delete all fully AI-generated tracks, about 27 million songs or 6.3% of its catalogue, after 43% of recent uploads proved to be AI-made; music made with AI help is still allowed.",
-      "category": "ai",
-      "highlight": true,
-      "coverage": 2,
-      "why": "Covered by Ars Technica and TechCrunch",
-      "context": "Tidal is a music streaming service; 96% of the AI tracks it hosts had no plays in the past 90 days.",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
         }
       ],
       "images": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg"
       ]
     },
     {
-      "headline": "Claude and ChatGPT's biology skills wow scientists",
-      "summary": "Nature reports that new biology abilities in Claude and ChatGPT are impressing researchers and drawing comparisons with DeepMind's AlphaFold.",
-      "category": "ai",
+      "headline": "Duran Duran guitarist Andy Taylor dies at 65",
+      "summary": "Andy Taylor, who co-wrote Duran Duran hits such as Rio, Girls on Film and Save a Prayer, died at home on 23 November after a long fight with prostate cancer.",
+      "category": "culture",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Duran Duran were one of the biggest pop acts of the 1980s.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjMzV1lXWnpRMTcxdWZEQkhNRjhIdHI1TFNsQ2tnQWZ6N3F1aG1Kc1JueTlCdWJ5TmJ0ZmpnbzFTWjlWNG5TTFE5Q0FPaFFwU3RldkZPbFB4OENNc25aUTVBaHl3M0hoMkRxaEpaaGdxdTRVa1Uxa3lfWWJfb2xCS3AzejZQRFZHT1hoV0tvb1JacjFpbFVjSEk3eEFCMldHa1pNQy05ZVVueDFTYUFCazlIR3Y?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUgwd0sxUHFEbjgzZERYVTV3U3F0c3BPa3A5LVhNMmt3WDA2azVETnY4MFdSTzJINEI0cmd1cEE2V3FWaDB3UzhabzM2MFlGLWwzUndzTjlURW1uNm1NSll6dkhaVFZ2TjRUMGlxcmVYRkItRWw0N0ZUMHpaUE5SbXJFcFBkX0g2TExDUGtlZVVYNFlMazUxRGVOZlR3eTQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg"
+      ]
+    },
+    {
+      "headline": "DART impact left a stadium-sized crater on asteroid",
+      "summary": "First images from Europe's Hera probe show NASA's 2022 DART crash carved a crater almost as large as the 151-metre asteroid Dimorphos, which is now tumbling chaotically.",
+      "category": "science",
+      "highlight": false,
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "DART was a planetary defence test; the crash shortened Dimorphos's orbit around a larger asteroid by about 33 minutes.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
+      ]
+    },
+    {
+      "headline": "EA brings back John Motson with AI in FC 27",
+      "summary": "EA Sports FC 27 adds the voice of commentator John Motson, who died in 2023, built from old recordings and generative AI with his family's paid consent; it goes live today.",
+      "category": "gaming",
       "highlight": true,
       "coverage": 5,
       "why": "Covered by 5 outlets",
-      "context": "AlphaFold is DeepMind's protein-structure AI that won a share of the 2024 Nobel Prize in chemistry.",
+      "context": "Motson was the series' first commentator, from FIFA 96 to FIFA 2005.",
       "sources": [
         {
-          "name": "Nature",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56M3ctd1hnemNzRWR2dGpselpLc2hQZ19mdWVuYS1vUkZtR0VPNFRfYjJjaHktZTBzalFkYzR1UHk4akd1NHNPX1lLZEV3Q2JqLTZIRk9xQ1BjOUhpTEI0?oc=5"
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzI4Y0htalRiNHMwZTZfQzFEUnF4cGZlN19wNExYdk9HRHlsTmlvZDRuSkYwR3NQamdNbnBhaXY3cGVVNVF6VldqdzdZWUVFWlRTRmVhSFVfb19rLUstRUI0MHUxQ1JkWTFLaFUtbkE1ano0X0dVcUFJbHZ3VlJYYVJYZnRuRWlfSEE?oc=5"
         }
       ],
-      "images": []
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg"
+      ]
     }
   ],
   "events": [
     {
-      "title": "„Kopa. Trečia dalis“ – išankstinė premjera",
-      "when": "Šią savaitę",
-      "where": "Kino teatras „Pasaka“",
-      "scope": "vilnius",
-      "sources": [
-        {
-          "name": "Pasaka",
-          "url": "https://www.pasaka.lt/repertuaras"
-        }
-      ]
-    },
-    {
-      "title": "90's Disco Show: 2 Unlimited, Snap!, Jenny iš Ace of Base, DJ Sash!",
+      "title": "90's DISCO SHOW: 2 Unlimited, SNAP!, DJ Sash! ir kiti",
       "when": "Penktadienį, lapkričio 27 d., 19:00",
       "where": "Arena Vilnius",
       "scope": "vilnius",
@@ -316,7 +321,7 @@
       ]
     },
     {
-      "title": "FUME | MATTER LIVE: simfoninis orkestras ir elektronika",
+      "title": "FUME | MATTER LIVE simfoniniam orkestrui ir elektronikai",
       "when": "Šeštadienį, lapkričio 28 d., 19:30",
       "where": "LVSO koncertų salė",
       "scope": "vilnius",
@@ -328,42 +333,62 @@
       ]
     },
     {
-      "title": "Spain's snap general election, with the far right possibly entering government",
-      "when": "Sunday, 29 November",
+      "title": "„Kopa. Trečia dalis“ – premjera",
+      "when": "Šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "EU leaders' summit on the long-term EU budget",
+      "when": "Thursday–Friday",
+      "where": "Brussels",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/briuselyje-viesintis-gitanas-nauseda-su-es-lyderiais-prades-derybas-del-bendrijos-biudzeto-56-2814658?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ]
+    },
+    {
+      "title": "Macy's Thanksgiving Day Parade, postponed by storms",
+      "when": "Saturday",
+      "where": "New York",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Spain's snap general election",
+      "when": "Sunday",
       "where": "Spain",
       "scope": "global",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right"
-        },
-        {
-          "name": "POLITICO.eu",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWNuMlhMa3JUbFo5blNmaHZESlJLR2lZU0FGTTlUN3NXeWYxYTBsNW0wWmRFNDFrR3NhUkZYLUI1ajgyRXNlby1wbl9kN3k2NXIxMlA0NnZpQnRZSEk2c2Q4cE5YNXVxYXhsbFRqUXEyTWFRSW45eDN0RG84RzEwNXY2STJ6ZkVwSUJ1OWt4d3ZIdmNqWjctNVVR?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "US Army detonates nearly 10,000 pounds of unstable lead azide",
-      "when": "Today, about 9:00 CST",
-      "where": "Middletown, Iowa",
-      "scope": "global",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhUQ2g4MktLbDJLbVNZT3RFbXQ4NFZtcUJmVTZLb0lMYXV1dDZ6V0tfWVZxUlBnSkhPYTBtNWo3Q2ZzcEJRSWJZTmlqSFR5UnN3RVd2VXo5VTBPRmU3TXVTWENBNWpDV0lkRVdVVVlONUVlRkx2UTN2dDhOQUhja21BWWlXMjFzTEJmcHFFRXRmbHJ0ZDU2QXh3V2IzZw?oc=5"
+          "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast"
         }
       ]
     }
@@ -372,65 +397,80 @@
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine war",
-      "update": "Leaked Russian statistics analysed by the BBC show at least 490,334 Russian soldiers have died, with the war causing 65% of deaths among Russians aged 18-24 in 2025; Putin called retaliation 'inevitable' after Ukraine hit Russian oil plants.",
-      "context": "Russia launched its full-scale invasion of Ukraine in February 2022, after seizing Crimea in 2014. Ukraine pushed Russian troops back from Kyiv and later retook Kharkiv and Kherson regions, but the front has since become a grinding war of attrition. Repeated US-led efforts at peace talks have not produced a deal.",
+      "update": "Russian ballistic missiles hit a shopping centre in Kyiv, injuring seven, after Ukraine said it damaged three MiG-31s and two Su-34s at Savasleyka airfield; Trump and NATO's Rutte urged Russia not to widen the war.",
+      "context": "Russia launched its full-scale invasion of Ukraine in February 2022 after annexing Crimea in 2014. Kyiv repelled the push on the capital, then fighting settled into a long war of attrition in the east, with both sides increasingly striking deep behind the lines with drones and missiles.",
       "sources": [
         {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/kyjive-per-rusijos-balistiniu-raketu-ataka-smogta-prekybos-centrui-57-2814692?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5"
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss"
         }
       ],
       "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
       ]
     },
     {
       "id": "nvidia-ceo-affair",
       "title": "Nvidia CEO's affair with alleged Chinese spy",
-      "update": "At his first all-hands since returning, Jensen Huang apologised to staff, said he is in therapy and called claims Trump got him rehired 'completely untrue'; Nvidia shares fell 7% as the attorney general dodged questions, and Huang testifies to Congress on 1 December.",
-      "context": "Nvidia's founder Jensen Huang resigned as CEO on 12 November after reports of affairs, including with an executive allegedly linked to Chinese intelligence. On 23 November the board reinstated him, with the White House saying Trump was 'totally involved', and the US blacklisted chip firm Megaspeed.",
+      "update": "Hegseth and Pentagon officials floated using a wartime law to reappoint Jensen Huang, and S&P said it may cut Nvidia's credit rating from AA to AA- over governance and 'key man' risks.",
+      "context": "This month Nvidia's founder Jensen Huang was pushed out after his affair with Alice Huang, an executive with alleged ties to Chinese intelligence, came to light. Within two weeks he returned as CEO with White House backing, and investigators are now asking what Nvidia knew about chips diverted via Megaspeed.",
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5"
         }
       ],
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-      ]
+      "images": []
     },
     {
       "id": "saudi-houthi-fighting",
       "title": "Saudi Arabia-Houthi fighting",
-      "update": "Yemen's Houthis struck at Riyadh's tallest tower for a second time and threatened Jeddah and other Red Sea ports, while the Saudi-led coalition hit Hodeidah port.",
-      "context": "Yemen's civil war began in 2014 when the Iran-backed Houthis seized the capital Sanaa. A Saudi-led coalition intervened in 2015, and after years of fighting a truce held from 2022. Fighting between the Houthis and Saudi Arabia has flared again alongside the wider war with Iran.",
+      "update": "Houthi fighters are encircling Aden, the government's temporary capital, about 80 km to its north, while a blast hit Sanaa after air strikes and missiles were intercepted over Riyadh.",
+      "context": "Yemen's Houthis seized Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to back the government, which moved to Aden. In September the Houthis swept aside government forces, and this autumn they have struck Riyadh while the coalition hit Houthi ports.",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
         },
         {
-          "name": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
         }
       ],
-      "images": []
+      "images": [
+        "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=373476ac2bda7b8b1ace00c1974e3149"
+      ]
+    },
+    {
+      "id": "fridge-cyber-attacks",
+      "title": "Cyber-attacks on European refrigeration systems",
+      "update": "French intelligence blamed an Iranian Revolutionary Guards hacking unit, Shahid Kaveh (CyberAv3ngers), for heating freezers in hundreds of French supermarkets; similar attacks hit 10 other countries this month.",
+      "context": "In October hackers cranked up temperatures in refrigeration systems at hundreds of French supermarkets, destroying millions of euros of food, and attacks spread to Sweden and elsewhere in November.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+        }
+      ],
+      "images": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg"
+      ]
     }
   ],
   "quiet_ongoing": [
@@ -438,15 +478,13 @@
     "Protests across France and Europe",
     "Israeli operation in the West Bank",
     "Sudan civil war",
-    "Cyber-attacks on European refrigeration systems",
     "Hoax bomb threats across Europe"
   ],
   "stats": {
-    "items_read": 563,
+    "items_read": 588,
     "feeds": 31,
     "feed_problems": [
-      "Lrytas: HTTPError: HTTP Error 403: Forbidden",
-      "Google News Sports: HTTPError: HTTP Error 429: Too Many Requests"
+      "Lrytas: HTTPError: HTTP Error 403: Forbidden"
     ]
   }
 }
