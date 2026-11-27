@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T07:04:01+00:00",
+  "weather": {
+    "min": -4,
+    "max": 1,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 10,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje -4…1 °C, debesuota."
+  },
+  "fact": {
+    "text": "A newly sold Manhattan warehouse once needed seven months just to thaw out before anyone could use it.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Merchants_Refrigerating_Company_Warehouse"
+      }
+    ]
+  },
+  "lead_section": "lithuania",
+  "widget_headline": "Biudžetas pataisytas",
+  "heads_up": [
+    "Per Juodąjį penktadienį Vilniuje tikėtinos spūstys – ketvirtadienį užsikišo per 20 gatvių.",
+    "Vilniuje laikinai atidaromas Tarandės tunelis."
+  ],
+  "lithuania": [
+    {
+      "headline": "Vyriausybė pritarė patobulintam 2027 m. biudžeto projektui",
+      "summary": "Vyriausybė pritarė pataisytam 2027 m. biudžeto projektui; premjeras M. Sinkevičius sako, kad papildomų lėšų algoms streikuojantiems mokytojams ir pareigūnams nebus, o dalis Šeimos paketo priemonių atidedama.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Rudenį pateiktas kitų metų biudžetas numato didelį deficitą, kurį lemia išaugusios gynybos išlaidos. Europos Komisija ragino deficitą mažinti, bet šią savaitę nusprendė kol kas netaikyti Lietuvai perviršinio deficito procedūros. Tuo pat metu streikuojantys mokytojai ir statutiniai pareigūnai reikalauja didesnių algų, todėl Vyriausybė biudžetą taisė.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3126412/premjeras-apie-raginimus-mazinti-biudzeto-deficita-ir-kelti-algas-neissprendziama-lygtis"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNnYlFUVG1KY24zWm10cTFLU0s2c0pfRHlCdkxqakVkWUFJWl9aS0M5aDJrR1JfdTU0SEpCZzdpMk5udDJ0V1VyOU5Hd1RJSk9qSkVPdlQ4Xy1zcWd1eFg3cFFTSm1RV3J0M0p1Y0lJbU16UDFxQW5SUFU3Mmt4UTBPSkQwZ1lQTXpCZC16eFdWX1ZQRzk5N2xwVGxablRySVEyRGVBa2tXZw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/07/17/2442463-12981-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Ginčas dėl Taivaniečių atstovybės pavadinimo nerimsta",
+      "summary": "Prezidentas G. Nausėda sako, kad 5 mln. eurų Taivano investicijų per kelerius metus – per mažai, o pavadinimą galima keisti susitarus arba vienašališkai; Taivanas keisti jo neketina, o Seimo URK pirmininkas R. Motuzas tikina, kad atstovybės uždaryti neplanuojama.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "2021 m. Vilniuje atidarius atstovybę su žodžiu „Taivaniečių“, o ne „Taipėjaus“, Kinija sumažino diplomatinių santykių lygį iki laikinojo reikalų patikėtinio ir įvedė ekonomines sankcijas. Dabartinė Vyriausybė siekia santykius su Pekinu normalizuoti iki Lietuvos pirmininkavimo ES Tarybai sausį, o pavadinimo pakeitimas laikomas pagrindine sąlyga. Buvusi premjerė I. Šimonytė tai vadina pernelyg ankstyvu nuolaidžiavimu Pekinui.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3126137/nauseda-investicijos-is-taivano-yra-aiskiai-per-mazos-lukesciai-buvo-kitokie"
+        },
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3126108/lithuanian-mp-assures-there-s-no-plan-to-close-down-taiwanese-office"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/26/2549329-795617-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Viršpelnio mokestis degalų gamintojams papildytų Gynybos fondą",
+      "summary": "Premjeras M. Sinkevičius sako, kad mokestis greičiausiai bus skaičiuojamas nuo apyvartos ir, motyvuojant gynybos poreikiais, galėtų įsigalioti greičiau nei įprastai po pusmečio; jis palies ne tik „Orlen Lietuva“.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Nauji mokesčiai Lietuvoje paprastai įsigalioja ne anksčiau kaip po šešių mėnesių. Nuo sausio dėl CO2 dedamosios brangs degalai: benzino akcizas litrui augs 2,4 cento, dyzelino – 7,74 cento.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3126360/m-sinkevicius-virspelnio-mokestis-gynybos-fonda-papildytu-greiciau-nei-po-pusmecio"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcC1qX3NsYm53b1RRRnFGZUhkcFlMem5SMXNlZ3A5Q1RKNTNzNlJ3LXBDeW1QVTdpZWVqOFhsbkp1TWpDYURYTzJ6RUVENHNacTgwX2NuZjlXT1VJRzd1RzBVblVsTUdNa3NJQXNmdkxhc1h3c2VSc2hLQktfeHd2WVZTanZ4a1NzZWJpcWtWd1pLQ01XNllCZFNQX1k5OXVWenJqVEk1Mkw5eEl1aF95bmtlRTBhSjk0QmlKZ2lGX0FRdTNRYnFUZUNWSTQ?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/19/2516411-740442-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "New Zealand election ends in deadlock",
+      "summary": "After special votes were counted, PM Christopher Luxon's National-led coalition has 65 of 130 seats, one short of a majority, so it needs the new centrist Opportunity party (7 seats) or faces a fresh election; recount requests are due by 3 December.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "New Zealand voted on 7 November, and preliminary results gave the ruling coalition a slim two-seat majority. Special votes cast from overseas, which usually lean left, cost National two seats. Luxon had earlier ruled out working with Opportunity but has since softened his stance.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+        "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2289119a91f82e1e66025988d92e41f9"
+      ]
+    },
+    {
+      "headline": "EU leaders fail to agree long-term budget",
+      "summary": "After more than 12 hours of talks in Brussels, EU leaders could not agree the 2028–2034 budget or a €45bn loan for Ukraine for 2027, which Slovakia, Hungary and Czechia want to opt out of; Bulgaria said it would join the non-military part.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 4,
+      "why": "Covered by 4 outlets",
+      "context": "The EU's next seven-year budget must be agreed unanimously, and leaders aim to finish by the end of the year. Germany's Merz has threatened to veto it unless all 27 back the Ukraine loan, and Berlin wants future Ukraine funding protected from a possible Marine Le Pen win in France next year.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/es-lyderiams-kol-kas-nepavyko-pasiekti-susitarimo-del-biudzeto-57-2815704?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/55402a74845f3146fdf5477c09fca1aa110ba6ed/86_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=eb1298aaa07406dfce025ffc910d7bef"
+      ]
+    },
+    {
+      "headline": "Thanksgiving storm leaves nearly a million without power in US",
+      "summary": "Over 980,000 households lost power, about 460 flights were cancelled and 2,500 delayed, and New Jersey and New York declared emergencies; the Macy's parade was postponed to Saturday, a first in its 100-year history.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "More than 80 million Americans were expected to travel over the Thanksgiving holiday week.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXhYaUN4QWFnVk1TWERzVlJGenZmeHRLNElybDFJNk9qY3kxdHZYZWYxWmF2eTdCdUo4emlHWVdpRUhQbGlFM3BrNzl2dGxvRW1jd2syUTlJYUhYaXl1bGE1Z2tvWml4R3Z5Z0JtWFZVZnhQcVZvZEx2c09Oeld4UG95aWJIcjlGUnVEOWthZ3duanJtWmF6Ng?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg"
+      ]
+    },
+    {
+      "headline": "Spain's Hernández de Cos to lead the ECB",
+      "summary": "Former Bank of Spain governor Pablo Hernández de Cos beat the Dutch Klaas Knot and will be the first Spaniard to lead the ECB when Christine Lagarde steps down in February, with eurozone inflation at 4%.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 2,
+      "why": "Covered by 2 outlets",
+      "context": "The ECB sets interest rates for the 21 eurozone countries, including Lithuania; leaders will formally appoint him in December.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORV9jQzQ1ZVNiVjB4bVUyT0FMS1JPeDZ1dk1QcWt3bDR2bnZDQjFLMWtjLWtQQUYyX2lIVUxNYjN0V3d1bmdlVEtyaXNOdWhVMWU4R18wcThUSHphd3NyVVNQOGZwVTFMUXpQdUZzOG1FUUlZWWRlaDhTbmstbTd4M0dEaGl0WXlFemZHTXVPYl9iSDFGbDNWb1VNVDZfVXFUTjdRMFd3?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=700&quality=85&auto=format&fit=max&s=7515379fe2e18ffa424c5d66501d820f"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Rockstar staff vote against union recognition",
+      "summary": "With 93% of staff voting, 75% rejected recognising the IWGB-backed Rockstar Game Workers Union, which would have been by far the UK games industry's largest; the union says it will keep organising.",
+      "category": "gaming",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Rockstar fired 31 union members last year, a case still awaiting a UK employment tribunal ruling.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/"
+        }
+      ],
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
+    },
+    {
+      "headline": "'Hunger Games' prequel heads for $85m Thanksgiving weekend",
+      "summary": "Lionsgate's 'Sunrise on the Reaping' is tracking about $85m over five days, taking it to roughly $233m domestically after record first Monday and Tuesday; Disney's 'Hexed' opened with $7.6m.",
+      "category": "film",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "It is the sixth Hunger Games film, a prequel about a young Haymitch Abernathy.",
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Eagles stun Cowboys with 21-point comeback",
+      "summary": "Philadelphia came back from 21 points down to beat Dallas on Thanksgiving, with Jake Elliott kicking the winning field goal in the final two seconds.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQXZUVWY5YVpaMnJ5NHEzS2ZneWI4OXVMbGRZRmlGc3dyVl9mRV9NNHZSUGRYcHBPU2xseTV5TXRDQW1kUVZ6WFk0NzZ4NmNEWmUwMzBOeHBFVTltS3lkellzMkY3bS1yOGxBb2RSYXRLN002ZzhDSElOY01CTnFLZkFxOHFkUjJFSU5CR21oVlRzZGFUcHQtU3BsNUJjbUdZNHdFZkJYcnFYUHJyRE9UR2pGYWozTVdVNlJudUFCcmtkZG1DZ3dtWG03R2hHYlAxNjBnd2tBZWJWdUM1Wjg2ZEVDNDl1TkFGS3JPY2hWZXJFNEpKaW1QN3hnbnYyMWZBNHFob2VKeWQyUU0?oc=5"
+        },
+        {
+          "name": "Inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd3pBV2g4QndCME5uMjhNTUpkYm8wTm1SWXRqUmJ0Y1VILTVYZm9KYktPLVlzcDNCbkhyYlZGcVVRS25Ua3dESHE2SDZzdTlEUURFdzlZeEZoM0FVZE9oXy1KbGFEalhJVzJZZFIya0FnVnlIS2g4V1pzbXAtRjRvNHlSQ203VGpUd0VvcEIzek1BWVRBczhteGw0bGtCZHZDMFFHbENNUmpaTWhkdUE?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "SAP weighs at least 10,000 job cuts in AI overhaul",
+      "summary": "German software giant SAP is considering cutting at least 10,000 jobs as part of a restructuring around AI, Bloomberg reports.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 1,
+      "why": "Reported by Reuters",
+      "context": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "events": [
+    {
+      "title": "90's Disco Show: 2 Unlimited, SNAP!, DJ Sash! ir kiti",
+      "when": "Penktadienį, lapkričio 27 d., 19:00",
+      "where": "Arena Vilnius",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "FUME | MATTER LIVE: simfoninis orkestras ir elektronika",
+      "when": "Šeštadienį, lapkričio 28 d., 19:30",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "„Kopa. Trečia dalis“ – premjera",
+      "when": "Rodoma šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Spain's snap general election",
+      "when": "Sunday, 29 November",
+      "where": "Spain",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRWOV9leVJ1NUx5LWV3T0kxMjVidmV2cEY1UmJnRFBJRmFlWlVPLW9HZUEzZnVEU01PSXlHTTJucGdxN0hLUzZrd2YtaEJxb2RJS1JySXlVNFNYdElMZVo4MXRCeHpTRURxN2ZaVngyQUduUW81YTFDLXloV2QtQ3NEOUdkVGpYd0F4S0VrcExPdlB0RnRLUVNRVERwQjg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan's local elections",
+      "when": "Saturday, 28 November",
+      "where": "Taiwan",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Zelensky warned Russia is preparing a new mass strike in the coming days and told the BBC the US is not pushing Russia hard enough; Trump said he had urged Putin to 'pull back' in Europe, while Ukraine hit a Krasnodar refinery.",
+      "context": "It began in February 2022, when Russia launched a full-scale invasion of Ukraine. After early Russian retreats, the front largely froze while both sides traded missile and drone strikes on cities and energy sites. In 2025 the Trump administration began pushing peace talks, which have so far brought no breakthrough.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran war",
+      "update": "Two Italian Rheinmetall technicians servicing Kuwait's air defences were killed by a drone strike Kuwait and Italy blame on Iran; Tehran denies it and calls the attack 'suspicious'.",
+      "context": "The war began in late February 2026, when the US and Israel attacked Iran. Iran retaliated with missiles and drones on Israel and on Gulf states hosting US forces. Negotiations have since stalled amid repeated exchanges of fire.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzFiWi01aU5HaTlZaHd0THlxMFB6RTdtR1hpUGh1RHVuclpWOGxwNVJEdXFDXzN1LWpBOUpuWmEzR3c5VGp0SGYwajFLYm90eU9OM29VVkFWWlUtQWh4eUZiUHJQN2s4STBELUZfNVhOZHVfRVltRjZsVDloTFdwVUlTU0QyVmFBTHVfQzBBYV80aXhxREh0MzVydXcydw?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "Houthis struck Saudi oil infrastructure as Riyadh stepped up strikes on Yemen; BBC analysis counts 274 Houthi attacks on Saudi Arabia since July.",
+      "context": "Yemen's civil war began more than a decade ago, when the Iran-backed Houthis seized much of the north, and Saudi Arabia backed the government against them. An informal ceasefire held for years but collapsed in July 2026, and the Houthis have since hit Saudi cities, including a strike on Riyadh airport in October that killed 13.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg"
+      ]
+    },
+    {
+      "id": "nvidia-ceo-affair",
+      "title": "Nvidia CEO's affair with alleged Chinese spy",
+      "update": "Trump said Jensen Huang poses no security risk, while Nvidia told partners such as Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia to check US export compliance.",
+      "context": "Earlier this month it emerged that Nvidia CEO Jensen Huang had an affair with Alice Huang, a former executive alleged, without proof, to be a Chinese spy. He broke the company's code of conduct, and his return as CEO rattled markets and prompted S&P to consider a downgrade.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-tikina-kad-nvidia-vadovas-jensenas-huangas-nekelia-gresmes-saugumui-57-2815712?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Cyber-attacks on European refrigeration systems",
+    "Protests across France and Europe",
+    "Israeli operation in the West Bank",
+    "Sudan civil war",
+    "Hoax bomb threats across Europe"
+  ],
+  "stats": {
+    "items_read": 577,
+    "feeds": 31,
+    "feed_problems": [
+      "Lrytas: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  }
+}
