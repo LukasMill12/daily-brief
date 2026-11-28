@@ -1,0 +1,436 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T07:03:56+00:00",
+  "weather": {
+    "min": -4,
+    "max": -2,
+    "precipitation_mm": 0.0,
+    "wind_max_kmh": 8,
+    "code": 3,
+    "rain_from": null,
+    "text": "Vilniuje -4…-2 °C, debesuota."
+  },
+  "fact": {
+    "text": "A Japanese newspaper once printed editions on sheets made of kelp, so readers could technically eat the news.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/The_Hokkaido_Shimbun"
+      }
+    ]
+  },
+  "lead_section": "world",
+  "widget_headline": "Taiwan votes locally",
+  "heads_up": [
+    "Šį savaitgalį Vilniuje prasideda Kalėdų sezonas: ribojamas eismas, kursuos nemokamas transportas.",
+    "Iš prekybos atšaukiama beveik 9 tonos kiaulienos, ją įsigijusiems patariama nevartoti."
+  ],
+  "lithuania": [
+    {
+      "headline": "Mokytojų streikas tęsiasi, derybos įstrigo",
+      "summary": "Derybos su švietimo ministre Raminta Popoviene nedavė rezultato, todėl neterminuotas mokytojų streikas tęsiasi; ministerija žadėjo pateikti konkretų pasiūlymą dėl algų, bet neaišku kada, o profsąjunga rengia mitingą.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Apie tai rašė 6 portalai",
+      "context": "Profsąjunga reikalauja bent 10 proc. didinti mokytojų atlyginimų koeficientus ir priartinti vidutinį jų atlyginimą prie 130 proc. šalies vidutinio darbo užmokesčio, kaip numatyta nacionaliniame švietimo susitarime. Vyriausybė siūlo kitąmet algas didinti 7,56 proc. (92–152 eurais į rankas) ir tam skiria 245 mln. eurų. Antradienį po susitikimo su premjeru Mindaugu Sinkevičiumi atrodė, kad kompromisas arti, tačiau penktadienį derybos vėl įstrigo.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3127258/lithuanian-teachers-strike-to-continue-as-union-says-talks-with-minister-stall"
+        },
+        {
+          "name": "15min.lt",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0VocHA1UG5NZzNEUnlWOW02STVjUmx0bXJIcl9STlNld3Q3SmlzTzU3SGNob3BvcENZb0tMX0RmTUtCZjdTbm9Rb2ZDYVlqWXBVLTBhQTE0b0ppZ1hHXy14VXp2dnIyVzV4SGY0a0VuaTE0YjFrYXI2UkhmSjRGQlBNMnFFSzRRaEdnS2hvZVhCcUh2RVJpNzJyeTVXbFEwd1lFaVo0eHZlQVhYMG1JdE5nd3hZZFNKZU5FYXNFV0VCZ080NUFuWXN0RFpRTDV3Nno5N3Q3R0VCdzc4?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/24/2547796-647413-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Lietuva pasirašė 1,3 mlrd. eurų sutartį dėl 100 CV90",
+      "summary": "Stokholme pasirašyta sutartis dėl 100 švediškų pėstininkų kovos mašinų CV90; daugiau nei pusė jų turėtų atvykti iki 2030 m., bet gamintojas perspėja, kad viso užsakymo iki tol pristatyti nepavyks.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Mašinos reikalingos kuriamai Lietuvos kariuomenės divizijai; jas kartu perka penkios NATO šalys, bendro projekto vertė viršija 7 mlrd. eurų.",
+      "sources": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3127306/kaunas-pasirase-sutarti-del-cv90-kovos-masinu-isigijimo"
+        },
+        {
+          "name": "Verslo žinios",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNU9zYkVDZlFSTEZwdTdKRExpa0xGMmpjODFJV2RZYXZpS3RtLXcyVEI0LS1jZHNpVWc4d09kOHNUcEZfSFNRQ1lfOEFSQU0tOUxSMEFtUVlfNTAwNU1CTWt6bk9ObVV5OGdqOXJ0NzdzOFZ6Q1dkSzZZZzlMSjRyXzh0UnVFVjJEcnJpenJSSGtva1RCZlNCOUFTZWJSTjlSdndkZ05Gb1ZsdnJsUG5taEdibnpIdGNzU3UzX245RWMyRkRZaHVaM2l5ZDlxRFFRZFVBWDJVYw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/19/2543331-779552-1287x836.jpg"
+      ]
+    },
+    {
+      "headline": "Lietuvos paštas pasiūlė 115 mln. eurų už „Omnivą“",
+      "summary": "Valstybinis Lietuvos paštas pasiūlė didžiausią kainą – 115 mln. eurų – už visas Estijos valstybinės logistikos grupės „Omniva“ akcijas; sandoriui dar reikės reguliuotojų leidimų.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Apie tai rašė 5 portalai",
+      "context": "Estijos vyriausybė „Omnivą“ nusprendė privatizuoti balandį; susisiekimo ministras Juras Taminskas sako, kad tikslas – tapti didžiausiu Baltijos ir Šiaurės šalių rinkos žaidėju.",
+      "sources": [
+        {
+          "name": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3127320/lithuanian-post-makes-eur115-million-bid-for-estonia-s-omniva"
+        },
+        {
+          "name": "LRT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFVWeUFqRGx6OUZhZ0YtYjFCNEZhdjRoalA0ZnIyc1Fnc1NvdVJuN3I2Y3dkNXBQekJxakNPa29kVURfYWhtQlVDam1JX0hmeG9wZG52TzAxTHV5Q0xxU3dzcGNpb3BFQjVCalRVU2paNUVIY1JOVzJGS1p2TTk0U2NWY04tSTJoenBERnNScVoxaVA3RDlqVG51bnEwWFp2YUpGZXRmU1BJWFMwSnRfTEtQUFhKczE5c25tQUJuLVdnZw?oc=5"
+        },
+        {
+          "name": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ284RkpQQksycVBNbTIySC03bWFXeUpuMmMzeW16RkhXcTlXT3FIYjNoMFhGOEYwbk9fRVpQMWt0cmcxWjZoQm1lUFhOX3ZQSmNIbUdSQ3AzRGdCT0ZRNkxrMjByTjJiYS1KTzl6UG9UWEFaaWZzUFJmTFVWd0V0VDhWRmVBMHo5aFVaaUFxcjBFR0M0cXV1dTdyM2V0ZFI2bHNxVk1YakdwTl9vTmhsUkpBTEhOa3pfNElGYw?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2021/08/02/1023595-304946-1287x836.jpg"
+      ]
+    }
+  ],
+  "world": [
+    {
+      "headline": "Taiwan votes in local elections under Chinese pressure",
+      "summary": "About 11,000 local posts are at stake, and the key race is Taipei, where DPP challenger Puma Shen, wanted by Chinese police for 'separatism', takes on KMT mayor Chiang Wan-an; Taiwan counted about 33 Chinese warplane sorties as voting began.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Taiwan has governed itself since the Chinese civil war ended in 1949, but Beijing claims it and has not ruled out force. The ruling DPP rejects Beijing's claim, while the opposition KMT favours closer ties; its chair met Xi Jinping this year. These local elections, held every four years, are a test for the DPP, which has not held Taipei for nearly three decades.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e39b2fbe826a4bbdf674e9714a48cde8"
+      ]
+    },
+    {
+      "headline": "Canada's top court upholds Quebec religious symbols ban",
+      "summary": "In a 6-1 ruling, the Supreme Court found Quebec could shield Bill 21, which bars teachers, police, judges and other public workers from wearing a hijab, turban, kippah or cross at work, though it struck down the face-covering ban for elected officials.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 7,
+      "why": "Covered by 7 outlets",
+      "context": "Quebec passed Bill 21 in 2019 using the constitution's 'notwithstanding clause', a 1980s compromise that lets governments override some charter rights. Muslim, Sikh and Catholic teachers challenged it, and other provinces watched closely because the case tested the limits of that clause.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+        },
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGRLLU9ZUjNWTkMtTENvQm81MDNGdFltZzJFSHRfV2pwbndVX2tsMzlfXzVlMjBNNzJYclg1LVFyczVINWZfSjZXa1RWbF9jRjA2cEg3VU82YkViZmluU0NFd3NSeVpuZ0ZJUnpqcWtvTzZCSGtzVm0wOTh2VXdBWGZnc0IxNVc4TUx1ZjhqXy1yTE8xNWU4UXFBd0dYSFdDRTdhLVBlb21ZMVZkenY3SEF2QjZ3MllOQVNmU2xLSGVqcDRr0gHKAUFVX3lxTE5lMVBaaFhoLUhDRHdIQ1kyeUtQRFc2Z2UwUGphcENFVmp5azhRMXd6ZVNlem9qanlhRWR4cm9ETFN5UVNtblZZVHVaTThOYzIzczhYWXljUS1aMVMxT2xzWVFqNWlpOHBtckV1dktJNWdHZ2h0bXd5UndVN2RwcUk2Sms5NVYxenJaanQwNlJIUEk4cG1RMmxmRWZMeDF0dk5iSC1JLVpCLUFhMGY5Q09aRmdXZDNMWFd6UlFINVlRZGpYdW1Uc1IwVmc?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+      ]
+    },
+    {
+      "headline": "Russian flotilla bound for Libya turns back",
+      "summary": "A Russian military flotilla heading to Libya turned around after one of its warships was sunk on 22 November, sources told Reuters.",
+      "category": "general",
+      "highlight": false,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "Russia has long used Libya and Syria as footholds for its navy and military in the Mediterranean and Africa.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "headline": "Cyber incident takes UK benefits services offline",
+      "summary": "The Department for Work and Pensions took pension, universal credit and Pip online services down as a 'precaution'; Downing Street says there is no evidence data was lost, but some claimants say payments have not arrived.",
+      "category": "tech",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Top story on BBC",
+      "context": "The DWP runs Britain's welfare and state pension system, paying benefits to millions of people.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg"
+      ]
+    }
+  ],
+  "interesting": [
+    {
+      "headline": "Marc Márquez retires after eighth MotoGP title",
+      "summary": "The 33-year-old Spaniard will quit after Sunday's Valencia finale, days after a comeback from 102 points behind won him a record-equalling eighth premier-class title; he announced it with Love Actually-style flash cards.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 6,
+      "why": "Covered by 6 outlets",
+      "context": "Márquez's eight titles put him level with Giacomo Agostini and one ahead of Valentino Rossi.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5"
+        },
+        {
+          "name": "The Race",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkMDNoY0ZqZFNzWEM5YThaaHJydEdkSkRXdWFRNVRDSXJOaTRtRFhVaEFMSGRzX25iQ2JRQWYxbWJhRlNUeDI0VXhjN1V4Mnk0UlhvLXl4U0pId1d1X0ZWWmJZN05CVjZhVzBJRFBxRTlYN0pwUWFSQ0pR?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0d31/live/04558090-ea58-11f1-89b9-f318b11567ea.jpg"
+      ]
+    },
+    {
+      "headline": "GTA VI's record launch empties PS5 shelves",
+      "summary": "Grand Theft Auto VI took a record $3.8bn in retail sales on its first full day, the biggest entertainment launch ever, and has swept PlayStation 5 consoles off shelves worldwide.",
+      "category": "gaming",
+      "highlight": true,
+      "coverage": 5,
+      "why": "Covered by 5 outlets",
+      "context": "There is no official PC version yet, and fans are already using AI tools and leaked files to try to build one.",
+      "sources": [
+        {
+          "name": "BBC Tech",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFBJSlcySmFjbUdaNDJpYXUtX1N1ZXNtSFFWaEFpUkdIUms0ME1QSm8wV2Z0YWRoM0lYb2hITnpuTXMyMDVXVDVRQVd2RVhlYmljdWRGTVlpNTUzZmlGZHF6V2RVZ3E3ZkM0aV9vUldabDJJcDRxZ2dHcWRIVThpUG9KekI0bXFqWlpLVUNnVU8xaS1QYWtaSFRQRDdzVFFGTmRzYXh6Wl9NaHRpNFE?oc=5"
+        }
+      ],
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg"
+      ]
+    },
+    {
+      "headline": "OpenAI countersues Apple over trade secrets",
+      "summary": "OpenAI's counterclaims say Apple stole its trade secrets through a rehired engineer and pressured suppliers not to build OpenAI devices; Apple calls it a distraction from its own July lawsuit over poached staff.",
+      "category": "ai",
+      "highlight": true,
+      "coverage": 3,
+      "why": "Covered by 3 outlets",
+      "context": "OpenAI is building its own AI devices after buying io, the startup co-founded by former Apple designers.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5"
+        }
+      ],
+      "images": [
+        "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=9df20e29d49900a1a75a76db6c447047"
+      ]
+    },
+    {
+      "headline": "Lithuania beat Serbia in World Cup qualifier",
+      "summary": "Lithuania beat Serbia 97:78 in Klaipėda, led by Margiris Normantas with 24 points, keeping alive hopes of reaching the 2027 World Cup; they play Bosnia and Herzegovina away on Sunday.",
+      "category": "sports",
+      "highlight": true,
+      "coverage": 2,
+      "why": "Big win for Lithuanian basketball",
+      "context": "Lithuania are fourth in Group J, and only the top three teams qualify.",
+      "sources": [
+        {
+          "name": "LRT Sport",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3126433/klaustuku-del-rinktines-neturejes-ir-karjeros-rungtynes-suzaides-normantas-del-lietuvos"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/11/26/2550003-868835-1287x836.jpg"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "FUME | MATTER LIVE: simfoninis orkestras ir elektronika",
+      "when": "Šeštadienis, lapkričio 28 d., 19:30",
+      "where": "LVSO koncertų salė",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "bilietai.lt",
+          "url": "https://www.bilietai.lt/lit/renginiai/miestas/vilnius"
+        }
+      ]
+    },
+    {
+      "title": "„Kopa. Trečia dalis“ – išankstinė premjera",
+      "when": "Šią savaitę",
+      "where": "Kino teatras „Pasaka“",
+      "scope": "vilnius",
+      "sources": [
+        {
+          "name": "Pasaka",
+          "url": "https://www.pasaka.lt/repertuaras"
+        }
+      ]
+    },
+    {
+      "title": "Spain's general election",
+      "when": "Sunday, 29 November",
+      "where": "Spain",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHZ4TkgzX0pQREY4em9GUUgyMlFZSFdYZWtXY0hXZjNBM3B0VjRTWGYxbVpETnZ4WnJ2UmswQXV1blVkM1lqb1lMRGlKV09Iaml1bi1aQ3ZGNzRlcTcwS3F6U05PLXhScHdxeHgyQlZCQXpWM1FQTzhQTTZRcUlreENqQVpxUGU2b2NjU0pIV3Bxc1A3OFlr0gGXAUFVX3lxTE5sRWNDZUZBcVZ4T0JYSG9mUG5JTXFNeFNsb0Fib0FlSkFxZDliRHpWWktjejJLWjBfRmhibGJfazRPVmtlbGJSZFZzbS1ZRC1HaGtHOUtqZWZMc29NWXVaX1FzbWdFSE5UVk5QQVJmRndiS0l5dzNWeXFvLVhrU1RBSFRuT3N3eWpjU3lSZ2VnNm5qQktUVkU?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWJleDNqeFIxY19DeHdSdjNfMWJKYkxMMmtnTWJkZzZDYzFidEVrOXZ0Und0eTJldEx1c1llcnp6VmhSRnJWczVGOXNwbUM5RVZPbDNOUmFPaTRzbWp6YnRtTFM1Y3FxREs5WkFKaUZzeUh3d0hhci1rWlB0QlEwbFNxY1h6bEI0Mkp3NG55aXRBc2JzVmstZk5xeE0wMWg5TS1jVnE5T2U4UlBGR3Y3V0hHZzlfM3B3?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Estonia closes its border crossings with Russia",
+      "when": "From 1 December",
+      "where": "Estonia-Russia border",
+      "scope": "global",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/laikas-estijos-pasienyje-senka-narvoje-minios-zmoniu-rusijos-puseje-dar-blogiau-57-2816028?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGRvYVkyUzA3LVU1aXNTMUZNNGVyTWJsUU5oUWJJWTNhaEtIQXltdlZMSE41clhZcDNrMkRCTWM0REtrMFZoX3AzLUVSTER6NnB5VUpvVllGQUdsS1ZwQnI0MXZPNlExY3VzNEdHdlplbmVVRTM4UWVEcWJtZzJsTnFFWGM3SmtVTVNKa1NWQUdlSS1qejNVdDdkLVotMFk4ZDJBY1BVeUloMGh2aEF0aGc1YlpET3BORFVKS3hqdUg2R1JQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "us-iran-tensions",
+      "title": "US-Iran war",
+      "update": "US forces disabled the engines of a Palau-flagged commercial ship that left an Iranian port and ignored warnings to stop, as Tehran vows to break the blockade; Italy says the drone that killed two Italians in Kuwait was made in Iran.",
+      "context": "Tensions between Washington and Tehran go back to the 1979 revolution and decades of dispute over Iran's nuclear programme. They turned into open war between the US and Iran, and in July the US reinstated a naval blockade of Iranian ports, which has reportedly cost it $2bn to run. Since then strikes have spread across the Gulf, including to Kuwait.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine war",
+      "update": "Moscow's mayor said more than 460 drones flew towards the Moscow region overnight, halting airports; Ukraine also hit near the Novoshakhtinsk refinery and says it shot down a Russian jet drone with a laser for the first time.",
+      "context": "Russia annexed Crimea in 2014 and launched a full-scale invasion of Ukraine in February 2022. Ukraine pushed Russian troops back from Kyiv and in the east later that year, but the front has since largely ground to a halt. Both sides now trade long-range drone and missile strikes while the US pushes for peace talks.",
+      "sources": [
+        {
+          "name": "15min",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/meras-virs-maskvos-regiono-rusija-numuse-simtus-dronu-57-2816572?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+        }
+      ],
+      "images": [
+        "https://s1.15min.lt/static/cache/MTI4MHgsLDk5OSxvcmlnaW5hbCwsaWQ9MTA5ODk2OTQmZGF0ZT0yMDI2JTJGMTElMkYyOCwyNTM2NjA1NDI4/nikita-maykov-alamy-6b0a729901d24.jpg"
+      ]
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "Saudi Arabia-Houthi fighting",
+      "update": "A strike on the Jazan refinery in southern Saudi Arabia killed a Nepali worker and partly halted the plant; Pakistan and Turkey pledged to back Riyadh against Houthi attacks under a defence pact.",
+      "context": "Yemen's Houthi rebels seized the capital Sanaa in 2014, and in March 2015 a Saudi-led coalition intervened against them. A truce from 2022 largely held, but fighting flared again this year, with the Houthis carrying out hundreds of attacks on Saudi Arabia since July.",
+      "sources": [
+        {
+          "name": "LRT World",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3126484/per-ataka-pries-saudo-arabijos-naftos-perdirbimo-gamykla-zuvo-zmogus"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWNfVjBoUnQyN3lnTjdDVXdrSFZRaDFTYU9xQzk4ZkZtbE9nLUNxUUhJczE0aTVHRVliZ3Zlal9VanlaTWEyYmt0b2ZfcFlKV1c4SXVxLVE5SXRQaHl4bGJpcnpKWDJRWGVtZXRJOGVkMlIzR3I1TEVieldaZUNXSGdnT2ZxTXpfMkZoWWpycGZSZzRiQjhnN0dxd29Hc1lOZWpjMXppMXlDU3BhWkE?oc=5"
+        }
+      ],
+      "images": [
+        "https://www.lrt.lt/img/2026/10/08/2507114-405647-1287x836.jpg"
+      ]
+    },
+    {
+      "id": "nvidia-ceo-affair",
+      "title": "Nvidia CEO's affair with alleged Chinese spy",
+      "update": "Bloomberg found Nvidia's Blackwell AI chips in China, despite Jensen Huang's claim they were too big to smuggle, adding pressure on Trump's defence of him.",
+      "context": "It emerged that Nvidia CEO Jensen Huang had an affair with Alice Huang, a former Megaspeed executive alleged, without proof so far, to be a Chinese spy. The scandal raised questions about whether US AI chips were leaking to China; Huang returned as CEO and Trump has said he poses no security risk.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGczVmpQQzJWZ0NUNlZxSUxUUm9qVFprdTBwMFZ3S0ZGQWxvSnZHX2Y3S0VYVXJreTFOUUphdHlEQXVfZXVkZzE2cnhDZlNTb1lUTVNEQ3IxUzlZWXFlRl9IRVJYbU43eXlZbTlTQjlsaU9qdTlfV1RwNTNBay12VllJMTJIYkRtNlhFRVNzemxaaEJHeko1MkNRaVBNY2s?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0RESWZCNURwWGRtNHhIZTY0OXFScXNJYVk5TUJ2djBDWHVKNXVsZlVmRDZfUmFucEJqTUZBdkF0NkY4Y2JmQUJqZzRfazlhN0dWbnY0WTJCRXJ0X0NQTXAySXE3bGtKNnVWbWJhQ1czWGhJVk1qV1NBM01HMXE2S1J2S2VzTlBmT3VUa2pObFBGMHZzUUtRYkNsNnUzUzc5Ty16OQ?oc=5"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "quiet_ongoing": [
+    "Cyber-attacks on European refrigeration systems",
+    "Protests across France and Europe",
+    "Israeli operation in the West Bank",
+    "Sudan civil war",
+    "Hoax bomb threats across Europe"
+  ],
+  "stats": {
+    "items_read": 551,
+    "feeds": 31,
+    "feed_problems": [
+      "Lrytas: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  }
+}
